@@ -1,0 +1,100 @@
+00|他很 + adj.|ta, henne|IL EST content : l'homme au TAMBOUR (« TA ») danse avec la déesse HENNE (« HEN »).|tā hěn + adj. = il est… (很 relie sujet et adjectif)|devant un nom : 他是 + nom|他很开心。|他很开心|un tambourineur qui danse avec une déesse
+01|我们 + adj./verbe + 了|wo, meunne… leu|ON EST en retard : les oiseaux (« WOMEN ») courent, un LEURRE (« LE ») tombe de la montre.|wǒmen + état + le = on est (devenu)…|我们很… = on est très…|我们迟到了。|我们迟到了|des oiseaux qui courent en retard
+02|他有…|ta, yo|IL A un chien : l'homme au TAMBOUR crie « YO ! » à son chien.|tā yǒu + nom = il a|他没有 = il n'a pas|他有一只狗。|他有一只狗|un tambourineur et son chien
+03|他 + verbe + 了|ta… leu|IL A mangé : l'homme au TAMBOUR repose son bol, un LEURRE (« LE ») dedans.|tā + verbe + le = il a fait (accompli)|他吃过了 = il a déjà mangé|他吃了。|他吃了|un tambourineur qui repose son bol
+04|我们有…|wo, meunne, yo|ON A le temps : les oiseaux crient « YO ! » autour d'un grand sablier.|wǒmen yǒu + nom = on a|咱们有 (familier)|我们有时间。|我们有时间|des oiseaux autour d'un sablier
+05|我们 + verbe + 了|wo, meunne… leu|ON A gagné ! Les oiseaux soulèvent la coupe, un LEURRE (« LE ») dedans.|wǒmen + verbe + le = on a fait|我们赢了 = on a gagné|我们赢了！|我们赢了|des oiseaux qui soulèvent une coupe
+06|我 + état + 了|wo… leu|J'AI faim : l'oiseau regarde son bol vide, un LEURRE (« LE ») tombe.|« avoir faim / soif / froid » = adjectif + 了 : 我饿了|我有… = j'ai (possession)|我饿了。|我饿了|un oiseau devant un bol vide
+07|我 + verbe + 完了|wo… ouanne, leu|J'AI FINI : l'oiseau pose son pinceau, un sage dit « OUAN ! » et un LEURRE tombe.|verbe + 完了 = avoir fini de|好了 = c'est fait|我做完了。|我做完了|un oiseau qui pose son pinceau
+08|她很 + adj.|ta, henne|ELLE EST fatiguée : la femme au TAMBOUR bâille avec la déesse HENNE.|tā hěn + adj. = elle est…|她是 + nom = elle est (un/une)…|她很累。|她很累|une femme au tambour qui bâille
+09|有人 + verbe + 了你们|yo, renne… leu, ni, meunne|ON VOUS A appelés ce matin : un RENNE (« YOUREN ») téléphone aux NIDS (« NIMEN »).|yǒu rén + verbe + le + qn = quelqu'un a…, on a…|你们被… (passif)|今天早上有人给你们打电话了。|有人给你们打电话了|un renne qui téléphone à des nids
+10|我 + adj./verbe + 好了|wo… hao, leu|JE SUIS prêt : l'oiseau ferme sa valise : « HAO ! », un LEURRE tombe.|wǒ + verbe + hǎo le = je suis (prêt, ok)|我很… = je suis très…|我准备好了。|我准备好了|un oiseau qui ferme sa valise
+11|她有…|ta, yo|ELLE A deux frères : la femme au TAMBOUR crie « YO ! » entre deux garçons.|tā yǒu + nom = elle a|她没有 = elle n'a pas|她有两个哥哥。|她有两个哥哥|une femme entre deux frères
+12|她 + verbe + 了|ta… leu|ELLE A appelé : la femme au TAMBOUR raccroche, un LEURRE tombe.|tā + verbe + le = elle a fait|她来过电话 = elle a appelé|她打电话来了。|她打电话来了|une femme qui raccroche
+13|他不…|ta, bou|IL N'EST PAS là : l'homme au TAMBOUR est remplacé par un BOUc (« BU ») sur sa chaise.|tā bù + verbe / adj. = il n'est pas…|他不在 = il n'est pas là|他不在。|他不在|un bouc sur une chaise vide
+14|我们不…|wo, meunne, bou|ON N'EST PAS pressés : les oiseaux BOUdent la montre et se prélassent.|wǒmen bù + adj. = on n'est pas…|不急 = pas pressé|我们不急。|我们不急|des oiseaux qui se prélassent
+15|我没有…|wo, mei, yo|JE N'AI PAS le temps : l'oiseau tend un MAIllot (« MEI ») vide et crie « YO ! ».|wǒ méiyǒu + nom = je n'ai pas|没 = ne pas avoir|我没有时间。|我没有时间|un oiseau sans sablier
+16|你…|ni|TU AS raison : le NID (« NI ») coche la case.|« avoir raison » = 说得对 (pas de 有)|你有… = tu as (possession)|你说得对。|你说得对|un nid qui coche une case
+17|他没有…|ta, mei, yo|IL N'A PAS DE voiture : l'homme au TAMBOUR montre un garage vide : un MAIllot, « YO ! ».|tā méiyǒu + nom = il n'a pas de|他没车 (oral)|他没有车。|他没有车|un garage vide
+18|他那时…|ta, na, chie|IL ÉTAIT malade : sur une vieille photo du NAIN, l'homme au TAMBOUR est au lit, un chien (« SHI ») à côté.|le passé se dit par le contexte : 他那时病了|他以前 = il était (autrefois)|他那时病了。|他那时病了|une vieille photo d'un malade
+19|你 + verbe + 了…吗？|ni… leu… ma|T'AS VU ça ? Le NID ouvre grand les yeux, un LEURRE et le cheval (« MA ») regardent.|nǐ + verbe + le + qc + ma ? = as-tu… ?|你看见了吗 ? = t'as vu ?|你看到了吗？|你看到了吗|un nid aux yeux grands ouverts
+20|我会…|wo, houei|JE SAIS nager : l'oiseau lance un boomerang (« HUI ») et plonge.|wǒ huì + verbe = je sais (faire, appris)|我能 = je peux (capacité)|我会游泳。|我会游泳|un oiseau qui plonge
+21|有人 + verbe + 了我们|yo, renne… leu, wo, meunne|ON NOUS A invités : un RENNE (« YOUREN ») tend des cartons d'invitation aux oiseaux.|souvent : 他们邀请了我们 / 我们被邀请了|被 + verbe = passif|我们被邀请了。|我们被邀请了|un renne qui tend des invitations
+22|我不…|wo, bou|JE NE SUIS PAS sûr : l'oiseau BOUde et hausse les épaules.|wǒ bù + adj. / verbe = je ne suis pas…|我不太… = je ne suis pas très…|我不确定。|我不确定|un oiseau qui hausse les épaules
+23|我们没有…|wo, meunne, mei, yo|ON N'A PAS DE pain : les oiseaux ouvrent une huche vide : un MAIllot, « YO ! ».|wǒmen méiyǒu + nom|没了 = il n'y en a plus|我们没有面包。|我们没有面包|une huche à pain vide
+24|我们那时是…|wo, meunne, na, chie|ON ÉTAIT amis : sur la vieille photo du NAIN, les oiseaux et le chien (« SHI ») se tiennent par l'aile.|nàshí shì + nom = on était (à l'époque)|我们以前是 = on était (avant)|我们那时是朋友。|我们那时是朋友|une vieille photo d'amis
+25|你会…吗？|ni, houei… ma|TU SAIS conduire ? Le NID lance un boomerang (« HUI ») depuis une voiture, le cheval demande.|nǐ huì + verbe + ma ? = sais-tu… ?|你能…吗 ? = peux-tu… ?|你会开车吗？|你会开车吗|un nid au volant
+26|她不…|ta, bou|ELLE N'EST PAS d'accord : la femme au TAMBOUR BOUde et croise les bras.|tā bù + verbe = elle ne… pas|她不同意 = elle n'est pas d'accord|她不同意。|她不同意|une femme qui croise les bras
+27|有人 + verbe + 了你|yo, renne… leu, ni|ON T'A vu hier : un RENNE (« YOUREN ») montre une photo du NID.|yǒu rén + verbe + le + nǐ = quelqu'un t'a…|我看见你了 = je t'ai vu|昨天有人看见你了。|有人看见你了|un renne qui montre une photo
+28|我要…|wo, yao|JE VEUX un café : l'oiseau tend un YAOURT au serveur.|wǒ yào + nom = je veux|我想要 = je voudrais|我要一杯咖啡。|我要一杯咖啡|un oiseau qui tend un yaourt
+29|我想…|wo, siang|JE VEUX partir : l'oiseau penseur (« XIANG ») regarde la porte.|wǒ xiǎng + verbe = je veux, j'ai envie de|我要 = je veux (plus ferme)|我想走。|我想走|un oiseau penseur devant une porte
+30|我知道…|wo, gît, d'ao|JE SAIS QUE t'es là : l'oiseau GÎT, une bulle D'AO montre ta silhouette.|wǒ zhīdao + proposition = je sais que|pas de « que » en chinois|我知道你在。|我知道你在|un oiseau qui sait
+31|我的…被…了|wo, deu… beille… leu|ON M'A VOLÉ mon sac : un BEIGNET (« BEI ») emporte le sac de l'oiseau, un LEURRE reste.|被 = passif subi : 我的包被偷了|有人偷了我的包 = quelqu'un a volé…|我的包被偷了。|被偷了|un beignet qui vole un sac
+32|你要…吗？|ni, yao… ma|TU VEUX de l'eau ? Le NID tend un YAOURT d'eau au cheval (« MA »).|nǐ yào + nom + ma ? = tu veux… ?|要不要 = tu en veux ?|你要喝水吗？|你要喝水吗|un nid qui tend de l'eau
+33|你想…吗？|ni, siang… ma|TU VEUX venir ? Le NID penseur (« XIANG ») demande au cheval (« MA »).|nǐ xiǎng + verbe + ma ? = tu veux… ?|要不要来 = tu viens ?|你想来吗？|你想来吗|un nid penseur
+34|…吗？|ma|EST-CE QUE tu viens ? Le cheval (« MA ») attend à la porte.|phrase + 吗 ? = est-ce que… ?|V不V = 你来不来 ?|你来吗？|你来吗|un cheval à la porte
+35|你知道…吗？|ni, gît, d'ao… ma|TU SAIS QUE je t'aime ? Le NID GÎT, une bulle D'AO en forme de cœur, le cheval sourit.|nǐ zhīdao + proposition + ma ?|你知不知道 = tu sais ou pas|你知道我爱你吗？|你知道我爱你吗|une bulle en forme de cœur
+36|我想让某人…|wo, siang, range|JE VEUX QUE tu restes : l'oiseau penseur (« XIANG ») RANGE ta valise sous le lit.|wǒ xiǎng ràng + qn + verbe = je veux que qn…|我希望 = je souhaite que|我想让你留下。|我想让你留下|un oiseau qui range une valise
+37|她没有…|ta, mei, yo|ELLE N'A PAS DE chance : la femme au TAMBOUR reçoit un MAIllot troué, « YO ! ».|tā méiyǒu + nom|她运气不好 = elle n'a pas de chance|她运气不好。|她运气不好|une femme avec un maillot troué
+38|她那时很…|ta, na, chie, henne|ELLE ÉTAIT belle : sur la vieille photo du NAIN, la femme au TAMBOUR rayonne avec la déesse HENNE.|tā nàshí hěn + adj. = elle était…|她以前很… = elle était (avant)|她那时很漂亮。|她那时很漂亮|une vieille photo d'une belle femme
+39|你…了|ni… leu|T'ES fou ! Le NID porte une passoire sur la tête, un LEURRE tombe.|nǐ + adj. + le = t'es (devenu)…|你疯了 = t'es fou|你疯了！|你疯了|un nid avec une passoire sur la tête
+40|你想让我…吗？|ni, siang, range, wo… ma|TU VEUX QUE je vienne ? Le NID penseur RANGE l'oiseau près de lui, le cheval demande.|nǐ xiǎng ràng wǒ + verbe + ma ?|要我…吗 ? = tu veux que je… ?|你想让我来吗？|你想让我来吗|un nid qui invite un oiseau
+41|我能…吗？|wo, neng… ma|JE PEUX entrer ? L'oiseau frappe, dit « NENG ? » au cheval (« MA ») qui ouvre.|wǒ néng + verbe + ma ? = je peux… ?|可以…吗 ? = puis-je… ?|我能进来吗？|我能进来吗|un oiseau qui frappe à une porte
+42|你不…吗？|ni, bou… ma|T'AS PAS faim ? Le NID BOUde son bol, le cheval s'inquiète.|nǐ bù + adj. + ma ? = tu n'es pas… ?|你还不饿吗 ? = t'as toujours pas faim ?|你不饿吗？|你不饿吗|un nid qui boude son bol
+43|你能…吗？|ni, neng… ma|TU PEUX m'aider ? Le NID dit « NENG ? » et tend une corde au cheval (« MA »).|nǐ néng + verbe + ma ? = peux-tu… ?|你可以…吗 ? (synonyme)|你能帮我吗？|你能帮我吗|un nid qui tend une corde
+44|我不想…|wo, bou, siang|JE NE VEUX PAS y aller : l'oiseau BOUde, le penseur (« XIANG ») tourne le dos.|wǒ bù xiǎng + verbe = je ne veux pas|我不要 = je ne veux pas (net)|我不想去。|我不想去|un oiseau qui tourne le dos
+45|我不知道…|wo, bou, gît, d'ao|JE NE SAVAIS PAS QU'il était là : l'oiseau BOUde, GÎT, la bulle D'AO vide, puis sursaute.|wǒ bù zhīdao + proposition|没想到 = je ne m'attendais pas|我不知道他在这儿。|我不知道他在这儿|un oiseau qui sursaute
+46|您…吗？|nine… ma|VOUS AVEZ faim ? La naine polie (« NIN ») tend un bol au cheval (« MA »).|nín + adj. + ma ? = avez-vous… ? (poli)|你们…吗 ? = vous (pluriel)|您饿吗？|您饿吗|une naine qui tend un bol
+47|你不想…吗？|ni, bou, siang… ma|TU NE VEUX PAS venir ? Le NID BOUde et pense (« XIANG »), le cheval insiste.|nǐ bù xiǎng + verbe + ma ?|一起来吧 = viens avec nous|你不想来吗？|你不想来吗|un nid qui boude
+48|你们 + verbe + 了吗？|ni, meunne… leu, ma|VOUS AVEZ mangé ? Les NIDS (« NIMEN ») montrent leurs bols, un LEURRE, le cheval demande.|nǐmen + verbe + le ma ? = avez-vous… ?|吃了吗 ? = t'as mangé ? (salut courant)|你们吃了吗？|你们吃了吗|des nids qui montrent leurs bols
+49|您 + verbe + 了吗？|nine… leu, ma|VOUS AVEZ RÉSERVÉ, monsieur ? La naine polie (« NIN ») consulte le registre, le cheval attend.|nín + verbe + le ma ? (poli)|预订 = réserver|先生，您预订了吗？|您预订了吗|une naine qui consulte un registre
+50|你不知道…吗？|ni, bou, gît, d'ao… ma|TU NE SAIS PAS QU'il est parti ? Le NID BOUde, GÎT, une bulle D'AO montre une porte vide.|nǐ bù zhīdao + proposition + ma ?|你没听说吗 ? = t'as pas entendu ?|你不知道他走了吗？|你不知道他走了吗|une bulle qui montre une porte vide
+51|有人 + verbe + 了他|yo, renne… leu, ta|ON LUI A DIT la vérité : un RENNE (« YOUREN ») chuchote à l'oreille du tambourineur.|yǒu rén + verbe + le + qn = quelqu'un lui a…|我们告诉他了 = on le lui a dit|有人告诉他实话了。|有人告诉他实话了|un renne qui chuchote
+52|我不想让某人…|wo, bou, siang, range|JE NE VEUX PAS QUE tu partes : l'oiseau BOUde et RANGE ta valise au placard.|wǒ bù xiǎng ràng + qn + verbe|别走 = ne pars pas|我不想让你走。|我不想让你走|un oiseau qui cache une valise
+53|好啊|hao, a|Un café ? — JE VEUX BIEN : tu cries « HAO ! » puis « AAH ! ».|hǎo a = volontiers|行啊 = d'accord|——来杯咖啡？——好啊。|好啊|une tasse acceptée avec joie
+54|你不想让我…吗？|ni, bou, siang, range, wo… ma|TU NE VEUX PAS QUE je t'aide ? Le NID BOUde, l'oiseau se RANGE près de lui avec une corde.|nǐ bù xiǎng ràng wǒ + verbe + ma ?|要我帮忙吗 = tu veux de l'aide|你不想让我帮你吗？|你不想让我帮你吗|un oiseau qui tend une corde
+55|我不能…|wo, bou, neng|JE NE PEUX PAS venir : l'oiseau BOUde et dit « NENG… ».|wǒ bù néng + verbe = je ne peux pas|我来不了 = je ne pourrai pas venir|我不能来。|我不能来|un oiseau qui refuse
+56|你不是…|ni, bou, chie|T'ES PAS seul : le NID BOUde, entouré de chiens (« SHI ») amis.|nǐ bú shì + nom/adj. = tu n'es pas…|有我们在 = on est là|你不是一个人。|你不是一个人|un nid entouré d'amis
+57|你不能…|ni, bou, neng|TU NE PEUX PAS faire ça ! Le NID BOUde devant un panneau « NENG ».|nǐ bù néng + verbe = tu ne peux pas|别… = ne… pas|你不能这么做！|你不能这么做|un nid devant un panneau
+58|我不会…|wo, bou, houei|JE NE VAIS PAS te mentir : l'oiseau BOUde et range son boomerang (« HUI ») menteur.|wǒ bú huì + verbe = je ne vais pas (je ne ferais pas)|我不… = je ne… pas|我不会骗你的。|我不会骗你的|un oiseau qui range un boomerang
+59|没有…了|mei, yo… leu|IL N'Y A PLUS DE lait : le frigo est vide : un MAIllot, « YO ! », un LEURRE.|méiyǒu + nom + le = il n'y a plus de|…没了 = … est fini|没有牛奶了。|没有牛奶了|un frigo vide
+60|…被…了|beille… leu|Le match A ÉTÉ annulé : un BEIGNET (« BEI ») écrase le ballon, un LEURRE tombe.|qc + 被 + verbe + 了 = qc a été…|取消 = annuler|比赛被取消了。|比赛被取消了|un beignet qui écrase un ballon
+61|他们很…|ta, meunne, henne|ILS SONT gentils : la fanfare (« TAMEN ») joue doucement pour la déesse HENNE.|tāmen hěn + adj. = ils sont…|他们是 + nom = ce sont des…|他们很好。|他们很好|une fanfare qui joue doucement
+62|您没有…吗？|nine, mei, yo… ma|VOUS N'AVEZ PAS DE monnaie ? La naine tend un MAIllot vide, « YO ? », au cheval.|nín méiyǒu + nom + ma ?|有零钱吗 ? = vous avez de la monnaie ?|您没有零钱吗？|您没有零钱吗|une naine sans monnaie
+63|他可以…|ta, que, i|IL PEUT venir demain : l'homme au TAMBOUR dit « QUE-I ! » devant le calendrier.|tā kěyǐ + verbe = il peut|他能 = il peut (capacité)|他明天可以来。|他明天可以来|un tambourineur devant un calendrier
+64|你们…了吗？|ni, meunne… leu, ma|VOUS ÊTES prêts ? Les NIDS ferment leurs valises, un LEURRE, le cheval demande.|nǐmen + adj./verbe + le ma ?|准备好了吗 = vous êtes prêts ?|你们准备好了吗？|你们准备好了吗|des nids qui ferment des valises
+65|他们有…|ta, meunne, yo|ILS ONT un chat : la fanfare (« TAMEN ») crie « YO ! » à un chat.|tāmen yǒu + nom = ils ont|他们没有 = ils n'ont pas|他们有一只猫。|他们有一只猫|une fanfare et un chat
+66|他们不…|ta, meunne, bou|ILS NE SONT PAS là : la fanfare est remplacée par un BOUc sur l'estrade.|tāmen bù + verbe = ils ne… pas|他们不在 = ils ne sont pas là|他们不在。|他们不在|un bouc sur une estrade vide
+67|他们 + verbe + 了|ta, meunne… leu|ILS ONT gagné : la fanfare (« TAMEN ») soulève la coupe, un LEURRE dedans.|tāmen + verbe + le = ils ont fait|他们赢了|他们赢了。|他们赢了|une fanfare qui soulève une coupe
+68|好啊，我很乐意|hao, a, wo, henne, leu, i|Tu restes dîner ? — OUI, JE VEUX BIEN : « HAO A ! », l'oiseau et la déesse HENNE lancent un LEURRE : « I ! ».|hǎo a, wǒ hěn lèyì = oui, volontiers|好的 = d'accord|——留下吃晚饭吗？——好啊，我很乐意。|好啊，我很乐意|un oiseau ravi à table
+69|她可以…|ta, que, i|ELLE PEUT rester : la femme au TAMBOUR dit « QUE-I ! » en posant sa valise.|tā kěyǐ + verbe = elle peut (permission)|她能 = elle peut (capacité)|她可以留下。|她可以留下|une femme qui pose sa valise
+70|他不能…|ta, bou, neng|IL NE PEUT PAS parler : l'homme au TAMBOUR, bâillonné, BOUde : « NENG… ».|tā bù néng + verbe = il ne peut pas|他说不了话 = il ne peut pas parler|他不能说话。|他不能说话|un tambourineur bâillonné
+71|我得…|wo, dèï|JE DOIS y aller : l'oiseau salue « DÈÏ ! » et file.|wǒ děi + verbe = je dois|我必须 = je dois (plus fort)|我得走了。|我得走了|un oiseau qui salue et part
+72|他那时很…|ta, na, chie, henne|IL AVAIT peur : sur la vieille photo du NAIN, l'homme au TAMBOUR tremble à côté de la déesse HENNE.|« avoir peur » = 害怕 (verbe) : 他那时很害怕|他怕 = il a peur|他那时很害怕。|他那时很害怕|une vieille photo d'un homme qui tremble
+73|得…|dèï|IL FAUT partir : un soldat salue « DÈÏ ! » et tout le monde se lève.|děi + verbe = il faut (sujet souvent omis)|应该 = on devrait|得走了。|得走了|un soldat qui salue
+74|我可以…吗？|wo, que, i… ma|EST-CE QUE JE PEUX m'asseoir ? L'oiseau dit « QUE-I ? » devant une chaise, le cheval acquiesce.|wǒ kěyǐ + verbe + ma ? = puis-je… ?|能…吗 ? (synonyme)|我可以坐吗？|我可以坐吗|un oiseau devant une chaise
+75|你们不是…|ni, meunne, bou, chie|VOUS N'ÊTES PAS seuls : les NIDS BOUdent, entourés de chiens (« SHI ») amis.|nǐmen bú shì + nom = vous n'êtes pas…|还有我们 = il y a nous aussi|你们不是孤单的。|你们不是孤单的|des nids entourés d'amis
+76|你得…|ni, dèï|TU DOIS dormir : le NID reçoit un salut « DÈÏ ! » et un oreiller.|nǐ děi + verbe = tu dois|你应该 = tu devrais|你得睡觉了。|你得睡觉了|un nid qui reçoit un oreiller
+77|我们那时…|wo, meunne, na, chie|ON AVAIT raison : sur la vieille photo du NAIN, les oiseaux et le chien (« SHI ») cochent la bonne case.|« avoir raison » = 是对的 : 我们那时是对的|我们说得对 = on avait raison|我们那时是对的。|我们那时是对的|une vieille photo de bonne réponse
+78|某人得…|dèï|IL FAUT QUE tu viennes : un soldat salue le NID : « DÈÏ ! » et montre la porte.|qn + děi + verbe = il faut que qn…|你必须来 = tu dois venir|你得来。|你得来|un soldat qui montre la porte|mǒurén děi…
+79|他需要…|ta, sous-yaourt|IL A BESOIN D'aide : l'homme au TAMBOUR tend un SOUS-YAOURT vide.|tā xūyào + nom = il a besoin de|他要 = il veut|他需要帮助。|他需要帮助|un tambourineur qui tend un yaourt vide
+80|她不能…|ta, bou, neng|ELLE NE PEUT PAS venir : la femme au TAMBOUR BOUde et dit « NENG… ».|tā bù néng + verbe = elle ne peut pas|她来不了 = elle ne pourra pas venir|她不能来。|她不能来|une femme qui boude
+81|他们没…|ta, meunne, mei|ILS N'ONT PAS compris : la fanfare tient un MAIllot (« MEI ») à l'envers.|tāmen méi + verbe = ils n'ont pas (fait)|他们不懂 = ils ne comprennent pas|他们没听懂。|他们没听懂|une fanfare qui tient un maillot à l'envers
+82|我们需要某人|wo, meunne, sous-yaourt|ON A BESOIN DE toi : les oiseaux tendent un SOUS-YAOURT vers toi.|wǒmen xūyào + qn = on a besoin de qn|我们离不开你 = on ne peut pas se passer de toi|我们需要你。|我们需要你|des oiseaux qui tendent un yaourt
+83|她那时很…|ta, na, chie, henne|ELLE AVAIT froid : sur la vieille photo du NAIN, la femme au TAMBOUR grelotte avec la déesse HENNE.|« avoir froid » = 冷 (adjectif)|她觉得冷 = elle a froid|她那时很冷。|她那时很冷|une vieille photo d'une femme qui grelotte
+84|我需要…|wo, sous-yaourt|J'AI BESOIN DE dormir : l'oiseau tend un SOUS-YAOURT-oreiller.|wǒ xūyào + verbe = j'ai besoin de|我得 = je dois|我需要睡觉。|我需要睡觉|un oiseau avec un oreiller
+85|他们没有…|ta, meunne, mei, yo|ILS N'ONT PAS D'enfants : la fanfare montre un berceau vide : un MAIllot, « YO ! ».|tāmen méiyǒu + nom|他们没孩子 (oral)|他们没有孩子。|他们没有孩子|un berceau vide
+86|你那时在…？|ni, na, chie, dzaille|T'ÉTAIS OÙ ? Le NID et le NAIN regardent la vieille photo, le serveur demande « DZAÏ ? ».|nǐ nàshí zài nǎr = t'étais où ?|你刚才在哪儿 ? = t'étais où (à l'instant) ?|你那时在哪儿？|你那时在哪儿|un nid devant une vieille photo
+87|我会…|wo, houei|JE VAIS t'appeler ce soir : l'oiseau lance un boomerang-téléphone (« HUI ») vers la lune.|wǒ huì + verbe = je vais (futur)|我要 = je vais (intention)|我今晚会给你打电话。|会给你打电话|un boomerang-téléphone vers la lune
+88|我要…了|wo, yao… leu|JE VAIS partir, le taxi est là : l'oiseau tend un YAOURT au taxi, un LEURRE tombe.|wǒ yào + verbe + le = je vais (imminent)|快…了 = bientôt|我要走了，出租车来了。|我要走了|un oiseau qui monte dans un taxi
+89|没有…|mei, yo|IL N'Y A PAS DE problème : un MAIllot (« MEI ») crie « YO ! » et le « ? » s'envole.|méiyǒu + nom = il n'y a pas de|没问题 = pas de problème|没有问题。|没有问题|un « ? » qui s'envole
+90|没有…|mei, yo|IL N'Y A PAS DE places libres : les sièges sont pris : un MAIllot, « YO ! » (pas de pluriel en chinois).|même tournure qu'en 89 : 没有 + nom|满了 = c'est complet|没有空位了。|没有空位了|une salle pleine
+91|我还没…|wo, haille, mei|J'AI PAS ENCORE mangé : l'oiseau, la HAIE et un MAIllot devant un bol plein.|wǒ hái méi + verbe = je n'ai pas encore|还没有 = pas encore|我还没吃饭。|我还没吃饭|un oiseau devant un bol plein
+92|她需要…|ta, sous-yaourt|ELLE A BESOIN DE repos : la femme au TAMBOUR tend un SOUS-YAOURT-oreiller.|tā xūyào + nom|她得休息 = elle doit se reposer|她需要休息。|她需要休息|une femme avec un oreiller
+93|你那时…|ni, na, chie|T'AVAIS raison : sur la vieille photo, le NID et le chien (« SHI ») cochent la bonne case.|nǐ nàshí shì duì de = tu avais raison|你说得对 = t'as raison|你那时是对的。|你那时是对的|une vieille photo d'une case cochée
+94|他不需要…|ta, bou, sous-yaourt|IL N'A PAS BESOIN DE ça : l'homme au TAMBOUR BOUde le SOUS-YAOURT qu'on lui tend.|tā bù xūyào + nom|他不要 = il ne veut pas|他不需要这个。|他不需要这个|un tambourineur qui refuse un yaourt
+95|我不需要…|wo, bou, sous-yaourt|J'AI PAS BESOIN D'aide : l'oiseau BOUde et repousse le SOUS-YAOURT.|wǒ bù xūyào + nom|不用 = pas besoin|我不需要帮助。|我不需要帮助|un oiseau qui repousse un yaourt
+96|我觉得…|wo, djué, deu|JE PENSE QUE c'est vrai : l'oiseau JUGE (« JUEDE ») en montrant un diamant.|wǒ juéde + proposition = je pense que|我认为 (soutenu)|我觉得这是真的。|我觉得这是真的|un oiseau juge et un diamant
+97|你觉得…吗？|ni, djué, deu… ma|TU CROIS QU'il va venir ? Le NID JUGE (« JUEDE ») et demande au cheval (« MA »).|nǐ juéde + proposition + ma ?|你认为 = tu penses|你觉得他会来吗？|你觉得他会来吗|un nid juge et un cheval
+98|他喜欢…|ta, si, houanne|IL AIME le foot : l'homme au TAMBOUR dit « SI ! » et HOUANNE lui passe le ballon.|tā xǐhuan + nom = il aime|他爱 = il adore|他喜欢足球。|他喜欢足球|un tambourineur et un ballon
+99|你需要…吗？|ni, sous-yaourt… ma|T'AS BESOIN DE quelque chose ? Le NID tend un SOUS-YAOURT et le cheval (« MA ») attend.|nǐ xūyào + nom + ma ?|要什么吗 ? = tu veux quelque chose ?|你需要什么吗？|你需要什么吗|un nid qui tend un yaourt

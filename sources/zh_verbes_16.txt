@@ -1,0 +1,29 @@
+00|大声嚷嚷|da, cheng, rang, rang|Le DAIM, le CHÊNE et deux RANGS crient fort : VOUS LA RUDOYIEZ ? (hausser le ton).|dàshēng rāngrang ≈ « da-cheng-rang-rang » ; « hausser le ton » = 大声嚷嚷 / 提高嗓门|吼 = hurler|你们对她大声嚷嚷了？|你们对她大声嚷嚷了|un porte-voix
+01|下雪|sia, sué|Le SIAMOIS sous le SUÉ blanc : REGARDE, IL NEIGE.|xià xuě ≈ « sia-sué » ; 下 tomber + 雪 neige|下雨 = pleuvoir|你看，下雪了。|你看，下雪了|des flocons
+02|拿……开涮|na, kaï, chouanne|Le NAIN, le CAÏD et le CHOUANNE se moquent : ARRÊTE DE TE FOUTRE DE MOI ! (familier).|ná… kāishuàn ≈ « na-kaï-chouane » ; « se foutre de qn » = 拿……开涮|取笑 = se moquer|别拿我开涮了！|别拿我开涮了|un doigt moqueur
+03|拿……开玩笑|na, kaï, ouanne, siao|Le NAIN, le CAÏD, le OUANNE et le SIAMOIS rigolent : SES COLLÈGUES LE CHAMBRENT SANS ARRÊT.|ná… kāi wánxiào ≈ « na-kaï-ouane-siao » ; « chambrer » = 拿……开玩笑|调侃 = taquiner|同事们老拿他开玩笑。|同事们老拿他开玩笑|un clin d'œil
+04|卸妆|sié, djouang|La SIESTE efface le DJOUANG : ELLE SE DÉMAQUILLE LE SOIR.|xièzhuāng ≈ « sié-djouang » ; 卸 ôter + 妆 maquillage|化妆 = se maquiller|她晚上卸妆。|她晚上卸妆|un coton démaquillant
+05|水煮|chouei, djou|Le CHOUETTE d'eau et le JOUjou frémissent : JE POCHE LES ŒUFS.|shuǐzhǔ ≈ « chouei-djou » ; « pocher » = 水煮 / 卧（鸡蛋）|煮 = bouillir|我做水煮荷包蛋。|我做水煮荷包蛋|un œuf poché
+06|抱住|bao, djou|Le BAOBAB serre le JOUjou : IL SERRE SA MÈRE DANS SES BRAS.|bàozhù ≈ « bao-djou » ; « serrer dans ses bras » = 抱住|拥抱 = étreindre|他抱住他妈妈。|他抱住他妈妈|deux bras
+07|打击|da, dji|Le DAIM frappe le GÉNIE : CETTE NOUVELLE L'A DÉMORALISÉ.|dǎjī ≈ « da-dji » ; « démoraliser » = 打击|泄气 = se décourager|这个消息打击了他。|这个消息打击了他|un poing sur le moral
+08|叫道|djiao, dao|Le JAGUAR et le DAO crient : « BRAVO ! » S'EXCLAMA-T-IL.|jiàodào ≈ « djiao-dao » ; « s'exclamer » = 叫道 / 喊道|说道 = dit-il|「好！」他叫道。|他叫道|un point d'exclamation
+09|一口咬定|i, kho, yao, ding|Le « I », le KHO, le YAOURT et le DINGO serrent les dents : IL PERSISTE À NIER.|yìkǒu yǎodìng ≈ « i-kho-yao-ding » ; « persister (à affirmer) » = 一口咬定|坚持 = insister|他一口咬定没做过。|他一口咬定没做过|une mâchoire serrée
+10|放大|fang, da|Le FANG agrandit le DAIM : LA PUPILLE SE DILATE DANS L'OBSCURITÉ.|fàngdà ≈ « fang-da » ; « dilater » = 放大 / 扩张|变大 = grossir|瞳孔在黑暗中放大。|瞳孔在黑暗中放大|un œil noir
+11|费劲|feille, djine|La FEUILLE et le JEAN transpirent : JE GALÈRE À TROUVER UN APPART.|fèijìn ≈ « feille-djine » ; « galérer » = 费劲 / 好难|辛苦 = pénible|找个公寓真费劲。|找个公寓真费劲|une goutte de sueur
+12|由……造成|yo, dzao, tcheng|Le YOYO, le ZAO et le TCHENG remontent la cause : L'ACCIDENT RÉSULTE D'UNE ERREUR.|yóu… zàochéng ≈ « yo-dzao-tcheng » ; « résulter de » = 由……造成|因为 = à cause de|事故是由一个错误造成的。|事故是由一个错误造成的|une flèche causale
+13|挽起|ouanne, tchi|Le OUANNE roule le TCHI : IL RETROUSSE SES MANCHES.|wǎnqǐ ≈ « ouane-tchi » ; « retrousser » = 挽起|卷 = rouler|他挽起袖子。|他挽起袖子|une manche retroussée
+14|结结巴巴|djié, djié, ba, ba|Deux JETS et deux BAmbous bredouillent : IL BALBUTIE DES EXCUSES.|jiējiebāba ≈ « djié-djié-ba-ba » ; « balbutier » = 结结巴巴（地说）|结巴 = bégayer|他结结巴巴地道歉。|他结结巴巴地道歉|une bulle hachée
+15|订阅|ding, yué|Le DINGO et le YUÉ reçoivent le journal : JE ME SUIS ABONNÉ AU JOURNAL.|dìngyuè ≈ « ding-yué » ; « s'abonner » = 订阅 / 订|关注 = suivre|我订阅了这份报纸。|我订阅了这份报纸|un journal plié
+16|一瘸一拐|i, tchué, i, gouaille|Le « I », le TCHUÉ, le « I » et le GOUAILLE claudiquent : À LA SUITE DE L'ACCIDENT, IL BOITE.|yì qué yì guǎi ≈ « i-tchué-i-gouaille » ; « boiter » = 一瘸一拐 / 瘸|跛 = boiteux|出了事故以后，他走路一瘸一拐的。|他走路一瘸一拐的|une béquille
+17|分裂|fenne, lié|La FENNE et le LIÉ se fendent : ET CELA FRACTURE LA FAMILLE DE DIVERSES FAÇONS.|fēnliè ≈ « fene-lié » ; « fragmenter » = 分裂|拆散 = séparer|这以各种方式让家庭分裂。|这以各种方式让家庭分裂|un vase fendu
+18|猜测|tsaille, tseu|La TSAILLE et le TSEU devinent : ON PEUT CONJECTURER LA SUITE.|cāicè ≈ « tsaille-tseu » ; « conjecturer » = 猜测|推测 = supposer|我们可以猜测接下来的事。|我们可以猜测接下来的事|une boule de cristal
+19|拨款|bouo, khouanne|Le BO tend le KHOUANNE de billets : ILS ONT ALLOUÉ DES FONDS AU PROJET.|bōkuǎn ≈ « bouo-khouane » ; « allouer (des fonds) » = 拨款|分配 = répartir|他们给这个项目拨款了。|他们给这个项目拨款了|une liasse
+20|配音|peille, yinne|Le PEIGNE et le YINNE au micro : LE FILM EST DOUBLÉ EN ITALIEN.|pèiyīn ≈ « peille-yine » ; 配 assortir + 音 son|字幕 = sous-titres|这部电影用意大利语配音。|这部电影用意大利语配音|un micro de studio
+21|惊呆|djing, daille|Le JINGLE et le DAIM pétrifiés : SA RÉPONSE M'A EFFARÉ.|jīngdāi ≈ « djing-daille » ; « effarer » = 让……惊呆|吓 = effrayer|他的回答让我惊呆了。|他的回答让我惊呆了|une bouche bée
+22|剧透|djiu, to|Le JUS et le TOTO lâchent la fin : NE ME SPOILE PAS LA FIN !|jùtòu ≈ « dju-to » ; 剧 film + 透 révéler|泄露 = divulguer|别给我剧透结局！|别给我剧透结局|un doigt sur la bouche
+23|眼红|yanne, hong|Le YANN aux yeux HONG (« rouges ») : IL A LES BOULES D'AVOIR PERDU.|yǎnhóng ≈ « yane-hong » ; « avoir les boules (jaloux) » = 眼红 / 不爽|嫉妒 = envier|输了他很不爽，眼红得很。|眼红得很|des yeux rouges
+24|抓包|djoua, bao|Le JOUA attrape le BAOBAB la main dans le sac : LE PROF L'A CHOPÉ EN TRAIN DE TRICHER.|zhuābāo ≈ « djoua-bao » ; « choper (sur le fait) » = 抓包|抓到 = attraper|老师抓包他作弊。|老师抓包他作弊|une antisèche
+25|逮个正着|daille, gueu, djeng, djao|Le DAIM, le GUEU, le ZHENG et le JAGUAR : SA MÈRE L'A GRILLÉ.|dǎi ge zhèngzháo ≈ « daille-gueu-djeng-djao » ; « griller (sur le fait) » = 逮个正着|撞见 = surprendre|他被他妈妈逮个正着。|被他妈妈逮个正着|une main dans le sac
+26|在于|dzaille, yu|Le serveur et le YOUYOU au cœur du jeu : LE JEU CONSISTE À DEVINER LE MOT.|zàiyú ≈ « dzaille-yu » ; « consister à » = 在于 / 就是|就是 = c'est|这个游戏就在于猜词。|这个游戏就在于猜词|une devinette
+27|由……组成|yo, dzou, tcheng|Le YOYO, le ZOU et le TCHENG en trois assiettes : LE MENU CONSISTE EN TROIS PLATS.|yóu… zǔchéng ≈ « yo-dzou-tcheng » ; « consister en » = 由……组成|包括 = comprendre|套餐由三道菜组成。|套餐由三道菜组成|trois assiettes
+28|报名|bao, ming|Le BAOBAB inscrit le MING : JE ME SUIS INSCRIT AU COURS.|bàomíng ≈ « bao-ming » ; « s'inscrire » = 报名|注册 = s'enregistrer|我报名参加了这门课。|我报名参加了这门课|un formulaire

@@ -1,0 +1,100 @@
+00|感染|ganne, ranne|Un GANT (« GAN ») sale touche une RAINETTE (« RAN ») blessée : LA PLAIE S'EST INFECTÉE.|gǎnrǎn ≈ « gane-rane » ; la plaie rouge = infecter|发炎 = s'enflammer|伤口感染了。|伤口感染了|une plaie rouge
+01|示威|cheu, ouei|Une CHAISE (« SHI ») brandit une pancarte « OUAIS ! » : ILS MANIFESTENT CONTRE LA LOI.|shìwēi ≈ « chi-ouei » ; la pancarte = manifester|游行 = défiler|他们示威反对这项法律。|他们示威反对这项法律|une pancarte
+02|扫|sao|Un SAO (« SAO ») balaie la cuisine : BALAIE LA CUISINE (扫地).|sǎo ≈ « sao » ; le balai = balayer|打扫 = nettoyer|扫一下厨房。|扫一下厨房|un balai
+03|好用|hao, yong|« HAO ? » demande le couteau (« YONG ») qui coince : ÇA NE MARCHE PAS (不好用 / 坏了).|hǎoyòng ≈ « hao-yong » ; le pouce baissé = marcher (fonctionner)|运转 = tourner|这个不好用。|这个不好用|un pouce baissé
+04|撒尿|sa, niao|Un SAc (« SA ») et un MIAOU (« NIAO ») courent aux toilettes : JE DOIS ALLER PISSER ; familier.|sāniào ≈ « sa-niao » ; les toilettes = pisser|尿尿 = faire pipi|我得去撒尿。|我得去撒尿|des toilettes
+05|扮演|banne, yienne|Le BANC et la YIENNE en blouse blanche : IL INTERPRÈTE UN MÉDECIN (doublon de verbes_6 39).|bànyǎn ≈ « bane-yienne » ; doublon|演 = jouer|他扮演一个医生。|他扮演一个医生|une blouse blanche
+06|退回去|touei, houei, tchu|Un TOUEILLE (« TUI ») rend la bouteille au boomerang et au TCHOU : RAPPORTE-LA, IL Y A UNE CONSIGNE.|tuì huíqu ≈ « touei-houei-tchu » ; la bouteille consignée = rapporter (un objet)|还 = rendre|把它退回去，有押金。|把它退回去|une bouteille consignée
+07|战胜|djanne, cheng|Le GENDARME terrasse le CHÊNE d'ombre : IL A VAINCU LE CANCER (doublon de verbes_6 58).|zhànshèng ≈ « djane-cheng » ; doublon|打败 = battre|他战胜了癌症。|他战胜了癌症|une ombre terrassée
+08|驾帆船|djia, fanne, tchouanne|Un JIA (« JIA ») tient la FANNE (« FAN ») d'une voile sur un CHOUANNE (« CHUAN ») : IL FAIT DE LA VOILE L'ÉTÉ.|jià fānchuán ≈ « djia-fane-tchouane » ; la voile gonflée = faire de la voile|划船 = ramer|他夏天驾帆船出海。|他夏天驾帆船出海|une voile gonflée
+09|上任|chang, renne|Un CHAMEAU (« SHANG ») monte sur le RENNE du fauteuil de chef : IL PREND SES FONCTIONS LUNDI.|shàngrèn ≈ « chang-renne » ; le fauteuil de chef = prendre ses fonctions|就职 = entrer en fonction|他星期一上任。|他星期一上任|un fauteuil de chef
+10|辩论|biène, louenne|Un BIEN (« BIAN ») et un LOUENNE (« LUN ») aux pupitres opposés : NOUS DÉBATTONS DU SUJET.|biànlùn ≈ « biène-louene » ; les deux pupitres = débattre|讨论 = discuter|我们在辩论这个话题。|在辩论这个话题|deux pupitres
+11|取笑|tchu, siao|Un TCHOU (« QU ») pointe un SIAMOIS (« XIAO ») en rigolant : TU TE MOQUES DE MOI ?|qǔxiào ≈ « tchu-siao » ; le doigt moqueur = se moquer de|嘲笑 = ridiculiser|你在取笑我吗？|你在取笑我吗|un doigt moqueur
+12|打印|da, ine|Un DAuphin (« DA ») tamponne une INE (« YIN ») sur l'imprimante : IMPRIME CE DOCUMENT.|dǎyìn ≈ « da-ine » ; l'imprimante = imprimer|印 = tamponner|打印这份文件。|打印这份文件|une imprimante
+13|拴|chouanne|Un CHOUANNE (« SHUAN ») attache le chien à l'arbre : ATTACHE LE CHIEN À L'ARBRE.|shuān ≈ « chouane » ; la laisse nouée = attacher|绑 = ligoter|把狗拴在树上。|把狗拴在树上|une laisse nouée
+14|揭开|djié, kaï|Un JET (« JIE ») soulève le voile d'un KAYAK (« KAI ») : IL A DÉVOILÉ SON SECRET.|jiēkāi ≈ « djié-kaï » ; le voile soulevé = dévoiler|揭露 = révéler|他揭开了自己的秘密。|揭开了自己的秘密|un voile soulevé
+15|让出|rang, tchou|Le RANG dégage un CHOU (« CHU ») de la sortie : DÉGAGEZ LA SORTIE !|ràngchū ≈ « rang-tchou » ; la sortie dégagée = dégager|清理 = déblayer|让出出口！|让出出口|une sortie dégagée
+16|利用|li, yong|Un LIT (« LI ») tire profit d'un couteau (« YONG ») oublié : IL TIRE PROFIT DE LA SITUATION.|lìyòng ≈ « li-yong » ; la main qui ramasse = tirer profit de|占便宜 = profiter|他利用了这个情况。|他利用了这个情况|une main qui ramasse
+17|逗|do|Un DOgue (« DOU ») taquine avec une plume : ARRÊTE, TU ME FAIS MARCHER ! (你逗我呢).|dòu ≈ « do » ; la plume qui chatouille = faire marcher|骗 = tromper|别逗我了！|别逗我了|une plume qui chatouille
+18|滚开|gouenne, kaï|Un GOUENNE (« GUN ») roule et un KAYAK (« KAI ») s'en va : DÉGAGE !|gǔnkāi ≈ « gouene-kaï » ; la porte montrée = dégager (fam.)|走开 = va-t'en|滚开！|滚开|une porte montrée
+19|让一让|rang, i, rang|Le RANG dit « I » et s'écarte encore : ÉCARTE-TOI, JE PASSE !|ràng yi ràng ≈ « rang-i-rang » ; le passage = s'écarter|让开 = s'écarter|让一让，我要过去！|让一让，我要过去|un passage
+20|张贴|djang, tié|Un GENDARME (« ZHANG ») colle un TIÉ (« TIE ») d'affiche : LE MENU DU SOIR EST AFFICHÉ (exposer).|zhāngtiē ≈ « djang-tié » ; l'affiche collée = exposer (afficher) ; 展出 = exposer (œuvre)|展出 = exposer (musée)|晚餐菜单张贴出来了。|晚餐菜单张贴出来了|une affiche collée
+21|堵|dou|Le DOUanier bouche le lavabo : LE LAVABO EST BOUCHÉ (doublon de verbes_7 17).|dǔ ≈ « dou » ; doublon|塞 = boucher|洗手池堵了。|洗手池堵了|un lavabo bouché
+22|操心|tsao, sine|Un TSAR (« CAO ») se gratte un SIGNE (« XIN ») de souci : NE TE TRACASSE PAS.|cāoxīn ≈ « tsao-sine » ; le front plissé = se tracasser|担心 = s'inquiéter|别操心了。|别操心了|un front plissé
+23|打扰|da, rao|Un DAuphin (« DA ») tambourine sur un RAO (« RAO ») : JE SUIS DÉRANGÉ PAR LE BRUIT (噪音打扰了我).|dǎrǎo ≈ « da-rao » ; le tambour = déranger|吵 = bruyant|噪音打扰了我。|噪音打扰了我|un tambour
+24|揍|dzo|Un ZO (« ZOU ») donne un coup de pied : MAIS ON BOTTERA POUR SÛR LES FESSES DU GOS ; familier.|zòu ≈ « dzo » ; le pied au derrière = botter le cul (cogner)|打 = frapper|我们肯定会揍扁GOS的。|肯定会揍扁GOS的|un pied au derrière
+25|赶走|ganne, dzo|Un GANT (« GAN ») chasse un ZO (« ZOU ») de journalistes : ILS ONT CHASSÉ LES JOURNALISTES.|gǎnzǒu ≈ « gane-dzo » ; le balai qui chasse = chasser (qn)|打猎 = chasser (gibier)|他们赶走了记者。|他们赶走了记者|un balai qui chasse
+26|照顾|djao, gou|Le JAGUAR borde le GOUrou : ELLE S'OCCUPE DES ENFANTS (doublon de verbes_5 34).|zhàogù ≈ « djao-gou » ; doublon|看孩子 = garder des enfants|她照顾孩子们。|她照顾孩子们|une couverture bordée
+27|化妆|houa, djouang|Le HOUA et le JOUANG au pinceau poudré : ELLE SE MAQUILLE LE MATIN (doublon de noms_17 87).|huàzhuāng ≈ « houa-djouang » ; doublon (verbe)|打扮 = se pomponner|她早上化妆。|她早上化妆|un pinceau poudré
+28|长胖|djang, pang|Un GENDARME (« ZHANG ») gonfle comme un PANDA (« PANG ») : J'AI GROSSI CET HIVER.|zhǎngpàng ≈ « djang-pang » ; la ceinture qui craque = grossir|胖 = gros|这个冬天我长胖了。|这个冬天我长胖了|une ceinture qui craque
+29|卸|sié|Une SIESTE (« XIE ») interrompue pour décharger : ILS DÉCHARGENT LE CAMION (卸货).|xiè ≈ « sié » ; les caisses déchargées = décharger|装 = charger|他们在卸卡车。|他们在卸卡车|des caisses déchargées
+30|习惯|si, gouanne|Un SIFFLET (« XI ») s'installe chez GOUANE (« GUAN ») en ville : JE M'HABITUE À LA VILLE.|xíguàn ≈ « si-gouane » ; les pantoufles = s'habituer|适应 = s'adapter|我在慢慢习惯这座城市。|慢慢习惯这座城市|des pantoufles
+31|过|guo|Un GOGO (« GUO ») de sable file entre les doigts : LE TEMPS S'ÉCOULE VITE (时间过得很快).|guò ≈ « guo » ; le sablier = s'écouler (passer)|流逝 = s'écouler (écrit)|时间过得很快。|时间过得很快|un sablier
+32|刻|keu|Un KEU (« KE ») grave au couteau : IL A GRAVÉ SON NOM.|kè ≈ « keu » ; le burin = graver|雕 = sculpter|他刻上了自己的名字。|刻上了自己的名字|un burin
+33|开玩笑|kaï, ouanne, siao|Un KAYAK (« KAI »), un OUANE (« WAN ») et un SIAMOIS (« XIAO ») éclatent de rire : JE BLAGUE !|kāi wánxiào ≈ « kaï-ouane-siao » ; le nez rouge = blaguer|逗 = taquiner|我开玩笑的！|我开玩笑的|un nez rouge
+34|下降|sia, djiang|Le SIAMOIS descend avec le DJINN sur la flèche : LES PRIX DIMINUENT (doublon de noms_18 92).|xiàjiàng ≈ « sia-djiang » ; doublon (verbe)|减少 = réduire|价格在下降。|价格在下降|une flèche vers le bas
+35|叹气|tanne, tchi|Un TANDEM (« TAN ») souffle un TCHI (« QI ») de soupir : ELLE SOUPIRE DE FATIGUE.|tànqì ≈ « tane-tchi » ; le souffle = soupirer|叹 = soupirer|她累得叹了口气。|累得叹了口气|un souffle
+36|洗碗|si, ouanne|Un SIFFLET (« XI ») lave un OUANE (« WAN ») sous le robinet : JE FAIS LA VAISSELLE.|xǐ wǎn ≈ « si-ouane » ; le bol mousseux = faire la vaisselle|碗碟 = vaisselle|我在洗碗。|我在洗碗|un bol mousseux
+37|感到|ganne, dao|Un GANT (« GAN ») touche un DAO (« DAO ») de joie : J'ÉPROUVE UNE GRANDE JOIE.|gǎndào ≈ « gane-dao » ; la main sur le cœur = éprouver|觉得 = trouver|我感到非常高兴。|我感到非常高兴|une main sur le cœur
+38|感觉|ganne, djué|Le GANT tâte le JUGE sans rien sentir : JE NE RESSENS RIEN POUR LUI (doublon de noms_5 04).|gǎnjué ≈ « gane-djué » ; doublon (verbe)|感情 = sentiments|我对他没有感觉。|我对他没有感觉|une antenne
+39|勾丝|go, seu|Un GOgo (« GOU ») accroche un SEU (« SI ») de fil : ELLE A FILÉ SON COLLANT.|gōusī ≈ « go-seu » ; le fil tiré = filer (un collant)|破 = trou|她的丝袜勾丝了。|她的丝袜勾丝了|un fil tiré
+40|抄|tchao|Un CHAT (« CHAO ») recopie la copie du voisin : NE COPIE PAS SUR TON VOISIN.|chāo ≈ « tchao » ; l'œil sur la copie voisine = copier|复制 = copier (fichier)|别抄同桌的。|别抄同桌的|un œil sur la copie voisine
+41|转达|djouanne, da|Le JOUANNE passe le salut au DAuphin : TRANSMETS-LUI MES SALUTATIONS (doublon de verbes_9 49).|zhuǎndá ≈ « djouane-da » ; doublon|问好 = saluer|替我向他转达问候。|替我向他转达问候|une enveloppe relayée
+42|拉屎|la, cheu|Un LAMA (« LA ») et un CHE (« SHI ») sur le trottoir : LE CHIEN A CHIÉ SUR LE TROTTOIR ; vulgaire.|lāshǐ ≈ « la-cheu » ; la crotte = chier|大便 = déféquer|狗在人行道上拉屎了。|狗在人行道上拉屎了|une crotte
+43|担心|danne, sine|Le DANNE ronge le SIGNE d'ongle : NE TE SOUCIE PAS DE MOI (doublon de verbes_7 27).|dānxīn ≈ « dane-sine » ; doublon|操心 = se tracasser|别担心我。|别担心我|un ongle rongé
+44|打发走|da, fa, dzo|Un DAuphin, un FARE et un ZO poussés vers la porte : POURQUOI NE LE RENVOIE-T-ELLE PAS ?|dǎfa zǒu ≈ « da-fa-dzo » ; la porte montrée = renvoyer (qn)|开除 = licencier|她为什么不把他打发走？|不把他打发走|une porte montrée
+45|弄丢|nong, dio|Un NON (« NONG ») perd un DIO (« DIU ») de lunettes : J'AI ÉGARÉ MES LUNETTES.|nòngdiū ≈ « nong-dio » ; les lunettes perdues = égarer|丢 = perdre|我把眼镜弄丢了。|我把眼镜弄丢了|des lunettes perdues
+46|忽视|hou, cheu|Un HOU (« HU ») tourne le dos à une CHAISE (« SHI ») d'hôpital : IL NÉGLIGE SA SANTÉ.|hūshì ≈ « hou-chi » ; le dos tourné = négliger|不管 = ne pas s'occuper|他忽视自己的健康。|他忽视自己的健康|un dos tourné
+47|像|siang|La SIANNE devant un chien qui lui ressemble : C'EST MARRANT PARCE QU'IL RESSEMBLE À SON CHIEN (doublon de verbes_11 01).|xiàng ≈ « siang » ; doublon|长得像 = ressembler (physique)|好笑的是，他长得像他的狗。|他长得像他的狗|un miroir
+48|总结|dzong, djié|Un ZONGzi (« ZONG ») noue un JET (« JIE ») de résumé : RÉSUME LE TEXTE.|zǒngjié ≈ « dzong-djié » ; le nœud final = résumer|概括 = synthétiser|总结一下这篇文章。|总结一下这篇文章|un nœud final
+49|定义|ding, i|Un DING ! de dictionnaire et un « I » de définition : COMMENT DÉFINIR L'AMOUR ?|dìngyì ≈ « ding-i » ; le dictionnaire = définir|解释 = expliquer|怎么定义爱情？|怎么定义爱情|un dictionnaire
+50|住|djou|Un JOUJOU (« ZHU ») vit sous la tour Eiffel : J'HABITE À PARIS.|zhù ≈ « djou » ; la maison = habiter|住在 = habiter à|我住在巴黎。|我住在巴黎|une maison
+51|缝|feng|Un FENG (« FENG ») coud une robe à l'aiguille : ELLE COUD UNE ROBE.|féng ≈ « feng » ; l'aiguille = coudre|织 = tricoter|她在缝一条裙子。|她在缝一条裙子|une aiguille
+52|抗议|kang, i|Un KANGourou (« KANG ») et un « I » brandissent une pancarte : ILS PROTESTENT CONTRE LA DÉCISION.|kàngyì ≈ « kang-i » ; la pancarte = protester|反对 = s'opposer|他们抗议这个决定。|他们抗议这个决定|une pancarte
+53|出汗|tchou, hanne|Un CHOU (« CHU ») dégouline sous un HANNETON (« HAN ») : JE TRANSPIRE BEAUCOUP.|chūhàn ≈ « tchou-hane » ; les gouttes de sueur = transpirer|汗 = sueur|我出很多汗。|我出很多汗|des gouttes de sueur
+54|咳嗽|keu, so|Un KEU (« KE ») tousse dans un SEAU (« SOU ») : IL TOUSSE TOUTE LA NUIT.|késou ≈ « keu-so » ; le poing devant la bouche = tousser|感冒 = rhume|他咳嗽了一整夜。|他咳嗽了一整夜|un poing devant la bouche
+55|呜咽|ou, yé|Un « OU… » plaintif et un « YÉ… » de chien triste : LE CHIEN GÉMIT.|wūyè ≈ « ou-yé » ; le chiot triste = gémir|哭 = pleurer|狗在呜咽。|狗在呜咽|un chiot triste
+56|公布|gong, bou|Un GONG annonce et un BOUc affiche : ILS AFFICHENT LES RÉSULTATS.|gōngbù ≈ « gong-bou » ; le tableau d'affichage = afficher (publier)|贴 = coller|他们公布了结果。|他们公布了结果|un tableau d'affichage
+57|推迟|touei, tcheu|Un TOUEILLE (« TUI ») pousse un TCHEU (« CHI ») au lundi : ON REPOUSSE LA RÉUNION À LUNDI.|tuīchí ≈ « touei-tcheu » ; le calendrier poussé = repousser|延期 = reporter|会议推迟到星期一。|会议推迟到星期一|un calendrier poussé
+58|加速|djia, sou|Un JIA (« JIA ») appuie sur l'accélérateur d'un SOU (« SU ») : ACCÉLÈRE, ON EST EN RETARD !|jiāsù ≈ « djia-sou » ; la pédale = accélérer|快点 = plus vite|加速，我们要迟到了！|加速，我们要迟到了|une pédale
+59|检查|djienne, tcha|Le DJIENNE et le TCHA fouillent les valises : ILS INSPECTENT LES BAGAGES (doublon de verbes_7 33).|jiǎnchá ≈ « djienne-tcha » ; doublon|安检 = contrôle de sécurité|他们在检查行李。|他们在检查行李|une valise ouverte
+60|认真听|renne, djeune, ting|Un RENNE (« REN »), un JAUNE (« ZHEN ») et un TING ! d'oreilles tendues : ÉCOUTEZ-MOI TOUS.|rènzhēn tīng ≈ « renne-djeune-ting » ; les oreilles tendues = écouter attentivement|听 = écouter|大家都认真听我说。|大家都认真听我说|des oreilles tendues
+61|布置|bou, dji|Un BOUc et un GÉNIE (« ZHI ») distribuent des devoirs : LE PROFESSEUR DONNE LES DEVOIRS (布置作业).|bùzhì ≈ « bou-dji » ; la pile de copies = assigner|分配 = répartir|老师布置作业。|老师布置作业|une pile de copies
+62|晋级|djine, dji|Un JEAN (« JIN ») monte d'un GÉNIE (« JI ») de marche : L'ITALIE S'EST QUALIFIÉE.|jìnjí ≈ « djine-dji » ; la marche montée = se qualifier|出线 = se qualifier (sport)|意大利队晋级了。|意大利队晋级了|une marche montée
+63|比较|bi, djiao|Une BILLE (« BI ») et un JAGUAR (« JIAO ») sur une balance : COMPARE LES PRIX.|bǐjiào ≈ « bi-djiao » ; la balance = comparer|对比 = contraster|比较一下价格。|比较一下价格|une balance
+64|注射|djou, cheu|Un JOUJOU (« ZHU ») pique un CHE (« SHE ») à la seringue : ON LUI A INJECTÉ UN VACCIN.|zhùshè ≈ « djou-cheu » ; la seringue = injecter|打针 = faire une piqûre|给他注射了疫苗。|给他注射了疫苗|une seringue
+65|失业|chie, yé|La CHAISE vide crie « YÉ… » : IL EST AU CHÔMAGE (doublon de noms_8 74).|shīyè ≈ « chi-yé » ; doublon (verbe)|没工作 = sans travail|他失业了。|他失业了|une chaise vide
+66|洗衣服|si, i, fou|Un SIFFLET (« XI ») lave l'« I » du FOU dans la machine : JE FAIS LA LESSIVE.|xǐ yīfu ≈ « si-i-fou » ; la machine à laver = faire la lessive|洗衣机 = machine à laver|我在洗衣服。|我在洗衣服|une machine à laver
+67|不好意思|bou, hao, i, seu|Un BOUc, un « HAO », un « I » et un SEU rougissent : ÇA M'EMBÊTE DE TE DÉRANGER.|bù hǎoyìsi ≈ « bou-hao-i-seu » ; les joues rouges = embêter (être gêné)|麻烦 = déranger|不好意思麻烦你。|不好意思麻烦你|des joues rouges
+68|梳头|chou, to|Un CHOU (« SHU ») peigne un TO (« TOU ») devant le miroir : ELLE SE COIFFE DEVANT LE MIROIR.|shū tóu ≈ « chou-to » ; le peigne = se coiffer|梳子 = peigne|她在镜子前梳头。|她在镜子前梳头|un peigne
+69|威胁|ouei, sié|« OUAIS ? » la SIESTE brandit le poing : IL M'A MENACÉ DE PARTIR (doublon de noms_15 86).|wēixié ≈ « ouei-sié » ; doublon (verbe)|吓唬 = intimider|他威胁说要走。|他威胁说要走|un poing brandi
+70|领|ling|Un LINGOT (« LING ») tendu au guichet de paie : IL PERÇOIT UN SALAIRE (领工资).|lǐng ≈ « ling » ; l'enveloppe de paie = percevoir|收 = recevoir|他领工资。|他领工资|une enveloppe de paie
+71|进球|djine, tchiou|Un JEAN (« JIN ») envoie un CHOU (« QIU ») au fond des filets : IL A MARQUÉ UN BUT.|jìnqiú ≈ « djine-tchiou » ; le filet qui tremble = marquer un but|射门 = tirer au but|他进球了。|他进球了|un filet qui tremble
+72|证明|djeng, ming|Le JENGA tamponné à la lampe MING : IL A DÉMONTRÉ SA THÉORIE (doublon de noms_16 18).|zhèngmíng ≈ « djeng-ming » ; doublon|论证 = argumenter|他证明了他的理论。|证明了他的理论|un tampon
+73|评价|ping, djia|Un PINGOUIN (« PING ») met un JIA (« JIA ») de note : LE PROFESSEUR ÉVALUE LES ÉLÈVES.|píngjià ≈ « ping-djia » ; la note en rouge = évaluer|打分 = noter|老师评价学生。|老师评价学生|une note en rouge
+74|发|fa|Un FARE (« FA ») distribue des tracts : IL DISTRIBUE LES TRACTS (发传单).|fā ≈ « fa » ; les tracts = distribuer|分发 = répartir|他在发传单。|他在发传单|des tracts
+75|加热|djia, reu|Un JIA (« JIA ») ajoute un REU (« RE ») de flamme sous la poêle : FAIS CHAUFFER LA POÊLE.|jiārè ≈ « djia-reu » ; la flamme = chauffer|热一下 = réchauffer|把锅加热。|把锅加热|une flamme
+76|冲浪|tchong, lang|Un TCHONG (« CHONG ») fonce sur une LANGOUSTE (« LANG ») de vague : IL SURFE TOUS LES WEEK-ENDS.|chōnglàng ≈ « tchong-lang » ; la planche = surfer|游泳 = nager|他每个周末都去冲浪。|每个周末都去冲浪|une planche de surf
+77|投资|to, dzeu|Un TO (« TOU ») glisse un ZEU (« ZI ») de pièces dans une maison : IL INVESTIT DANS L'IMMOBILIER.|tóuzī ≈ « to-dzeu » ; la pièce glissée = investir|理财 = gérer son argent|他投资房地产。|他投资房地产|une pièce glissée
+78|理智|li, dji|Un LIT (« LI ») et un GÉNIE (« ZHI ») calmes : IL FAUT RAISONNER CALMEMENT (理智地思考).|lǐzhì ≈ « li-dji » ; la tête froide = raisonner|推理 = déduire|必须理智地想一想。|理智地想一想|une tête froide
+79|炸|dja|Le DJA plonge les frites dans l'huile : FAIS FRIRE LES POMMES DE TERRE ; 炸 se lit ici zhá.|zhá ≈ « dja » ; la friteuse = frire|炒 = sauter|炸一下土豆。|炸一下土豆|une friteuse|zhá
+80|统治|tong, dji|Un TONneau (« TONG ») couronné règne sur un GÉNIE (« ZHI ») : LE ROI GOUVERNE LE PAYS.|tǒngzhì ≈ « tong-dji » ; le sceptre = gouverner|管理 = gérer|国王统治着这个国家。|统治着这个国家|un sceptre
+81|晒|chaille|Un CHAILLE (« SHAI ») cuit au soleil : NE T'EXPOSE PAS AU SOLEIL (别晒太阳).|shài ≈ « chaille » ; le coup de soleil = s'exposer (au soleil)|暴露 = exposer|别晒太阳。|别晒太阳|un coup de soleil
+82|发短信|fa, douanne, sine|Le FARE envoie la DOUANE et le SIGNE : JE T'ÉCRIS UN TEXTO (doublon de verbes_8 90).|fā duǎnxìn ≈ « fa-douane-sine » ; doublon|写信息 = écrire un message|我给你发短信。|我给你发短信|un pouce sur l'écran
+83|提拔|ti, ba|Un TIgre (« TI ») tire un BAmbou (« BA ») vers le haut : ILS L'ONT PROMU DIRECTEUR.|tíbá ≈ « ti-ba » ; la main qui hisse = promouvoir|升职 = monter en grade|他们提拔他当了主任。|提拔他当了主任|une main qui hisse
+84|加入|djia, rou|Un JIA (« JIA ») fait entrer un ROUGEGORGE (« RU ») dans l'équipe : IL A ÉTÉ INTÉGRÉ À L'ÉQUIPE.|jiārù ≈ « djia-rou » ; le maillot donné = intégrer (rejoindre)|参加 = participer|他加入了这个队。|他加入了这个队|un maillot donné
+85|感动|ganne, dong|Le GANT essuie une larme au gong « DONG ! » : CE FILM M'A ÉMU (doublon de noms_11 91).|gǎndòng ≈ « gane-dong » ; doublon (verbe)|打动 = toucher|这部电影感动了我。|这部电影感动了我|une larme émue
+86|拉小提琴|la, siao, ti, tchine|Un LAMA (« LA ») tire l'archet du SIAMOIS-TIgre-CHINOIS : ELLE JOUE DU VIOLON.|lā xiǎotíqín ≈ « la-siao-ti-tchine » ; l'archet = jouer du violon|弹 = jouer (cordes pincées)|她拉小提琴。|她拉小提琴|un archet
+87|展开|djanne, kaï|Un GENDARME (« ZHAN ») déplie un KAYAK (« KAI ») d'ailes : L'OISEAU DÉPLOIE SES AILES.|zhǎnkāi ≈ « djane-kaï » ; les ailes dépliées = déployer|打开 = ouvrir|鸟展开翅膀。|鸟展开翅膀|des ailes dépliées
+88|开|kaï|Le KAYAK fait bouillonner la casserole : L'EAU BOUT (水开了) ; 沸腾 = bouillir (écrit).|kāi ≈ « kaï » ; les bulles = bouillir|沸腾 = bouillonner|水开了。|水开了|des bulles
+89|买单|maille, danne|Un MAÏS (« MAI ») paie le DANNE (« DAN ») d'addition : TU AS PAYÉ L'ADDITION ?|mǎidān ≈ « maille-dane » ; l'addition = payer l'addition|结账 = régler la note|你买单了吗？|你买单了吗|une addition
+90|超车|tchao, tcheu|Le CHAT double un TCHEU (« CHE ») sur l'autoroute : IL M'A DOUBLÉ SUR L'AUTOROUTE.|chāochē ≈ « tchao-tcheu » ; le dépassement = doubler|超过 = dépasser|他在高速公路上超了我的车。|超了我的车|un dépassement
+91|到期|dao, tchi|Un DAO (« DAO ») arrive à la date du TCHI (« QI ») : MON PASSEPORT EXPIRE EN MAI.|dàoqī ≈ « dao-tchi » ; le calendrier rouge = expirer|过期 = périmé|我的护照五月到期。|我的护照五月到期|un calendrier rouge
+92|梳|chou|Le CHOU au peigne : BROSSE TES CHEVEUX (梳梳头发 ; doublon de 68).|shū ≈ « chou » ; doublon|刷 = brosser|梳一梳头发。|梳一梳头发|un peigne
+93|强加|tchiang, djia|Un CHIANG (« QIANG ») force un JIA (« JIA ») d'idées : IL IMPOSE SES IDÉES À TOUT LE MONDE.|qiángjiā ≈ « tchiang-djia » ; le tampon forcé = imposer|强迫 = contraindre|他把自己的想法强加给所有人。|强加给所有人|un tampon forcé
+94|进入|djine, rou|Le JEAN et le ROUGEGORGE pénètrent dans la grotte : ILS ONT PÉNÉTRÉ DANS LA GROTTE (doublon de noms_9 22).|jìnrù ≈ « djine-rou » ; doublon (verbe)|闯入 = s'introduire|他们进入了山洞。|他们进入了山洞|une entrée de grotte
+95|让|rang|Le RANG laisse sa place : CÈDE TA PLACE (让座 ; doublon de verbes_5 32).|ràng ≈ « rang » ; doublon (céder)|让座 = céder sa place|把座位让出来。|把座位让出来|une place cédée
+96|噎|yé|« YÉ ! » une arête coincée dans la gorge : IL S'EST ÉTOUFFÉ AVEC UNE ARÊTE (被鱼刺噎住了).|yē ≈ « yé » ; la gorge bouchée = s'étouffer avec|呛 = s'étrangler|他被鱼刺噎住了。|被鱼刺噎住了|une gorge bouchée
+97|挂|goua|Le GOUA raccroche le combiné : NE RACCROCHE PAS ! (doublon de verbes_8 48).|guà ≈ « goua » ; doublon (italien mettere giù)|挂电话 = raccrocher|别挂电话！|别挂电话|un combiné raccroché
+98|响|siang|La SIANNE d'alarme hurle : L'ALARME S'EST DÉCLENCHÉE (doublon de verbes_5 05).|xiǎng ≈ « siang » ; doublon|拍照 = prendre une photo|警报响了。|警报响了|une sirène
+99|系|dji|Un GÉNIE (« JI ») boucle la ceinture : ATTACHE TA CEINTURE (系安全带) ; 系 se lit ici jì.|jì ≈ « dji » ; la boucle = attacher (lacer)|绑 = ligoter|系好安全带。|系好安全带|une boucle|jì

@@ -1,0 +1,100 @@
+00|离开|li, kaï|Un LIT (« LI ») s'en va en KAYAK (« KAI ») : elle le QUITTE après dix ans.|lí-kāi ≈ « li-kaï » ; la valise = quitter|分手 = rompre|十年后她离开了他。|离开了他|un lit en kayak
+01|还要|haï, yao|Une HAIE (« HAI ») tend encore un YAOURT : IL RESTE À payer.|hái yào + verbe ≈ « haï-yao » ; la facture = rester à faire|还得 = il faut encore|还要付钱。|还要付钱|une haie et une facture
+02|受够|cho, go|Un CHAUD (« SHOU ») GOGO (« GOU ») explose : J'EN AI ASSEZ !|shòu-gòu ≈ « cho-go » ; le vase qui déborde = en avoir assez|烦死了 = ça me saoule|我受够了！|受够了|un vase qui déborde
+03|喝|heu|« HEU… » : le buveur vide sa tasse : BOIRE.|hē ≈ « heu » ; la tasse = boire|喝水 = boire de l'eau|你喝什么？|你喝什么|une tasse vidée
+04|给…看|gueille, kanne|Un GUEILLE (« GEI ») tend une longue-vue (« KAN ») : MONTRE-moi !|gěi … kàn ≈ « gueille-kane » ; le doigt pointé = montrer|展示 = exposer|给我看看！|给我看看|une main qui tend une longue-vue
+05|拿|na|Un NAIN (« NA ») PORTE tes sacs.|ná ≈ « na » ; les sacs = porter (à la main)|搬 = porter (lourd)|我帮你拿包。|帮你拿包|un nain chargé de sacs
+06|赢|ing|Un INGÉ (« YING ») brandit la coupe : ON A GAGNÉ !|yíng ≈ « ing » ; la coupe = gagner|赢了 = gagné|我们赢了！|我们赢了|un ingé et une coupe
+07|更差|gueng, tcha|Un GUENGUEN (« GENG ») et un CHAT (« CHA ») malade : il VA MOINS BIEN.|gèng chà ≈ « gueng-tcha » ; le thermomètre = aller moins bien|不如以前 = moins bien qu'avant|他今天更差了。|更差了|un chat malade
+08|穿|tchouanne|Un CHOUAN (« CHUAN ») enfile une robe rouge : PORTER (un vêtement).|chuān ≈ « tchouane » ; la robe = porter|戴 = porter (accessoire)|她穿着一条红裙子。|穿着|un chouan en robe
+09|记得|dji, deu|Un GÉNIE (« JI ») DEUx fois noue un fil au doigt : SE SOUVENIR.|jì-de ≈ « dji-deu » ; le nœud au doigt = se souvenir|想起来 = se rappeler (soudain)|你还记得我吗？|记得我吗|un génie au doigt noué
+10|想办法|siang, banne, fa|Un SIANGE sur un BANC de FAkir (« BANFA ») cherche une solution : CHERCHER À.|xiǎng bànfǎ ≈ « siang-bane-fa » ; l'ampoule = chercher à faire|努力 = s'efforcer|他想办法弄明白。|想办法|un siange sur un banc de fakir
+11|进口|djine, keou|Un JEAN (« JIN ») entre dans une bouche (« KOU ») : IMPORTER du café.|jìn-kǒu ≈ « djine-keou » ; le cargo = importer|出口 = exporter|我们进口咖啡。|进口咖啡|un cargo de café
+12|找到|djao, d'ao|Un JAGUAR (« ZHAO ») arrive (« DAO ») avec ton chat : RETROUVER.|zhǎo-dào ≈ « djao-dao » ; la loupe = retrouver|找回 = récupérer|我找到我的猫了。|找到我的猫了|un jaguar avec un chat
+13|运气好|yune, tchi, hao|Une YOUNE (« YUN ») et un TCHI crient « HAO ! » : T'AS DE LA CHANCE !|yùnqi hǎo ≈ « yune-tchi-hao » ; le trèfle = la chance|走运 = avoir du bol|你运气真好！|运气真好|un trèfle à quatre feuilles
+14|写|sié|Un SIÉ (« XIE ») trace des caractères : ÉCRIS-moi !|xiě ≈ « sié » ; le pinceau = écrire|写信 = écrire une lettre|给我写信！|给我写信|un pinceau
+15|继续|dji, su|Un GÉNIE (« JI ») avale un SUcre (« XU ») et repart : CONTINUE !|jì-xù ≈ « dji-su » ; la flèche qui repart = continuer|接着 = enchaîner|继续，很好！|继续|un génie qui repart
+16|请|tching|Un CHINOIS (« QING ») ouvre la porte en s'inclinant : JE VOUS EN PRIE.|qǐng ≈ « tching » ; la main ouverte = prier (inviter)|不客气 = de rien|请便。|请便|un chinois qui s'incline
+17|用|yong|Un couteau (« YONG ») cassé : ÇA SERT À RIEN.|yòng ≈ « yong » ; l'outil = servir|有用 = utile|这没用。|没用|un couteau cassé
+18|买|maille|Un MAÏS (« MAI ») emballé contre une pièce : ACHETER du pain.|mǎi ≈ « maille » ; le porte-monnaie = acheter|卖 mài = vendre (4e ton !)|我买了面包。|买了面包|un maïs contre une pièce
+19|回电话|houei, dienne, houa|Un boomerang (« HUI ») ramène le téléphone (« DIANHUA ») : JE TE RAPPELLE.|huí diànhuà ≈ « houei-dienne-houa » ; le combiné qui revient = rappeler|再打 = rappeler encore|我给你回电话。|回电话|un téléphone en boomerang
+20|遇见|yu, djienne|Un YOUYOU (« YU ») croise un DIEN (« JIAN ») : RENCONTRER.|yù-jiàn ≈ « yu-djienne » ; la poignée de main = rencontrer|认识 = faire la connaissance|我昨天遇见他了。|遇见他了|un youyou qui croise un dien
+21|打发时间|da, fa, chie, djienne|Un DAuphin FAkir tue le temps sur une CHAISE avec un DIEN : PASSER LE TEMPS.|dǎfa shíjiān ≈ « da-fa-chi-djienne » ; le sablier secoué = passer le temps|消磨 = tuer le temps|你好像在这儿打发时间！|打发时间|un dauphin qui secoue un sablier
+22|跟|guenne|Une GUENON (« GEN ») suit ta trace : SUIS-moi !|gēn ≈ « guenne » ; les traces de pas = suivre|跟着 = à la suite|跟我来！|跟我来|une guenon qui suit
+23|看|kanne|Une longue-vue (« KAN ») sur un livre : TU LIS QUOI ?|kàn ≈ « kane » ; le livre = lire (看书)|读 = lire à voix haute|你在看什么？|你在看什么|une longue-vue sur un livre
+24|看起来|kanne, tchi, laï|La longue-vue (« KAN ») se lève (« QILAI ») : TU SEMBLES fatigué.|kàn qǐlai ≈ « kane-tchi-laï » ; le miroir = sembler|好像 = avoir l'air|你看起来很累。|看起来很累|une longue-vue qui se lève
+25|去上班|tchu, chang, banne|Un CHOU (« QU ») monte (« SHANG ») sur un BANC : ALLER AU TRAVAIL.|qù shàngbān ≈ « tchu-chang-bane » ; la mallette = aller au travail|下班 = quitter le travail|我走路去上班。|去上班|un chou à la mallette
+26|上|chang|Un CHAMEAU (« SHANG ») MONTE dans la voiture.|shàng ≈ « chang » ; la flèche vers le haut = monter|上车 = monter en voiture|上车！|上车|un chameau qui monte
+27|救|djiou|Un JUDOKA (« JIU ») te tire de l'eau : SAUVER.|jiù ≈ « djiou » ; la bouée = sauver|救命 = au secours|你救了我的命。|救了我的命|un judoka à la bouée
+28|给|gueille|Un GUEILLE (« GEI ») tend un paquet : DONNE-moi ça.|gěi ≈ « gueille » ; la main tendue = donner|送 = offrir|把那个给我。|给我|une main tendue
+29|开始|kaï, chie|Un KAYAK (« KAI ») part d'une CHAISE (« SHI ») : IL S'EST MIS à pleuvoir.|kāishǐ ≈ « kaï-chi » ; le drapeau de départ = se mettre à|起来 = se mettre à (après verbe)|开始下雨了。|开始下雨了|un kayak au départ
+30|花时间|houa, chie, djienne|Une fleur (« HUA ») fane sur une CHAISE avec un DIEN : PASSER DU TEMPS.|huā shíjiān ≈ « houa-chi-djienne » ; le sablier fleuri = passer du temps|待 = rester|你好像在这上面花了一辈子！|花了一辈子|un sablier fleuri
+31|回|houei|Un boomerang (« HUI ») revient à Rome : JE RETOURNE.|huí ≈ « houei » ; le boomerang = retourner|回去 = y retourner|我回罗马。|我回罗马|un boomerang vers Rome
+32|花时间…|houa, chie, djienne|La fleur (« HUA ») sur la CHAISE tourne les pages : PASSER DU TEMPS À lire.|huā shíjiān + verbe|用来 = consacrer à|我花时间看书。|花时间看书|une fleur qui lit
+33|有…味|yo, ouei|« YO ! » : un OUISTITI (« WEI ») renifle : ÇA SENT le brûlé.|yǒu … wèi ≈ « yo-ouei » ; le nez = sentir|闻 = sentir (activement)|有一股烧焦的味道。|烧焦的味道|un ouistiti qui renifle
+34|有…味道|yo, ouei, d'ao|« YO ! », le OUISTITI et une bulle D'AO de fumée : AVOIR L'ODEUR DE.|yǒu … wèidao ≈ « yo-ouei-dao » ; la fumée = l'odeur|股 = classificateur des odeurs|这件毛衣有烟味。|有烟味|un pull qui fume
+35|碰|peng|Un « PENG ! » électrique : TOUCHE PAS !|pèng ≈ « peng » ; l'éclair = toucher|摸 = toucher (caresser)|别碰！|别碰|un éclair au contact
+36|想|siang|Un SIANGE (« XIANG ») serre ta photo : TU ME MANQUES.|xiǎng + qn ≈ « siang » ; la photo serrée = manquer (qn)|缺 = manquer (de qc)|我想你。|我想你|un siange et une photo
+37|原谅|yuanne, liang|Une YOURTE (« YUAN ») et un LIANG serrent la main : EXCUSE-moi !|yuán-liàng ≈ « yuanne-liang » ; la main tendue = excuser|对不起 = pardon|原谅我！|原谅我|une yourte qui tend la main
+38|送|song|Un SONGE (« SONG ») conduit en taxi : JE T'EMMÈNE à la gare.|sòng ≈ « song » ; le taxi = emmener|带 = amener|我送你去火车站。|送你去火车站|un songe en taxi
+39|接|djié|Un JET (« JIE ») décroche : RÉPONDS AU TÉLÉPHONE !|jiē ≈ « djié » ; le combiné décroché = répondre (téléphone)|回答 = répondre (question)|接电话！|接电话|un jet qui décroche
+40|偷|to|Un TOTEM (« TOU ») file avec ton vélo : VOLER.|tōu ≈ « to » ; le masque = voler (dérober)|小偷 = voleur|我的自行车被偷了！|被偷了|un totem masqué
+41|用|yong|Un couteau (« YONG ») en main : TU UTILISES QUOI ?|yòng ≈ « yong » ; l'outil = utiliser|使用 = utiliser (écrit)|你用什么？|你用什么|un couteau en main
+42|注意|djou, i|Un JOUJOU (« ZHU ») dit « I ! » en montrant la marche : FAIS ATTENTION.|zhù-yì ≈ « djou-i » ; le panneau ⚠ = faire attention|小心 = prudence|注意台阶。|注意台阶|un jouet devant une marche
+43|飞|feille|Une FEUILLE (« FEI ») s'envole : VOLER (dans les airs).|fēi ≈ « feille » ; les ailes = voler|飞机 = avion|我想飞。|我想飞|une feuille qui s'envole
+44|戒|djié|Un JET (« JIE ») écrase la cigarette : ARRÊTE DE FUMER.|jiè ≈ « djié » ; la cigarette brisée = arrêter (une habitude)|别再 = ne plus|把烟戒了。|把烟戒了|une cigarette écrasée
+45|整天|djeng, tienne|Un gong « DJENG » sonne toute la TIENNE (« TIAN ») : IL PASSE SON TEMPS À jouer.|zhěng tiān + verbe ≈ « djeng-tienne » ; l'horloge pleine = passer son temps à|老是 = tout le temps|他整天玩。|他整天玩|un gong qui sonne
+46|坐|dzwo|Un ZORRO (« ZUO ») se laisse tomber : ASSIEDS-toi !|zuò ≈ « dzwo » ; la chaise = s'asseoir|坐下 = s'asseoir|坐！|坐|un zorro qui s'assoit
+47|结婚|djié, houenne|Un JET (« JIE ») et un HOUÉ (« HUN ») échangent les alliances : SE MARIER.|jié-hūn ≈ « djié-houenne » ; les alliances = se marier|嫁 = épouser (femme)|他们五月结婚。|五月结婚|deux alliances
+48|去接|tchu, djié|Un CHOU (« QU ») prend un JET (« JIE ») : ALLER CHERCHER les enfants.|qù jiē ≈ « tchu-djié » ; la voiture à l'école = aller chercher|接人 = chercher quelqu'un|我去接孩子。|去接孩子|un chou devant l'école
+49|担心|danne, sine|Une DANSE (« DAN ») nerveuse fait un SIGNE (« XIN ») : NE T'INQUIÈTE PAS !|dān-xīn ≈ « dane-sine » ; le front plissé = s'inquiéter|着急 = s'affoler|别担心！|别担心|une danse nerveuse
+50|超爱|tchao, aille|Un CHAT (« CHAO ») crie « AÏE ! » d'amour : J'ADORE ce film !|chāo ài ≈ « tchao-aille » ; les cœurs = adorer|特别喜欢 = aimer beaucoup|我超爱这部电影！|超爱这部电影|un chat aux yeux en cœur
+51|正在|djeng, dzaille|Une horloge « DJENG ! » et le serveur (« ZAI ») en pleine action : ÊTRE EN TRAIN DE.|zhèngzài + verbe ≈ « djeng-dzaille » ; l'aiguille qui tourne = être en train de|在 = id. (court)|我正在吃饭。|正在吃饭|une horloge en mouvement
+52|说再见|chouo, dzaille, djienne|Le CHOUchou, un ZÈBRE et un DIEN agitent la main : DIRE AU REVOIR.|shuō zàijiàn ≈ « chouo-dzaille-djienne » ; la main agitée = dire au revoir|告别 = faire ses adieux|跟奶奶说再见。|说再见|une main qui s'agite
+53|值|dji|Un GÉNIE (« ZHI ») pèse l'or : ÇA VAUT le coup.|zhí ≈ « dji » ; la balance = valoir|值得 = valoir la peine|这很值。|很值|un génie à la balance
+54|放|fang|Une FANGE (« FANG ») posée au sol : POSE ÇA LÀ.|fàng ≈ « fang » ; la main qui dépose = poser|摆 = disposer|把那个放那儿。|放那儿|une fange posée
+55|放在|fang, dzaille|La FANGE (« FANG ») et le serveur (« ZAI ») déposent ici : POSER QC QUELQUE PART.|fàng zài + lieu ≈ « fang-dzaille » ; la croix au sol = poser quelque part|搁 = mettre (oral)|把这个放在这儿。|放在这儿|une croix au sol
+56|问|ouenne|Un OUISTITI (« WEN ») lève un « ? » : DEMANDE-lui l'heure.|wèn ≈ « ouenne » ; le « ? » = demander (question)|要 = demander (objet)|问问他几点了。|问问他|un ouistiti au « ? »
+57|叫|djiao|Un JAGUAR (« JIAO ») appelle : IL M'A DEMANDÉ DE venir.|jiào + qn + verbe ≈ « djiao » ; le porte-voix = demander à qn de|让 = laisser, faire faire|他叫我来。|他叫我来|un jaguar au porte-voix
+58|讲|djiang|Un DJINN (« JIANG ») raconte devant le feu : RACONTE-moi tout !|jiǎng ≈ « djiang » ; le feu de camp = raconter|说 = dire|全都讲给我听！|讲给我听|un djinn au coin du feu
+59|靠|kao|Un KAOLIN (« KAO ») où l'on s'adosse : JE COMPTE SUR TOI.|kào ≈ « kao » ; le dossier = compter sur|数 shǔ = compter (chiffres)|我靠你了。|我靠你了|un dos qui s'appuie
+60|跳|tiao|Un TIAO-tiao saute dans ta poitrine : MON CŒUR BAT fort.|tiào ≈ « tiao » ; le cœur qui saute = battre (cœur)|打 = battre (frapper)|我的心跳得很快。|心跳得很快|un cœur qui saute
+61|头疼|to, teng|Le TOTEM (« TOU ») frappe un gong « TENG » : J'AI MAL À LA TÊTE.|tóu-téng ≈ « tô-teng » ; la tête qui cogne = avoir mal à la tête|头痛 = id.|我头疼。|我头疼|un totem et un gong
+62|演|yienne|Une YIENNE (« YAN ») joue sur scène : IL JOUE DANS CE FILM.|yǎn ≈ « yienne » ; le masque d'opéra = jouer (un rôle)|演员 = acteur|他演过这部电影。|演过这部电影|une yienne masquée
+63|够|go|Un GOGO (« GOU ») plein à ras bord : ÇA SUFFIT !|gòu ≈ « go » ; le verre plein = suffire|行了 = c'est bon|够了！|够了|un verre plein
+64|关|gouanne|Un GOUAILLEUR (« GUAN ») claque la porte : FERME la porte !|guān ≈ « gouane » ; le loquet = fermer|开 = ouvrir|关门！|关门|une porte claquée
+65|过夜|guo, yé|Un GOGO (« GUO ») dit « YÉ ! » sous la lune : PASSER LA NUIT.|guò yè ≈ « guo-yé » ; le sac de couchage = passer la nuit|住一晚 = loger une nuit|我们得在这儿过夜吗？|在这儿过夜|un sac de couchage
+66|卖|maille|Un MAÏS (« MAI ») avec un panneau « À vendre » : VENDRE.|mài ≈ « maille » ; le panneau = vendre|买 mǎi = acheter (3e ton !)|他要卖他的车。|卖他的车|un panneau « à vendre »
+67|撒谎|sa, houang|Un SAtyre (« SA ») au nez qui s'allonge, HOUANG ! : TU ME MENS !|sā-huǎng ≈ « sa-houang » ; le long nez = mentir|骗 = tromper|你在对我撒谎！|对我撒谎|un satyre au long nez
+68|想象|siang, siang|Deux SIANGES (« XIANG XIANG ») rêvent dans un nuage : J'IMAGINE PAS.|xiǎng-xiàng ≈ « siang-siang » ; la bulle = imaginer|想不到 = inimaginable|我想象不出来。|想象不出来|deux siangs dans un nuage
+69|决定|djué, dingue|Un JURÉ (« JUE ») plante un clou DINGUE : C'EST TOI QUI DÉCIDES.|jué-dìng ≈ « djué-dingue » ; le marteau = décider|定 = fixer|你来决定。|你来决定|un juré au marteau
+70|藏|tsang|Un TSAR (« CANG ») cache un trésor : OÙ T'AS CACHÉ ÇA ?|cáng ≈ « tsang » ; le coffre caché = cacher|躲 = se cacher|你把那个藏哪儿了？|藏哪儿了|un tsar et un coffre
+71|动|dong|Un gong « DONG ! » fige tout : BOUGE PAS !|dòng ≈ « dong » ; le gong = bouger|别动 = ne bouge pas|别动！|别动|un gong qui fige
+72|准备好…|djouenne, beille, hao|Un JOUEUR (« ZHUN ») et une BEILLE crient « HAO ! » : JE SUIS PRÊT À partir.|zhǔnbèi hǎo + verbe ≈ « djouenne-beille-hao » ; la valise fermée = être prêt à|随时可以 = prêt à tout moment|我准备好出发了。|准备好出发了|une valise fermée
+73|天气好|tienne, tchi, hao|Une TIENNE (« TIAN ») et un TCHI crient « HAO ! » au soleil : IL FAIT BEAU.|tiānqì hǎo ≈ « tienne-tchi-hao » ; le soleil = faire beau|晴天 = jour ensoleillé|今天天气很好。|天气很好|un soleil radieux
+74|收到|cho, d'ao|Un CHAUD (« SHOU ») paquet arrive (« DAO ») : J'AI REÇU ton message.|shōu-dào ≈ « cho-dao » ; la boîte aux lettres = recevoir|接到 = recevoir (appel)|我收到你的消息了。|收到你的消息了|un paquet qui arrive
+75|下|sia|Un SIAMOIS (« XIA ») glisse sur la rampe : JE DESCENDS tout de suite.|xià ≈ « sia » ; la flèche vers le bas = descendre|下楼 = descendre l'escalier|我马上下来。|马上下来|un siamois sur une rampe
+76|行动|sing, dong|Un SINGE (« XING ») frappe un gong « DONG ! » : IL FAUT AGIR maintenant.|xíng-dòng ≈ « sing-dong » ; le poing levé = agir|做 = faire|现在必须行动。|必须行动|un singe au gong
+77|相信|siang, sine|SIANNE fait un SIGNE (« XIN ») de confiance : FAIS-MOI CONFIANCE.|xiāng-xìn ≈ « siang-sine » ; la main sur le cœur = faire confiance|信任 = avoir confiance|相信我。|相信我|une main sur le cœur
+78|信任|sine, renne|Un SIGNE (« XIN ») vers un RENNE : FAIS-MOI CONFIANCE (se fier).|xìn-rèn ≈ « sine-renne » ; la main tendue = se fier|靠得住 = fiable|信任我。|信任我|une main tendue à un renne
+79|找到工作|djao, d'ao, gong, dzwo|Un JAGUAR arrive (« ZHAODAO ») avec un GONG et ZORRO : TROUVER DU TRAVAIL.|zhǎodào gōngzuò ≈ « djao-dao-gong-dzwo » ; le contrat = trouver du travail|上班 = travailler|你……找到工作了吗？|找到工作了吗|un jaguar avec un contrat
+80|需要帮助|sous-yaourt, bang, djou|Un SOUS-YAOURT et un BANG ! appellent le JOUJOU (« ZHU ») : AVOIR BESOIN D'AIDE.|xūyào bāngzhù ≈ « su-yao-bang-djou » ; la bouée = avoir besoin d'aide|帮帮我 = aide-moi|这样的话，我需要帮助。|我需要帮助|une bouée appelée
+81|拐|gouaille|Un GOUAILLEUR (« GUAI ») prend le virage : TOURNE à droite.|guǎi ≈ « gouaille » ; la flèche courbe = tourner|转 = tourner (pivoter)|往右拐。|往右拐|une flèche courbe
+82|扔|reng|Un RENNE (« RENG ») lance un objet : JETTE ÇA !|rēng ≈ « reng » ; la poubelle = jeter|丢 = jeter (oral)|扔掉！|扔掉|un renne qui lance
+83|解释|djié, chie|Un JET (« JIE ») au tableau devant une CHAISE (« SHI ») : JE T'EXPLIQUE.|jiě-shì ≈ « djié-chi » ; le tableau = expliquer|说明 = préciser|我给你解释。|给你解释|un jet au tableau
+84|更新|gueng, sine|Un GUENGUEN (« GENG ») fait un SIGNE (« XIN ») neuf : METS À JOUR ton téléphone.|gēng-xīn ≈ « gueng-sine » ; la flèche circulaire = mettre à jour|升级 = mise à niveau|更新一下你的手机。|更新一下|une flèche circulaire
+85|带|daille|Un DAIM (« DAI ») tient la main d'une fille : AMÈNE ta sœur.|dài ≈ « daille » ; la main tenue = amener|带来 = apporter|带你姐姐来。|带你姐姐来|un daim qui tient une main
+86|扔|reng|Le RENNE (« RENG ») lance l'arme au loin : JETTE TON ARME ! (doublon de 82)|rēng ≈ « reng » ; doublon de 82 : un seul verbe chinois|丢掉 = jeter|把武器扔掉！|把武器扔掉|un renne qui lance une arme
+87|说实话|chouo, chie, houa|Le CHOUchou sur la CHAISE tend une vraie fleur (« HUA ») : DIRE LA VÉRITÉ !|shuō shíhuà ≈ « chouo-chi-houa » ; la main levée = dire la vérité|说真话 = id.|说实话！|说实话|un chouchou à la main levée
+88|能…|neng|Un « NENG » de clé coincée : JE N'ARRIVE PAS À ouvrir.|néng ≈ « neng » ; la serrure = arriver à|打不开 = ne pas arriver à ouvrir|我打不开门。|打不开门|une clé coincée
+89|保证|bao, djeng|Un BAObab (« BAO ») frappe un gong « DJENG ! » : JE TE PROMETS.|bǎo-zhèng ≈ « bao-djeng » ; le petit doigt = promettre|答应 = promettre (accepter)|我向你保证。|向你保证|un baobab au gong
+90|请客|tching, keu|Un CHINOIS (« QING ») tend l'addition au KEU : C'EST MOI QUI OFFRE !|qǐng-kè ≈ « tching-keu » ; l'addition = offrir|送 = offrir (cadeau)|我请客！|我请客|un chinois et l'addition
+91|选|suanne|Un SOUANNE (« XUAN ») pointe une carte : CHOISIS !|xuǎn ≈ « suane » ; le doigt sur une carte = choisir|挑 = trier|选吧！|选吧|un doigt sur une carte
+92|送…回|song, houei|Le SONGE (« SONG ») et le boomerang (« HUI ») te ramènent : JE TE RAMÈNE chez toi.|sòng … huí ≈ « song-houei » ; le taxi retour = ramener|带回 = rapporter|我送你回家。|送你回家|un taxi retour
+93|接受|djié, cho|Un JET (« JIE ») reçoit un CHAUD (« SHOU ») paquet : J'ACCEPTE.|jiē-shòu ≈ « djié-cho » ; la main ouverte = accepter|同意 = être d'accord|我接受。|我接受|une main ouverte
+94|掏出|tao, tchou|Un TAOïste (« TAO ») sort (« CHU ») un portefeuille : IL SORT son portefeuille.|tāo-chū ≈ « tao-tchou » ; la main dans la poche = sortir (qc)|拿出 = sortir (prendre)|他掏出钱包。|掏出钱包|un taoïste et un portefeuille
+95|摆脱麻烦|baï, touo, ma, fanne|Un BAILLEUR (« BAI ») tire (« TUO ») le cheval (« MA ») des FANGES : TIRER D'AFFAIRE.|bǎituō máfan ≈ « baï-touo-ma-fane » ; la corde = tirer d'affaire|解围 = sortir d'embarras|我的律师会帮我摆脱麻烦。|帮我摆脱麻烦|un cheval tiré de la boue
+96|准备|djouenne, beille|Un JOUEUR (« ZHUN ») et une BEILLE en tablier : JE PRÉPARE le dîner.|zhǔn-bèi ≈ « djouenne-beille » ; le tablier = préparer|做饭 = cuisiner|我在准备晚饭。|准备晚饭|une beille en tablier
+97|料到|liao, d'ao|Un LION (« LIAO ») arrive (« DAO ») sans surprise : JE M'ATTENDAIS À ÇA.|liào-dào ≈ « liao-dao » ; la boule de cristal = s'attendre à|预料 = prévoir|我早料到了。|早料到了|un lion devant une boule de cristal
+98|弄掉|nong, diao|Un NONG (« NONG ») fait tomber (« DIAO ») un stylo : T'AS FAIT TOMBER ton stylo.|nòng-diào ≈ « nong-diao » ; le stylo qui chute = faire tomber|掉 = tomber|你把笔弄掉了。|把笔弄掉了|un stylo qui chute
+99|碰到|peng, d'ao|Un « PENG ! », on arrive (« DAO ») nez à nez : JE SUIS TOMBÉ SUR Marco.|pèng-dào ≈ « peng-dao » ; le choc = tomber sur|遇到 = rencontrer par hasard|我碰到马可了。|碰到马可了|un choc nez à nez

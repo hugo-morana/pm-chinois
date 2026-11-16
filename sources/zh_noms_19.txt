@@ -1,0 +1,100 @@
+00|烟草店|yanne, tsao, dienne|Le YANN, le TSAO et le DIAMANT derrière un rideau : LE BUREAU DE TABAC EST FERMÉ.|yāncǎodiàn ≈ « yane-tsao-diène » ; 烟草 tabac + 店 boutique|小卖部 = kiosque|烟草店关门了。|烟草店关门了|une carotte de tabac
+01|棒球|bang, tchio|Le BANG ! de batte sur le TCHIO (« QIU ») : IL JOUE AU BASEBALL.|bàngqiú ≈ « bang-tchio » ; 棒 bâton + 球 balle|垒球 = softball|他打棒球。|他打棒球|une batte
+02|雾|ou|Un « OUH… » (« WU ») perdu dans le blanc : IL Y A DU BROUILLARD.|wù ≈ « ou » ; le voile blanc = le brouillard|雾霾 = smog|有雾。|有雾|un voile blanc
+03|公鸡|gong, dji|Le GONG réveille le GÉNIE (« JI ») : LE COQ CHANTE À L'AUBE.|gōngjī ≈ « gong-dji » ; 公 mâle + 鸡 poule|母鸡 = la poule|公鸡在黎明打鸣。|公鸡在黎明打鸣|une crête rouge
+04|丝绸|seu, tcho|Le SEU tisse un TCHO brillant : UNE CHEMISE EN SOIE.|sīchóu ≈ « seu-tcho » ; 丝 fil + 绸 étoffe|丝 = soie (fil)|一件丝绸衬衫。|一件丝绸衬衫|un cocon
+05|豆角|do, djiao|Le DOdo et le JAGUAR croquent des cosses : DES HARICOTS VERTS.|dòujiǎo ≈ « do-djiao » ; 豆 haricot + 角 corne (cosse)|豆子 = haricot (grain)|一些豆角。|一些豆角|une cosse verte
+06|速度|sou, dou|Le SOU file avec le DOUdou : IL MARCHE À VIVE ALLURE.|sùdù ≈ « sou-dou » ; « l'allure (vitesse) » = 速度|步伐 = le pas|他走路速度很快。|他走路速度很快|un compteur
+07|铲子|tchanne, dzeu|Le CHANT (« CHAN ») et le ZEU creusent : PRENDS LA PELLE.|chǎnzi ≈ « tchane-dzeu » ; 铲 pelleter + 子|锹 = bêche|拿铲子。|拿铲子|une pelle
+08|电影节|dienne, ying, djié|Le DIAMANT, le YING et le JET sur tapis rouge : LE FESTIVAL DE VENISE COMMENCE.|diànyǐngjié ≈ « diène-ying-djié » ; 电影 cinéma + 节 fête|节日 = fête|威尼斯电影节开幕了。|威尼斯电影节开幕了|un tapis rouge
+09|验血|yanne, sié|Le YANN pique et la SIESTE saigne : CASEY, TEST SANGUIN (les analyses de sang).|yànxiě ≈ « yane-sié » ; 验 examiner + 血 sang|血检 = prise de sang|凯西，验血。|凯西，验血|une seringue
+10|女主角|nu, djou, djué|La NU (« NÜ »), le JOUjou et le JUGE au générique : C'EST L'HÉROÏNE DU FILM.|nǚzhǔjué ≈ « nu-djou-djué » ; 女 femme + 主角 rôle principal|海洛因 = l'héroïne (drogue)|她是电影的女主角。|她是电影的女主角|une étoile
+11|电炉|dienne, lou|Le DIAMANT électrique et le LOUP chauffent : LA PLAQUE ÉLECTRIQUE EST CHAUDE.|diànlú ≈ « diène-lou » ; 电 électrique + 炉 four, réchaud|电磁炉 = plaque à induction|电炉很烫。|电炉很烫|une spirale rouge
+12|睡衣|chouei, i|Le CHOUETTE enfile un « I » rayé : METS TON PYJAMA.|shuìyī ≈ « chouei-i » ; 睡 dormir + 衣 vêtement|睡裤 = pantalon de pyjama|穿上你的睡衣。|穿上你的睡衣|un pyjama rayé
+13|台词|taï, tseu|La TAÏE (« TAI ») et le TSEU déclament : C'EST LA MEILLEURE RÉPLIQUE DU FILM.|táicí ≈ « taï-tseu » ; 台 scène + 词 mots|对白 = dialogue|这是电影里最好的台词。|这是电影里最好的台词|une bulle de dialogue
+14|悲剧|beille, djiu|Une BEILLE qui pleure et le JUS : C'EST UN DRAME TRÈS TRISTE.|bēijù ≈ « beille-dju » ; 悲 triste + 剧 pièce|戏剧 = le drame (genre)|这是一出很悲伤的悲剧。|这是一出很悲伤的悲剧|deux masques
+15|指挥权|djeu, houei, tchuanne|Un GÉNIE, le boomerang et le TCHUANNE au bâton : IL A PRIS LE COMMANDEMENT DE L'UNITÉ.|zhǐhuīquán ≈ « djeu-houei-tchuane » ; 指挥 commander + 权 pouvoir|领导 = direction|他接管了部队的指挥权。|他接管了部队的指挥权|un bâton de commandement
+16|命令|ming, ling|Le MING et le LINGE claquent : C'EST UN ORDRE ! (doublon de formes_13 08).|mìnglìng ≈ « ming-ling » ; doublon (nom)|指令 = instruction|这是命令！|这是命令|un index impérieux
+17|墨水|mo, chouei|Le MOT (« MO ») noir dans le CHOUETTE d'eau : IL N'Y A PLUS D'ENCRE.|mòshuǐ ≈ « mo-chouei » ; 墨 encre + 水 eau|墨 = encre de Chine|没有墨水了。|没有墨水了|une plume sèche
+18|苹果汁|ping, gouo, djeu|Le PING-pong, le GUO et le GÉNIE pressent : UN JUS DE POMME FRAIS.|píngguǒzhī ≈ « ping-gouo-djeu » ; 苹果 pomme + 汁 jus|果汁 = jus de fruit|一杯新鲜的苹果汁。|一杯新鲜的苹果汁|une pomme pressée
+19|阳台|yang, taï|Le YANG au soleil sur la TAÏE : ON MANGE SUR LE BALCON.|yángtái ≈ « yang-taï » ; 阳 soleil + 台 plateforme|露台 = terrasse|我们在阳台上吃饭。|我们在阳台上吃饭|un balcon fleuri
+20|渔夫|yu, fou|Le YOUYOU et le FOU à la ligne : LE PÊCHEUR ATTEND.|yúfū ≈ « yu-fou » ; 渔 pêcher + 夫 homme|渔民 = pêcheur (métier)|渔夫在等着。|渔夫在等着|une canne à pêche
+21|胯|koua|Le KOUA (« KUA ») tordu : IL A MAL À LA HANCHE.|kuà ≈ « koua » ; la hanche = 胯 / 髋部|腰 = la taille|他的胯疼。|他的胯疼|une hanche
+22|葡萄|pou, tao|Le POU et le TAO en grappe : DU RAISIN BLANC.|pútao ≈ « pou-tao » ; la grappe = 葡萄|葡萄干 = raisin sec|一些白葡萄。|一些白葡萄|une grappe
+23|内裤|neille, kou|La NEIGE (« NEI ») et le COU (« KU ») : UN SLIP PROPRE.|nèikù ≈ « neille-kou » ; 内 intérieur + 裤 pantalon|短裤 = short|一条干净的内裤。|一条干净的内裤|un slip
+24|鸭舌帽|ya, cheu, mao|Le YAK, la CHAISE et le MAO à visière : IL PORTE UNE CASQUETTE.|yāshémào ≈ « ya-cheu-mao » ; 鸭舌 langue de canard (visière) + 帽 chapeau|帽子 = chapeau|他戴着一顶鸭舌帽。|他戴着一顶鸭舌帽|une casquette
+25|投资|to, dzeu|Le TOTO jette des pièces au ZEU : C'EST UN BON INVESTISSEMENT.|tóuzī ≈ « to-dzeu » ; 投 jeter + 资 capital|理财 = gérer son argent|这是一笔好投资。|这是一笔好投资|une tirelire
+26|奶子|naï, dzeu|La NAÏADE (« NAI ») et le ZEU dévoilés : ELLE MONTRE SES NICHONS (registre vulgaire).|nǎizi ≈ « naï-dzeu » ; vulgaire = 奶子 ; neutre = 胸部|胸 = poitrine|她露出了奶子。|她露出了奶子|un décolleté
+27|动物园|dong, ou, yuanne|Le gong, le « OUH » et la YOURTE derrière les grilles : LE ZOO EST FERMÉ LE LUNDI.|dòngwùyuán ≈ « dong-ou-yuane » ; 动物 animal + 园 jardin|公园 = parc|动物园星期一关门。|动物园星期一关门|une grille de zoo
+28|纸箱|djeu, siang|Le GÉNIE et la SIANNE soulèvent : SOULÈVE CE CARTON.|zhǐxiāng ≈ « djeu-siang » ; 纸 papier + 箱 caisse|箱子 = caisse|把这个纸箱抬起来。|把这个纸箱抬起来|un carton
+29|午餐套餐|ou, tsanne, tao, tsanne|Le « OUH », la TSANNE, le TAO et la TSANNE à midi : LE MENU DU MIDI EST À DIX EUROS.|wǔcān tàocān ≈ « ou-tsane-tao-tsane » ; 午餐 déjeuner + 套餐 menu|菜单 = carte|午餐套餐十欧元。|午餐套餐十欧元|une ardoise
+30|酒保|djio, bao|Le JIO et le BAOBAB secouent le shaker : LE BARMAN PRÉPARE UN COCKTAIL.|jiǔbǎo ≈ « djio-bao » ; 酒 alcool + 保 serveur|调酒师 = barman (mixologue)|酒保在调鸡尾酒。|酒保在调鸡尾酒|un shaker
+31|阁楼|gueu, lo|Le GUEU et le LOT sous les combles : LES VIEUX LIVRES SONT AU GRENIER.|gélóu ≈ « gueu-lo » ; 阁 pavillon + 楼 étage|顶楼 = dernier étage|旧书都在阁楼上。|旧书都在阁楼上|une lucarne
+32|秤|tcheng|Le TCHENG oscille : MONTE SUR LA BALANCE.|chèng ≈ « tcheng » ; la balance = 秤 / 体重秤|天平 = balance (labo)|站到秤上去。|站到秤上去|une balance
+33|路程|lou, tcheng|Le LOUP et le TCHENG sur la route : LE TRAJET DURE UNE HEURE.|lùchéng ≈ « lou-tcheng » ; 路 route + 程 parcours|旅程 = voyage|路程要一个小时。|路程要一个小时|une route
+34|自动售货机|dzeu, dong, cho, houo, dji|Le ZEU, le gong, la main CHAUDE, le HOUX et le GÉNIE devant une machine vide : LE DISTRIBUTEUR EST VIDE.|zìdòng shòuhuòjī ≈ « dzeu-dong-cho-houo-dji » ; machine (机) à vendre (售货) automatique (自动)|取款机 = distributeur de billets|自动售货机空了。|自动售货机空了|une machine vide
+35|衣柜|i, gouei|Le « I » range dans le GOUEI : RANGE TES HABITS DANS L'ARMOIRE.|yīguì ≈ « i-gouei » ; 衣 habits + 柜 meuble|柜子 = placard|把衣服放进衣柜。|把衣服放进衣柜|une armoire
+36|恐怖片|kong, bou, pienne|Le CONGre, le BOUc et la PIENNE hurlent : J'AI PEUR DES FILMS D'HORREUR.|kǒngbùpiàn ≈ « kong-bou-piène » ; 恐怖 horreur + 片 film|鬼片 = film de fantômes|我怕恐怖片。|我怕恐怖片|une citrouille
+37|内战|neille, djanne|La NEIGE et le DJANNE déchirent le drapeau : CELLE-CI EST UNE GUERRE CIVILE !|nèizhàn ≈ « neille-djane » ; 内 intérieur + 战 guerre|战争 = guerre|这是一场内战！|这是一场内战|un drapeau déchiré
+38|山洞|channe, dong|Le CHANT et le gong dans la montagne : ON NE SAVAIT PAS QUE LA GROTTE EXISTAIT.|shāndòng ≈ « chane-dong » ; 山 montagne + 洞 trou|洞穴 = caverne|我们不知道有这个山洞。|我们不知道有这个山洞|une entrée sombre
+39|外号|ouaille, hao|Le OUAILLE crie un HAO amusant : SON SURNOM EST GIGI.|wàihào ≈ « ouaille-hao » ; 外 extérieur + 号 nom|昵称 = petit nom|他的外号叫琪琪。|他的外号叫琪琪|une étiquette
+40|果汁|gouo, djeu|Le GUO et le GÉNIE pressent : UN JUS DE FRUIT, S'IL VOUS PLAÎT.|guǒzhī ≈ « gouo-djeu » ; 果 fruit + 汁 jus|饮料 = boisson|请来一杯果汁。|请来一杯果汁|un verre de jus
+41|虾|sia|Le SIAMOIS (« XIA ») recourbé sur le gril : DES CREVETTES GRILLÉES.|xiā ≈ « sia » ; la crevette = 虾|龙虾 = homard|烤虾。|烤虾|une crevette
+42|青少年|tching, chao, nienne|Le CHINOIS, le CHAO et le NIEN boutonneux : C'EST UN ADOLESCENT DIFFICILE.|qīngshàonián ≈ « tching-chao-niène » ; 青少年 = jeune (ado)|少年 = garçon|这是个难管的青少年。|这是个难管的青少年|un skate
+43|蟑螂|djang, lang|Le DJANGO et le LANG courent sous l'évier : IL Y A UN CAFARD DANS LA CUISINE.|zhāngláng ≈ « djang-lang » ; le cafard = 蟑螂|虫子 = insecte|厨房里有只蟑螂。|厨房里有只蟑螂|un cafard
+44|桶|tong|Le TONneau (« TONG ») rempli : UN SEAU D'EAU.|tǒng ≈ « tong » ; le seau = 桶|水桶 = seau d'eau|一桶水。|一桶水|un seau
+45|发展|fa, djanne|Le FARE éclaire le DJANNE qui grandit : L'ÉVOLUTION DE LA SITUATION.|fāzhǎn ≈ « fa-djane » ; « l'évolution (développement) » = 发展|进化 = évolution (biologie)|形势的发展。|形势的发展|une courbe
+46|流感|lio, ganne|Le LION et le GANT au mouchoir : J'AI LA GRIPPE.|liúgǎn ≈ « lio-gane » ; 流 courant + 感 rhume|感冒 = rhume|我得了流感。|我得了流感|un thermomètre
+47|感觉|ganne, djué|Le GANT et le JUGE frissonnent : UNE ÉTRANGE SENSATION DE FROID.|gǎnjué ≈ « gane-djué » ; « la sensation » = 感觉|知觉 = perception|一种奇怪的冷的感觉。|一种奇怪的冷的感觉|un frisson
+48|感觉|ganne, djué|Le GANT et le JUGE inquiets : J'AI L'IMPRESSION QUE QUELQUE CHOSE NE VA PAS (doublon de 47).|gǎnjué ≈ « gane-djué » ; doublon|印象 = impression (souvenir)|我感觉有什么不对劲。|我感觉有什么不对劲|une ombre
+49|作曲家|dzouo, tchu, djia|ZORRO, le TCHU et le JIA au piano : JE PENSE QUE LE COMPOSITEUR AURAIT APPRÉCIÉ CE GESTE.|zuòqǔjiā ≈ « dzouo-tchu-djia » ; 作曲 composer + 家 spécialiste|音乐家 = musicien|我想作曲家会欣赏这个举动的。|我想作曲家会欣赏这个举动的|une partition
+50|台阶|taï, djié|La TAÏE et le JET sur la marche : FAIS ATTENTION À LA MARCHE.|táijiē ≈ « taï-djié » ; 台 plateforme + 阶 degré|楼梯 = escalier|小心台阶。|小心台阶|une marche
+51|谷仓|gou, tsang|Le GOU et le TSANG remplis de foin : LE FOIN EST DANS LA GRANGE.|gǔcāng ≈ « gou-tsang » ; 谷 grain + 仓 entrepôt|仓库 = entrepôt|干草在谷仓里。|干草在谷仓里|une grange
+52|火腿|houo, touei|Le HOUX fume le TOUEI (« TUI ») : UN SANDWICH AU JAMBON.|huǒtuǐ ≈ « houo-touei » ; 火 feu + 腿 cuisse|培根 = bacon|一个火腿三明治。|一个火腿三明治|un jambon
+53|麦片|maille, pienne|Le MAÏS et la PIENNE dans le bol : JE MANGE DES CÉRÉALES LE MATIN.|màipiàn ≈ « maille-piène » ; 麦 blé + 片 flocon|谷物 = céréales (grain)|我早上吃麦片。|我早上吃麦片|un bol de céréales
+54|鸡蛋|dji, danne|Le GÉNIE et le DANDY écalent : UN ŒUF DUR.|jīdàn ≈ « dji-dane » ; 鸡 poule + 蛋 œuf|蛋 = œuf|一个煮鸡蛋。|一个煮鸡蛋|un œuf
+55|发展|fa, djanne|Le FARE et le DJANNE qui grandit : LE DÉVELOPPEMENT DU PAYS (doublon de 45).|fāzhǎn ≈ « fa-djane » ; doublon|进步 = progrès|国家的发展。|国家的发展|un gratte-ciel
+56|邮箱地址|yo, siang, di, djeu|Le YOYO, la SIANNE, le DIDI et le GÉNIE à l'arobase : DONNE-MOI TON ADRESSE MAIL.|yóuxiāng dìzhǐ ≈ « yo-siang-di-djeu » ; 邮箱 boîte mail + 地址 adresse|电子邮件 = e-mail|把你的邮箱地址给我。|把你的邮箱地址给我|une arobase
+57|剧本|djiu, benne|Le JUS et la BENNE de pages : LE SCÉNARIO EST ORIGINAL.|jùběn ≈ « dju-bene » ; 剧 pièce + 本 cahier|脚本 = script|剧本很有新意。|剧本很有新意|un script
+58|刹车|tcha, tcheu|Le TCHA freine le TCHEU : IL FAUT QUE NOUS VÉRIFIIONS LES FREINS.|shāchē ≈ « cha-tcheu » ; 刹 freiner + 车 véhicule|闸 = frein (vélo)|我们得检查刹车。|我们得检查刹车|une pédale de frein
+59|不公|bou, gong|Le BOUc devant le GONG penché : IL HAIT L'INJUSTICE (doublon de formes_9 30).|bùgōng ≈ « bou-gong » ; doublon|不公平 = injuste|他痛恨不公。|他痛恨不公|une balance penchée
+60|丛林|tsong, line|Le TSONG et le LINGE dans la verdure : OU CES CRÉATURES DANS LA JUNGLE ?|cónglín ≈ « tsong-line » ; 丛 broussaille + 林 forêt|森林 = forêt|还是丛林里的那些生物？|还是丛林里的那些生物|des lianes
+61|餐具费|tsanne, djiu, feille|La TSANNE, le JUS et la FEUILLE de compte : LE COUVERT EST COMPRIS.|cānjùfèi ≈ « tsane-dju-feille » ; 餐具 couvert + 费 frais|餐具 = couverts|餐具费已包含在内。|餐具费已包含在内|une fourchette
+62|梳子|chou, dzeu|Le CHOU et le ZEU peignent : OÙ EST MA BROSSE À CHEVEUX ?|shūzi ≈ « chou-dzeu » ; « la brosse (peigne) » = 梳子|发刷 = brosse|我的梳子在哪儿？|我的梳子在哪儿|un peigne
+63|剃须刀|ti, su, dao|Le TI, le SOU et le DAO rasent : UN RASOIR ÉLECTRIQUE.|tìxūdāo ≈ « ti-su-dao » ; 剃须 raser la barbe + 刀 lame|刮胡刀 = rasoir|一把电动剃须刀。|一把电动剃须刀|un rasoir
+64|床垫|tchouang, dienne|Le CHOUANG et le DIAMANT dur : CE MATELAS EST TROP DUR.|chuángdiàn ≈ « tchouang-diène » ; 床 lit + 垫 coussin|被子 = couette|这张床垫太硬了。|这张床垫太硬了|un matelas
+65|百香果|baille, siang, gouo|Le BAILLement, la SIANNE et le GUO violet : UN JUS DE FRUIT DE LA PASSION.|bǎixiāngguǒ ≈ « baille-siang-gouo » ; 百香 cent parfums + 果 fruit|果汁 = jus|一杯百香果汁。|一杯百香果汁|un fruit violet
+66|摄影|cheu, ying|La CHAISE (« SHE ») et le YING au flash : ELLE ÉTUDIE LA PHOTOGRAPHIE.|shèyǐng ≈ « cheu-ying » ; 摄 capter + 影 image|照片 = une photo|她学摄影。|她学摄影|un appareil photo
+67|鹰|ying|Le YING plane très haut : L'AIGLE VOLE HAUT.|yīng ≈ « ying » ; l'aigle = 鹰 / 老鹰|老鹰 = aigle (oral)|鹰飞得很高。|鹰飞得很高|des ailes déployées
+68|蚂蚁|ma, i|La MAMAN et le « I » minuscule : UNE FOURMI PORTE UNE MIETTE.|mǎyǐ ≈ « ma-i » ; la fourmi = 蚂蚁|昆虫 = insecte|一只蚂蚁扛着一点面包屑。|一只蚂蚁扛着一点面包屑|une miette
+69|镜头|djing, to|Le JINGLE et le TOTO derrière la caméra : LA SÉQUENCE FINALE EST CULTE.|jìngtóu ≈ « djing-to » ; « la séquence (plan) » = 镜头|片段 = extrait|最后那个镜头是经典。|最后那个镜头是经典|une claquette
+70|社工|cheu, gong|La CHAISE et le GONG au bureau social : DEMANDEZ À L'ASSISTANTE…|shègōng ≈ « cheu-gong » ; 社会 société + 工作者 travailleur|社会工作者 = travailleur social|去问社工吧……|去问社工吧|un dossier
+71|黑手党|heille, cho, dang|Le HEILLE, la main CHAUDE et le DANG en costume noir : C'EST UN GROS BONNET DE LA MAFIA.|hēishǒudǎng ≈ « heille-cho-dang » ; 黑手 main noire + 党 bande|黑帮 = gang|他是黑手党里的大人物。|他是黑手党里的大人物|un borsalino
+72|口试|kho, cheu|Le KHO (« KOU ») et la CHAISE face au jury : À L'ORAL, IL A PERDU SES MOYENS.|kǒushì ≈ « kho-chi » ; 口 bouche + 试 examen|笔试 = l'écrit|口试时他慌了。|口试时他慌了|un micro
+73|叛军|panne, djiunne|La PANNE et le JUNE armés : ILS ONT ARMÉ LES REBELLES.|pànjūn ≈ « pane-djune » ; 叛 trahir + 军 armée|反叛者 = rebelle|他们武装了叛军。|他们武装了叛军|un fusil
+74|衣服|i, fou|Le « I » et le FOU dans la garde-robe : C'EST ELLE QUI APPROUVE TOUS TES VÊTEMENTS (doublon de noms).|yīfu ≈ « i-fou » ; doublon (pluriel)|裙子 = robe|你所有的衣服都是她来把关的。|你所有的衣服都是她来把关的|une penderie
+75|柠檬茶|ning, meng, tcha|Le NINJA, le MONGOL et le TCHA citronné : UN THÉ AU CITRON, S'IL VOUS PLAÎT.|níngméngchá ≈ « ning-meng-tcha » ; 柠檬 citron + 茶 thé|红茶 = thé noir|请来一杯柠檬茶。|请来一杯柠檬茶|une tranche de citron
+76|买单|maille, danne|Le MAÏS et le DANDY paient : L'ADDITION, S'IL VOUS PLAÎT.|mǎidān ≈ « maille-dane » ; « l'addition » = 买单 / 账单|账单 = la note|请买单。|请买单|une addition
+77|扎啤|dza, pi|Le ZA (« ZHA ») tire le PIPEAU mousseux : UNE BIÈRE À LA POMPE.|zhāpí ≈ « dza-pi » ; « bière pression » = 扎啤|啤酒 = bière|一杯扎啤。|一杯扎啤|une chope
+78|吧台|ba, taï|Le BAmbou et la TAÏE sur le zinc : ON BOIT AU COMPTOIR.|bātái ≈ « ba-taï » ; 吧 bar + 台 plateau|柜台 = comptoir (magasin)|我们在吧台喝。|我们在吧台喝|un zinc
+79|洗衣粉|si, i, fenne|Le SIFFLET, le « I » et la FENNE moussent : IL N'Y A PLUS DE LESSIVE.|xǐyīfěn ≈ « si-i-fene » ; 洗衣 laver le linge + 粉 poudre|洗衣液 = lessive liquide|没有洗衣粉了。|没有洗衣粉了|un baril de lessive
+80|喷泉|penne, tchuanne|La PENNE et le TCHUANNE jaillissent : ON JETTE UNE PIÈCE DANS LA FONTAINE.|pēnquán ≈ « pene-tchuane » ; 喷 jaillir + 泉 source|水池 = bassin|我们往喷泉里扔一枚硬币。|我们往喷泉里扔一枚硬币|une pièce qui tombe
+81|长笛|tchang, di|Le CHAMEAU et le DIDI soufflent : ELLE JOUE DE LA FLÛTE.|chángdí ≈ « tchang-di » ; 长 long + 笛 flûte|笛子 = flûte (chinoise)|她吹长笛。|她吹长笛|une flûte
+82|棉|mienne|Le MIEN tout doux : UN T-SHIRT EN COTON.|mián ≈ « miène » ; le coton = 棉 / 棉花|丝 = soie|一件棉T恤。|一件棉T恤|une fleur de coton
+83|烤面包|kao, mienne, bao|Le CAO, le MIEN et le BAOBAB grillés : DU PAIN GRILLÉ AU BEURRE.|kǎo miànbāo ≈ « kao-miène-bao » ; 烤 griller + 面包 pain|吐司 = toast|抹黄油的烤面包。|抹黄油的烤面包|un toast doré
+84|加薪|djia, sine|Le JIA ajoute au SIGNE du salaire : IL A EU UNE AUGMENTATION.|jiāxīn ≈ « djia-sine » ; 加 ajouter + 薪 salaire|涨价 = hausse des prix|他加薪了。|他加薪了|une flèche montante
+85|叛乱|panne, louanne|La PANNE et le LOUANE en désordre : NOS HÔTES SONT FATIGUÉS DE LA RÉBELLION.|pànluàn ≈ « pane-louane » ; 叛 trahir + 乱 désordre|起义 = soulèvement|我们的东道主厌倦了叛乱。|我们的东道主厌倦了叛乱|une barricade
+86|胶水|djiao, chouei|Le JAGUAR et le CHOUETTE collés : IL ME FAUT DE LA COLLE.|jiāoshuǐ ≈ « djiao-chouei » ; 胶 colle + 水 liquide|胶带 = ruban adhésif|我需要胶水。|我需要胶水|un tube de colle
+87|小学老师|siao, sué, lao, cheu|Le SIAMOIS, le SUÉ, le LAO et la CHAISE au tableau : L'INSTITUTEUR EXPLIQUE LA LEÇON.|xiǎoxué lǎoshī ≈ « siao-sué-lao-chi » ; 小学 école primaire + 老师 maître|教师 = enseignant|小学老师在讲课。|小学老师在讲课|une craie
+88|感冒|ganne, mao|Le GANT et le MAO éternuent : J'AI UN RHUME.|gǎnmào ≈ « gane-mao » ; le rhume = 感冒|流感 = grippe|我感冒了。|我感冒了|un mouchoir
+89|阿司匹林|a, seu, pi, line|Le « A », le SEU, le PIPEAU et le LINGE : PRENDS UNE ASPIRINE.|āsīpǐlín ≈ « a-seu-pi-line » ; transcription de « aspirine »|药 = médicament|吃一片阿司匹林。|吃一片阿司匹林|un cachet
+90|束|chou|Le CHOU (« SHU ») noué de ruban : UN BOUQUET DE ROSES.|shù ≈ « chou » ; « bouquet » (classificateur) = 束|花束 = bouquet de fleurs|一束玫瑰。|一束玫瑰|un ruban
+91|狐狸|hou, li|Le HOU et le LIT rusé : LE RENARD EST RUSÉ.|húli ≈ « hou-li » ; le renard = 狐狸|狼 = loup|狐狸很狡猾。|狐狸很狡猾|une queue rousse
+92|毛线帽|mao, sienne, mao|Le MAO, la SIENNE et le MAO tricotés : METS TON BONNET.|máoxiànmào ≈ « mao-sienne-mao » ; 毛线 laine + 帽 chapeau|帽子 = chapeau|戴上你的毛线帽。|戴上你的毛线帽|un bonnet
+93|泳衣|yong, i|Le YONG et le « I » au bord de la piscine : J'AI OUBLIÉ MON MAILLOT DE BAIN.|yǒngyī ≈ « yong-i » ; 泳 nager + 衣 vêtement|泳裤 = maillot (homme)|我忘了带泳衣。|我忘了带泳衣|un maillot
+94|投资基金|to, dzeu, dji, djine|Le TOTO, le ZEU, le GÉNIE et le JEAN gèrent les pièces : IL GÈRE UN FOND D'INVESTISSEMENT.|tóuzī jījīn ≈ « to-dzeu-dji-djine » ; 投资 investissement + 基金 fonds|股票 = action|他管理一个投资基金。|他管理一个投资基金|un graphique boursier
+95|演示|yanne, cheu|Le YANN et la CHAISE au tableau : FAIS-MOI UNE DÉMONSTRATION.|yǎnshì ≈ « yane-chi » ; 演 jouer + 示 montrer|示范 = démonstration (modèle)|给我演示一下。|给我演示一下|une flèche au tableau
+96|主动|djou, dong|Le JOUjou frappe le gong le premier : IL A PRIS L'INITIATIVE.|zhǔdòng ≈ « djou-dong » ; « l'initiative » = 主动|倡议 = initiative (proposition)|他采取了主动。|他采取了主动|un doigt levé le premier
+97|特种部队|teu, djong, bou, douei|Le TEU, le ZONG, le BOUc et le DOUEI en cagoule : UNITÉ DE FORCES SPÉCIALES LUMIÈRE NOIRE.|tèzhǒng bùduì ≈ « teu-djong-bou-douei » ; 特种 spécial + 部队 troupes|军队 = armée|「黑光」特种部队。|「黑光」特种部队|une cagoule
+98|小路|siao, lou|Le SIAMOIS et le LOUP sur le petit chemin : NE T'ÉCARTE PAS DU SENTIER.|xiǎolù ≈ « siao-lou » ; 小 petit + 路 chemin|道路 = route|别离开小路。|别离开小路|un sentier
+99|泥|ni|Le NID (« NI ») plein de boue : LE COCHON EST DANS LA BOUE.|ní ≈ « ni » ; la boue = 泥 / 泥巴|泥巴 = gadoue|猪在泥里。|猪在泥里|une flaque de boue

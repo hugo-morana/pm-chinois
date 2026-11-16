@@ -1,0 +1,101 @@
+# prepositions blocs=null
+00|de|di (d')|C'est la maison de Marco.|de Marco||prépositions_autres
+01|à trente ans|a trent'anni|À vingt ans, j'étais à Rome.|À vingt ans|tpl|locutions_prépositives
+02|à|a (ad)|Je vais à Rome.|à Rome||prépositions_autres
+03|en mai|in maggio|En été, il fait chaud.|En été|tpl|locutions_prépositives
+04|de qc à qc|da qcs a qcs|Je travaille de neuf heures à cinq heures.|de neuf heures à cinq|tpl|locutions_prépositives
+05|pour|per|C'est pour toi.|pour toi||prépositions_autres
+06|en|in|Je vais au travail en train.|en train||prépositions_spatiales
+07|avec|con|Viens avec moi.|avec moi||prépositions_autres
+08|dans|in|Je suis dans la cuisine.|dans la cuisine||prépositions_spatiales
+09|plus de qc|più qcs|Je veux plus de temps.|plus de temps|tpl|locutions_prépositives
+10|plus que qn|più di qcn|Il gagne plus que moi.|plus que moi|tpl|locutions_prépositives
+11|sur|su|C'est sur la table.|sur la table||prépositions_spatiales
+12|en plus de faire qc|oltre a fare qcs|En plus de travailler, il étudie.|En plus de travailler|tpl|locutions_prépositives
+13|comme pour qn|come per qcn|C'est comme pour les enfants.|comme pour les enfants|tpl|locutions_prépositives
+14|du fait de qc|a causa di qcs|Du fait de la pluie, on reste.|Du fait de la pluie|tpl|locutions_prépositives
+15|d'où qc|da qui qcs|D'où le problème.|D'où le problème|tpl|locutions_prépositives
+16|par (complément d'agent)|da|Ce tableau a été peint par Picasso.|par Picasso||prépositions_autres
+17|pour ne pas dire qc|per non dire qcs|C'est difficile, pour ne pas dire impossible.|pour ne pas dire impossible|tpl|locutions_prépositives
+18|à la merci de qc|in balia di qcs|Il est à la merci du vent.|à la merci du|tpl|locutions_prépositives
+19|de même que qn|così come qcn|Lui, de même que sa sœur.|de même que sa s|tpl|locutions_prépositives
+20|autre que qn|altro che qcn|Personne autre que toi.|autre que toi|tpl|locutions_prépositives
+21|même pour faire qc|anche per fare qcs|Même pour dormir, il chante.|Même pour dormir|tpl|locutions_prépositives
+22|sans|senza|Un café sans sucre.|sans sucre||prépositions_autres
+23|vu qc|visto qcs|Vu le prix, je reste.|Vu le prix|tpl|locutions_prépositives
+24|avant de faire qc|prima di fare qcs|Lave-toi les mains avant de manger.|avant de manger|tpl|locutions_prépositives
+25|après|dopo|Après le dîner, on sort.|Après le dîner||prépositions_temporelles
+26|avant|prima (di)|Avant le dîner.|Avant le dîner||prépositions_temporelles
+27|d'après qn|secondo qcn|D'après lui, c'est vrai.|D'après lui|tpl|locutions_prépositives
+28|à l'avant de qc|davanti a qcs|Assieds-toi à l'avant de la voiture.|à l'avant de la voiture|tpl|locutions_prépositives
+29|en accord avec qc|d'accordo con qcs|C'est en accord avec la loi.|en accord avec la loi|tpl|locutions_prépositives
+30|de chez qn|da qcn|Je viens de chez Marco.|de chez Marco|tpl|locutions_prépositives
+31|chez|da|Je vais chez Marco.|chez Marco||prépositions_autres
+32|depuis|da|J'habite ici depuis deux ans.|depuis deux||prépositions_autres
+33|voilà|ecco|Voilà ton café.|Voilà ton café||prépositions_autres
+34|en même temps que qn|insieme a qcn|Il est arrivé en même temps que moi.|en même temps que moi|tpl|locutions_prépositives
+35|moins que qn|meno di qcn|Il gagne moins que moi.|moins que moi|tpl|locutions_prépositives
+36|à moins de faire qc|a meno di fare qcs|À moins de courir, on rate le train.|À moins de courir|tpl|locutions_prépositives
+37|entre qn et qn|tra qcn e qcn|Entre toi et moi, il ment.|Entre toi et moi|tpl|locutions_prépositives
+38|en raison de qc|a causa di qcs|Fermé en raison de la neige.|en raison de la neige|tpl|locutions_prépositives
+39|au nom de qc|in nome di qcs|Au nom de la loi !|Au nom de la loi|tpl|locutions_prépositives
+40|d'entre qn|tra qcn|L'un d'entre nous ment.|d'entre nous|tpl|locutions_prépositives
+41|de peur de faire qc|per paura di fare qcs|Il ne bouge pas de peur de tomber.|de peur de tomber|tpl|locutions_prépositives
+42|entre|tra (fra)|Entre toi et moi.|Entre toi||prépositions_spatiales
+43|jusqu'à|fino a|Je travaille jusqu'à huit heures.|jusqu'à|loc|locutions_prépositives
+44|assez de qc|abbastanza qcs|J'ai assez de temps.|assez de temps|tpl|locutions_prépositives
+45|dû à qc|dovuto a qcs|C'est dû à la chaleur.|dû à la chaleur|tpl|locutions_prépositives
+46|à partir de|a partire da|À partir de lundi.|À partir de|loc|locutions_prépositives
+47|en tête de qc|in testa a qcs|Il est en tête de la course.|en tête de la course|tpl|locutions_prépositives
+48|à part|a parte|À part ça, tout va bien.|À part|loc|locutions_prépositives
+49|de la part de qn|da parte di qcn|C'est de la part de qui ?|de la part de qui|tpl|locutions_prépositives
+50|en tant que qn|come qcn|En tant que médecin, je dis non.|En tant que médecin|tpl|locutions_prépositives
+51|pendant|durante|J'ai dormi pendant le film.|pendant le film||prépositions_temporelles
+52|contre|contro|Je suis contre.|contre||prépositions_spatiales
+53|sous|sotto|Le chat est sous le lit.|sous le lit||prépositions_spatiales
+54|en cas de qc|in caso di qcs|En cas de problème, appelle-moi.|En cas de problème|tpl|locutions_prépositives
+55|histoire de faire qc|giusto per fare qcs|On sort, histoire de prendre l'air.|histoire de prendre l'air|tpl|locutions_prépositives
+56|dans le cas de qc|nel caso di qcs|Dans le cas d'un retard, préviens-moi.|Dans le cas d'un retard|tpl|locutions_prépositives
+57|à l'aide de qc|con l'aiuto di qcs|Ouvre-le à l'aide d'un couteau.|à l'aide d'un|tpl|locutions_prépositives
+58|voici|ecco|Voici mon frère.|Voici mon frère||prépositions_autres
+59|à la place de qc|al posto di qcs|Prends du thé à la place du café.|à la place du|tpl|locutions_prépositives
+60|y compris qn|compreso qcn|Tout le monde, y compris moi.|y compris moi|tpl|locutions_prépositives
+61|de façon à faire qc|in modo da fare qcs|Parle fort de façon à être entendu.|de façon à être entendu|tpl|locutions_prépositives
+62|à l'attention de qn|all'attenzione di qcn|C'est à l'attention du directeur.|à l'attention du|tpl|locutions_prépositives
+63|à côté de|accanto a|Assieds-toi à côté de moi.|à côté de|loc|locutions_prépositives
+64|à la façon de qn|alla maniera di qcn|Il chante à la façon de Sinatra.|à la façon de Sinatra|tpl|locutions_prépositives
+65|du côté de qc|dalle parti di qcs|Il habite du côté de la gare.|du côté de la gare|tpl|locutions_prépositives
+66|vers|verso|On va vers la mer.|vers la mer||prépositions_spatiales
+67|loin de|lontano da|C'est loin d'ici.|loin d'|loc|locutions_prépositives
+68|à cause de|a causa di|À cause de la pluie.|À cause de|loc|locutions_prépositives
+69|à la suite de qc|in seguito a qcs|À la suite de l'accident, il boite.|À la suite de l'accident|tpl|locutions_prépositives
+70|sur le point de faire qc|sul punto di fare qcs|Je suis sur le point de partir.|sur le point de partir|tpl|locutions_prépositives
+71|juste à côté de qc|proprio accanto a qcs|C'est juste à côté de la gare.|juste à côté de la gare|tpl|locutions_prépositives
+72|devant|davanti (a)|Je t'attends devant le cinéma.|devant le cinéma||prépositions_spatiales
+73|en dehors de qc|al di fuori di qcs|En dehors de ça, tout va bien.|En dehors de ça|tpl|locutions_prépositives
+74|à propos de qc|a proposito di qcs|À propos de demain, on fait quoi ?|À propos de demain|tpl|locutions_prépositives
+75|en vue de faire qc|in vista di fare qcs|Il économise en vue d'acheter une maison.|en vue d'acheter une maison|tpl|locutions_prépositives
+76|en cours de qc|in corso di qcs|Le projet est en cours de validation.|en cours de validation|tpl|locutions_prépositives
+77|de retour qqpart|di ritorno da qualche parte|Je suis de retour à Rome.|de retour à|tpl|locutions_prépositives
+78|au cours de qc|nel corso di qcs|Au cours de la réunion, il a dormi.|Au cours de la réunion|tpl|locutions_prépositives
+79|faute de qc|in mancanza di qcs|Faute de temps, je pars.|Faute de temps|tpl|locutions_prépositives
+80|en bas de qc|in fondo a qcs|Attends-moi en bas de l'escalier.|en bas de l'escalier|tpl|locutions_prépositives
+81|au bas de qc|in fondo a qcs|Signe au bas de la page.|au bas de la page|tpl|locutions_prépositives
+82|dès|da (fin da)|Dès demain, j'arrête.|Dès demain||prépositions_temporelles
+83|au lieu de|invece di|Au lieu de pleurer, ris.|Au lieu de|loc|locutions_prépositives
+84|au sujet de qc|riguardo a qcs|Je t'appelle au sujet de demain.|au sujet de demain|tpl|locutions_prépositives
+85|près de|vicino a|J'habite près de la gare.|près de|loc|locutions_prépositives
+86|au moyen de qc|per mezzo di qcs|On ouvre au moyen d'une clé.|au moyen d'une|tpl|locutions_prépositives
+87|en haut de qc|in cima a qcs|Il est en haut de l'escalier.|en haut de l'escalier|tpl|locutions_prépositives
+88|en face de|di fronte a|La banque est en face de la poste.|en face de|loc|locutions_prépositives
+89|face à qc|di fronte a qcs|La maison est face à la mer.|face à la mer|tpl|locutions_prépositives
+90|derrière|dietro|Il est derrière toi !|derrière toi||prépositions_spatiales
+91|sauf|tranne|Tous, sauf lui.|sauf lui||prépositions_autres
+92|du côté droit de qc|sul lato destro di qcs|Garez-vous du côté droit de la rue.|du côté droit de la rue|tpl|locutions_prépositives
+93|en rapport avec qc|in rapporto con qcs|C'est en rapport avec ton travail.|en rapport avec ton travail|tpl|locutions_prépositives
+94|par rapport à qc|rispetto a qcs|Il est grand par rapport à son âge.|par rapport à son âge|tpl|locutions_prépositives
+95|à l'intérieur de qc|all'interno di qcs|Il fait chaud à l'intérieur de la maison.|à l'intérieur de la maison|tpl|locutions_prépositives
+96|grâce à|grazie a|Grâce à toi, j'ai réussi.|Grâce à|loc|locutions_prépositives
+97|le long de|lungo|On marche le long de la plage.|le long de la plage||prépositions_spatiales
+98|par manque de qc|per mancanza di qcs|Il a échoué par manque de temps.|par manque de temps|tpl|locutions_prépositives
+99|au prix de qc|a prezzo di qcs|Il a gagné au prix de gros efforts.|au prix de gros|tpl|locutions_prépositives

@@ -1,0 +1,100 @@
+00|发现|fa, sienne|Le FARE éclaire une SIENNE : ET SI LA DIRECTRICE CHOPE TA LETTRE ? (doublon de verbes_8 61).|fāxiàn ≈ « fa-sienne » ; doublon (choper = découvrir)|抓到 = attraper|要是校长发现了你的信怎么办？|要是校长发现了你的信怎么办|une lettre
+01|接住|djié, djou|Le JET et le JOUjou attrapent : CHOPE LE BALLON !|jiēzhù ≈ « djié-djou » ; « attrape ! » = 接住|抓住 = saisis|接住球！|接住球|un ballon
+02|检查了|djienne, tcha, leu|Le DJINN, le TCHA et « LE ! » : LE CONTRÔLEUR A CONTRÔLÉ MON BILLET (doublon de noms_21 22).|jiǎnchá le ≈ « djienne-tcha-leu » ; doublon|查 = vérifier|查票员检查了我的票。|查票员检查了我的票|une pince à billets
+03|穿|tchouanne|Le CHOUANNE en noir : TU PORTES TOUJOURS DU NOIR.|chuān ≈ « tchouane » ; « porter (vêtement) » = 穿|戴 = porter (accessoire)|你总是穿黑色。|你总是穿黑色|un habit noir
+04|我穿什么|ouo, tchouanne, cheune, meu|« OUO », le CHOUANNE, la CHAÎNE et le MEU devant l'armoire : QU'EST-CE QUE TU VEUX QUE JE PORTE ?|wǒ chuān shénme ≈ « ouo-tchouane-cheune-meu » ; subjonctif = 你要我……|穿 = porter|你要我穿什么？|你要我穿什么|une penderie
+05|敢|ganne|Le GANT défie : COMMENT OSES-TU ?|gǎn ≈ « gane » ; « oser » = 敢|胆子 = audace|你怎么敢？|你怎么敢|un gant jeté
+06|得鼓起勇气|deille, gou, tchi, yong, tchi|Le DEILLE, le GOU, le TCHI, le YONG et le TCHI gonflés : IL FAUT QUE J'OSE LUI PARLER.|děi gǔqǐ yǒngqì ≈ « deille-gou-tchi-yong-tchi » ; subjonctif = 得|敢 = oser|我得鼓起勇气跟她说话。|我得鼓起勇气跟她说话|un cœur gonflé|děi gǔqǐ yǒngqì
+07|我接|ouo, djié|« OUO » et le JET décrochent : TU VEUX QUE JE RÉPONDE AU TÉLÉPHONE ?|wǒ jiē ≈ « ouo-djié » ; « répondre (au téléphone) » = 接|回答 = répondre|要我接电话吗？|要我接电话吗|un téléphone
+08|回信|houei, sine|Le boomerang et le SIGNE retournent la lettre : IL FAUT QUE TU RÉPONDES À SA LETTRE.|huíxìn ≈ « houei-sine » ; « répondre (à une lettre) » = 回信|回答 = répondre|你得给他回信。|你得给他回信|une enveloppe|huíxìn
+09|飞|feille|La FEUILLE qui vole haut : L'OISEAU VOLE TRÈS HAUT.|fēi ≈ « feille » ; « voler » = 飞|飞翔 = planer|鸟飞得很高。|鸟飞得很高|des ailes
+10|飞吧|feille, ba|La FEUILLE et le BAmbou s'envolent : VOLE, PETIT OISEAU, TU ES LIBRE !|fēi ba ≈ « feille-ba » ; l'impératif doux = 吧|飞走 = s'envoler|飞吧，小鸟，你自由了！|飞吧，小鸟|une cage ouverte
+11|要是我来|yao, cheu, ouo, laï|Le YAOURT sur la CHAISE, « OUO » et la LAIE : SI JE VENAIS DEMAIN, TU SERAIS LÀ ?|yàoshi wǒ lái ≈ « yao-chi-ouo-laï » ; « si je venais » = 要是我来|如果 = si|要是我明天来，你会在吗？|要是我明天来|un calendrier
+12|要是你能来|yao, cheu, ni, neng, laï|Le YAOURT, la CHAISE, le NID, le NENG et la LAIE : SI SEULEMENT TU VENAIS AVEC MOI !|yàoshi nǐ néng lái ≈ « yao-chi-ni-neng-laï » ; « si (seulement) tu venais » = 要是你能来|但愿 = pourvu que|要是你能跟我一起来就好了！|要是你能跟我一起来就好了|une main tendue
+13|浪费|lang, feille|Le LANG et la FEUILLE gaspillés : NOUS PERDONS NOTRE TEMPS (doublon de formes_14 86).|làngfèi ≈ « lang-feille » ; doublon|白费 = en vain|我们在浪费时间。|我们在浪费时间|un sablier
+14|赶不上|ganne, bou, chang|Le GANT, le BOUc et le CHAMEAU en retard : J'AI PEUR QUE NOUS PERDIONS (ratons) LE TRAIN.|gǎn bu shàng ≈ « gane-bou-chang » ; « rater (le train) » = 赶不上|误 = manquer|我怕我们赶不上火车。|我怕我们赶不上火车|un train qui part
+15|跑步|pao, bou|Le PAOn et le BOUc en baskets : VOUS COUREZ TOUS LES MATINS ?|pǎobù ≈ « pao-bou » ; « courir (jogging) » = 跑步|跑 = courir|你们每天早上跑步吗？|你们每天早上跑步吗|des baskets
+16|快跑去|kouaille, pao, tchu|Le KOUAILLE, le PAOn et le TCHU vers le village : COUREZ AU VILLAGE !|kuài pǎo qù ≈ « kouaille-pao-tchu » ; l'impératif = 快 + verbe|跑 = courez|快跑去村子！|快跑去村子|un clocher
+17|到|dao|Le DAO quand ? : VOUS ARRIVEZ QUAND ? (doublon de formes_10 21).|dào ≈ « dao » ; doublon (vous)|来 = venir|你们什么时候到？|你们什么时候到|une montre
+18|准时到|djouenne, cheu, dao|Le DJOUENNE, la CHAISE et le DAO à l'heure : ARRIVEZ À L'HEURE, DEMAIN !|zhǔnshí dào ≈ « djouene-chi-dao » ; 准时 à l'heure + 到 arriver|迟到 = être en retard|明天准时到！|明天准时到|une horloge
+19|我该死|ouo, gaï, seu|« OUO », le GAILLard et un SEU : IL EST JUSTE QUE JE MEURE, CHÉRI.|wǒ gāi sǐ ≈ « ouo-gaï-seu » ; subjonctif « il est juste que » = 该|应该 = devoir|亲爱的，我该死。|我该死|une bougie éteinte
+20|你死|ni, seu|Le NID protège un SEU : JE NE VEUX PAS QUE TU MEURES.|nǐ sǐ ≈ « ni-seu » ; subjonctif = 不想你……|死 = mourir|我不想你死。|我不想你死|un cœur protégé
+21|我动|ouo, dong|« OUO » et le gong immobile : IL NE VEUT PAS QUE JE BOUGE.|wǒ dòng ≈ « ouo-dong » ; subjonctif = 不让我……|动 = bouger|他不让我动。|他不让我动|une statue
+22|最好别动|dzouei, hao, bié, dong|Le ZOUEI, le HAUT, le BIEN et le gong : IL VAUT MIEUX QUE TU NE BOUGES PAS.|zuìhǎo bié dòng ≈ « dzouei-hao-bié-dong » ; « il vaut mieux que » = 最好|别动 = ne bouge pas|你最好别动。|你最好别动|un panneau stop
+23|跑回|pao, houei|Le PAOn et le boomerang : J'AI COURU JUSQU'À LA MAISON.|pǎohuí ≈ « pao-houei » ; « couru (jusqu'à) » = 跑回|跑 = courir|我一路跑回了家。|我一路跑回了家|une maison
+24|都爱|dou, aï|Le DOUdou et « AÏE ! » à deux : ALAN, NOUS L'AIMONS TOUS LES DEUX…|dōu ài ≈ « dou-aï » ; « nous aimons (tous) » = 都爱|喜欢 = aimer|艾伦，我们俩都爱她……|我们俩都爱她|deux cœurs
+25|要我们喜欢|yao, ouo, menne, si, houanne|Le YAOURT pousse « OUO », les MENNE, le SIFFLET et le HOUANE : IL VEUT QUE NOUS AIMIONS SES CHANSONS.|yào wǒmen xǐhuan ≈ « yao-ouo-mene-si-houane » ; « veut que nous » = 要我们|让我们 = nous faire|他要我们喜欢他的歌。|他要我们喜欢他的歌|une note
+26|看电影|kanne, dienne, ying|Le CANON, le DIAMANT et le YING sur l'écran : CE SOIR, NOUS REGARDONS UN FILM.|kàn diànyǐng ≈ « kane-diène-ying » ; « regarder un film » = 看电影|看 = regarder|今晚我们看电影。|今晚我们看电影|un écran
+27|要我们看看|yao, ouo, menne, kanne|Le YAOURT pousse « OUO » et les MENNE vers le CANON : IL VEUT QUE NOUS REGARDIONS SOUS LE TAPIS.|yào wǒmen kànkan ≈ « yao-ouo-mene-kane » ; « veut que nous » = 要我们|让我们 = nous faire|他要我们看看地毯下面。|他要我们看看地毯下面|un tapis soulevé
+28|笑|siao|Le SIAMOIS sourit : TU SOURIS TOUT LE TEMPS.|xiào ≈ « siao » ; « sourire » = 笑 / 微笑|微笑 = sourire|你总是在笑。|你总是在笑|un sourire
+29|笑一笑|siao, i, siao|Le SIAMOIS, le « I » et le SIAMOIS : SOURIS, C'EST POUR LA PHOTO !|xiào yi xiào ≈ « siao-i-siao » ; l'impératif doux = 一 + verbe|笑 = sourire|笑一笑，拍照了！|笑一笑，拍照了|un appareil photo
+30|关着|gouanne, djeu|Le GOUANE et le JEU fermés : ELLES DEVRAIENT ÊTRE FERMÉES.|guānzhe ≈ « gouane-djeu » ; « fermées (état) » = 关着|关上 = fermer|它们应该是关着的。|它们应该是关着的|des volets clos
+31|关上|gouanne, chang|Le GOUANE ferme (« SHANG ») : IL FERMA LA PORTE ET PARTIT.|guānshang ≈ « gouane-chang » ; passé simple = 关上……走了|关 = fermer|他关上门走了。|他关上门走了|une porte qui claque
+32|换车|houanne, tcheu|Le HOUANE change de TCHEU : VOUS CHANGEZ DE TRAIN À MILAN.|huàn chē ≈ « houane-tcheu » ; « changer (de train) » = 换车|转车 = correspondance|你们在米兰换车。|你们在米兰换车|un quai
+33|得改|deille, gaille|Le DEILLE et le GAILLard au clavier : IL FAUT QUE VOUS CHANGIEZ DE MOT DE PASSE.|děi gǎi ≈ « deille-gaille » ; subjonctif = 得|换 = changer|你们得改密码。|你们得改密码|un cadenas|děi gǎi
+34|调整|tiao, djeng|Le TIAO et le ZHENG ajustent : IL ADAPTE LA RECETTE POUR LES ENFANTS.|tiáozhěng ≈ « tiao-djeng » ; « adapter » = 调整|适应 = s'adapter|他为孩子们调整了菜谱。|他为孩子们调整了菜谱|une cuillère
+35|根据……调整|guenne, dji, tiao, djeng|La GUENON, le GÉNIE, le TIAO et le ZHENG : ADAPTE TON DISCOURS AU PUBLIC.|gēnjù… tiáozhěng ≈ « guene-dji-tiao-djeng » ; « adapte (à) » = 根据……调整|适应 = s'adapter|根据听众调整你的讲话。|根据听众调整你的讲话|un micro
+36|被杀|beille, cha|Une BEILLE et le CHAT au couteau : ELLE A ÉTÉ TUÉE (doublon de formes_7 92).|bèi shā ≈ « beille-cha » ; doublon (féminin)|遇害 = assassinée|她被杀了。|她被杀了|une croix
+37|试穿|cheu, tchouanne|La CHAISE et le CHOUANNE en cabine : VOUS ESSAYEZ LA ROBE ROUGE ?|shìchuān ≈ « chi-tchouane » ; 试 essayer + 穿 porter|试 = essayer|你们试穿那条红裙子吗？|你们试穿那条红裙子吗|une cabine
+38|尽量|djine, liang|Le JEAN et le LIANG font de leur mieux : ESSAYEZ DE GARDER LES YEUX OUVERTS.|jǐnliàng ≈ « djine-liang » ; « essayez de » = 尽量|试着 = tenter|尽量睁着眼睛。|尽量睁着眼睛|des yeux ouverts
+39|不动|bou, dong|Le BOUc et le gong immobiles : POURQUOI TU NE BOUGES PAS ?|bú dòng ≈ « bou-dong » ; « (ne pas) bouger » = 不动|动 = bouger|你为什么不动？|你为什么不动|une statue
+40|快点|kouaille, dianne|Le KOUAILLE et le DIAMANT pressés : BOUGE, ON EST EN RETARD ! (doublon de formes_10 18).|kuài diǎn ≈ « kouaille-diane » ; doublon|赶紧 = vite|快点，我们迟到了！|快点，我们迟到了|une montre
+41|喝|heu|Le HEU trinque au vin rouge : CE SOIR, NOUS BUVONS DU VIN ROUGE.|hē ≈ « heu » ; « boire » = 喝|喝酒 = boire de l'alcool|今晚我们喝红酒。|今晚我们喝红酒|un verre de rouge
+42|得多喝|deille, douo, heu|Le DEILLE, le DODO et le HEU à la carafe : IL FAUT QUE NOUS BUVIONS PLUS D'EAU.|děi duō hē ≈ « deille-douo-heu » ; subjonctif = 得|喝 = boire|我们得多喝水。|我们得多喝水|une carafe|děi duō hē
+43|下班|sia, banne|Le SIAMOIS descend du BANC : À QUELLE HEURE VOUS FINISSEZ ?|xiàbān ≈ « sia-bane » ; « finir (le travail) » = 下班|结束 = finir|你们几点下班？|你们几点下班|une horloge
+44|吃完|tcheu, ouanne|Le TCHEU vide l'assiette : FINISSEZ VOTRE SOUPER (doublon de formes_14 45).|chīwán ≈ « tcheu-ouane » ; doublon (impératif)|吃光 = tout manger|把晚饭吃完。|把晚饭吃完|une assiette vide
+45|我杀|ouo, cha|« OUO » et le CHAT au couteau : TU VEUX QUE JE LE TUE ?|wǒ shā ≈ « ouo-cha » ; subjonctif = 要我……吗|杀 = tuer|要我杀了他吗？|要我杀了他吗|un couteau
+46|你弄死|ni, nong, seu|Le NID, le NONG et un SEU : JE NE VEUX PAS QUE TU TUES CETTE ARAIGNÉE.|nǐ nòngsǐ ≈ « ni-nong-seu » ; « tuer (un insecte) » = 弄死|杀 = tuer|我不想你弄死那只蜘蛛。|我不想你弄死那只蜘蛛|une araignée
+47|要是我去|yao, cheu, ouo, tchu|Le YAOURT sur la CHAISE, « OUO » et le TCHU à Rome : SI J'ALLAIS À ROME, JE VERRAIS LE PAPE.|yàoshi wǒ qù ≈ « yao-chi-ouo-tchu » ; « si j'allais » = 要是我去|如果 = si|要是我去罗马，我会见到教皇。|要是我去罗马|une tiare
+48|要是你去|yao, cheu, ni, tchu|Le YAOURT sur la CHAISE, le NID et le TCHU en visite : CE SERAIT VRAIMENT BIEN SI TU ALLAIS LA VOIR.|yàoshi nǐ qù ≈ « yao-chi-ni-tchu » ; « si tu allais » = 要是你去|如果 = si|要是你去看她，那就太好了。|要是你去看她|une porte
+49|要是你们有|yao, cheu, ni, menne, yo|Le YAOURT, la CHAISE, le NID, les MENNE et le YOYO : SI VOUS AVIEZ LE TEMPS, VOUS VIENDRIEZ ?|yàoshi nǐmen yǒu ≈ « yao-chi-ni-mene-yo » ; « si vous aviez » = 要是你们有|如果 = si|要是你们有时间，会来吗？|要是你们有时间|un sablier
+50|运气|yunne, tchi|L'UNE et le TCHI chanceux : VOUS EÛTES BEAUCOUP DE CHANCE CE JOUR-LÀ.|yùnqi ≈ « yune-tchi » ; passé simple « eûtes (de la chance) » = 运气很好|幸运 = chanceux|那天你们运气很好。|那天你们运气很好|un trèfle
+51|我跟着|ouo, guenne, djeu|« OUO », la GUENON et le JEU : IL VEUT QUE JE LE SUIVE.|wǒ gēnzhe ≈ « ouo-guene-djeu » ; subjonctif = 要我……|跟 = suivre|他要我跟着他。|他要我跟着他|des traces
+52|得上|deille, chang|Le DEILLE et le CHAMEAU en classe : IL FAUT QUE TU SUIVES CE COURS.|děi shàng ≈ « deille-chang » ; « suivre (un cours) » = 上课|听课 = assister au cours|你得上这门课。|你得上这门课|un cahier|děi shàng
+53|不如|bou, rou|Le BOUc et le ROU comparés : IL NE PENSE PAS QUE JE VAILLE MOINS QUE LUI.|bùrú ≈ « bou-rou » ; « valoir moins (que) » = 不如|比不上 = inférieur|他不觉得我不如他。|他不觉得我不如他|une balance
+54|不如|bou, rou|Le BOUc et le ROU comparés : JE NE CROIS PAS QUE TU VAILLES MOINS QU'EUX (doublon de 53).|bùrú ≈ « bou-rou » ; doublon (tu)|差 = moins bon|我不认为你不如他们。|我不认为你不如他们|une balance
+55|还住在|haï, djou, dzaille|La HAIE, le JOUjou et le serveur à Paris : VOUS DEMEUREZ TOUJOURS À PARIS ?|hái zhù zài ≈ « haï-djou-dzaille » ; « demeurer (habiter) » = 住在|住 = habiter|你们还住在巴黎吗？|你们还住在巴黎吗|une tour Eiffel
+56|请坐着|tching, dzouo, djeu|Le CHINOIS, ZORRO et le JEU assis : DEMEUREZ ASSIS, JE VOUS PRIE.|qǐng zuòzhe ≈ « tching-dzouo-djeu » ; impératif poli = 请|坐 = asseoir|请坐着别动。|请坐着别动|une chaise
+57|信任|sine, renne|Le SIGNE et le RENNE main dans la main : IL T'ÉCOUTE ET IL TE FAIT CONFIANCE (doublon de formes_6 44).|xìnrèn ≈ « sine-renne » ; doublon (présent)|信 = croire|他听你的话，也信任你。|他听你的话，也信任你|une main tendue
+58|相信我|siang, sine, ouo|La SIANNE, le SIGNE et « OUO » : FAIS-MOI CONFIANCE, ÇA VA MARCHER (doublon de formes_11 28).|xiāngxìn wǒ ≈ « siang-sine-ouo » ; doublon|信我 = crois-moi|相信我，会成功的。|相信我，会成功的|une main sur le cœur
+59|关门|gouanne, menne|Le GOUANE ferme la porte : VOUS FERMEZ À QUELLE HEURE ? (doublon de formes_9 73).|guānmén ≈ « gouane-mene » ; doublon (vous)|打烊 = fermer (boutique)|你们几点关门？|你们几点关门|une pancarte
+60|关好|gouanne, hao|Le GOUANE et le HAUT verrouillent : FERMEZ LES PORTES ET LES FENÊTRES !|guān hǎo ≈ « gouane-hao » ; « fermez (bien) ! » = 关好|关上 = fermez|关好门窗！|关好门窗|des volets
+61|带……去|daille, tchu|Le DAIM conduit au cinéma : IL M'A EMMENÉ AU CINÉMA.|dài… qù ≈ « daille-tchu » ; « emmené » = 带……去|陪 = accompagner|他带我去看电影了。|他带我去看电影了|un ticket de cinéma
+62|希望|si, ouang|Le SIFFLET et le OUANG espèrent : IL ESPÈRE TE REVOIR BIENTÔT (doublon de formes_10 43).|xīwàng ≈ « si-ouang » ; doublon (présent)|盼望 = attendre avec espoir|他希望很快再见到你。|他希望很快再见到你|une étoile
+63|别放弃希望|bié, fang, tchi, si, ouang|Le BIEN, le FANG, le TCHI, le SIFFLET et le OUANG : ESPÈRE TOUJOURS, NE BAISSE PAS LES BRAS.|bié fàngqì xīwàng ≈ « bié-fang-tchi-si-ouang » ; « espère ! » = 别放弃希望|坚持 = tiens bon|永远别放弃希望，别泄气。|永远别放弃希望|une lueur
+64|结束|djié, chou|Le JET et le CHOU à six heures : NOUS FINISSONS À SIX HEURES.|jiéshù ≈ « djié-chou » ; « finir » = 结束|下班 = quitter le travail|我们六点结束。|我们六点结束|une horloge
+65|得做完|deille, dzouo, ouanne|Le DEILLE, ZORRO et le OUANNE : IL FAUT QUE NOUS FINISSIONS CE TRAVAIL (doublon de formes_12 34).|děi zuòwán ≈ « deille-dzouo-ouane » ; doublon (nous)|完成 = achever|我们得做完这份工作。|我们得做完这份工作|une pile de dossiers|děi zuòwán
+66|寄|dji|Le GÉNIE poste la lettre : VOUS ENVOYEZ LA LETTRE AUJOURD'HUI ?|jì ≈ « dji » ; « envoyer (par la poste) » = 寄|发 = envoyer (message)|你们今天寄信吗？|你们今天寄信吗|une boîte aux lettres
+67|给我寄|gueille, ouo, dji|Le GUEILLE, « OUO » et le GÉNIE au colis : ENVOYEZ-MOI UN COLIS AVEC DE LA NOURRITURE.|gěi wǒ jì ≈ « gueille-ouo-dji » ; « envoyez-moi ! » = 给我寄|寄 = envoyer|给我寄一个装吃的的包裹。|给我寄一个装吃的的包裹|un colis
+68|我还|ouo, houanne|« OUO » rend (« HUAN ») le livre : IL VEUT QUE JE LUI RENDE SON LIVRE.|wǒ huán ≈ « ouo-houane » ; « rendre » = 还|归还 = restituer|他要我把书还给他。|他要我把书还给他|un livre|wǒ huán
+69|得还|deille, houanne|Le DEILLE et le HOUANE au trousseau : IL FAUT QUE TU RENDES LES CLÉS DEMAIN.|děi huán ≈ « deille-houane » ; subjonctif = 得 ; « rendre » = 还|交还 = remettre|你明天得还钥匙。|你明天得还钥匙|des clés|děi huán
+70|咬|yao|Le YAOURT mord : LE CHIEN ATTAQUE TOUJOURS LE FACTEUR.|yǎo ≈ « yao » ; « attaquer (mordre) » = 咬 / 扑|攻击 = attaquer|那只狗总是咬邮递员。|那只狗总是咬邮递员|un facteur
+71|进攻|djine, gong|Le JEAN et le GONG chargent : ATTAQUE MAINTENANT, IL EST FATIGUÉ !|jìngōng ≈ « djine-gong » ; « attaque ! » = 进攻|攻击 = attaquer|现在进攻，他累了！|现在进攻，他累了|une épée levée
+72|拒绝|djiu, djué|Le JUS et le JUGE disent non : IL REFUSE DE RÉPONDRE (doublon de formes_6 75).|jùjué ≈ « dju-djué » ; doublon (présent)|不肯 = ne pas vouloir|他拒绝回答。|他拒绝回答|une main qui refuse
+73|婉拒|ouanne, djiu|Le OUANNE poli et le JUS déclinent : REFUSE POLIMENT SON INVITATION.|wǎnjù ≈ « ouane-dju » ; 婉 poli + 拒 refuser|拒绝 = refuser|婉拒他的邀请。|婉拒他的邀请|un carton retourné
+74|问|ouenne|Le OUENNE répète la même question : VOUS DEMANDEZ TOUJOURS LA MÊME CHOSE (doublon de verbes_5 15).|wèn ≈ « ouene » ; doublon (vous)|要 = demander (vouloir)|你们总是问同样的事。|你们总是问同样的事|un perroquet
+75|问问|ouenne, ouenne|Deux OUENNES interrogent : DEMANDEZ AU GUIDE, IL SAIT TOUT (doublon de formes_14 59).|wènwen ≈ « ouene-ouene » ; doublon (impératif)|请教 = consulter|问问导游，他什么都知道。|问问导游|un guide
+76|送……回家|song, houei, djia|Le SONGe, le boomerang et le JIA en voiture : IL ME RAMÈNE À LA MAISON EN VOITURE.|sòng… huíjiā ≈ « song-houei-djia » ; « ramener (raccompagner) » = 送回家|带回 = rapporter|他开车送我回家。|他开车送我回家|une voiture
+77|还回来|houanne, houei, laï|Le HOUANE, le boomerang et la LAIE ramènent : RAMÈNE-MOI MON VÉLO CE SOIR.|huán huílai ≈ « houane-houei-laï » ; « ramène ! (rends) » = 还回来|带回来 = rapporte|今晚把我的自行车还回来。|今晚把我的自行车还回来|un vélo
+78|看起来|kanne, tchi, laï|Le CANON, le TCHI et la LAIE cernés : VOUS AVEZ L'AIR FATIGUÉS.|kàn qǐlai ≈ « kane-tchi-laï » ; « avoir l'air » = 看起来|好像 = sembler|你们看起来很累。|你们看起来很累|des cernes
+79|好像|hao, siang|Le HAUT et la SIANNE ravis : VOUS SEMBLEZ TRÈS CONTENTS (doublon de formes_12 95).|hǎoxiàng ≈ « hao-siang » ; doublon|似乎 = sembler|你们好像很高兴。|你们好像很高兴|un sourire
+80|更喜欢|gueng, si, houanne|Le GUENGUE, le SIFFLET et le HOUANE au comptoir : VOUS PRÉFÉREZ LE VIN OU LA BIÈRE ? (doublon de formes_9 18).|gèng xǐhuan ≈ « gueng-si-houane » ; doublon (vous)|宁可 = plutôt|你们更喜欢葡萄酒还是啤酒？|你们更喜欢葡萄酒还是啤酒|un verre et une chope
+81|优先选|yo, sienne, suanne|Le YOYO, la SIENNE et le SUANNE choisissent d'abord : PRÉFÉREZ LES PRODUITS DE SAISON.|yōuxiān xuǎn ≈ « yo-sienne-suane » ; « préférez ! » = 优先选|更喜欢 = préférer|优先选应季的产品。|优先选应季的产品|un panier de saison
+82|吃饭|tcheu, fanne|Le TCHEU et le FAN avec nous : VOUS MANGEZ AVEC NOUS CE SOIR ? (doublon de formes_14 09).|chīfàn ≈ « tcheu-fane » ; doublon (vous)|吃 = manger|你们今晚跟我们一起吃饭吗？|你们今晚跟我们一起吃饭吗|une table
+83|你们吃|ni, menne, tcheu|Le NID, les MENNE et le TCHEU aux légumes : JE VEUX QUE VOUS MANGIEZ DES LÉGUMES.|nǐmen chī ≈ « ni-mene-tcheu » ; subjonctif = 要你们……|吃 = manger|我要你们吃蔬菜。|我要你们吃蔬菜|une carotte
+84|要是我睡得着|yao, cheu, ouo, chouei, deu, djao|Le YAOURT, la CHAISE, « OUO », le CHOUETTE, le DEU et le JAGUAR : SI J'ARRIVAIS À DORMIR, JE SERAIS MOINS FATIGUÉ.|yàoshi wǒ shuì de zháo ≈ « yao-chi-ouo-chouei-deu-djao » ; « si j'arrivais à » = 要是……得着|如果 = si|要是我睡得着，就不会那么累了。|要是我睡得着|un oreiller
+85|要是你能来|yao, cheu, ni, neng, laï|Le YAOURT, la CHAISE, le NID, le NENG et la LAIE : SI TU ARRIVAIS À VENIR, CE SERAIT GÉNIAL (doublon de 12).|yàoshi nǐ néng lái ≈ « yao-chi-ni-neng-laï » ; doublon|如果 = si|要是你能来，那就太棒了。|要是你能来，那就太棒了|des confettis
+86|停车|ting, tcheu|Le TING ! arrête le TCHEU : NOUS ARRÊTONS LA VOITURE ICI (doublon de formes_4 06).|tíngchē ≈ « ting-tcheu » ; doublon (nous)|停 = arrêter|我们在这儿停车。|我们在这儿停车|un panneau P
+87|得抓住|deille, djoua, djou|Le DEILLE, le JOUA et le JOUjou attrapent : IL FAUT QUE NOUS ARRÊTIONS CE VOLEUR.|děi zhuāzhù ≈ « deille-djoua-djou » ; subjonctif = 得 ; « arrêter (attraper) » = 抓住|逮捕 = arrêter|我们得抓住这个小偷。|我们得抓住这个小偷|des menottes|děi zhuāzhù
+88|回答|houei, da|Le boomerang et le DAIM trop rapides : VOUS RÉPONDEZ TOUJOURS TROP VITE (doublon de verbes_5 16).|huídá ≈ « houei-da » ; doublon (vous)|回 = répondre|你们总是回答得太快。|你们总是回答得太快|un chronomètre
+89|回答|houei, da|Le boomerang et le DAIM : RÉPONDEZ PAR OUI OU PAR NON (doublon de verbes_5 16).|huídá ≈ « houei-da » ; doublon (impératif)|说 = dire|用「是」或「不是」回答。|回答|un oui et un non
+90|要知道|yao, dji, dao|Le YAOURT, le GÉNIE et le DAO au bout : SACHEZ QUE C'EST LA FIN.|yào zhīdao ≈ « yao-dji-dao » ; « sachez ! » = 要知道|告诉你们 = sachez|你们要知道，这就是结局。|你们要知道|un rideau final
+91|你们知道|ni, menne, dji, dao|Le NID, les MENNE, le GÉNIE et le DAO : JE VEUX QUE VOUS SACHIEZ LA VÉRITÉ.|nǐmen zhīdao ≈ « ni-mene-dji-dao » ; subjonctif = 要你们……|明白 = comprendre|我要你们知道真相。|我要你们知道真相|une lanterne
+92|查一查|tcha, i, tcha|Le TCHA, le « I » et le TCHA à la loupe : NOUS VÉRIFIONS SI VOTRE BAGUE A ÉTÉ VOLÉE.|chá yi chá ≈ « tcha-i-tcha » ; « vérifier » = 查一查|检查 = contrôler|我们查一查您的戒指是不是被偷了。|我们查一查您的戒指是不是被偷了|une bague
+93|得检查|deille, djienne, tcha|Le DEILLE, le DJINN et le TCHA : IL FAUT QUE NOUS VÉRIFIIONS LES FREINS (doublon de noms_19 58).|děi jiǎnchá ≈ « deille-djienne-tcha » ; doublon|查 = vérifier|我们得检查刹车。|我们得检查刹车|une pédale de frein|děi jiǎnchá
+94|等我让|deng, ouo, rang|La DENGUE attend que « OUO » laisse le RANG : IL ATTEND QUE JE LUI PERMETTE DE PARTIR.|děng wǒ ràng ≈ « deng-ouo-rang » ; subjonctif = 等我……|允许 = permettre|他在等我让他走。|他在等我让他走|une porte entrouverte
+95|得让|deille, rang|Le DEILLE et le RANG ouvrent la cour : IL FAUT QUE TU PERMETTES AUX ENFANTS DE JOUER.|děi ràng ≈ « deille-rang » ; subjonctif = 得|允许 = autoriser|你得让孩子们玩。|你得让孩子们玩|un ballon|děi ràng
+96|拍了|païe, leu|La PAÏE claque et crie « LE ! » : ET PUIS ON A RÉALISÉ LE PILOTE L'ANNÉE DERNIÈRE (coulé = écoulé).|pāi le ≈ « paï-leu » ; « réalisé (tourné) » = 拍了|拍摄 = tourner|然后我们去年拍了试播集。|然后我们去年拍了试播集|un clap
+97|碰到|peng, dao|Le PENGOUIN croise au DAO : NOUS RENCONTRONS SOUVENT NOS VOISINS AU MARCHÉ.|pèngdào ≈ « peng-dao » ; « rencontrer (par hasard) » = 碰到|遇见 = croiser|我们经常在市场碰到邻居。|我们经常在市场碰到邻居|un panier
+98|得见|deille, djienne|Le DEILLE et le DJINN au bureau : IL FAUT QUE NOUS RENCONTRIONS LE DIRECTEUR.|děi jiàn ≈ « deille-djienne » ; subjonctif = 得|见面 = rencontrer|我们得见一下主任。|我们得见一下主任|une porte de bureau|děi jiàn
+99|我脱|ouo, touo|« OUO » ôte (« TUO ») ses chaussures : TU VEUX QUE J'ENLÈVE MES CHAUSSURES ?|wǒ tuō ≈ « ouo-touo » ; subjonctif = 要我……吗|脱掉 = enlever|要我把鞋脱了吗？|要我把鞋脱了吗|des chaussures

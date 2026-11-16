@@ -1,0 +1,100 @@
+00|露天咖啡座|lou, tienne, kha, feille, dzouo|Le LOUP, le TIEN, le KHA, la FEUILLE et ZORRO assis dehors : ON S'ASSOIT EN TERRASSE DE CAFÉ.|lùtiān kāfēizuò ≈ « lou-tiène-kha-feille-dzouo » ; 露天 en plein air + 咖啡座 place de café|咖啡馆 = café|我们坐在露天咖啡座。|我们坐在露天咖啡座|un parasol
+01|靠垫|kao, dienne|Le CAO s'appuie sur le DIAMANT moelleux : UN COUSSIN SUR LE CANAPÉ.|kàodiàn ≈ « kao-diène » ; 靠 s'adosser + 垫 coussin|枕头 = oreiller|沙发上有个靠垫。|沙发上有个靠垫|un coussin
+02|牛排|niou, païe|Le NIOU sur la PAÏE grillée : UNE CÔTE DE BŒUF SAIGNANTE.|niúpái ≈ « niou-paï » ; 牛 bœuf + 排 côte|牛肉 = bœuf|一块三分熟的牛排。|一块三分熟的牛排|une côte saignante
+03|接缝|djié, feng|Le JET et le FENG cousus : LA COUTURE S'EST DÉFAITE.|jiēfèng ≈ « djié-feng » ; 接 joindre + 缝 couture|针脚 = point|接缝开了。|接缝开了|un fil défait
+04|抗生素|khang, cheng, sou|Le KHANG, le CHÊNE et le SOU en gélules : IL PREND DES ANTIBIOTIQUES.|kàngshēngsù ≈ « khang-cheng-sou » ; 抗 contre + 生素 (bactéries)|药 = médicament|他在吃抗生素。|他在吃抗生素|une gélule
+05|松树|song, chou|Le SONGe et le CHOU sous les aiguilles : UNE FORÊT DE PINS.|sōngshù ≈ « song-chou » ; 松 pin + 树 arbre|冷杉 = sapin|一片松树林。|一片松树林|une pomme de pin
+06|泳帽|yong, mao|Le YONG et le MAO en caoutchouc : LE BONNET DE BAIN EST OBLIGATOIRE.|yǒngmào ≈ « yong-mao » ; 泳 nager + 帽 bonnet|泳衣 = maillot|必须戴泳帽。|必须戴泳帽|un bonnet de bain
+07|熨斗|yunne, do|L'UNE et le DOdo fumants : LE FER À REPASSER EST CHAUD.|yùndǒu ≈ « yune-do » ; 熨 repasser + 斗 fer|熨衣服 = repasser|熨斗很烫。|熨斗很烫|un fer à repasser
+08|反对派|fanne, douei, païe|Le FAN, le DOUEI et la PAÏE votent contre : L'OPPOSITION VOTE CONTRE.|fǎnduìpài ≈ « fane-douei-paï » ; 反对 s'opposer + 派 camp|在野党 = parti d'opposition|反对派投了反对票。|反对派投了反对票|une main baissée
+09|地震|di, djenne|Le DIDI et le GENOU qui tremblent : UN TREMBLEMENT DE TERRE A FRAPPÉ LA VILLE.|dìzhèn ≈ « di-djene » ; 地 terre + 震 secousse|余震 = réplique|地震袭击了这座城市。|地震袭击了这座城市|une fissure
+10|剪辑|djienne, dji|Le DJINN et le GÉNIE coupent la bobine : LE MONTAGE DURE DES MOIS.|jiǎnjí ≈ « djienne-dji » ; 剪 couper + 辑 assembler|后期 = post-production|剪辑要花好几个月。|剪辑要花好几个月|une table de montage
+11|纪录片|dji, lou, pienne|Le GÉNIE, le LOUP et la PIENNE filment la mer : UN DOCUMENTAIRE SUR LA MER.|jìlùpiàn ≈ « dji-lou-piène » ; 纪录 documenter + 片 film|故事片 = fiction|一部关于海洋的纪录片。|一部关于海洋的纪录片|une caméra sous-marine
+12|明信片|ming, sine, pienne|Le MING, le SIGNE et la PIENNE timbrés : ON ACHÈTE DES CARTES (postales) À LA BOUTIQUE DE SOUVENIRS.|míngxìnpiàn ≈ « ming-sine-piène » ; 明信 lettre ouverte + 片 carte|邮票 = timbre|我们在纪念品店买明信片。|我们在纪念品店买明信片|une carte postale
+13|砖|djouanne|Le DJOUANE rouge empilé : UN MUR DE BRIQUES.|zhuān ≈ « djouane » ; la brique = 砖|石头 = pierre|一堵砖墙。|一堵砖墙|une brique
+14|马提尼|ma, ti, ni|La MAMAN, le TI et le NID avec une olive : UN MARTINI, S'IL VOUS PLAÎT.|mǎtíní ≈ « ma-ti-ni » ; transcription de « martini »|鸡尾酒 = cocktail|请来一杯马提尼。|请来一杯马提尼|un verre à martini
+15|浴袍|yu, pao|Le YOUYOU et le PAOn en peignoir : IL MET SON PEIGNOIR.|yùpáo ≈ « yu-pao » ; 浴 bain + 袍 robe|睡衣 = pyjama|他穿上浴袍。|他穿上浴袍|un peignoir
+16|降落伞|djiang, louo, sanne|Le DJINN, le LOTO et le SAN s'ouvrent : IL SAUTE EN PARACHUTE.|jiàngluòsǎn ≈ « djiang-louo-sane » ; 降落 descendre + 伞 parapluie|跳伞 = sauter en parachute|他背着降落伞跳下去。|他背着降落伞跳下去|une corolle
+17|三文鱼|sanne, ouenne, yu|Le SAN, le OUENNE et le YOUYOU rose : DU SAUMON FUMÉ.|sānwényú ≈ « sane-ouene-yu » ; transcription de « salmon » + 鱼|鲑鱼 = saumon (écrit)|烟熏三文鱼。|烟熏三文鱼|une tranche rose
+18|青口|tching, kho|Le CHINOIS et le KHO noirs : DES MOULES-FRITES.|qīngkǒu ≈ « tching-kho » ; « la moule » = 青口 / 贻贝|贻贝 = moule (écrit)|青口配薯条。|青口配薯条|une moule
+19|乞丐|tchi, gaï|Le TCHI et le GAILLard tendent la main : IL DONNE UNE PIÈCE AU MENDIANT.|qǐgài ≈ « tchi-gaï » ; « le mendiant » = 乞丐|穷人 = pauvre|他给乞丐一枚硬币。|他给乞丐一枚硬币|un chapeau tendu
+20|短裤|douanne, kou|La DOUANE courte et le COU : IL PORTE UN SHORT.|duǎnkù ≈ « douane-kou » ; 短 court + 裤 pantalon|长裤 = pantalon|他穿着短裤。|他穿着短裤|un short
+21|鹦鹉|ying, ou|Le YING et le « OUH » répètent : LE PERROQUET PARLE.|yīngwǔ ≈ « ying-ou » ; le perroquet = 鹦鹉|鸟 = oiseau|鹦鹉会说话。|鹦鹉会说话|un perroquet
+22|蜗牛|ouo, niou|« OUO » sur le NIOU lent : L'ESCARGOT AVANCE LENTEMENT.|wōniú ≈ « ouo-niou » ; 蜗 coquille + 牛 bœuf|乌龟 = tortue|蜗牛爬得很慢。|蜗牛爬得很慢|une coquille
+23|语境|yu, djing|Le YOUYOU et le JINGLE dans le cadre : ÇA DÉPEND DU CONTEXTE.|yǔjìng ≈ « yu-djing » ; 语 langue + 境 environnement|背景 = arrière-plan|这取决于语境。|这取决于语境|un cadre
+24|风险资产|feng, sienne, dzeu, tchanne|Le FENG, la SIENNE, le ZEU et le CHANT sur un fil : IL INVESTIT DANS UN ACTIF RISQUÉ.|fēngxiǎn zīchǎn ≈ « feng-sienne-dzeu-tchane » ; 风险 risque + 资产 actif|无风险资产 = actif sans risque|他投资风险资产。|他投资风险资产|un funambule
+25|计算机|dji, souanne, dji|Le GÉNIE, le SOUANNE et le GÉNIE au clavier : IL ÉTUDIE L'INFORMATIQUE (计算机科学).|jìsuànjī ≈ « dji-souane-dji » ; 计算 calculer + 机 machine|电脑 = ordinateur|他学计算机。|他学计算机|un clavier
+26|主角|djou, djué|Le JOUjou et le JUGE au premier plan : LE PERSONNAGE PRINCIPAL MEURT À LA FIN.|zhǔjué ≈ « djou-djué » ; 主 principal + 角 rôle|配角 = second rôle|主角最后死了。|主角最后死了|une étoile
+27|当事人|dang, cheu, renne|Le DANG, la CHAISE et le RENNE au centre de l'affaire : LE PROTAGONISTE DE L'AFFAIRE A DISPARU.|dāngshìrén ≈ « dang-chi-renne » ; « la personne concernée » = 当事人|主角 = héros|这件事的当事人失踪了。|这件事的当事人失踪了|un dossier
+28|阴道|yinne, dao|Le YINNE et le DAO (« voie ») médical : LE VAGIN FAIT PARTIE DE L'APPAREIL GÉNITAL.|yīndào ≈ « yine-dao » ; 阴 yin + 道 voie|子宫 = utérus|阴道是生殖系统的一部分。|阴道是生殖系统的一部分|un schéma anatomique
+29|池塘|tcheu, tang|Le TCHEU et le TANG d'eau calme : LE CANARD NAGE SUR L'ÉTANG.|chítáng ≈ « tcheu-tang » ; 池 bassin + 塘 étang|湖 = lac|鸭子在池塘里游。|鸭子在池塘里游|un canard
+30|充电器|tchong, dienne, tchi|Le TCHONG, le DIAMANT et le TCHI au mur : BRANCHE LE CHARGEUR.|chōngdiànqì ≈ « tchong-diène-tchi » ; 充电 charger + 器 appareil|插座 = prise|把充电器插上。|把充电器插上|une prise
+31|薄荷茶|bo, heu, tcha|Le BO, le HEU et le TCHA sucré : UN THÉ À LA MENTHE BIEN SUCRÉ.|bòhechá ≈ « bo-heu-tcha » ; 薄荷 menthe + 茶 thé|绿茶 = thé vert|一杯很甜的薄荷茶。|一杯很甜的薄荷茶|une théière
+32|下水道|sia, chouei, dao|Le SIAMOIS, le CHOUETTE d'eau et le DAO sous terre : LES ÉGOUTS DÉBORDENT.|xiàshuǐdào ≈ « sia-chouei-dao » ; 下水 eaux usées + 道 conduit|排水 = évacuation|下水道漫出来了。|下水道漫出来了|une bouche d'égout
+33|值机柜台|djeu, dji, gouei, taï|Le GÉNIE, le GÉNIE, le GOUEI et la TAÏE à l'aéroport : ALLEZ AU COMPTOIR D'ENREGISTREMENT.|zhíjī guìtái ≈ « djeu-dji-gouei-taï » ; 值机 enregistrement + 柜台 comptoir|登机口 = porte d'embarquement|请去值机柜台。|请去值机柜台|une carte d'embarquement
+34|小木屋|siao, mou, ou|Le SIAMOIS, le MOU (« bois ») et le « OUH » au chaud : ON LOUE UN CHALET.|xiǎomùwū ≈ « siao-mou-ou » ; 小 petit + 木屋 maison en bois|别墅 = villa|我们租一间小木屋。|我们租一间小木屋|un chalet
+35|拉链|la, lienne|Le LAMA tire le LIEN métallique : LA FERMETURE ÉCLAIR EST CASSÉE.|lāliàn ≈ « la-liène » ; 拉 tirer + 链 chaîne|扣子 = bouton|拉链坏了。|拉链坏了|une fermeture éclair
+36|增长|dzeng, djang|Le ZENG et le DJANGO grimpent : LA CROISSANCE ÉCONOMIQUE.|zēngzhǎng ≈ « dzeng-djang » ; 增 augmenter + 长 croître|发展 = développement|经济增长。|经济增长|une flèche montante
+37|比较|bi, djiao|La BILLE et le JAGUAR sur la balance : IL N'Y A PAS DE COMPARAISON (没法比).|bǐjiào ≈ « bi-djiao » ; « la comparaison » = 比较|对比 = contraste|根本没法比较。|根本没法比较|une balance
+38|更衣室|gueng, i, cheu|Le GUENGUE, le « I » et la CHAISE aux casiers : LES JOUEURS SONT DANS LE VESTIAIRE.|gēngyīshì ≈ « gueng-i-chi » ; 更衣 se changer + 室 salle|衣柜 = armoire|球员们在更衣室里。|球员们在更衣室里|des casiers
+39|糕点店|gao, dienne, dienne|Le GAUCHO et deux DIAMANTS en vitrine sucrée : J'ACHÈTE DES GÂTEAUX À LA PÂTISSERIE.|gāodiǎndiàn ≈ « gao-diène-diène » ; 糕点 gâteaux + 店 boutique|面包店 = boulangerie|我在糕点店买蛋糕。|我在糕点店买蛋糕|un éclair
+40|帆板|fanne, banne|Le FAN et le BANC sur l'eau : IL FAIT DE LA PLANCHE À VOILE.|fānbǎn ≈ « fane-bane » ; 帆 voile + 板 planche|冲浪 = surf|他玩帆板。|他玩帆板|une voile
+41|瑜伽|yu, djia|Le YOUYOU et le JIA en posture : JE FAIS DU YOGA.|yújiā ≈ « yu-djia » ; transcription de « yoga »|冥想 = méditation|我做瑜伽。|我做瑜伽|un tapis
+42|运动鞋|yunne, dong, sié|L'UNE, le gong et la SIESTE lacée : METS TES BASKETS.|yùndòngxié ≈ « yune-dong-sié » ; 运动 sport + 鞋 chaussure|皮鞋 = chaussure de ville|穿上你的运动鞋。|穿上你的运动鞋|une basket
+43|扁豆|bienne, do|Le BIEN plat et le DOdo dans la soupe : UNE SOUPE DE LENTILLES.|biǎndòu ≈ « bienne-do » ; 扁 plat + 豆 haricot|豌豆 = petit pois|一碗扁豆汤。|一碗扁豆汤|une lentille
+44|抹布|mo, bou|Le MOT (« MO ») et le BOUc essuient : PASSE UN CHIFFON.|mābù ≈ « ma-bou » ; 抹 essuyer + 布 tissu|海绵 = éponge|用抹布擦一下。|用抹布擦一下|un chiffon|mābù
+45|缺点|tchué, dienne|Le TCHUÉ et le DIAMANT taché : C'EST LE SEUL INCONVÉNIENT.|quēdiǎn ≈ « tchué-diène » ; 缺 manquer + 点 point|优点 = avantage|这是唯一的缺点。|这是唯一的缺点|une tache
+46|失踪人口|cheu, dzong, renne, kho|La CHAISE, le ZONG, le RENNE et le KHO sur l'affiche : TOUS CES GENS VOLÉS ONT DISPARU… (les personnes disparues).|shīzōng rénkǒu ≈ « chi-dzong-renne-kho » ; 失踪 disparaître + 人口 population|失踪者 = disparu|这些被拐的失踪人口……|这些被拐的失踪人口|une affiche « disparu »
+47|魔术师|mo, chou, cheu|Le MOT (« MO »), le CHOU et la CHAISE dans le chapeau : UN VRAI MAGICIEN NE RÉVÈLE JAMAIS SES SECRETS.|móshùshī ≈ « mo-chou-chi » ; 魔术 magie + 师 maître|巫师 = sorcier|真正的魔术师从不泄露秘密。|真正的魔术师从不泄露秘密|un chapeau haut-de-forme
+48|银行卡|yinne, hang, kha|Le YINNE, le HANG et le KHA en plastique : JE PAIE PAR CARTE BANCAIRE.|yínhángkǎ ≈ « yine-hang-kha » ; 银行 banque + 卡 carte|现金 = espèces|我用银行卡付钱。|我用银行卡付钱|une carte
+49|上身|chang, chenne|Le CHAMEAU et la CHAÎNE torse nu : IL EST TORSE NU (光着上身).|shàngshēn ≈ « chang-chene » ; 上 haut + 身 corps|胸 = poitrine|他光着上身。|他光着上身|un torse
+50|看涨期权|kanne, djang, tchi, tchuanne|Le CANON, le DJANGO, le TCHI et le TCHUANNE parient à la hausse : IL ACHÈTE UNE OPTION D'ACHAT.|kànzhǎng qīquán ≈ « kane-djang-tchi-tchuane » ; 看涨 parier hausse + 期权 option|看跌期权 = option de vente|他买了一份看涨期权。|他买了一份看涨期权|une flèche verte
+51|门槛|menne, khanne|Les MENNE et le KHANNE sous la porte : SUR LE SEUIL DE LA PORTE.|ménkǎn ≈ « mene-khane » ; 门 porte + 槛 seuil|门口 = entrée|在门槛上。|在门槛上|un seuil
+52|正方形|djeng, fang, sing|Le ZHENG, le FANG et le SINGE au carré : DESSINE UN CARRÉ.|zhèngfāngxíng ≈ « djeng-fang-sing » ; 正 droit + 方形 forme carrée|长方形 = rectangle|画一个正方形。|画一个正方形|un carré
+53|信用卡|sine, yong, kha|Le SIGNE, le YONG et le KHA doré : MA CARTE DE CRÉDIT.|xìnyòngkǎ ≈ « sine-yong-kha » ; 信用 crédit + 卡 carte|银行卡 = carte bancaire|我的信用卡。|我的信用卡|une carte dorée
+54|校长|siao, djang|Le SIAMOIS et le DJANGO en toge : LE RECTEUR DE L'UNIVERSITÉ.|xiàozhǎng ≈ « siao-djang » ; 校 école + 长 chef|院长 = doyen|大学的校长。|大学的校长|une toge
+55|惊悚片|djing, song, pienne|Le JINGLE, le SONGe et la PIENNE haletants : UN THRILLER CAPTIVANT.|jīngsǒngpiàn ≈ « djing-song-piène » ; 惊悚 frisson + 片 film|恐怖片 = film d'horreur|一部扣人心弦的惊悚片。|一部扣人心弦的惊悚片|un œil effrayé
+56|钳子|tsienne, dzeu|Le TSIEN et le ZEU serrent : UTILISEZ CETTE PINCE, HARKER !|qiánzi ≈ « tsiène-dzeu » ; « la pince » = 钳子|镊子 = pince à épiler|用这把钳子，哈克！|用这把钳子，哈克|une pince
+57|肤色|fou, seu|Le FOU et le SEU coloré : ELLE A UN BEAU TEINT.|fūsè ≈ « fou-seu » ; 肤 peau + 色 couleur|皮肤 = peau|她的肤色很好看。|她的肤色很好看|un nuancier
+58|树干|chou, ganne|Le CHOU et le GANT enlacent le tronc : LE TRONC DE L'ARBRE.|shùgàn ≈ « chou-gane » ; 树 arbre + 干 tronc|树枝 = branche|树的树干。|树的树干|un tronc
+59|老师|lao, cheu|Le LAO et la CHAISE au stylo rouge : L'ENSEIGNANT CORRIGE LES COPIES.|lǎoshī ≈ « lao-chi » ; « l'enseignant » = 老师|教师 = enseignant (écrit)|老师在批改作业。|老师在批改作业|un stylo rouge
+60|女婿|nu, su|La NU (« NÜ ») et le SOU en costume : MON GENDRE EST MÉDECIN.|nǚxu ≈ « nu-su » ; 女 fille + 婿 gendre|儿媳 = belle-fille|我女婿是医生。|我女婿是医生|un stéthoscope
+61|情节|tching, djié|Le CHINOIS et le JET emmêlés : L'INTRIGUE EST COMPLIQUÉE.|qíngjié ≈ « tching-djié » ; 情 situation + 节 épisode|故事 = histoire|情节很复杂。|情节很复杂|une pelote
+62|钢琴家|gang, tchine, djia|Le GANG, le CHINE et le JIA au clavier : LE PIANISTE LIT LA PARTITION.|gāngqínjiā ≈ « gang-tchine-djia » ; 钢琴 piano + 家 spécialiste|乐手 = musicien|钢琴家在看乐谱。|钢琴家在看乐谱|un piano
+63|教养院|djiao, yang, yuanne|Le JAGUAR, le YANG et la YOURTE derrière des grilles : DANS LA MAISON DE CORRECTION, ON VIVAIT SELON DES RÈGLES TRÈS STRICTES…|jiàoyǎngyuàn ≈ « djiao-yang-yuane » ; 教养 rééduquer + 院 établissement|少管所 = centre pour mineurs|在教养院里，大家过着规矩极严的日子……|在教养院里|des grilles
+64|帮厨|bang, tchou|Le BANG ! de main et le TCHOU en cuisine : LE COMMIS ÉPLUCHE LES LÉGUMES.|bāngchú ≈ « bang-tchou » ; 帮 aider + 厨 cuisine|厨师 = cuisinier|帮厨在削蔬菜。|帮厨在削蔬菜|un économe
+65|平底锅|ping, di, gouo|Le PING, le DIDI et le GUO plat : FAIS CHAUFFER LA POÊLE.|píngdǐguō ≈ « ping-di-gouo » ; 平底 fond plat + 锅 marmite|炒锅 = wok|把平底锅烧热。|把平底锅烧热|une poêle
+66|锅|gouo|Le GUO (« GUO ») qui bout : L'EAU BOUT DANS LA CASSEROLE.|guō ≈ « gouo » ; « la casserole » = 锅|壶 = bouilloire|锅里的水开了。|锅里的水开了|une casserole
+67|生肉|cheng, rou|Le CHÊNE et le ROU rouge : IL NE MANGE PAS DE VIANDE CRUE.|shēngròu ≈ « cheng-rou » ; 生 cru + 肉 viande|熟肉 = viande cuite|他不吃生肉。|他不吃生肉|une viande rouge
+68|橡树|siang, chou|La SIANNE et le CHOU noueux : UN VIEUX CHÊNE.|xiàngshù ≈ « siang-chou » ; 橡 chêne + 树 arbre|松树 = pin|一棵老橡树。|一棵老橡树|un gland
+69|相似|siang, seu|La SIANNE et le SEU jumeaux : LA RESSEMBLANCE EST FRAPPANTE.|xiāngsì ≈ « siang-seu » ; 相 mutuel + 似 ressembler|像 = ressembler|相似之处很惊人。|相似之处很惊人|deux visages identiques
+70|水槽|chouei, tsao|Le CHOUETTE d'eau et le TSAO : LA VAISSELLE EST DANS L'ÉVIER.|shuǐcáo ≈ « chouei-tsao » ; 水 eau + 槽 bac|水龙头 = robinet|碗在水槽里。|碗在水槽里|un évier
+71|妞|niou|Le NIOU en minijupe : C'EST QUI, CETTE MEUF ? (familier).|niū ≈ « niou » ; « la meuf » = 妞 / 妹子|女孩 = fille|这妞是谁？|这妞是谁|un rouge à lèvres
+72|妹子|meille, dzeu|La MÉDAILLE et le ZEU sympas : C'EST UNE NANA SYMPA (familier).|mèizi ≈ « meille-dzeu » ; « la nana » = 妹子|姑娘 = jeune fille|她是个挺好的妹子。|她是个挺好的妹子|un sourire
+73|十字军东征|cheu, dzeu, djiunne, dong, djeng|La CHAISE, le ZEU, le JUNE, le gong et le ZHENG en armure : ET ILS NE S'ÉTAIENT PAS ENGAGÉS DANS UNE CROISADE (doublon de formes_13 05).|shízìjūn dōngzhēng ≈ « chi-dzeu-djune-dong-djeng » ; 十字军 croisés + 东征 expédition vers l'est|圣战 = guerre sainte|他们并没有投身一场十字军东征。|他们并没有投身一场十字军东征|une croix rouge
+74|不便|bou, bienne|Le BOUc et le BIEN gênés : IL Y A UN PETIT INCONVÉNIENT.|búbiàn ≈ « bou-bienne » ; 不 pas + 便 pratique|麻烦 = ennui|有一点小不便。|有一点小不便|un caillou dans la chaussure
+75|林荫大道|line, yinne, da, dao|Le LINGE, le YINNE, le DAIM et le DAO sous les arbres : UN BOULEVARD BORDÉ D'ARBRES.|línyīn dàdào ≈ « line-yine-da-dao » ; 林荫 ombre d'arbres + 大道 avenue|街道 = rue|一条林荫大道。|一条林荫大道|une allée d'arbres
+76|野味|yé, ouei|Le YÉTI et le OUEI de la forêt : UN PLAT DE GIBIER.|yěwèi ≈ « yé-ouei » ; 野 sauvage + 味 saveur|家禽 = volaille|一道野味菜。|一道野味菜|un faisan
+77|祖父母|dzou, fou, mou|Le ZOU, le FOU et le MOU ridés : JE VAIS CHEZ MES GRANDS-PARENTS.|zǔfùmǔ ≈ « dzou-fou-mou » ; 祖 ancêtre + 父母 parents|爷爷奶奶 = grands-parents (paternels)|我去祖父母家。|我去祖父母家|une photo jaunie
+78|野猪|yé, djou|Le YÉTI et le JOUjou à défenses : UN SANGLIER DANS LA FORÊT.|yězhū ≈ « yé-djou » ; 野 sauvage + 猪 porc|猪 = cochon|森林里有一头野猪。|森林里有一头野猪|des défenses
+79|三角形|sanne, djiao, sing|Le SAN, le JAGUAR et le SINGE à trois côtés : DESSINE UN TRIANGLE.|sānjiǎoxíng ≈ « sane-djiao-sing » ; 三角 trois angles + 形 forme|正方形 = carré|画一个三角形。|画一个三角形|un triangle
+80|试镜|cheu, djing|La CHAISE devant le JINGLE de la caméra : ELLE A RÉUSSI L'AUDITION.|shìjìng ≈ « chi-djing » ; 试 essayer + 镜 caméra|面试 = entretien|她通过了试镜。|她通过了试镜|une claquette
+81|试镜|cheu, djing|La CHAISE et le JINGLE demain : IL PASSE UN CASTING DEMAIN (doublon de 80).|shìjìng ≈ « chi-djing » ; doublon|海选 = casting ouvert|他明天去试镜。|他明天去试镜|un projecteur
+82|叙述|su, chou|Le SOU et le CHOU racontent lentement : UNE NARRATION LENTE.|xùshù ≈ « su-chou » ; « la narration » = 叙述|讲述 = raconter|缓慢的叙述。|缓慢的叙述|un livre ouvert
+83|钉子|ding, dzeu|Le DINGO et le ZEU au marteau : ENFONCE LE CLOU DANS LE MUR.|dīngzi ≈ « ding-dzeu » ; « le clou » = 钉子|螺丝 = vis|把钉子钉进墙里。|把钉子钉进墙里|un clou
+84|公共交通|gong, gong, djiao, tong|Deux GONGS, le JAGUAR et le TONneau en bus : JE PRENDS LES TRANSPORTS EN COMMUN.|gōnggòng jiāotōng ≈ « gong-gong-djiao-tong » ; 公共 public + 交通 transport|地铁 = métro|我坐公共交通。|我坐公共交通|un bus
+85|吸尘器|si, tchenne, tchi|Le SIFFLET aspire le TCHENN et le TCHI : PASSE L'ASPIRATEUR.|xīchénqì ≈ « si-tchene-tchi » ; 吸 aspirer + 尘 poussière + 器 appareil|扫帚 = balai|用吸尘器吸一下。|用吸尘器吸一下|un aspirateur
+86|胸针|siong, djenne|Le SIONG et le GENOU épinglé : UNE BROCHE EN OR.|xiōngzhēn ≈ « siong-djene » ; 胸 poitrine + 针 épingle|别针 = épingle|一枚金胸针。|一枚金胸针|une broche
+87|酸黄瓜|souanne, houang, goua|Le SOUANNE, le HOUANG et le GOUA aigre : UN POT DE CORNICHONS.|suān huánggua ≈ « souane-houang-goua » ; 酸 aigre + 黄瓜 concombre|泡菜 = légumes marinés|一罐酸黄瓜。|一罐酸黄瓜|un bocal
+88|成分|tcheng, fenne|Le TCHENG et la FENNE sur l'étiquette : LA COMPOSITION DU PLAT.|chéngfèn ≈ « tcheng-fene » ; « la composition » = 成分|材料 = ingrédients|这道菜的成分。|这道菜的成分|une étiquette
+89|痘痘|do, do|Deux DOdos sur la joue : NE GRATTE PAS TES BOUTONS.|dòudou ≈ « do-do » ; « le bouton (acné) » = 痘痘|痣 = grain de beauté|别抓你的痘痘。|别抓你的痘痘|un bouton
+90|辣椒|la, djiao|Le LAMA crache et le JAGUAR rougit : C'EST TROP DE PIMENT.|làjiāo ≈ « la-djiao » ; 辣 piquant + 椒 poivre|胡椒 = poivre|辣椒放太多了。|辣椒放太多了|un piment
+91|葡萄汁|pou, tao, djeu|Le POU, le TAO et le GÉNIE pressent : UN JUS DE RAISIN FRAIS.|pútaozhī ≈ « pou-tao-djeu » ; 葡萄 raisin + 汁 jus|果汁 = jus|一杯新鲜的葡萄汁。|一杯新鲜的葡萄汁|une grappe pressée
+92|罐头|gouanne, to|Le GOUANE et le TOTO en fer-blanc : OUVRE LA BOÎTE DE CONSERVE.|guàntou ≈ « gouane-to » ; « la boîte de conserve » = 罐头|罐子 = pot|打开罐头。|打开罐头|un ouvre-boîte
+93|金融市场|djine, rong, cheu, tchang|Le JEAN, le RONG, la CHAISE et le CHAMEAU à la corbeille : IL TRAVAILLE DANS LA FINANCE DE MARCHÉ.|jīnróng shìchǎng ≈ « djine-rong-chi-tchang » ; 金融 finance + 市场 marché|银行 = banque|他在金融市场工作。|他在金融市场工作|des écrans de trading
+94|正面|djeng, mienne|Le ZHENG et le MIEN de face : LA FAÇADE DE L'ÉGLISE EST BLANCHE.|zhèngmiàn ≈ « djeng-miène » ; 正 face + 面 côté|背面 = arrière|教堂的正面是白色的。|教堂的正面是白色的|une façade blanche
+95|皱纹|djo, ouenne|Le JO et le OUENNE plissés : ELLE A UNE PETITE RIDE AU COIN DE L'ŒIL.|zhòuwén ≈ « djo-ouene » ; 皱 plisser + 纹 ligne|鱼尾纹 = patte-d'oie|她眼角有一条小皱纹。|她眼角有一条小皱纹|une patte-d'oie
+96|电炉|dienne, lou|Le DIAMANT et le LOUP lents : LA CUISINIÈRE ÉLECTRIQUE CHAUFFE LENTEMENT (doublon de noms_19 11).|diànlú ≈ « diène-lou » ; doublon|电磁炉 = induction|电炉热得很慢。|电炉热得很慢|une plaque rouge
+97|丝巾|seu, djine|Le SEU et le JEAN soyeux : ELLE PORTE UN FOULARD ROUGE.|sījīn ≈ « seu-djine » ; 丝 soie + 巾 étoffe|围巾 = écharpe|她戴着一条红丝巾。|她戴着一条红丝巾|un foulard
+98|投资者|to, dzeu, djeu|Le TOTO, le ZEU et le JEU au guichet : L'INVESTISSEUR A ACHETÉ DES ACTIONS.|tóuzīzhě ≈ « to-dzeu-djeu » ; 投资 investir + 者 personne|股东 = actionnaire|投资者买了股票。|投资者买了股票|un certificat d'action
+99|放映|fang, ying|Le FANG projette le YING : LA PROJECTION COMMENCE À VINGT HEURES (doublon de verbes_15 48).|fàngyìng ≈ « fang-ying » ; doublon (nom)|放映会 = séance|放映晚上八点开始。|放映晚上八点开始|un projecteur

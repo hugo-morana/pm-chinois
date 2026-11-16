@@ -1,0 +1,100 @@
+00|开着|kaï, djeu|Un KAYAK (« KAI ») passe par la porte restée ouverte (« ZHE ») : LA PORTE EST OUVERTE.|kāizhe ≈ « kaï-jeu » ; la porte entrebâillée = ouverte|关着 = fermé|门开着。|门开着|une porte entrebâillée
+01|精确|djing, tchué|Un GINGEMBRE (« JING ») tombe pile (« QUE ») sur la cible : C'EST UN CHIFFRE PRÉCIS.|jīngquè ≈ « djing-tchué » ; le compas = précis|准确 = exact|这是个精确的数字。|精确的数字|un compas
+02|野|yé|« YÉ ! » rugit une bête dans les fourrés : UN ANIMAL SAUVAGE (doublon d'adjectifs_5 77).|yě ≈ « yé » ; doublon|野生 = sauvage|一只野兽。|一只野兽|des fourrés
+03|绝妙|djué, miao|Un JURÉ (« JUE ») et un MIAOU (« MIAO ») ravis goûtent : C'EST DIVIN !|juémiào ≈ « djué-miao » ; l'auréole = divin|太好了 = excellent|太绝妙了！|太绝妙了|une auréole sur une assiette
+04|第一排|di, i, paï|Un DIable lève « I » doigt au PAÏLLOTTE (« PAI ») du premier rang : CELLES DU PREMIER RANG, EN LIGNE.|dì-yī pái ≈ « di-i-paï » ; le premier rang = premières|前排 = devant|第一排的，排好队。|第一排的|un premier rang
+05|奇怪|tchi, gouaille|Un TCHI GOUAILLEUR parmi des gens à l'envers : IL Y A BEAUCOUP DE GENS BIZARRES ICI (doublon d'adjectifs_2 41).|qíguài ≈ « tchi-gouaille » ; doublon|怪人 = gens bizarres|这里有很多奇怪的人。|很多奇怪的人|des gens à l'envers
+06|高|gao|Un GAUCHO (« GAO ») perché sur des talons : POURQUOI PORTE-T-ELLE DES TALONS HAUTS ? (doublon d'adjectifs_3 53)|gāo ≈ « gao » ; doublon|高跟鞋 = talons hauts|她为什么穿高跟鞋？|穿高跟鞋|des talons hauts
+07|大方|da, fang|Un DAuphin offre une FANGE (« FANG ») pleine de cadeaux : T'ES TROP GÉNÉREUX.|dàfang ≈ « da-fang » ; les mains ouvertes = généreux|小气 = radin|你太大方了。|你太大方了|des mains ouvertes
+08|中央|djong, yang|Un JONC (« ZHONG ») planté au centre du YANG : LA GARE CENTRALE.|zhōngyāng ≈ « djong-yang » ; le centre de la cible = central|中心 = centre|中央车站。|中央车站|un jonc au centre
+09|皇室|houang, chie|Un HOUANG (« HUANG ») couronné sur une CHAISE-trône (« SHI ») : LA FAMILLE ROYALE.|huángshì ≈ « houang-chi » ; la couronne = royal|王 = roi|皇室家族。|皇室家族|une couronne
+10|灵活|ling, houo|Un LINGOT (« LING ») bondit dans une flamme HOUO ! : IL A L'ESPRIT VIF.|línghuó ≈ « ling-houo » ; l'éclair = vif|快 = rapide|他头脑很灵活。|头脑很灵活|un lingot bondissant
+11|穷人|tchiong, renne|Un CHIONG (« QIONG ») et un RENNE en haillons : L'AIDE AUX PAUVRES.|qióngrén ≈ « tchiong-renne » ; les haillons = pauvres|富人 = riches|对穷人的援助。|对穷人的援助|des haillons
+12|全套|tchuanne, tao|Un CHOUAN (« QUAN ») et un TAOïste (« TAO ») déballent tout l'attirail : J'AI APPORTÉ L'ATTIRAIL COMPLET.|quántào ≈ « tchuane-tao » ; la valise pleine = complète|完整 = complet|我带了全套装备。|全套装备|une valise pleine
+13|红|hong|Un HONG (« HONG ») de drapeau rouge : UN AVANT-POSTE ROUGE.|hóng ≈ « hong » ; le drapeau rouge = rouge|红色 = couleur rouge|一个红色前哨。|红色前哨|un drapeau rouge
+14|正常|djeng, tchang|Un gong « DJENG ! » et un CHANT (« CHANG ») régulier : COMME N'IMPORTE QUELLE PERSONNE NORMALE (doublon d'adjectifs_2 66).|zhèngcháng ≈ « djeng-tchang » ; doublon|普通 = ordinaire|她可以像任何正常人一样把它们摘下来。|任何正常人|un métronome
+15|旧|djiou|Un JUDOKA (« JIU ») dans une maison décrépite : C'EST UNE VIEILLE MAISON (doublon d'adjectifs_5 75).|jiù ≈ « djiou » ; doublon|老 = vieux|这是一栋旧房子。|旧房子|une maison décrépite
+16|本地|beune, di|Un BÊNE (« BEN ») plante un drapeau sur sa terre (« DI ») : C'EST UN PRODUIT LOCAL.|běndì ≈ « beune-di » ; le drapeau local = local|当地 = sur place|这是本地产品。|本地产品|un drapeau local
+17|中国|djong, go|Un JONC (« ZHONG ») et un GOGO (« GUO ») sous des lanternes rouges : UN RESTAURANT CHINOIS.|Zhōngguó ≈ « djong-go » ; la lanterne rouge = chinois|中餐 = cuisine chinoise|一家中国餐馆。|中国餐馆|des lanternes rouges
+18|危险|ouei, sienne|Un OUISTITI (« WEI ») sur une SIENNE au bord du vide : VOTRE GIBIER LE PLUS DANGEREUX (doublon d'adjectifs_2 83).|wēixiǎn ≈ « ouei-sienne » ; doublon|凶猛 = féroce|这就是你最危险的猎物。|最危险的猎物|un panneau ⚠
+19|开着|kaï, djeu|Le KAYAK passe par des portes ouvertes : OUVERTS, COMME ÇA ? (doublon de 00)|kāizhe ≈ « kaï-jeu » ; doublon|打开 = ouvrir|开着，像这样？|开着，像这样|des portes ouvertes
+20|俄国|eu, go|« EUH ! » fait un GOGO (« GUO ») en poupée russe : LES PRISONNIERS RUSSES SONT MIEUX NOURRIS !|Éguó ≈ « eu-go » ; la poupée russe = russe|俄罗斯 = Russie (moderne)|在日本，俄国战俘吃得更好！|俄国战俘|une poupée russe
+21|真正的|djeune, djeng, deu|Un JEUNE (« ZHEN ») et un gong « DJENG ! » DEUx fois sous l'arche : LES VRAIES NOCES.|zhēnzhèng de ≈ « jeune-djeng-deu » ; le tampon « vrai » = vraies|真的 = vrai|真正的婚礼。|真正的婚礼|une arche de noces
+22|幸运|sing, yune|Un SINGE (« XING ») et une YOUNE (« YUN ») trouvent un trèfle : NOUS SOMMES TOUS TRÈS CHANCEUX D'ÊTRE VIVANTS.|xìngyùn ≈ « sing-yune » ; le trèfle = chanceux|运气好 = avoir de la chance|我们都很幸运还活着。|我们都很幸运|un trèfle à quatre feuilles
+23|多少|dwo, chao|Un DUO (« DUO ») et un CHAT (« SHAO ») comptent les pièces : COMBIEN IL T'EN FAUT ?|duōshao ≈ « dwo-chao » ; le boulier = combien|几 = combien (petit nombre)|你需要多少？|你需要多少|un boulier
+24|太棒了|taï, bang, leu|Un TAÏ-chi, un BANG ! et un LEURRE : C'EST GÉNIAL ! (doublon d'adjectifs_2 36)|tài bàng le ≈ « taï-bang-leu » ; doublon|厉害 = trop fort|太棒了！|太棒了|une explosion de joie
+25|结实|djié, chie|Un JET (« JIE ») saute sur une CHAISE (« SHI ») qui tient bon : CETTE TABLE EST SOLIDE.|jiēshi ≈ « djié-chi » ; la table qui résiste = solide|牢固 = robuste|这张桌子很结实。|这张桌子很结实|une table qui résiste
+26|感激|ganne, dji|Un GANT (« GAN ») serre la main d'un GÉNIE (« JI ») : JE TE SUIS RECONNAISSANT (doublon de verbes_4 31).|gǎnjī ≈ « gane-dji » ; doublon|感谢 = remercier|我很感激你。|我很感激你|une main sur le cœur
+27|清楚|tching, tchou|Un CHINOIS (« QING ») et une loupe CHOUette : NOTRE CHOIX EST CLAIR (doublon d'adjectifs_2 59).|qīngchu ≈ « tching-tchou » ; doublon|明确 = net|我们的选择很清楚。|我们的选择很清楚|une loupe
+28|军官|djune, gouanne|Un JUNE (« JUN ») galonné et un GOUAILLEUR (« GUAN ») : LES OFFICIERS N'ACHÈTENT PAS MES VÊTEMENTS.|jūnguān ≈ « djune-gouane » ; les galons = officiers|官员 = fonctionnaire|军官们不买我的衣服。|军官们不买我的衣服|des galons
+29|一罐|i, gouanne|« I » GOUAILLEUR (« GUAN ») tient un pot : UN POT DE CONFITURE.|yí guàn ≈ « i-gouane » ; le pot = un pot de|一瓶 = une bouteille de|一罐果酱。|一罐果酱|un pot de confiture
+30|一杯|i, beille|« I » BEILLE (« BEI ») fumante : UNE TASSE DE CAFÉ ? (doublon d'adjectifs_2 51)|yì bēi ≈ « i-beille » ; doublon|一杯咖啡 = un café|来一杯咖啡吗？|一杯咖啡|une tasse fumante
+31|忙|mang|Une MANGOUSTE (« MANG ») jongle avec dix dossiers : JE SUIS OCCUPÉ.|máng ≈ « mang » ; doublon de noms_2 54|有事 = être pris|我很忙。|我很忙|une mangouste qui jongle
+32|赶时间|ganne, chie, djienne|Un GANT (« GAN ») pousse la CHAISE d'un DIEN pressé : JE SUIS PRESSÉ.|gǎn shíjiān ≈ « gane-chi-djienne » ; le chrono = pressé|着急 = impatient|我在赶时间。|我在赶时间|un chrono
+33|无聊|ou, liao|« HOU… » bâille un LION (« LIAO ») devant l'écran : CE FILM EST ENNUYEUX.|wúliáo ≈ « hou-liao » ; le bâillement = ennuyeux|没意思 = sans intérêt|这部电影很无聊。|很无聊|un lion qui bâille
+34|聋|long|Un LONG (« LONG ») cornet à l'oreille : IL EST SOURD.|lóng ≈ « long » ; le cornet acoustique = sourd|听不见 = ne pas entendre|他是聋子。|他是聋子|un cornet acoustique
+35|微妙|ouei, miao|Un OUISTITI (« WEI ») et un MIAOU (« MIAO ») marchent sur des œufs : C'EST UNE SITUATION DÉLICATE.|wēimiào ≈ « ouei-miao » ; les œufs = délicat|棘手 = épineux|这是个微妙的情况。|微妙的情况|des œufs
+36|不会|bou, houei|Un BOUc lance un boomerang (« HUI ») qui ne revient pas : IL EST INCAPABLE DE MENTIR.|bú huì ≈ « bou-houei » ; le boomerang raté = incapable|没能力 = incapable|他不会撒谎。|他不会撒谎|un boomerang raté
+37|一点|i, dianne|« I » minuscule DIAMANT (« DIAN ») : ÇA N'AVAIT PAS LA MOINDRE IMPORTANCE (doublon d'adjectifs_4 17).|yìdiǎn ≈ « i-dianne » ; doublon|丝毫 = le moindre|这一点都不重要。|一点都不重要|une poussière
+38|空|kong|Un KONG (« KONG ») dans une salle vide : REGARDEZ LA SALLE : VIDE ! (doublon d'adjectifs_3 96)|kōng ≈ « kong » ; doublon|空荡荡 = désert|看看这大厅：空的！|空的|une salle vide
+39|胆小|danne, siao|Une DANSE (« DAN ») de SIAMOIS (« XIAO ») qui tremble : NE SOIS PAS LÂCHE.|dǎnxiǎo ≈ « dane-siao » ; les genoux tremblants = lâche|懦弱 = faible|别那么胆小。|别那么胆小|des genoux tremblants
+40|便衣|biène, i|Un BIEN (« BIAN ») en civil dit « I » : IL EST EN CIVIL.|biànyī ≈ « biène-i » ; l'imper banal = en civil|平民 = civil (personne)|他穿着便衣。|穿着便衣|un imper banal
+41|纯|tchoune|Un CHOUN (« CHUN ») polynésien couronné de fleurs : C'EST UNE PURE POLYNÉSIENNE (doublon d'adjectifs_4 19).|chún ≈ « tchoune » ; doublon|地道 = authentique|她是纯正的波利尼西亚人。|纯正的波利尼西亚人|une couronne de fleurs
+42|亲爱的|tchine, aille, deu|Une CHINE dit « AÏE » à DEUx cœurs : CHERS AMIS ! (doublon d'adjectifs_2 53)|qīn'ài de ≈ « tchine-aille-deu » ; doublon|各位 = vous tous|亲爱的朋友们！格斯塔·贝林的传说即将结束。|亲爱的朋友们|deux cœurs
+43|忠诚|djong, tcheng|Un JONC (« ZHONG ») et un CHÈQUE (« CHENG ») toujours ensemble : UN AMI FIDÈLE.|zhōngchéng ≈ « djong-tcheng » ; le chien fidèle = fidèle|可靠 = fiable|一个忠诚的朋友。|忠诚的朋友|un chien fidèle
+44|受欢迎|cho, houanne, ing|Un CHAUD (« SHOU ») HOUANNE INGÉ entouré de fans : IL EST TRÈS POPULAIRE.|shòu huānyíng ≈ « cho-houane-ing » ; la foule de fans = populaire|有名 = célèbre|他很受欢迎。|他很受欢迎|une foule de fans
+45|低空|di, kong|Un DIable (« DI ») frôle le sol dans un KONG (« KONG ») : FAIS ATTENTION AUX AVIONS À BASSE ALTITUDE.|dīkōng ≈ « di-kong » ; l'avion qui frôle = basse (altitude)|低 = bas|小心低空飞行的飞机，听见了吗？|低空飞行的飞机|un avion qui frôle le sol
+46|坏|houaille|Un HOUAILLEUR (« HUAI ») au fruit pourri : J'AI UNE MAUVAISE NOUVELLE À T'ANNONCER (doublon d'adjectifs_2 01).|huài ≈ « houaille » ; doublon|坏消息 = mauvaise nouvelle|我有个坏消息要告诉你。|坏消息|un fruit pourri
+47|十亿|chie, i|Une CHAISE (« SHI ») et « I » montagne de têtes : UN MILLIARD DE PERSONNES.|shíyì ≈ « chi-i » ; la montagne de têtes = milliard|亿 = cent millions|十亿人。|十亿人|une montagne de têtes
+48|很多|henne, dwo|La déesse HENNE et un DUO attendent patiemment : IL FAUT BEAUCOUP DE PATIENCE (doublon d'adverbes_2 03).|hěn duō ≈ « henne-dwo » ; doublon|很大的 = beaucoup de (abstrait)|需要很多耐心。|很多耐心|un sablier géant
+49|令人印象深刻|ling, renne, ine, siang, cheune, keu|Un LINGOT, un RENNE, une INE, un SIANGE, une CHAÎNE et un KEU bouche bée : C'EST IMPRESSIONNANT.|lìng rén yìnxiàng shēnkè ≈ « ling-renne-ine-siang-cheune-keu » ; la bouche bée = impressionnant|厉害 = fort|这令人印象深刻。|令人印象深刻|une bouche bée
+50|荒谬|houang, miou|Un HOUANG (« HUANG ») et un MIOU (« MIU ») marchent au plafond : C'EST ABSURDE !|huāngmiù ≈ « houang-miou » ; le monde à l'envers = absurde|可笑 = ridicule|这太荒谬了！|太荒谬了|un monde à l'envers
+51|现代|sienne, daille|Une SIENNE (« XIAN ») et un DAIM (« DAI ») en gratte-ciel : C'EST TRÈS MODERNE.|xiàndài ≈ « sienne-daille » ; le gratte-ciel = moderne|新式 = nouveau style|这很现代。|这很现代|un gratte-ciel
+52|积极|dji, dji|Deux GÉNIES (« JI JI ») lèvent le pouce : SOIS POSITIF !|jījí ≈ « dji-dji » ; le pouce levé = positif|乐观 = optimiste|积极点！|积极点|deux pouces levés
+53|理想|li, siang|Un LIT (« LI ») où rêve un SIANGE (« XIANG ») : C'EST L'ENDROIT IDÉAL.|lǐxiǎng ≈ « li-siang » ; le nuage de rêve = idéal|完美 = parfait|这是理想的地方。|理想的地方|un nuage de rêve
+54|神秘|cheune, mi|Une CHAÎNE (« SHEN ») cache un MI (« MI ») sous une cape : UN HOMME MYSTÉRIEUX.|shénmì ≈ « cheune-mi » ; la cape = mystérieux|奇怪 = étrange|一个神秘的男人。|神秘的男人|une cape
+55|幸运|sing, yune|Le SINGE (« XING ») et la YOUNE trouvent un trèfle : TU ES CHANCEUX ! (doublon de 22)|xìngyùn ≈ « sing-yune » ; doublon|走运 = avoir du bol|你真幸运！|你真幸运|un trèfle
+56|真诚|djeune, tcheng|Un JEUNE (« ZHEN ») tend un CHÈQUE (« CHENG ») la main sur le cœur : SOIS SINCÈRE.|zhēnchéng ≈ « jeune-tcheng » ; la main sur le cœur = sincère|老实 = honnête|真诚一点。|真诚一点|une main sur le cœur
+57|音乐剧|ine, yué, djiu|Une INE (« YIN »), un YUÉ (« YUE ») et un JUDOKA dansent sur scène : UNE COMÉDIE MUSICALE.|yīnyuèjù ≈ « ine-yué-djiu » ; la scène dansante = musical|音乐 = musique|一部音乐剧。|一部音乐剧|une scène dansante
+58|正当|djeng, dang|Un gong « DJENG ! » et une DAGUE (« DANG ») en défense : IL A AGI EN LÉGITIME DÉFENSE.|zhèngdàng ≈ « djeng-dang » ; le bouclier = légitime|合法 = légal|他是正当防卫。|正当防卫|un bouclier
+59|醉|dzouei|Un ZOUAVE (« ZUI ») titube, bouteille en main : IL EST COMPLÈTEMENT IVRE.|zuì ≈ « dzouei » ; la bouteille = ivre|喝醉 = s'enivrer|他完全喝醉了。|他完全喝醉了|un zouave titubant
+60|十二|chie, eur|Une CHAISE (« SHI ») et un LEURRE (« ER ») dans une boîte de DOUZE œufs.|shí'èr ≈ « chi-eur » ; la boîte de douze = douze|一打 = une douzaine|十二个鸡蛋。|十二个鸡蛋|une boîte de douze œufs
+61|巨大|djiu, da|Un JUDOKA (« JU ») sur un DAuphin géant : UNE MAISON IMMENSE (doublon d'adjectifs_3 83).|jùdà ≈ « djiu-da » ; doublon|很大 = très grand|一栋巨大的房子。|巨大的房子|un dauphin géant
+62|联邦|liène, bang|Un LIEN relie les étoiles d'un BANG ! : UN AGENT FÉDÉRAL (doublon d'adjectifs_5 67).|liánbāng ≈ « liène-bang » ; doublon|联邦调查局 = FBI|一名联邦探员。|联邦探员|des étoiles reliées
+63|酷|kou|Un COUCOU (« KU ») en lunettes noires : TON BLOUSON EST TROP COOL ! (doublon d'adjectifs_2 98)|kù ≈ « kou » ; doublon|帅 = classe|你的夹克太酷了！|你的夹克太酷了|un blouson cool
+64|行政|sing, djeng|Un SINGE (« XING ») et un gong « DJENG ! » tamponnent des papiers : IL S'OCCUPE DE LA PARTIE ADMINISTRATIVE.|xíngzhèng ≈ « sing-djeng » ; le tampon = administratif|管理 = gestion|他负责行政部分。|行政部分|un tampon
+65|不公平|bou, gong, ping|Un BOUc, un GONG et un PINGOUIN sur une balance penchée : C'EST INJUSTE !|bù gōngpíng ≈ « bou-gong-ping » ; la balance penchée = injuste|公平 = juste|这不公平！|这不公平|une balance penchée
+66|普通|pou, tong|Un POUlet (« PU ») et un TONneau banals : C'EST UN HOMME ORDINAIRE.|pǔtōng ≈ « pou-tong » ; le gris = ordinaire|一般 = moyen|他是个普通人。|普通人|un poulet banal
+67|够|go|Un GOGO (« GOU ») plein à ras bord : C'EST LARGEMENT SUFFISANT (doublon de verbes_2 63).|gòu ≈ « go » ; doublon|足够 = suffisant|这完全够了。|这完全够了|un verre plein
+68|新颖|sine, ing|Un SIGNE (« XIN ») neuf et un INGÉ (« YING ») inventeur : C'EST TRÈS ORIGINAL.|xīnyǐng ≈ « sine-ing » ; l'ampoule neuve = original|独特 = unique|这很新颖。|这很新颖|une ampoule neuve
+69|十五|chie, ou|Une CHAISE (« SHI ») et un HOU ! comptent QUINZE jours.|shíwǔ ≈ « chi-hou » ; le calendrier = quinze|半个月 = quinze jours|十五天后。|十五天后|un calendrier
+70|时髦|chie, mao|Une CHAISE (« SHI ») et un MAOri en costume branché : TU ES TRÈS CHIC.|shímáo ≈ « chi-mao » ; le nœud papillon = chic|优雅 = élégant|你很时髦。|你很时髦|un nœud papillon
+71|害羞|haï, siou|Une HAIE (« HAI ») cache un SIOUX (« XIU ») rougissant : IL EST TIMIDE.|hàixiū ≈ « haï-siou » ; les joues rouges = timide|内向 = introverti|他很害羞。|他很害羞|un sioux rougissant
+72|有空|yo, kong|« YO ! » crie un KONG libre : T'ES DISPONIBLE DEMAIN ? (doublon d'adjectifs_2 60)|yǒukòng ≈ « yo-kong » ; doublon|方便 = pratique|你明天有空吗？|明天有空吗|un agenda vide
+73|有名|yo, ming|« YO ! » sous les projecteurs MING : C'EST UN ACTEUR CONNU (doublon d'adjectifs_4 94).|yǒumíng ≈ « yo-ming » ; doublon|知名 = renommé|他是个有名的演员。|有名的演员|des projecteurs
+74|葡萄牙语|pou, tao, ya, yu|Un POUlet, un TAOïste, un YACK et un YOUYOU sur une caravelle : IL PARLE PORTUGAIS.|Pútáoyáyǔ ≈ « pou-tao-ya-yu » ; la caravelle = portugais|葡萄牙 = Portugal|他会说葡萄牙语。|会说葡萄牙语|une caravelle
+75|合理|heu, li|Un HEU (« HE ») et un LIT (« LI ») emboîtés parfaitement : C'EST LOGIQUE.|hélǐ ≈ « heu-li » ; les pièces emboîtées = logique|逻辑 = logique (science)|这很合理。|这很合理|des pièces emboîtées
+76|聪明|tsong, ming|Un TSONG (« CONG ») à la lampe MING : ELLE EST TRÈS INTELLIGENTE (doublon d'adjectifs_3 54).|cōngming ≈ « tsong-ming » ; doublon|机灵 = malin|她很聪明。|她很聪明|une ampoule allumée
+77|西班牙语|si, banne, ya, yu|Un SIGNE (« XI »), un BANC, un YACK et un YOUYOU en flamenco : JE PARLE ESPAGNOL.|Xībānyáyǔ ≈ « si-bane-ya-yu » ; l'éventail de flamenco = espagnol|西班牙 = Espagne|我会说西班牙语。|会说西班牙语|un éventail de flamenco
+78|明显|ming, sienne|Une lampe MING sur la SIENNE (« XIAN ») : UNE NETTE AMÉLIORATION.|míngxiǎn ≈ « ming-sienne » ; doublon d'incises_3 16|清楚 = clair|明显的改善。|明显的改善|une lampe sur une courbe
+79|三十|sanne, chie|Une SANNE (« SAN ») sur une CHAISE (« SHI ») souffle trente bougies : TRENTE ANS.|sānshí ≈ « sane-chi » ; les trente bougies = trente|三十岁 = trente ans|三十岁。|三十岁|trente bougies
+80|男|nanne|Un NANNE (« NAN ») moustachu : SEXE : MASCULIN.|nán ≈ « nane » ; la moustache = masculin|女 = féminin|性别：男。|性别：男|une moustache
+81|有天赋|yo, tienne, fou|« YO ! » crie une TIENNE à un FOU (« FU ») doué : IL EST TRÈS DOUÉ.|yǒu tiānfù ≈ « yo-tienne-fou » ; l'étoile sur la tête = doué|厉害 = fort|他很有天赋。|他很有天赋|une étoile sur la tête
+82|坏了|houaille, leu|Un HOUAILLEUR (« HUAI ») et un LEURRE sur un écran fêlé : MON TÉLÉPHONE EST CASSÉ.|huài le ≈ « houaille-leu » ; l'écran fêlé = cassé|破 = brisé|我的手机坏了。|我的手机坏了|un écran fêlé
+83|金发|djine, fa|Un JEAN (« JIN ») d'or et un FAkir aux cheveux blonds : MA SŒUR EST BLONDE.|jīnfà ≈ « djine-fa » ; les cheveux d'or = blonde|黄头发 = cheveux jaunes|我姐姐是金发。|我姐姐是金发|des cheveux d'or
+84|这个|djeu, gueu|Un JEU (« ZHE ») pointe un GUEU (« GE ») proche : CET HOMME EST MON PÈRE (doublon d'adjectifs_3 86).|zhège ≈ « jeu-gueu » ; doublon|这位 = cette personne (poli)|这个人是我爸爸。|这个人是我爸爸|un doigt proche
+85|耍嘴皮子|choua, dzouei, pi, dzeu|Un CHOUA (« SHUA ») agite un ZOUAVE à la langue de PIgeon : ARRÊTE DE FAIRE LE MALIN ET PRÉPARE-TOI.|shuǎ zuǐpízi ≈ « choua-dzouei-pi-dzeu » ; la langue qui frétille = spirituel (beau parleur)|幽默 = drôle|别耍嘴皮子了，准备好。|别耍嘴皮子了|une langue qui frétille
+86|恶心|eu, sine|« EUH… » : un SIGNE vert sur le visage : C'EST DÉGUEULASSE, CE CAFÉ (doublon de verbes_4 07).|ěxin ≈ « eu-sine » ; doublon|难喝 = imbuvable|这咖啡真恶心。|这咖啡真恶心|un visage vert
+87|帅|chouaille|Un CHOUAILLE (« SHUAI ») en smoking : TU ES SPLENDIDE.|shuài ≈ « chouaille » ; le smoking = splendide (beau)|漂亮 = jolie|你真帅。|你真帅|un smoking
+88|被绑架|beille, bang, djia|Une BEILLE (« BEI ») ligotée par un BANG ! de JIA (« BANGJIA ») : L'ENFANT ENLEVÉ EST REVENU.|bèi bǎngjià ≈ « beille-bang-djia » ; la corde = enlevé|绑票 = rapt|被绑架的孩子回来了。|被绑架的孩子|une corde
+89|宪法|sienne, fa|Une SIENNE (« XIAN ») et un FAkir tiennent un parchemin : UN DROIT CONSTITUTIONNEL.|xiànfǎ ≈ « sienne-fa » ; le parchemin = constitutionnel|法律 = loi|一项宪法权利。|宪法权利|un parchemin
+90|自由主义|dzeu, yo, djou, i|Un ZEU (« ZI »), un « YO ! », un JOUJOU et un « I » au marché libre : UNE POLITIQUE LIBÉRALE.|zìyóu zhǔyì ≈ « dzeu-yo-djou-i » ; la balance du marché = libéral|市场经济 = économie de marché|一项自由主义政策。|自由主义政策|une balance de marché
+91|方便|fang, biène|Une FANGE (« FANG ») BIEN (« BIAN ») rangée à portée de main : C'EST PRATIQUE.|fāngbiàn ≈ « fang-biène » ; le couteau suisse = pratique|实用 = utile|这很方便。|这很方便|un couteau suisse
+92|舒服|chou, fou|Un CHOU (« SHU ») et un FOU (« FU ») s'enfoncent dans le canapé : CE CANAPÉ EST CONFORTABLE.|shūfu ≈ « chou-fou » ; le canapé = confortable|舒适 = confortable (écrit)|这个沙发很舒服。|这个沙发很舒服|un canapé moelleux
+93|失踪|chie, dzong|Une CHAISE (« SHI ») vide et un ZONGzi disparu : SON FILS A DISPARU.|shīzōng ≈ « chi-dzong » ; l'avis de recherche = disparu|消失 = disparaître|他儿子失踪了。|他儿子失踪了|un avis de recherche
+94|惊人|djing, renne|Un GINGEMBRE (« JING ») sursaute devant un RENNE identique : LA RESSEMBLANCE EST FRAPPANTE.|jīngrén ≈ « djing-renne » ; les sourcils levés = frappant|吃惊 = surpris|相似之处很惊人。|很惊人|des sourcils levés
+95|蠢货|tchoune, houo|Un CHOUN (« CHUN ») se cogne à un HOUO ! : NE SOIS PAS CRÉTIN !|chǔnhuò ≈ « tchoune-houo » ; le bonnet d'âne = crétin|傻瓜 = idiot|别当蠢货！|别当蠢货|un bonnet d'âne
+96|合法|heu, fa|Un HEU (« HE ») et un FAkir tamponnent « OK » : C'EST TOUT À FAIT LÉGAL.|héfǎ ≈ « heu-fa » ; le tampon OK = légal|违法 = illégal|这完全合法。|这完全合法|un tampon OK
+97|棕色|dzong, seu|Un ZONGzi (« ZONG ») et un SEU (« SE ») couleur chocolat : IL A LES YEUX BRUNS.|zōngsè ≈ « dzong-seu » ; le chocolat = brun|褐色 = brun (écrit)|他的眼睛是棕色的。|眼睛是棕色的|du chocolat
+98|绝对|djué, douei|Un JURÉ (« JUE ») et une DOUILLE (« DUI ») frappent fort : C'EST LE SILENCE ABSOLU (doublon d'adverbes_3 47).|juéduì ≈ « djué-douei » ; doublon|完全 = total|这是绝对的安静。|绝对的安静|un marteau de juge
+99|可能|keu, neng|Un KEU (« KE ») dit « NENG » : C'EST PROBABLE (doublon d'adjectifs_2 21).|kěnéng ≈ « keu-neng » ; doublon|大概 = probablement|很可能。|很可能|un keu au pont

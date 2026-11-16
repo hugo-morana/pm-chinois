@@ -1,0 +1,100 @@
+00|混蛋|houenne, danne|Le HOUENNE et le DANDY menteurs : CE SALAUD M'A MENTI (vulgaire).|húndàn ≈ « houene-dane » ; « le salaud » = 混蛋 / 王八蛋|坏人 = méchant|这个混蛋骗了我。|这个混蛋骗了我|un nez de menteur
+01|肠子|tchang, dzeu|Le CHAMEAU et le ZEU noués : IL A MAL AUX INTESTINS.|chángzi ≈ « tchang-dzeu » ; « les intestins » = 肠子 / 肠|胃 = estomac|他肠子疼。|他肠子疼|un ventre noué
+02|下水道口|sia, chouei, dao, kho|Le SIAMOIS, le CHOUETTE, le DAO et le KHO rond : LE CHAT EST TOMBÉ DANS LA BOUCHE D'ÉGOUT.|xiàshuǐdàokǒu ≈ « sia-chouei-dao-kho » ; 下水道 égout + 口 ouverture|井盖 = plaque d'égout|猫掉进了下水道口。|猫掉进了下水道口|une plaque d'égout
+03|蓝莓|lanne, meille|Le LANNE bleu et la MÉDAILLE : UNE TARTE AUX MYRTILLES.|lánméi ≈ « lane-meille » ; 蓝 bleu + 莓 baie|草莓 = fraise|一个蓝莓派。|一个蓝莓派|une baie bleue
+04|蕾丝|leille, seu|La LEILLE et le SEU ajourés : UNE ROBE EN DENTELLE.|lěisī ≈ « leille-seu » ; transcription de « lace »|丝绸 = soie|一条蕾丝裙。|一条蕾丝裙|une dentelle
+05|交响曲|djiao, siang, tchu|Le JAGUAR, la SIANNE et le TCHU en orchestre : LA NEUVIÈME SYMPHONIE.|jiāoxiǎngqǔ ≈ « djiao-siang-tchu » ; 交响 résonner ensemble + 曲 morceau|乐团 = orchestre|第九交响曲。|第九交响曲|une baguette de chef
+06|头发|to, fa|Le TOTO et le FARE coupés : T'AS COUPÉ TES CHEVEUX ?|tóufa ≈ « to-fa » ; « le cheveu » = 头发 / 一根头发|胡子 = barbe|你剪头发了？|你剪头发了|des ciseaux
+07|洗手池|si, cho, tcheu|Le SIFFLET, la main CHAUDE et le TCHEU bouché : LE LAVABO EST BOUCHÉ.|xǐshǒuchí ≈ « si-cho-tcheu » ; 洗手 se laver les mains + 池 bassin|水槽 = évier|洗手池堵了。|洗手池堵了|un lavabo
+08|渡轮|dou, lounne|Le DOUdou et la LUNE flottante : ON PREND LE FERRY POUR LA SARDAIGNE.|dùlún ≈ « dou-loune » ; 渡 traverser + 轮 navire|游轮 = paquebot|我们坐渡轮去撒丁岛。|我们坐渡轮去撒丁岛|un ferry
+09|业余时间|yé, yu, cheu, djienne|Le YÉTI, le YOUYOU, la CHAISE et le DJINN au repos : QUE FAIS-TU PENDANT TES LOISIRS ?|yèyú shíjiān ≈ « yé-yu-chi-djienne » ; 业余 hors travail + 时间 temps|爱好 = hobby|你业余时间做什么？|你业余时间做什么|un hamac
+10|长颈鹿|tchang, djing, lou|Le CHAMEAU, le JINGLE et le LOUP au long cou : LA GIRAFE A UN LONG COU.|chángjǐnglù ≈ « tchang-djing-lou » ; 长颈 long cou + 鹿 cerf|大象 = éléphant|长颈鹿的脖子很长。|长颈鹿的脖子很长|un long cou
+11|醋|tsou|Le TSOU (« CU ») acide : UN PEU D'HUILE ET DE VINAIGRE.|cù ≈ « tsou » ; le vinaigre = 醋|酱油 = sauce soja|一点油和醋。|一点油和醋|une burette
+12|偷渡客|to, dou, kheu|Le TOTO, le DOUdou et le KHEU dans la cale : UN PASSAGER CLANDESTIN S'EST ÉCHAPPÉ (doublon de formes_12 92).|tōudùkè ≈ « to-dou-kheu » ; doublon|非法移民 = clandestin|一个偷渡客溜走了。|一个偷渡客溜走了|une malle
+13|新闻|sine, ouenne|Le SIGNE et le OUENNE à l'antenne : IL PRÉSENTE LE JOURNAL DE VINGT HEURES (doublon de formes_9 94).|xīnwén ≈ « sine-ouene » ; doublon|电视新闻 = JT|他主持晚上八点的新闻。|他主持晚上八点的新闻|une antenne
+14|假发|djia, fa|Le JIA faux et le FARE noir : J'AI UNE PERRUQUE NOIRE ET QUELQUES FRINGUES DES ANNÉES 60.|jiǎfà ≈ « djia-fa » ; 假 faux + 发 cheveux|头发 = cheveux|我有一顶黑假发和几件六十年代的衣服。|我有一顶黑假发|une perruque
+15|牙膏|ya, gao|Le YAK et le GAUCHO pressent le tube : IL N'Y A PLUS DE DENTIFRICE.|yágāo ≈ « ya-gao » ; 牙 dent + 膏 pâte|牙刷 = brosse à dents|牙膏用完了。|牙膏用完了|un tube
+16|凳子|deng, dzeu|La DENGUE et le ZEU assis : ASSIEDS-TOI SUR LE TABOURET.|dèngzi ≈ « deng-dzeu » ; « le tabouret » = 凳子|椅子 = chaise|坐在凳子上。|坐在凳子上|un tabouret
+17|睫毛|djié, mao|Le JET et le MAO dans l'œil : J'AI UN CIL DANS L'ŒIL.|jiémáo ≈ « djié-mao » ; 睫 cil + 毛 poil|眉毛 = sourcil|我眼睛里进了一根睫毛。|我眼睛里进了一根睫毛|un œil qui pleure
+18|南瓜|nanne, goua|La NANNE et le GOUA orange : UNE SOUPE DE CITROUILLE.|nánguā ≈ « nane-goua » ; 南 sud + 瓜 courge|西瓜 = pastèque|一碗南瓜汤。|一碗南瓜汤|une citrouille
+19|运动裤|yunne, dong, kou|L'UNE, le gong et le COU molletonnés : IL EST EN JOGGING TOUTE LA JOURNÉE.|yùndòngkù ≈ « yune-dong-kou » ; 运动 sport + 裤 pantalon|运动服 = survêtement|他整天穿着运动裤。|他整天穿着运动裤|un jogging
+20|深渊|chenne, yuanne|La CHAÎNE et la YOURTE au fond : IL TOMBE DANS L'ABÎME.|shēnyuān ≈ « chene-yuane » ; 深 profond + 渊 gouffre|悬崖 = falaise|他掉进了深渊。|他掉进了深渊|un gouffre
+21|火车头|houo, tcheu, to|Le HOUX, le TCHEU et le TOTO fumant : LA LOCOMOTIVE SIFFLE.|huǒchētóu ≈ « houo-tcheu-to » ; 火车 train + 头 tête|车厢 = wagon|火车头鸣笛了。|火车头鸣笛了|une locomotive
+22|五斗柜|ou, do, gouei|Le « OUH », le DOdo et le GOUEI à tiroirs : LES PULLS SONT DANS LA COMMODE.|wǔdǒuguì ≈ « ou-do-gouei » ; 五斗 cinq tiroirs + 柜 meuble|衣柜 = armoire|毛衣在五斗柜里。|毛衣在五斗柜里|une commode
+23|微波炉|ouei, bouo, lou|Le OUEI, le BO et le LOUP qui tourne : RÉCHAUFFE-LE AU MICRO-ONDES.|wēibōlú ≈ « ouei-bouo-lou » ; 微波 micro-ondes + 炉 four|烤箱 = four|用微波炉热一下。|用微波炉热一下|un micro-ondes
+24|指甲油|djeu, djia, yo|Le GÉNIE, le JIA et le YO brillants : ELLE MET DU VERNIS À ONGLES.|zhǐjiayóu ≈ « djeu-djia-yo » ; 指甲 ongle + 油 vernis|口红 = rouge à lèvres|她在涂指甲油。|她在涂指甲油|un flacon de vernis
+25|乐谱|yué, pou|Le YUÉ et le POU sur la portée : LE PIANISTE LIT LA PARTITION (doublon de noms_22 62).|yuèpǔ ≈ « yué-pou » ; doublon|五线谱 = portée|钢琴家在看乐谱。|钢琴家在看乐谱|une portée
+26|大提琴|da, ti, tchine|Le DAIM, le TI et le CHINE à l'archet : ELLE JOUE DU VIOLONCELLE.|dàtíqín ≈ « da-ti-tchine » ; 大 grand + 提琴 violon|小提琴 = violon|她拉大提琴。|她拉大提琴|un violoncelle
+27|花瓣|houa, banne|Le HOUA et le BANC qui tombe : UN PÉTALE EST TOMBÉ.|huābàn ≈ « houa-bane » ; 花 fleur + 瓣 pétale|叶子 = feuille|一片花瓣掉了。|一片花瓣掉了|un pétale
+28|石头|cheu, to|La CHAISE et le TOTO trébuchent : J'AI TRÉBUCHÉ SUR UNE PIERRE.|shítou ≈ « chi-to » ; « la pierre » = 石头|岩石 = roche|我被一块石头绊倒了。|我被一块石头绊倒了|un caillou
+29|忠诚|djong, tcheng|Le ZONG et le TCHENG fidèles : TU N'AURAS PAS EN VAIN PROUVÉ TON DÉVOUEMENT À LA RÉPUBLIQUE (doublon de formes_8 09).|zhōngchéng ≈ « djong-tcheng » ; doublon|奉献 = dévouement|你对共和国的忠诚不会白白证明。|你对共和国的忠诚|une main sur le cœur
+30|乌鸦|ou, ya|Le « OUH » noir et le YAK qui croasse : VA, FAIS PEUR AUX CORBEAUX !|wūyā ≈ « ou-ya » ; 乌 noir + 鸦 corbeau|喜鹊 = pie|去，把乌鸦吓跑！|把乌鸦吓跑|un épouvantail
+31|浴盐|yu, yanne|Le YOUYOU et le YANN parfumés : J'AI OUBLIÉ MES SELS DE BAIN.|yùyán ≈ « yu-yane » ; 浴 bain + 盐 sel|盐 = sel|我忘了带浴盐。|我忘了带浴盐|un bocal de sels
+32|斑马|banne, ma|Le BANC rayé et la MAMAN : LE ZÈBRE A DES RAYURES.|bānmǎ ≈ « bane-ma » ; 斑 rayé + 马 cheval|马 = cheval|斑马身上有条纹。|斑马身上有条纹|des rayures
+33|大人物|da, renne, ou|Le DAIM, le RENNE et le « OUH » au gros cigare : C'EST UN GROS BONNET DE LA MAFIA (doublon de noms_19 71).|dàrénwù ≈ « da-renne-ou » ; 大 grand + 人物 personnage|老大 = boss|他是黑手党里的大人物。|他是黑手党里的大人物|un cigare
+34|大佬|da, lao|Le DAIM et le LAO en réunion : LES GROSSES HUILES SONT EN RÉUNION.|dàlǎo ≈ « da-lao » ; « une grosse huile » = 大佬 / 高层|高层 = dirigeants|大佬们在开会。|大佬们在开会|une table de conseil
+35|电报|dienne, bao|Le DIAMANT et le BAOBAB en morse : MA MÈRE ENVOYAIT UN TÉLÉGRAMME (doublon de formes_11 41).|diànbào ≈ « diène-bao » ; doublon|信 = lettre|我妈妈在发电报。|我妈妈在发电报|un télégramme
+36|恐龙|kong, long|Le CONGre et le LONG dragon préhistorique : UN SQUELETTE DE DINOSAURE (doublon de noms_20 90).|kǒnglóng ≈ « kong-long » ; 恐 effrayant + 龙 dragon|化石 = fossile|一副恐龙骨架。|一副恐龙骨架|un os géant
+37|勤奋|tchine, fenne|Le CHINE et la FENNE travailleurs : J'ADMIRE VOTRE DILIGENCE (doublon de formes_13 77).|qínfèn ≈ « tchine-fene » ; doublon|努力 = effort|我佩服您的勤奋。|我佩服您的勤奋|une fourmi
+38|王八蛋|ouang, ba, danne|Le OUANG, le BAmbou et le DANDY insultés : ILS M'ONT RECONNU, LES SALAUDS ! (vulgaire).|wángbādàn ≈ « ouang-ba-dane » ; insulte = 王八蛋|混蛋 = salaud|那帮王八蛋认出我了！|那帮王八蛋认出我了|un poing levé
+39|开胃酒|kaï, ouei, djio|Le CAÏD, le OUEI et le JIO trinquent : ON PREND L'APÉRITIF ?|kāiwèijiǔ ≈ « kaï-ouei-djio » ; 开胃 ouvrir l'appétit + 酒 alcool|小吃 = amuse-gueule|我们喝点开胃酒？|我们喝点开胃酒|deux verres
+40|擦碗布|tsa, ouanne, bou|Le TSA, le OUANNE et le BOUc essuient : ESSUIE LES VERRES AVEC LE TORCHON.|cāwǎnbù ≈ « tsa-ouane-bou » ; 擦碗 essuyer la vaisselle + 布 tissu|抹布 = chiffon|用擦碗布把杯子擦干。|用擦碗布把杯子擦干|un torchon
+41|警察局|djing, tcha, djiu|Le JINGLE, le TCHA et le JUS au guichet : IL FAUT ALLER À LA PRÉFECTURE.|jǐngchájú ≈ « djing-tcha-dju » ; « la préfecture » = 警察局 / 省政府|市政府 = mairie|得去一趟警察局。|得去一趟警察局|un guichet
+42|李子|li, dzeu|Le LIT et le ZEU violets : UNE CONFITURE DE PRUNES.|lǐzi ≈ « li-dzeu » ; la prune = 李子|梅子 = prune (asiatique)|李子果酱。|李子果酱|une prune
+43|自行车|dzeu, sing, tcheu|Le ZEU, le SINGE et le TCHEU à pédales : JE ME DÉPLACE EN VÉLO.|zìxíngchē ≈ « dzeu-sing-tcheu » ; 自行 aller seul + 车 véhicule|单车 = vélo (sud)|我骑自行车出行。|我骑自行车出行|un vélo
+44|火花|houo, houa|Le HOUX et le HOUA crépitent : UNE ÉTINCELLE A ALLUMÉ LE FEU.|huǒhuā ≈ « houo-houa » ; 火 feu + 花 fleur|火苗 = flamme|一个火花点燃了火。|一个火花点燃了火|une étincelle
+45|鸦片|ya, pienne|Le YAK et la PIENNE fumée : … QUE LE TRAFIC DE DROGUES COMME L'OPIUM, LA MORPHINE ET L'HÉROÏNE.|yāpiàn ≈ « ya-piène » ; transcription de « opium »|毒品 = drogue|……鸦片、吗啡和海洛因之类的毒品交易。|鸦片、吗啡和海洛因|une pipe à opium
+46|家伙|djia, houo|Le JIA et le HOUX dans la poche : RANGE TON FLINGUE ! (familier).|jiāhuo ≈ « djia-houo » ; « le flingue » = 家伙 / 枪|枪 = arme|把你的家伙收起来！|把你的家伙收起来|un revolver
+47|鱼刺|yu, tseu|Le YOUYOU et le TSEU pointu : IL A AVALÉ UNE ARÊTE.|yúcì ≈ « yu-tseu » ; 鱼 poisson + 刺 épine|骨头 = os|他吞了一根鱼刺。|他吞了一根鱼刺|une arête
+48|小丑|siao, tcho|Le SIAMOIS et le TCHO au nez rouge : NE FAIS PAS LE BOUFFON !|xiǎochǒu ≈ « siao-tcho » ; « le bouffon » = 小丑|傻瓜 = idiot|别当小丑！|别当小丑|un nez rouge
+49|群众演员|tchunne, djong, yanne, yuanne|Le TCHUNE, le ZONG, le YANN et la YOURTE en arrière-plan : IL A ÉTÉ FIGURANT DANS UN FILM.|qúnzhòng yǎnyuán ≈ « tchune-djong-yane-yuane » ; 群众 foule + 演员 acteur|配角 = second rôle|他在一部电影里当过群众演员。|他在一部电影里当过群众演员|une foule floue
+50|退路|touei, lou|Le TOUEI et le LOUP sans issue : HUMAINS IMBÉCILES, IL N'Y A PAS D'ÉCHAPPATOIRE ! (doublon de noms_20 58).|tuìlù ≈ « touei-lou » ; doublon|出路 = issue|愚蠢的人类，你们没有退路了！|你们没有退路了|un mur
+51|大箱子|da, siang, dzeu|Le DAIM, la SIANNE et le ZEU au grenier : LA MALLE EST AU GRENIER.|dà xiāngzi ≈ « da-siang-dzeu » ; 大 grand + 箱子 caisse|行李箱 = valise|大箱子在阁楼上。|大箱子在阁楼上|une malle
+52|科幻|kheu, houanne|Le KHEU et le HOUANE dans l'espace : J'AIME LA SCIENCE-FICTION.|kēhuàn ≈ « kheu-houane » ; 科学 science + 幻想 fiction|奇幻 = fantastique|我喜欢科幻。|我喜欢科幻|une soucoupe volante
+53|袋子|daille, dzeu|Le DAIM et le ZEU en plastique : UN SAC EN PLASTIQUE.|dàizi ≈ « daille-dzeu » ; « le sachet » = 袋子 / 袋|包 = sac|一个塑料袋子。|一个塑料袋子|un sachet
+54|原声音乐|yuanne, cheng, yinne, yué|La YOURTE, le CHÊNE, le YINNE et le YUÉ au générique : J'ADORE LA BANDE ORIGINALE.|yuánshēng yīnyuè ≈ « yuane-cheng-yine-yué » ; 原声 son original + 音乐 musique|配乐 = musique de film|我超爱这部电影的原声音乐。|我超爱这部电影的原声音乐|un vinyle
+55|导演|dao, yanne|Le DAO et le YANN au mégaphone : LA MISE EN SCÈNE EST SUPERBE (导演手法).|dǎoyǎn ≈ « dao-yane » ; « la mise en scène » = 导演（手法）|演员 = acteur|导演手法非常出色。|导演手法非常出色|un mégaphone
+56|执导|djeu, dao|Le GÉNIE et le DAO dans le fauteuil : LA RÉALISATION EST SIGNÉE FELLINI.|zhídǎo ≈ « djeu-dao » ; « réaliser (diriger un film) » = 执导|导演 = réalisateur|这部片由费里尼执导。|这部片由费里尼执导|une chaise de réalisateur
+57|长袍|tchang, pao|Le CHAMEAU et le PAOn en robe longue : TU VEUX VRAIMENT TE COUPER LA BARBE ET T'ENLEVER LA TUNIQUE ? (doublon de formes_12 73).|chángpáo ≈ « tchang-pao » ; doublon|外套 = manteau|你真想刮掉胡子、脱掉长袍？|脱掉长袍|une tunique
+58|冒险家|mao, sienne, djia|Le MAO, la SIENNE et le JIA explorateurs : C'EST UN VRAI AVENTURIER.|màoxiǎnjiā ≈ « mao-sienne-djia » ; 冒险 aventure + 家 personne|探险家 = explorateur|他是个真正的冒险家。|他是个真正的冒险家|une boussole
+59|花粉|houa, fenne|Le HOUA et la FENNE jaune : IL ÉTERNUE À CAUSE DU POLLEN (doublon de verbes_14 36).|huāfěn ≈ « houa-fene » ; doublon|过敏 = allergie|他因为花粉打喷嚏。|他因为花粉打喷嚏|une fleur
+60|手枪|cho, tsiang|Une main CHAUDE et la TSIANG chargée : À UN, ARMEZ VOS PISTOLETS.|shǒuqiāng ≈ « cho-tsiang » ; 手 main + 枪 arme|步枪 = fusil|数到一，给手枪上膛。|数到一，给手枪上膛|des pistolets de duel
+61|孤儿院|gou, eur, yuanne|Le GOU, le « EUR » et la YOURTE aux lits alignés : IL GRANDIT DANS UN ORPHELINAT (doublon de formes_10 78).|gū'éryuàn ≈ « gou-eur-yuane » ; doublon|福利院 = foyer social|他在孤儿院长大。|他在孤儿院长大|des lits alignés
+62|戴绿帽子的人|daille, lu, mao, dzeu|Le DAIM, le LU, le MAO et le ZEU coiffés de vert : LE PAUVRE, C'EST UN COCU.|dài lǜ màozi de rén ≈ « daille-lu-mao-dzeu » ; « être cocu » = 戴绿帽子|被背叛 = trahi|可怜的家伙，他是个戴绿帽子的人。|他是个戴绿帽子的人|un chapeau vert
+63|观众席|gouanne, djong, si|Le GOUANE, le ZONG et le SIFFLET dans la salle vide : REGARDEZ LA SALLE : VIDE !|guānzhòngxí ≈ « gouane-djong-si » ; 观众 public + 席 place|舞台 = scène|看看观众席：空的！|看看观众席|des fauteuils vides
+64|架子|djia, dzeu|Le JIA et le ZEU en hauteur : TU PEUX DESCENDRE LA VALISE DE L'ÉTAGÈRE ? (doublon de noms_21 87).|jiàzi ≈ « djia-dzeu » ; doublon|货架 = rayonnage|你能把箱子从架子上拿下来吗？|你能把箱子从架子上拿下来吗|une valise en hauteur
+65|观众|gouanne, djong|Le GOUANE et le ZONG applaudissent : LES SPECTATEURS APPLAUDISSENT.|guānzhòng ≈ « gouane-djong » ; 观 regarder + 众 foule|听众 = auditeurs|观众在鼓掌。|观众在鼓掌|des mains qui applaudissent
+66|无能的人|ou, neng, deu, renne|Le « OUH », le NENG, le DEU et le RENNE maladroits : C'EST UN INCOMPÉTENT.|wúnéng de rén ≈ « ou-neng-deu-renne » ; 无能 incapable + 人|废物 = bon à rien|他是个无能的人。|他是个无能的人|un marteau sur le doigt
+67|榛子|djenne, dzeu|Le GENOU et le ZEU croquants : UN ÉCUREUIL MANGE UNE NOISETTE (doublon de noms_20 32).|zhēnzi ≈ « djene-dzeu » ; doublon|核桃 = noix|一只松鼠在吃榛子。|一只松鼠在吃榛子|une noisette
+68|骨架|gou, djia|Le GOU et le JIA géants : UNE ÉNORME CARCASSE (doublon de noms_20 90).|gǔjià ≈ « gou-djia » ; doublon|残骸 = épave|一副巨大的骨架。|一副巨大的骨架|une carcasse
+69|汉堡|hanne, bao|Le HAN ! et le BAOBAB entre deux pains : QUE DIRAIS-TU D'UN HAMBURGER ? (doublon de formes_9 06).|hànbǎo ≈ « hane-bao » ; doublon|三明治 = sandwich|来个汉堡怎么样？|来个汉堡怎么样|un hamburger
+70|烈酒|lié, djio|Le LIÉ et le JIO brûlants : CETTE FONTAINE ÉTAIT PLEINE DE LIQUEUR !|lièjiǔ ≈ « lié-djio » ; « la liqueur (alcool fort) » = 烈酒 / 利口酒|利口酒 = liqueur sucrée|这个喷泉里全是烈酒！|这个喷泉里全是烈酒|une fontaine
+71|吗啡|ma, feille|La MAMAN et la FEUILLE apaisantes : ON LUI A DONNÉ DE LA MORPHINE.|mǎfēi ≈ « ma-feille » ; transcription de « morphine »|止痛药 = antidouleur|他们给他打了吗啡。|他们给他打了吗啡|une seringue
+72|吊灯|diao, deng|Le DIABLO et la DENGUE suspendus : UN LUSTRE EN CRISTAL.|diàodēng ≈ « diao-deng » ; 吊 suspendre + 灯 lampe|台灯 = lampe de bureau|一盏水晶吊灯。|一盏水晶吊灯|un lustre
+73|女管家|nu, gouanne, djia|La NU, le GOUANE et le JIA au trousseau : LA GOUVERNANTE PRÉPARE LA CHAMBRE.|nǚ guǎnjiā ≈ « nu-gouane-djia » ; 女 femme + 管家 intendant|保姆 = nounou|女管家在收拾房间。|女管家在收拾房间|un trousseau de clés
+74|编剧|bienne, djiu|Le BIEN tricote le JUS d'une histoire : LE SCÉNARISTE A RÉÉCRIT LA FIN.|biānjù ≈ « bienne-dju » ; 编 composer + 剧 pièce|导演 = réalisateur|编剧重写了结局。|编剧重写了结局|une machine à écrire
+75|夹克|djia, kheu|Le JIA et le KHEU zippés : TON BLOUSON EST TROP COOL !|jiākè ≈ « djia-kheu » ; transcription de « jacket »|外套 = manteau|你的夹克太酷了！|你的夹克太酷了|un blouson
+76|冷冻柜|leng, dong, gouei|Le LENG, le gong gelé et le GOUEI : REGARDEZ LE CONGÉLATEUR.|lěngdòngguì ≈ « leng-dong-gouei » ; 冷冻 congeler + 柜 armoire|冰箱 = frigo|看看冷冻柜。|看看冷冻柜|un congélateur
+77|不在场证明|bou, dzaille, tchang, djeng, ming|Le BOUc, le serveur, le CHAMEAU, le ZHENG et le MING absents : IL A UN ALIBI PARFAIT.|bú zàichǎng zhèngmíng ≈ « bou-dzaille-tchang-djeng-ming » ; 不在场 pas sur place + 证明 preuve|借口 = excuse|他有完美的不在场证明。|他有完美的不在场证明|un billet de train daté
+78|衣物|i, ou|Le « I » et le « OUH » au linge : L'ADOUCISSANT ASSOUPLIT LE LINGE.|yīwù ≈ « i-ou » ; « le linge » = 衣物|衣服 = vêtements|柔顺剂让衣物变软。|柔顺剂让衣物变软|une pile de linge
+79|小子|siao, dzeu|Le SIAMOIS et le ZEU tapent l'épaule : VIENS ICI, FISTON.|xiǎozi ≈ « siao-dzeu » ; « fiston » = 小子 / 孩子|儿子 = fils|过来，小子。|过来，小子|une main sur l'épaule
+80|原版|yuanne, banne|La YOURTE et le BANC d'origine : JE PRÉFÈRE LA VO.|yuánbǎn ≈ « yuane-bane » ; 原 originel + 版 version|配音版 = version doublée|我更喜欢看原版。|我更喜欢看原版|une bobine
+81|动画片|dong, houa, pienne|Le gong, le HOUA et la PIENNE animés : LES ENFANTS REGARDENT UN DESSIN ANIMÉ.|dònghuàpiàn ≈ « dong-houa-piène » ; 动画 animation + 片 film|漫画 = BD|孩子们在看动画片。|孩子们在看动画片|un personnage animé
+82|薯条|chou, tiao|Le CHOU et le TIAO dorés : DES MOULES-FRITES (doublon de noms_22 18).|shǔtiáo ≈ « chou-tiao » ; 薯 patate + 条 bâtonnet|薯片 = chips|青口配薯条。|青口配薯条|un cornet de frites
+83|努力|nou, li|Le NOUnours et le LIT en sueur : ET TRAVAILLE BIEN ! (le travail acharné).|nǔlì ≈ « nou-li » ; « le travail acharné » = 努力 / 苦干|勤奋 = assidu|好好努力！|好好努力|une goutte de sueur
+84|木乃伊|mou, naï, i|Le MOU, la NAÏADE et le « I » bandés : UNE MOMIE ÉGYPTIENNE.|mùnǎiyī ≈ « mou-naï-i » ; transcription de « mummy »|金字塔 = pyramide|一具埃及木乃伊。|一具埃及木乃伊|des bandelettes
+85|替身|ti, chenne|Le TI et la CHAÎNE en cascade : LA DOUBLURE A FAIT LA CASCADE.|tìshēn ≈ « ti-chene » ; 替 remplacer + 身 corps|特技 = cascade|替身完成了特技动作。|替身完成了特技动作|une moto qui saute
+86|票房|piao, fang|Le PIAO et le FANG au guichet : LES RECETTES ONT BATTU UN RECORD.|piàofáng ≈ « piao-fang » ; 票 billet + 房 guichet|收入 = revenu|票房创了纪录。|票房创了纪录|un ticket doré
+87|岛民|dao, mine|Le DAO et la MINE sur l'île : LES INSULAIRES PÊCHENT CHAQUE MATIN.|dǎomín ≈ « dao-mine » ; 岛 île + 民 habitants|居民 = habitants|岛民们每天早上去打鱼。|岛民们每天早上去打鱼|un palmier
+88|花花公子|houa, houa, gong, dzeu|Deux HOUA, le GONG et le ZEU en smoking : C'EST UN SÉDUCTEUR, PAS UN HOMME D'AFFAIRES.|huāhuā gōngzǐ ≈ « houa-houa-gong-dzeu » ; « le playboy » = 花花公子|情圣 = séducteur|他是个花花公子，不是生意人。|他是个花花公子|un nœud papillon
+89|讨厌鬼|tao, yanne, gouei|Le TAO, le YANN et le GOUEI insupportables : QUEL CASSE-PIEDS, CE VOISIN !|tǎoyànguǐ ≈ « tao-yane-gouei » ; 讨厌 pénible + 鬼 diable|烦人 = agaçant|这个邻居真是个讨厌鬼！|这个邻居真是个讨厌鬼|une mouche
+90|傻瓜|cha, goua|Le CHAT et le GOUA ahuris : QUEL COUILLON, IL A ENCORE PERDU SES CLÉS.|shǎguā ≈ « cha-goua » ; « le couillon » = 傻瓜 / 蠢货|笨蛋 = idiot|真是个傻瓜，又把钥匙丢了。|真是个傻瓜|un bonnet d'âne
+91|马屁精|ma, pi, djing|La MAMAN, le PIPEAU et le JINGLE flatteurs : C'EST UN LÈCHE-CUL DU CHEF (vulgaire).|mǎpìjīng ≈ « ma-pi-djing » ; 拍马屁 flatter + 精 expert|跟屁虫 = suiveur|他是老板的马屁精。|他是老板的马屁精|une langue tirée
+92|场记板|tchang, dji, banne|Le CHAMEAU, le GÉNIE et le BANC qui claque : LE CLAP MARQUE CHAQUE PRISE.|chǎngjìbǎn ≈ « tchang-dji-bane » ; 场记 script + 板 planche|镜头 = plan|场记板标记每一个镜头。|场记板标记每一个镜头|un clap
+93|续集|su, dji|Le SOU et le GÉNIE en épisode 2 : LA SUITE EST MOINS BONNE.|xùjí ≈ « su-dji » ; 续 suite + 集 épisode|前传 = prequel|续集没那么好看。|续集没那么好看|un « 2 »
+94|小箱子|siao, siang, dzeu|Le SIAMOIS, la SIANNE et le ZEU à poignée : CHÉRI, PASSE-MOI LA PETITE VALISE ! (doublon de formes_9 24).|xiǎo xiāngzi ≈ « siao-siang-dzeu » ; doublon|公文包 = mallette|亲爱的，把小箱子递给我！|把小箱子递给我|une mallette
+95|冷藏柜|leng, tsang, gouei|Le LENG, le TSANG et le GOUEI au labo : ON VA UTILISER LE RÉFRIGÉRATEUR ET L'INCUBATEUR DU DR MILLER.|lěngcángguì ≈ « leng-tsang-gouei » ; 冷藏 réfrigérer + 柜 armoire|冰箱 = frigo|我们要用米勒医生的冷藏柜和培养箱。|我们要用米勒医生的冷藏柜和培养箱|une armoire froide
+96|拘留营|djiu, lio, ying|Le JUS, le LION et le YING derrière les barbelés : MEC, LES CAMPS D'INTERNEMENT, C'EST JAMAIS DRÔLE.|jūliúyíng ≈ « dju-lio-ying » ; 拘留 internement + 营 camp|监狱 = prison|哥们，拘留营可从来都不好玩。|拘留营可从来都不好玩|des barbelés
+97|蜡烛|la, djou|Le LAMA souffle le JOUjou allumé : SOUFFLE LES BOUGIES !|làzhú ≈ « la-djou » ; « la bougie » = 蜡烛|灯 = lampe|吹蜡烛！|吹蜡烛|un gâteau d'anniversaire
+98|帕尔马干酪|pa, eur, ma, ganne, lao|Le PAPA, le « EUR », la MAMAN, le GANT et le LAO râpent : RÂPE LE PARMESAN (doublon de verbes_15 54).|Pà'ěrmǎ gānlào ≈ « pa-eur-ma-gane-lao » ; doublon|奶酪 = fromage|把帕尔马干酪擦碎。|把帕尔马干酪擦碎|une meule de parmesan
+99|袋鼠|daille, chou|Le DAIM et le CHOU à poche : N'ÉTANT PAS UN KANGOUROU, JE N'AI PAS DE POCHE DANS LA PEAU (doublon de formes_9 67).|dàishǔ ≈ « daille-chou » ; doublon|考拉 = koala|我不是袋鼠，皮肤上没有口袋。|我不是袋鼠|une poche ventrale

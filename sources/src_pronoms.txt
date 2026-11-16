@@ -1,0 +1,101 @@
+# pronoms blocs=null
+00|je|io|Moi, je reste.|je||pronoms_personnels_sujets
+01|tu|tu|Tu viens ?|Tu||pronoms_personnels_sujets
+02|vous (pluriel)|voi|Vous venez ?|Vous||pronoms_personnels_sujets
+03|vous (politesse)|Lei|Vous êtes très aimable.|Vous||pronoms_personnels_sujets
+04|vous (complément)|vi|Je vous attends.|vous attends||pronoms_personnels_compléments_directs
+05|il (sujet, insistance)|lui|Il travaille, et moi je dors.|Il||pronoms_personnels_sujets
+06|que (relatif)|che|Le livre que je lis.|que||pronoms_relatifs_directs
+07|on (impersonnel)|si|On mange bien ici.|On mange||pronoms_personnels_sujets
+08|ça|questo|Ça me plaît.|Ça||pronoms_démonstratifs
+09|te (complément)|ti|Je t'appelle.|t'appelle||pronoms_personnels_compléments_directs
+10|le (COD)|lo|Je le sais.|le sais||pronoms_personnels_compléments_directs
+11|se (réfléchi)|si|Il s'appelle Marco.|s'appelle||pronoms_personnels_réfléchis
+12|qn fait ce que qn d'autre fait.|qcn fa quello che qcn altro fa|Je fais ce que je veux.|fais ce que je veux|tpl|pronoms
+13|ce (qui, que)|ciò che (quello che)|Fais ce que tu veux.|ce que|loc|locutions_pronominales
+14|me (complément)|mi|Tu me donnes ça ?|me donnes||pronoms_personnels_compléments_directs
+15|elle|lei|Elle est là.|Elle||pronoms_personnels_sujets
+16|nous|noi|Nous, on reste.|Nous||pronoms_personnels_sujets
+17|nous (complément)|ci|Il nous voit.|nous voit||pronoms_personnels_compléments_directs
+18|y|ci (lieu)|J'y vais demain.|y vais||pronoms_adverbiaux
+19|moi|me|Viens avec moi.|moi||pronoms_personnels_toniques
+20|ce qui fait qc|ciò che fa qcs|Ce qui compte, c'est toi.|Ce qui compte|tpl|pronoms
+21|qui (relatif)|che|La fille qui chante.|qui||pronoms_relatifs_directs
+22|en|ne|J'en veux deux.|en veux||pronoms_adverbiaux
+23|ils (sujet)|loro|Ils ont raison, pas nous.|Ils||pronoms_personnels_sujets
+24|tout ça|tutto questo|Tout ça, c'est fini.|Tout ça|loc|locutions_pronominales
+25|à moi|a me|C'est à moi !|à moi|loc|locutions_pronominales
+26|toi|te|C'est pour toi.|toi||pronoms_personnels_toniques
+27|rien|niente (nulla)|Je comprends rien.|rien||pronoms_indéfinis
+28|avec elle|con lei|Je sors avec elle.|avec elle|loc|locutions_pronominales
+29|avec nous|con noi|Viens avec nous !|avec nous|loc|locutions_pronominales
+30|lui (COI, à elle)|le|Je lui parle tous les jours.|lui parle||pronoms_personnels_compléments_indirects
+31|lui (tonique)|lui|Je viens avec lui.|lui||pronoms_personnels_sujets
+32|avec moi|con me|Reste avec moi.|avec moi|loc|locutions_pronominales
+33|pour toi|per te|C'est pour toi.|pour toi|loc|locutions_pronominales
+34|où (relatif)|dove (in cui)|La maison où j'habite.|où||pronoms_relatifs_indirects
+35|avec toi|con te|Je viens avec toi.|avec toi|loc|locutions_pronominales
+36|avec lui|con lui|Je parle avec lui.|avec lui|loc|locutions_pronominales
+37|tout (pronom)|tutto|Tout va bien.|Tout||pronoms_indéfinis
+38|que … ? (interrogatif)|che cosa|Que fais-tu ?|Que|loc|locutions_pronominales
+39|vous deux|voi due|Vous deux, arrêtez de vous disputer !|Vous deux|loc|locutions_pronominales
+40|la (COD)|la|Je la vois.|la vois||pronoms_personnels_compléments_directs
+41|quelque chose|qualcosa|Tu veux quelque chose ?|quelque chose||locutions_pronominales
+42|les (COD, fém.)|le|Je les vois demain.|les vois||pronoms_personnels_compléments_directs
+43|il (pronom sujet soutenu)|egli|Il parle peu.|Il||pronoms_personnels_sujets
+44|l'autre (masc.)|l'altro|Je prends l'autre.|l'autre||pronoms_indéfinis
+45|l'autre (fém.)|l'altra|Pas cette jupe, l'autre.|l'autre||pronoms_indéfinis
+46|sans elle|senza di lei|Je pars pas sans elle.|sans elle|loc|locutions_pronominales
+47|sans nous|senza di noi|Ils sont partis sans nous.|sans nous|loc|locutions_pronominales
+48|celles (-là)|quelle|Je préfère celles-là.|celles-là||pronoms_démonstratifs
+49|tout le monde|tutti|Tout le monde est là.|Tout le monde||pronoms_indéfinis
+50|quelqu'un|qualcuno|Il y a quelqu'un ?|quelqu'un||locutions_pronominales
+51|sans lui|senza di lui|On mange pas sans lui.|sans lui|loc|locutions_pronominales
+52|sans toi|senza di te|Je suis perdu sans toi.|sans toi|loc|locutions_pronominales
+53|dont|di cui|La personne dont je parle.|dont||pronoms_relatifs_indirects
+54|à qui (relatif)|a cui|L'ami à qui j'ai écrit.|à qui||pronoms_relatifs_indirects
+55|personne|nessuno|Personne n'est venu.|Personne||pronoms_indéfinis
+56|lui (COI, masc.)|gli|Je lui dis la vérité.|lui dis||pronoms_personnels_compléments_indirects
+57|les autres (masc.)|gli altri|Les autres arrivent.|Les autres||pronoms_indéfinis
+58|cela (soutenu)|ciò|Cela ne me regarde pas.|Cela||pronoms_démonstratifs
+59|d'autres|altri|D'autres viendront.|D'autres||pronoms
+60|tous les deux|entrambi|Ils sont venus tous les deux.|tous les deux||pronoms_indéfinis
+61|elles (sujet)|loro|Elles sont parties tôt.|Elles||pronoms_personnels_sujets
+62|jusqu'où|fin dove|Jusqu'où tu vas ?|Jusqu'où|loc|locutions_pronominales
+63|entre toi et moi|tra me e te|Entre toi et moi, il ment.|Entre toi et moi|loc|locutions_pronominales
+64|eux (tonique)|loro|Je pars avec eux.|eux||pronoms_personnels_sujets
+65|les autres (fém.)|le altre|Les autres sont déjà parties.|Les autres||pronoms_indéfinis
+66|tous (pronom)|tutti|Ils sont tous là.|tous||pronoms_indéfinis
+67|sans eux|senza di loro|On part sans eux.|sans eux|loc|locutions_pronominales
+68|quoi ?|cosa?|Quoi ? Je n'ai pas entendu.|Quoi|loc|locutions_pronominales
+69|leur (COI, oral)|gli|Je leur parle demain.|leur parle||pronoms_personnels_compléments_indirects
+70|lequel (relatif)|il quale|La fille avec laquelle je sors.|laquelle||pronoms_relatifs_indirects
+71|ceux|quelli|Ceux qui veulent peuvent venir.|Ceux qui||pronoms
+72|les (COD, masc.)|li|Je les connais.|les connais||pronoms_personnels_compléments_directs
+73|toutes les deux|entrambe|Elles sont venues toutes les deux.|toutes les deux||pronoms_indéfinis
+74|le mien|il mio|C'est le mien.|mien||pronoms_possessifs
+75|celui-ci|questo (qui)|Je prends celui-ci.|celui-ci||pronoms_démonstratifs
+76|ceci|questo|Prends ceci.|ceci||pronoms_démonstratifs
+77|qui ?|chi|Qui est-ce ?|Qui||pronoms_interrogatifs
+78|n'importe quoi|qualsiasi cosa|Je ferais n'importe quoi pour toi.|n'importe quoi|loc|locutions_pronominales
+79|chacun|ognuno|Chacun son tour.|Chacun||pronoms_indéfinis
+80|à laquelle|alla quale|La fille à laquelle je pense.|à laquelle|loc|locutions_pronominales
+81|de laquelle|della quale|La ville de laquelle je viens.|de laquelle|loc|locutions_pronominales
+82|moi-même|io stesso|Je l'ai fait moi-même.|moi-même|loc|locutions_pronominales
+83|toutes (pronom)|tutte|Elles sont toutes parties.|toutes||pronoms_indéfinis
+84|n'importe qui|chiunque|N'importe qui peut le faire.|N'importe qui||locutions_pronominales
+85|l'un l'autre|l'un l'altro|Ils s'aident l'un l'autre.|l'un|loc|locutions_pronominales
+86|certaines|alcune|Certaines sont parties.|Certaines||pronoms
+87|le tien|il tuo|C'est le tien ?|tien||pronoms_possessifs
+88|nul|nessuno|Nul ne le sait.|Nul||pronoms
+89|la plupart|la maggior parte|La plupart sont d'accord.|plupart|loc|locutions_pronominales
+90|celui-là|quello|Je veux celui-là.|celui-là||pronoms
+91|la mienne|la mia|Cette voiture, c'est la mienne.|la mienne||pronoms
+92|le vôtre|il vostro|C'est le vôtre ?|vôtre||pronoms_possessifs
+93|lui-même|lui stesso|Il l'a dit lui-même.|lui-même|loc|locutions_pronominales
+94|certains (pronom)|alcuni|Certains sont partis.|Certains||pronoms_indéfinis
+95|toi-même|tu stesso|Fais-le toi-même.|toi-même|loc|locutions_pronominales
+96|le nôtre|il nostro|C'est le nôtre.|nôtre||pronoms_possessifs
+97|celle-là|quella|Je préfère celle-là.|celle-là||pronoms
+98|le sien|il suo|C'est le sien.|sien||pronoms_possessifs
+99|celle-ci|questa|Je prends celle-ci.|celle-ci||pronoms

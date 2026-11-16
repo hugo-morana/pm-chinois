@@ -1,0 +1,31 @@
+00|你的|ni, deu|Le NID tend sa clé avec un DEU : C'EST TA CLÉ, LA TIENNE.|nǐ de ≈ « ni-deu » ; 你 + 的 = le tien / la tienne (pas de genre)|你的那把 = la tienne (clé)|这是你的钥匙，是你的。|是你的|une clé dans un nid
+01|谁都|chouei, dou|Le CHOUETTE (« SHEI ») et le DOUdou ouvrent à tous : QUICONQUE PEUT VENIR.|shéi dōu ≈ « chouei-dou » ; « quiconque » = 谁都 / 任何人|任何人 = n'importe qui|谁都可以来。|谁都可以来|une porte grande ouverte
+02|自己|dzeu, dji|Le ZEU et le GÉNIE se tournent vers eux-mêmes : CHACUN POUR SOI.|zìjǐ ≈ « dzeu-dji » ; « soi » = 自己|本身 = en soi|各人顾自己。|各人顾自己|un miroir
+03|您自己|nine, dzeu, dji|La NINE polie, le ZEU et le GÉNIE : FAITES-LE VOUS-MÊME (politesse).|nín zìjǐ ≈ « nine-dzeu-dji » ; 您 + 自己 = vous-même (poli)|你自己 = toi-même|您自己做吧。|您自己做吧|une révérence
+04|她自己|ta, dzeu, dji|Le TA, le ZEU et le GÉNIE : ELLE L'A FAIT ELLE-MÊME.|tā zìjǐ ≈ « ta-dzeu-dji » ; 她 + 自己 = elle-même|他自己 = lui-même|这是她自己做的。|这是她自己做的|une main fière
+05|他们的|ta, menne, deu|Le TA, les MENNE et le DEU : C'EST LE LEUR.|tāmen de ≈ « ta-mene-deu » ; 他们 + 的 = le leur|她们的 = le leur (féminin écrit)|这是他们的。|这是他们的|une étiquette
+06|有的|yo, deu|Le YOYO et le DEU masques rieur et triste : LES UNS RIENT, LES AUTRES PLEURENT.|yǒude ≈ « yo-deu » ; « les uns… les autres » = 有的……有的|一些人 = certains|有的人笑，有的人哭。|有的人笑，有的人哭|deux masques
+07|每个人|meille, gueu, renne|Une MÉDAILLE, le GUEU et le RENNE à chacune son idée : CHACUNE A SON IDÉE.|měi ge rén ≈ « meille-gueu-renne » ; « chacune » = 每个人（pas de genre）|各自 = chacun de son côté|每个人都有自己的想法。|每个人都有自己的想法|des bulles différentes
+08|哪些|na, sié|Le NAIN et la SIESTE pointent un lot : LESQUELLES TU PRÉFÈRES ?|nǎxiē ≈ « na-sié » ; « lesquel(le)s ? » = 哪些|哪个 = lequel|你更喜欢哪些？|你更喜欢哪些|des doigts pointés
+09|他的|ta, deu|Le TA et le DEU accusés : C'EST PAS MA FAUTE, C'EST LA SIENNE.|tā de ≈ « ta-deu » ; « la sienne » = 他的 / 她的|自己的 = sien propre|不是我的错，是他的。|是他的|un doigt accusateur
+10|那样的话|na, yang, deu, houa|Le NAIN, le YANG, le DEU et le HOUA sous la pluie : IL PEUT PLEUVOIR, AUQUEL CAS ON RESTE.|nàyàng de huà ≈ « na-yang-deu-houa » ; « auquel cas » = 那样的话|要是那样 = dans ce cas|可能会下雨，那样的话我们就留下。|那样的话我们就留下|un parapluie
+11|那些|na, sié|Le NAIN et la SIESTE au loin : JE VEUX PAS CEUX-LÀ.|nàxiē ≈ « na-sié » ; « ceux-là » = 那些|这些 = ceux-ci|我不要那些。|我不要那些|une main qui repousse
+12|哪些|na, sié|Le NAIN et la SIESTE interrogent : LESQUELS SONT À TOI ? (doublon de 08).|nǎxiē ≈ « na-sié » ; doublon (masculin)|哪个 = lequel|哪些是你的？|哪些是你的|un point d'interrogation
+13|我们自己|ouo, menne, dzeu, dji|« OUO », les MENNE, le ZEU et le GÉNIE fiers : ON L'A FAIT NOUS-MÊMES.|wǒmen zìjǐ ≈ « ouo-mene-dzeu-dji » ; 我们 + 自己 = nous-mêmes|亲自 = en personne|是我们自己做的。|是我们自己做的|des mains fières
+14|他们自己|ta, menne, dzeu, dji|Le TA, les MENNE, le ZEU et le GÉNIE bâtisseurs : ILS L'ONT CONSTRUIT EUX-MÊMES.|tāmen zìjǐ ≈ « ta-mene-dzeu-dji » ; 他们 + 自己 = eux-mêmes|亲手 = de leurs mains|这是他们自己盖的。|这是他们自己盖的|une maison
+15|有几个|yo, dji, gueu|Le YOYO, le GÉNIE et le GUEU à la porte : QUELQUES-UNS SONT VENUS.|yǒu jǐ ge ≈ « yo-dji-gueu » ; « quelques-uns » = 有几个|一些 = certains|有几个人来了。|有几个人来了|quelques silhouettes
+16|亲自|tchine, dzeu|Le CHINE et le ZEU les mains dans le travail : IL FAUT LE FAIRE SOI-MÊME.|qīnzì ≈ « tchine-dzeu » ; « soi-même (en personne) » = 亲自|自己 = soi-même|得亲自去做。|得亲自去做|des manches retroussées
+17|哪个|na, gueu|Le NAIN et le GUEU face à deux choix : LEQUEL TU PRÉFÈRES ?|nǎge ≈ « na-gueu » ; « lequel ? » = 哪个|哪些 = lesquels|你更喜欢哪个？|你更喜欢哪个|deux portes
+18|你们自己|ni, menne, dzeu, dji|Le NID, les MENNE, le ZEU et le GÉNIE au travail : FAITES-LE VOUS-MÊMES (pluriel).|nǐmen zìjǐ ≈ « ni-mene-dzeu-dji » ; 你们 + 自己 = vous-mêmes|你自己 = toi-même|你们自己做吧。|你们自己做吧|des outils
+19|这些|djeu, sié|Le JEU et la SIESTE tout proches : CEUX-CI SONT MEILLEURS.|zhèxiē ≈ « djeu-sié » ; « ceux-ci » = 这些|那些 = ceux-là|这些更好。|这些更好|une main qui montre
+20|别人|bié, renne|Le BIEN et le RENNE d'à côté : IL FAUT RESPECTER AUTRUI.|biéren ≈ « bié-renne » ; « autrui » = 别人|他人 = autrui (écrit)|要尊重别人。|要尊重别人|une révérence
+21|有的……有的|yo, deu|Le YOYO et le DEU entre chant et danse : LES UNES CHANTENT, LES AUTRES DANSENT (doublon de 06).|yǒude… yǒude ≈ « yo-deu » ; doublon (féminin)|一些 = certaines|有的唱歌，有的跳舞。|有的唱歌，有的跳舞|une note et un pas de danse
+22|几个|dji, gueu|Le GÉNIE et le GUEU prennent quelques-unes : J'EN AI PRIS QUELQUES UNES.|jǐ ge ≈ « dji-gueu » ; « quelques-unes » = 几个|一些 = un peu|我拿了几个。|我拿了几个|une poignée de bonbons
+23|有些人|yo, sié, renne|Le YOYO, la SIESTE et le RENNE méfiants : D'AUCUNS PENSENT QU'IL MENT.|yǒuxiē rén ≈ « yo-sié-renne » ; « d'aucuns » = 有些人|有人 = certains|有些人认为他在撒谎。|有些人认为他在撒谎|un nez de Pinocchio
+24|从……上|tsong, chang|Le TSONG en haut (« SHANG ») du pont : LE PONT DUQUEL ON VOIT LA MER.|cóng… shàng ≈ « tsong-chang » ; « duquel » = 从（那座桥）上|在 = depuis|从那座桥上能看到大海。|从那座桥上能看到大海|un pont sur la mer
+25|从……上|tsong, chang|Le TSONG au balcon : LE BALCON D'OÙ IL PARLE (doublon de 24).|cóng… shàng ≈ « tsong-chang » ; doublon (d'où)|在……上 = sur|他从那个阳台上讲话。|他从那个阳台上讲话|un balcon
+26|我说的|ouo, chouo, deu|« OUO », le CHOUchou et le DEU désignent le livre : LE LIVRE DONT JE PARLE EST ÉPUISÉ.|wǒ shuō de ≈ « ouo-chouo-deu » ; « dont (je parle) » = 我说的 + nom|提到的 = mentionné|我说的那本书已经卖完了。|我说的那本书已经卖完了|un livre épuisé
+27|我说的|ouo, chouo, deu|« OUO », le CHOUchou et le DEU entre amis : LES AMIS DESQUELS JE PARLE (doublon de 26).|wǒ shuō de ≈ « ouo-chouo-deu » ; doublon (pluriel)|提到的 = cités|我说的那些朋友。|我说的那些朋友|des amis
+28|我来自的|ouo, laï, dzeu, deu|« OUO », la LAIE, le ZEU et le DEU sur une carte : LES VILLES DESQUELLES JE VIENS.|wǒ láizì de ≈ « ouo-laï-dzeu-deu » ; « desquelles (je viens) » = 我来自的|老家 = pays natal|我来自的那些城市。|我来自的那些城市|une carte
+29|其中有人|tchi, djong, yo, renne|Le TCHI, le ZONG, le YOYO et le RENNE dans le groupe : QUELQU'UNE D'ENTRE ELLES LE SAIT.|qízhōng yǒu rén ≈ « tchi-djong-yo-renne » ; « quelqu'une d'entre » = 其中有人|有人 = quelqu'un|她们其中有人知道。|她们其中有人知道|un groupe avec une main levée
+30|以……的名义|i, ming, i|Le « I », le MING et le « I » sous la couronne : LE ROI, AU NOM DUQUEL IL PARLE.|yǐ… de míngyì ≈ « i-ming-i » ; « au nom duquel » = 以……的名义|代表 = représenter|他以国王的名义讲话。|他以国王的名义讲话|une couronne

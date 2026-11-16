@@ -1,0 +1,53 @@
+00|血淋淋|sué, line, line|Un SUÉdois (« XUE ») dégouline de LIN-LIN rouge : UNE CHEMISE ENSANGLANTÉE.|xiě línlín ≈ « sué-line-line » ; les gouttes rouges = ensanglanté|带血 = taché de sang|一件血淋淋的衬衫。|血淋淋的衬衫|une chemise tachée
+01|火大|houo, da|Un HOUO ! de flammes sur un DAuphin : IL EST VÉNÈRE CONTRE MOI.|huǒ dà ≈ « houo-da » ; les flammes sur la tête = vénère|生气 = fâché|他对我很火大。|他对我很火大|des flammes sur la tête
+02|轻蔑|tching, mié|Un CHINOIS (« QING ») regarde de haut un MIÉ (« MIE ») : IL EST MÉPRISANT.|qīngmiè ≈ « tching-mié » ; le nez levé = méprisant|看不起 = mépriser|他很轻蔑。|他很轻蔑|un nez levé
+03|吃惊|tcheu, djing|Un TCHEU avale un GINGEMBRE de surprise : JE SUIS ÉTONNÉE (doublon d'adjectifs_8 71).|chījīng ≈ « tcheu-djing » ; doublon|惊讶 = surpris|我很吃惊。|我很吃惊|une bouche ronde
+04|饱受折磨|bao, cho, djeu, mo|Un BAObab, un CHAUD, un JEU et un MOT écrasés : SON PAUVRE ESPRIT À BOUT DE FORCES.|bǎo shòu zhémó ≈ « bao-cho-jeu-mo » ; le poids écrasant = malmené|累坏了 = épuisé|这对她饱受折磨的心灵来说太多了。|饱受折磨的心灵|un poids écrasant
+05|懒|lanne|Un LANDAU (« LAN ») où ronfle un paresseux : IL EST PARESSEUX.|lǎn ≈ « lane » ; le hamac = paresseux|勤快 = travailleur|他很懒。|他很懒|un paresseux dans un landau
+06|酸|souanne|Un SOUANNE (« SUAN ») mord une pomme verte : CETTE POMME EST ACIDE (doublon d'adjectifs_8 18).|suān ≈ « souane » ; doublon|酸溜溜 = acidulé|这个苹果很酸。|这个苹果很酸|une pomme verte
+07|禁烟|djine, yienne|Un JEAN (« JIN ») barre une YIENNE de fumée : UNE TABLE NON-FUMEUR.|jìnyān ≈ « djine-yienne » ; la cigarette barrée = non-fumeur|吸烟区 = zone fumeur|一张禁烟区的桌子。|禁烟区的桌子|une cigarette barrée
+08|炸|dja|Un DJA (« ZHA ») plonge la polenta dans l'huile : J'AIME LA POLENTA FRITE (doublon d'adjectifs_8 25).|zhá ≈ « dja » ; doublon|煎 = poêlé|我喜欢炸玉米糕。|炸玉米糕|une huile qui grésille
+09|带字幕|daille, dzeu, mou|Un DAIM (« DAI ») lit des ZEU (« ZI ») sous l'écran d'un MOUton : UN FILM SOUS-TITRÉ EN FRANÇAIS.|dài zìmù ≈ « daille-dzeu-mou » ; la bande de texte = sous-titré|配音 = doublé|一部带法语字幕的电影。|带法语字幕的电影|une bande de texte
+10|取消|tchu, siao|Un CHOU efface un SIAMOIS de l'agenda : LA RÉUNION EST ANNULÉE (doublon d'adjectifs_8 55).|qǔxiāo ≈ « tchu-siao » ; doublon|推迟 = reporté|会议取消了。|会议取消了|un tampon « annulé »
+11|有害|yo, haï|« YO ! » crie un rappeur devant une HAIE (« HAI ») empoisonnée : UNE INFLUENCE PERNICIEUSE.|yǒuhài ≈ « yo-haï » ; la tête de mort = pernicieux|坏 = mauvais|一种有害的影响。|有害的影响|une tête de mort
+12|系统|si, tong|Un SIGNE et un TONneau d'engrenages : C'EST SYSTÉMATIQUE (doublon de noms_4 47).|xìtǒng ≈ « si-tong » ; doublon|总是 = toujours|这是系统性的。|这是系统性的|des engrenages
+13|盐|yienne|Une YIENNE (« YAN ») verse du sel dans une poche : DIX POCHES DE SOLUTION SALINE CHAUDE.|yán ≈ « yienne » ; la salière = salin|盐水 = eau salée|给我拿十袋热盐水。|十袋热盐水|une salière
+14|婚礼|houenne, li|Un HOUÉ (« HUN ») et un LIT fleuri : LA MARCHE NUPTIALE (doublon de noms_2 65).|hūnlǐ ≈ « houenne-li » ; doublon|婚礼进行曲 = marche nuptiale|婚礼进行曲。|婚礼进行曲|un voile
+15|波利尼西亚|bo, li, ni, si, ya|Un BOL, un LIT, un NID, un SIGNE et un YACK sur une île à fleurs : C'EST UNE PURE POLYNÉSIENNE.|Bōlìníxīyà ≈ « bo-li-ni-si-ya » ; le collier de fleurs = polynésien|夏威夷 = Hawaï|她是纯正的波利尼西亚人。|波利尼西亚人|un collier de fleurs
+16|酸|souanne|Le SOUANNE (« SUAN ») renifle du lait tourné : LE LAIT EST AIGRE (doublon d'adjectifs_8 18).|suān ≈ « souane » ; doublon|变质 = avarié|牛奶酸了。|牛奶酸了|du lait tourné
+17|傻|cha|Un CHAT (« SHA ») qui louche : NE FAIS PAS LE NIAIS (doublon d'adjectifs_3 34).|shǎ ≈ « cha » ; doublon|装傻 = faire l'idiot|别装傻。|别装傻|un chat qui louche
+18|每月|meille, yué|Un MAIllot (« MEI ») paie sous chaque YUÉ (« YUE ») de lune : C'EST UN PAIEMENT MENSUEL.|měiyuè ≈ « meille-yué » ; la lune et le billet = mensuel|月付 = paiement mensuel|这是每月付款。|这是每月付款|une lune et un billet
+19|系统|si, tong|Le SIGNE et le TONneau d'engrenages : ELLE FAIT UNE VÉRIFICATION SYSTÉMATIQUE (doublon de 12).|xìtǒng ≈ « si-tong » ; doublon|全面 = complet|她做了系统的检查。|系统的检查|des engrenages
+20|很多|henne, dwo|La déesse HENNE et un DUO d'amis : IL A MAINTS AMIS (doublon d'adverbes_2 03).|hěn duō ≈ « henne-dwo » ; doublon|不少 = pas mal|他有很多朋友。|他有很多朋友|un cercle d'amis
+21|乱|louanne|Un LOUP (« LUAN ») dans un bazar : IL EST DÉSORDONNÉ (doublon d'adverbes_2 32).|luàn ≈ « louane » ; doublon|邋遢 = négligé|他很乱。|他很乱|un bazar
+22|三角形|sanne, djiao, sing|Une SANNE (« SAN »), un JAGUAR (« JIAO ») et un SINGE forment un triangle : C'EST UNE FORME TRIANGULAIRE.|sānjiǎoxíng ≈ « sane-djiao-sing » ; le triangle = triangulaire|方形 = carré|这是三角形的。|这是三角形的|un triangle
+23|闪闪发光|channe, channe, fa, gouang|Deux CHANTS (« SHAN SHAN ») et un FAkir GOUANG brillent : DES YEUX BRILLANTS ET DES CORPS COULEUR DE LAIT !|shǎnshǎn fāguāng ≈ « chane-chane-fa-gouang » ; les étoiles = scintillant|亮 = brillant|闪闪发光的眼睛和奶白色的身体！|闪闪发光的眼睛|des étoiles
+24|配音|peille, ine|Un PEILLE (« PEI ») parle sur une INE (« YIN ») à l'écran : JE N'AIME PAS LES FILMS DOUBLÉS.|pèiyīn ≈ « peille-ine » ; le micro de doublage = doublé|字幕 = sous-titres|我不喜欢配音的电影。|配音的电影|un micro de doublage
+25|乱|louanne|Le LOUP (« LUAN ») dans une chambre en bazar : SA CHAMBRE EST DÉSORDONNÉE (doublon de 21).|luàn ≈ « louane » ; doublon|乱七八糟 = sens dessus dessous|她的房间很乱。|她的房间很乱|une chambre en bazar
+26|简化|djienne, houa|Un DIEN (« JIAN ») retire des pétales d'une fleur (« HUA ») : C'EST UN SCHÉMA SIMPLIFIÉ.|jiǎnhuà ≈ « djienne-houa » ; la fleur épurée = simplifié|简单 = simple|这是个简化的图表。|简化的图表|une fleur épurée
+27|懒|lanne|Le LANDAU (« LAN ») où ronfle une paresseuse : MA SŒUR EST PARESSEUSE (doublon de 05).|lǎn ≈ « lane » ; doublon|懒惰 = paresse|我妹妹很懒。|我妹妹很懒|un landau qui ronfle
+28|酸|souanne|Le SOUANNE grimace sur une orange : CETTE ORANGE EST AIGRE (doublon d'adjectifs_8 18).|suān ≈ « souane » ; doublon|不甜 = pas sucré|这个橙子很酸。|这个橙子很酸|une orange
+29|机灵|dji, ling|Un GÉNIE (« JI ») attrape un LINGOT au vol : TA SŒUR EST TRÈS FUTÉE (doublon d'adjectifs_4 61).|jīling ≈ « dji-ling » ; doublon|精明 = astucieux|你妹妹很机灵。|你妹妹很机灵|un clin d'œil
+30|热情|reu, tching|Le REU de chaleur et le CHINOIS aux bras ouverts : ELLE EST TRÈS CHALEUREUSE (doublon d'adjectifs_8 87).|rèqíng ≈ « reu-tching » ; doublon|亲切 = cordial|她很热情。|她很热情|des bras ouverts
+31|超兴奋|tchao, sing, fenne|Un CHAT (« CHAO »), un SINGE et un FENNEC sautent au plafond : IL EST À FOND POUR LE MATCH.|chāo xīngfèn ≈ « tchao-sing-fenne » ; le saut au plafond = à fond (surexcité)|激动 = excité|他为比赛超兴奋。|他为比赛超兴奋|un saut au plafond
+32|兴奋|sing, fenne|Le SINGE (« XING ») et le FENNEC (« FEN ») trépignent : LES JOUEURS SONT CHAUDS ! (doublon de 31)|xīngfèn ≈ « sing-fenne » ; doublon|激动 = excité|球员们很兴奋！|球员们很兴奋|des joueurs qui trépignent
+33|九十|djiou, chie|Un JUDOKA (« JIU ») sur une CHAISE (« SHI ») regarde le chrono à 90 : QUATRE-VINGT-DIX MINUTES.|jiǔshí ≈ « djiou-chi » ; le chrono = quatre-vingt-dix|九十岁 = 90 ans|九十分钟。|九十分钟|un chrono à 90
+34|多节|dwo, djié|Un DUO de JETS (« JIE ») noués sur un bâton : UN BÂTON NOUEUX.|duō jié ≈ « dwo-djié » ; les nœuds = noueux|弯曲 = tordu|一根多节的棍子。|多节的棍子|un bâton noueux
+35|厚|ho|« HO ! » soupire un skieur dans la neige épaisse : LA NEIGE EST ÉPAISSE (doublon d'adjectifs_7 25).|hòu ≈ « ho » ; doublon|深 = profond|雪很厚。|雪很厚|une neige épaisse
+36|整洁|djeng, djié|Le gong « DJENG ! » et le JET rangent une chambre : SA CHAMBRE EST TRÈS ORDONNÉE (doublon d'adjectifs_8 67).|zhěngjié ≈ « djeng-djié » ; doublon|干净 = propre|她的房间很整洁。|她的房间很整洁|une chambre rangée
+37|壮观|djouang, gouanne|Un JOUANG et un GOUAILLEUR devant une cascade : UN SPECTACLE GRANDIOSE (doublon d'adjectifs_2 89).|zhuàngguān ≈ « djouang-gouane » ; doublon|宏伟 = majestueux|一场壮观的演出。|壮观的演出|une cascade
+38|各种|gueu, djong|Le GUEU trie des JONCS : IL A EXERCÉ DIVERS MÉTIERS (doublon d'adjectifs_5 16).|gèzhǒng ≈ « gueu-djong » ; doublon|不同 = différents|他做过各种工作。|做过各种工作|un éventail
+39|简化|djienne, houa|Le DIEN épure la fleur : C'EST UNE VERSION SIMPLIFIÉE (doublon de 26).|jiǎnhuà ≈ « djienne-houa » ; doublon|简体 = simplifié (caractères)|这是简化版。|这是简化版|une fleur épurée
+40|最高|dzouei, gao|Le ZOUAVE sur un GAUCHO perché sur un panneau 130 : LA VITESSE MAXIMALE EST DE 130 (doublon d'adjectifs_8 76).|zuìgāo ≈ « zouei-gao » ; doublon|上限 = plafond|最高时速是一百三十。|最高时速是一百三十|un panneau 130
+41|扣人心弦|keou, renne, sine, sienne|Le KEOU tire la corde du cœur du RENNE : UN THRILLER CAPTIVANT (doublon d'adjectifs_8 88).|kòu rén xīn xián ≈ « keou-renne-sine-sienne » ; doublon|紧张刺激 = haletant|一部扣人心弦的惊悚片。|扣人心弦的惊悚片|une corde du cœur
+42|乳制品|rou, dji, pine|Un ROUGEGORGE (« RU »), un GÉNIE (« ZHI ») et un PIN (« PIN ») traient une vache : JE DÉCLARE LA COOPÉRATIVE LAITIÈRE FONDÉE !|rǔzhìpǐn ≈ « rou-dji-pine » ; le pis de vache = laitier|奶 = lait|我宣布乳制品合作社成立！|乳制品合作社|un pis de vache
+43|各种|gueu, djong|Le GUEU trie des JONCS de raisons : IL Y A DIVERSES RAISONS (doublon d'adjectifs_5 16).|gèzhǒng ≈ « gueu-djong » ; doublon|种种 = toutes sortes de|有各种原因。|有各种原因|un éventail
+44|一公斤|i, gong, djine|« I » GONG et un JEAN sur la balance : UN KILOGRAMME DE FARINE (doublon d'adjectifs_7 81).|yì gōngjīn ≈ « i-gong-djine » ; doublon|千克 = kilogramme (écrit)|一公斤面粉。|一公斤面粉|une balance
+45|看跌|kanne, dié|Une longue-vue (« KAN ») voit un DIÉ (« DIE ») qui chute : LE MARCHÉ EST BAISSIER.|kàndiē ≈ « kane-dié » ; l'ours = baissier|熊市 = marché baissier|市场看跌。|市场看跌|un ours en Bourse
+46|感兴趣|ganne, sing, tchu|Un GANT, un SINGE et un CHOU aux yeux brillants : JE SUIS INTÉRESSÉ (doublon de verbes_3 49).|gǎn xìngqù ≈ « gane-sing-tchu » ; doublon|有兴趣 = intéressé|我感兴趣。|我感兴趣|des yeux brillants
+47|酷|kou|Un COUCOU (« KU ») en lunettes noires (l'exemple français est vulgaire ; le chinois garde « cool ») : SUZANNE EST TROP COOL !|kù ≈ « kou » ; doublon d'adjectifs_2 98|酷妞 = fille cool|苏珊娜真是个酷妞！|酷妞|un coucou en lunettes noires
+48|看涨|kanne, djang|La longue-vue (« KAN ») voit un GENDARME (« ZHANG ») qui grimpe : LE MARCHÉ EST HAUSSIER.|kànzhǎng ≈ « kane-djang » ; le taureau = haussier|牛市 = marché haussier|市场看涨。|市场看涨|un taureau en Bourse
+49|感兴趣|ganne, sing, tchu|Le GANT, le SINGE et le CHOU lèvent la main : ELLE EST INTÉRESSÉE PAR LE POSTE (doublon de 46).|gǎn xìngqù ≈ « gane-sing-tchu » ; doublon|想要 = vouloir|她对这个职位感兴趣。|对这个职位感兴趣|une main levée
+50|一团糟|i, touanne, dzao|« I » TOUAN de pelote emmêlée dans la SAUCE (« ZAO ») : MA VIE EST BORDÉLIQUE EN CE MOMENT.|yì tuán zāo ≈ « i-touane-dzao » ; la pelote emmêlée = bordélique|乱七八糟 = n'importe comment|我现在的生活一团糟。|一团糟|une pelote emmêlée
+51|差劲|tcha, djine|Un CHAT en JEAN troué sert la soupe : LE SERVICE ÉTAIT EXÉCRABLE (doublon d'adjectifs_3 18).|chàjìn ≈ « tcha-djine » ; doublon|糟糕 = affreux|服务太差劲了。|服务太差劲了|un chat en jean troué
+52|侧|tseu|Un TSE-TSE (« CE ») entre par la porte de côté : ATTENDS-MOI DEVANT L'ENTRÉE LATÉRALE.|cè ≈ « tseu » ; la porte de côté = latéral|旁边 = à côté|在侧门等我。|在侧门等我|une porte de côté

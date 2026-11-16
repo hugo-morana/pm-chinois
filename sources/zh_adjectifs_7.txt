@@ -1,0 +1,100 @@
+00|瘦|cho|Un CHAUD (« SHOU ») bâton de bambou : MON FRÈRE EST MINCE.|shòu ≈ « cho » ; le bambou = mince|胖 = gros|我哥哥很瘦。|我哥哥很瘦|un bâton de bambou
+01|离谱|li, pou|Un LIT (« LI ») sur un POULET (« PU ») géant : C'EST DINGUE, CE QUI S'EST PASSÉ !|lípǔ ≈ « li-pou » ; le point d'exclamation = dingue|太疯狂了 = trop fou|发生的事太离谱了！|太离谱了|un lit sur un poulet
+02|炸裂|dja, lié|Un DJA (« ZHA ») explose en LIÉ (« LIE ») de confettis : LE CONCERT ÉTAIT DE OUF !|zhàliè ≈ « dja-lié » ; l'explosion = de ouf (argot)|超棒 = super génial|演唱会太炸裂了！|太炸裂了|une explosion de confettis
+03|这样的|djeu, yang, deu|Le YANG (« ZHEYANG ») DEUx fois montré : DE TELLES CHOSES ARRIVENT (doublon d'adjectifs_2 49).|zhèyàng de ≈ « jeu-yang-deu » ; doublon|这种 = ce genre|这样的事会发生。|这样的事会发生|un doigt pointé
+04|尴尬|ganne, ga|Un GANT (« GAN ») et un GAGA (« GA ») rougissent : C'EST GÊNANT.|gāngà ≈ « gane-ga » ; les joues rouges = gênant|不好意思 = gêné|好尴尬。|好尴尬|des joues rouges
+05|我想的那…|wo, siang, deu, na|L'oiseau penseur (« XIANG ») montre DEUx livres au NAIN : LE LIVRE AUQUEL JE PENSE.|wǒ xiǎng de nà … ≈ « wo-siang-deu-na » ; la bulle de pensée = auquel (on pense)|的 = relatif|我想的那本书。|我想的那本书|une bulle de pensée
+06|这样的|djeu, yang, deu|Le YANG DEUx fois devant une étiquette : DE TELS PRIX, C'EST TROP (doublon de 03).|zhèyàng de ≈ « jeu-yang-deu » ; doublon|这么 = si|这样的价格太高了。|这样的价格|une étiquette
+07|瘦|cho|Le CHAUD (« SHOU ») bambou : ELLE EST TRÈS MINCE (doublon de 00).|shòu ≈ « cho » ; doublon : pas de genre|苗条 = svelte|她很瘦。|她很瘦|un bambou
+08|指纹|dji, ouenne|Un GÉNIE (« ZHI ») pose le doigt sur un OUISTITI (« WEN ») d'encre : VA DONNER TES EMPREINTES DIGITALES !|zhǐwén ≈ « dji-ouenne » ; l'empreinte = digitale|数字 = numérique|去按指纹！|去按指纹|une empreinte de doigt
+09|别人的|bié, renne, deu|Un BIÉ, un RENNE et DEUx bulles d'idées : RESPECTE LES IDÉES DES AUTRES.|biéren de ≈ « bié-renne-deu » ; les bulles d'autrui = d'autrui|他人 = autrui (écrit)|尊重别人的想法。|别人的想法|des bulles d'autrui
+10|绝望|djué, ouang|Un JURÉ (« JUE ») et le roi WANG (« WANG ») s'effondrent : IL EST DÉSESPÉRÉ.|juéwàng ≈ « djué-ouang » ; la tête dans les mains = désespéré|失望 = déçu|他很绝望。|他很绝望|une tête dans les mains
+11|技术|dji, chou|Un GÉNIE (« JI ») démonte un CHOU (« SHU ») robot : UN PROGRÈS TECHNOLOGIQUE (doublon d'adjectifs_2 88).|jìshù ≈ « dji-chou » ; doublon|科技 = technologie|技术进步。|技术进步|un robot
+12|可靠|keu, kao|Un KEU (« KE ») s'adosse à un KAOLIN (« KAO ») solide : UNE SOURCE FIABLE.|kěkào ≈ « keu-kao » ; le pilier = fiable|靠得住 = sur qui compter|可靠的消息来源。|可靠的消息来源|un pilier
+13|随便|souei, biène|Un SUISSE (« SUI ») BIEN détendu tire un prétexte au hasard : UN PRÉTEXTE QUELCONQUE (doublon d'adjectifs_2 30).|suíbiàn ≈ « souei-biène » ; doublon|某个 = un certain|随便找个借口。|随便找个借口|un dé lancé
+14|悲惨|beille, tsanne|Une BEILLE (« BEI ») pleure sur un TSAN (« CAN ») renversé : UN ACCIDENT TRAGIQUE.|bēicǎn ≈ « beille-tsane » ; le masque triste = tragique|不幸 = malheureux|一场悲惨的事故。|悲惨的事故|un masque triste
+15|尊敬的|dzoune, djing, deu|Un ZOUN (« ZUN ») s'incline devant un GINGEMBRE (« JING ») DEUx fois : CHER MONSIEUR,|zūnjìng de ≈ « dzoune-djing-deu » ; la révérence = cher (lettre)|亲爱的 = cher (affectif)|尊敬的先生：|尊敬的先生|une révérence
+16|自私|dzeu, seu|Un ZEU (« ZI ») garde tout pour SEU (« SI ») : T'ES ÉGOÏSTE !|zìsī ≈ « dzeu-seu » ; les bras qui serrent tout = égoïste|小气 = radin|你真自私！|你真自私|des bras qui serrent tout
+17|那么多|na, meu, dwo|Le NAIN sur sa MEULE entouré d'un DUO d'amis : IL A TANT D'AMIS ! (doublon d'adverbes_2 88)|nàme duō ≈ « na-meu-dwo » ; doublon|好多 = plein de|他有那么多朋友！|那么多朋友|un nain entouré d'amis
+18|这么多|djeu, meu, dwo|Le JEU et la MEULE sous un DUO de touristes : JE N'AI JAMAIS VU AUTANT DE TOURISTES (doublon d'adverbes_2 89).|zhème duō ≈ « jeu-meu-dwo » ; doublon|那么多 = tant|我从没见过这么多游客。|这么多游客|une foule de touristes
+19|大多数人|da, dwo, chou, renne|Un DAuphin, un DUO, un CHOU et des RENNES lèvent la main : LA MAJORITÉ DES GENS EST D'ACCORD.|dàduōshù rén ≈ « da-dwo-chou-renne » ; doublon d'adjectifs_3 65|多数 = majorité|大多数人都同意。|大多数人都同意|des mains levées
+20|宽|kouanne|Un KOUANNE (« KUAN ») écarte les bras sur la route : LA ROUTE EST LARGE.|kuān ≈ « kouane » ; les bras écartés = large|窄 = étroit|路很宽。|路很宽|des bras écartés
+21|受不了|cho, bou, liao|Un CHAUD BOUc se bouche les oreilles devant un LION : CE GOSSE EST INSUPPORTABLE.|shòubuliǎo ≈ « cho-bou-liao » ; doublon de verbes_4 83|烦人 = agaçant|这孩子真让人受不了。|让人受不了|des oreilles bouchées
+22|十一|chie, i|Une CHAISE (« SHI ») et « I » ballon pour ONZE joueurs.|shíyī ≈ « chi-i » ; l'équipe de onze = onze|十一个 = onze|十一个球员。|十一个球员|une équipe de onze
+23|法国人|fa, go, renne|Un FAkir, un GOGO et un RENNE en béret : IL EST FRANÇAIS (doublon d'adjectifs_4 62).|Fǎguó rén ≈ « fa-go-renne » ; doublon|法国 = France|他是法国人。|他是法国人|un renne en béret
+24|上|chang|Un CHAMEAU (« SHANG ») tourne la page en arrière : LA SEMAINE PRÉCÉDENTE.|shàng ≈ « chang » ; la page précédente = précédent|之前的 = d'avant|上个星期。|上个星期|une page précédente
+25|厚|ho|« HO ! » soupire celui qui porte un livre épais : LE LIVRE EST ÉPAIS.|hòu ≈ « ho » ; le pavé = épais|薄 = mince|这本书很厚。|这本书很厚|un pavé
+26|各种|gueu, djong|Un GUEU (« GE ») trie des JONCS de toutes sortes : IL Y A DIVERS PROBLÈMES (doublon d'adjectifs_5 16).|gèzhǒng ≈ « gueu-djong » ; doublon|不同 = différents|有各种问题。|有各种问题|un éventail
+27|宽|kouanne|Le KOUANNE (« KUAN ») écarte les bras au-dessus du fleuve : LE FLEUVE EST LARGE (doublon de 20).|kuān ≈ « kouane » ; doublon|宽阔 = vaste|河很宽。|河很宽|des bras écartés
+28|圆|yuanne|Une YOURTE (« YUAN ») ronde comme la Terre : LA TERRE EST RONDE.|yuán ≈ « yuane » ; le globe = rond|方 = carré|地球是圆的。|地球是圆的|un globe
+29|第四|di, seu|Un DIable et un SEU (« SI ») lèvent quatre doigts : AU QUATRIÈME ÉTAGE.|dìsì ≈ « di-seu » ; les quatre doigts = quatrième|四楼 = 4e niveau|在五楼。|在五楼|quatre doigts levés
+30|坏了|houaille, leu|Un HOUAILLEUR et un LEURRE sur une chaise cassée : LA CHAISE EST CASSÉE (doublon d'adjectifs_6 82).|huài le ≈ « houaille-leu » ; doublon|断了 = brisé|椅子坏了。|椅子坏了|une chaise cassée
+31|合适|heu, chie|Un HEU (« HE ») parfaitement assis sur une CHAISE (« SHI ») : CE N'EST PAS LE MOMENT APPROPRIÉ.|héshì ≈ « heu-chi » ; la pièce qui s'emboîte = approprié|恰当 = adéquat|现在不是合适的时候。|不是合适的时候|une pièce qui s'emboîte
+32|相似|siang, seu|SIANNE et un SEU (« SI ») en miroir : C'EST SEMBLABLE.|xiāngsì ≈ « siang-seu » ; le miroir = semblable|一样 = pareil|这很相似。|这很相似|un miroir
+33|五十|ou, chie|Un HOU ! sur une CHAISE (« SHI ») tient un billet de 50 : CINQUANTE EUROS.|wǔshí ≈ « hou-chi » ; le billet de 50 = cinquante|五十岁 = cinquante ans|五十欧元。|五十欧元|un billet de 50
+34|埋|maille|Un MAÏS (« MAI ») enfoui sous terre : IL EST ENTERRÉ AU CIMETIÈRE.|mái ≈ « maille » ; la pelle = enterré|葬 = inhumer|他葬在墓地里。|他葬在墓地里|une pelle
+35|光着脚|gouang, djeu, djiao|Un GOUANG (« GUANG ») brillant marche les JAGUARS (« JIAO ») nus : IL MARCHE PIEDS NUS SUR LA PLAGE.|guāngzhe jiǎo ≈ « gouang-jeu-djiao » ; les pieds dans le sable = pieds nus|赤脚 = pieds nus (écrit)|他光着脚在沙滩上走。|光着脚|des pieds dans le sable
+36|关门|gouanne, menne|Un GOUAILLEUR (« GUAN ») ferme la porte (« MEN ») du magasin : LE MAGASIN EST FERMÉ.|guānmén ≈ « gouane-mene » ; le rideau baissé = fermé|开门 = ouvert|商店关门了。|商店关门了|un rideau baissé
+37|谦虚|tchienne, su|Une CHIENNE (« QIAN ») s'incline devant un SUcre (« XU ») : C'EST UNE PERSONNE HUMBLE.|qiānxū ≈ « tchienne-su » ; la tête baissée = humble|低调 = discret|他是个谦虚的人。|谦虚的人|une tête baissée
+38|可悲|keu, beille|Un KEU (« KE ») pleure avec une BEILLE (« BEI ») : JE VEUX TE MONTRER À QUEL POINT TU ES PATHÉTIQUE.|kěbēi ≈ « keu-beille » ; le clown triste = pathétique|可怜 = pitoyable|我要让你看看你有多可悲。|你有多可悲|un clown triste
+39|单身|danne, cheune|Une DANSE (« DAN ») solo avec une CHAÎNE (« SHEN ») brisée : JE SUIS CÉLIBATAIRE EN CE MOMENT.|dānshēn ≈ « dane-cheune » ; le solo = célibataire|一个人 = seul|我现在单身。|我现在单身|une danse solo
+40|未婚|ouei, houenne|Un OUISTITI (« WEI ») sans HOUÉ (« HUN ») d'alliance : IL EST CÉLIBATAIRE (état civil).|wèihūn ≈ « ouei-houenne » ; la case « non marié » = célibataire|已婚 = marié|他未婚。|他未婚|une case cochée
+41|复杂|fou, dza|Un FOU et un ZA emmêlent des fils : CE PROBLÈME EST COMPLEXE (doublon d'adjectifs_5 38).|fùzá ≈ « fou-dza » ; doublon|难 = difficile|这个问题很复杂。|这个问题很复杂|un nœud de fils
+42|类似|leille, seu|Une LEILLE (« LEI ») et un SEU (« SI ») presque jumeaux : C'EST SIMILAIRE.|lèisì ≈ « leille-seu » ; les jumeaux = similaire|相似 = semblable|这很类似。|这很类似|des presque jumeaux
+43|外语|ouaille, yu|Un OUAILLE (« WAI ») et un YOUYOU (« YU ») parlent une langue lointaine : J'APPRENDS UNE LANGUE ÉTRANGÈRE.|wàiyǔ ≈ « ouaille-yu » ; la bulle étrange = langue étrangère|外国 = étranger|我在学一门外语。|学一门外语|une bulle étrange
+44|湿|chie|Une CHAISE (« SHI ») trempée par l'averse : JE SUIS TOUT MOUILLÉ.|shī ≈ « chi » ; l'averse = mouillé|干 = sec|我全身都湿了。|我全身都湿了|une chaise trempée
+45|下定决心|sia, dingue, djué, sine|Un SIAMOIS (« XIA ») plante un clou DINGUE et un JURÉ fait un SIGNE (« JUEXIN ») : MAIS SI TU ES RÉSOLU, JE T'AIDERAI.|xià dìng juéxīn ≈ « sia-dingue-djué-sine » ; le poing serré = résolu|坚定 = ferme|但如果你下定决心，我会帮你。|如果你下定决心|un poing serré
+46|精确|djing, tchué|Un GINGEMBRE tombe pile sur la cible : ELLE EST TRÈS PRÉCISE (doublon d'adjectifs_6 01).|jīngquè ≈ « djing-tchué » ; doublon|细心 = minutieux|她很精确。|她很精确|un compas
+47|法律|fa, lu|Un FAkir et un LULU (« LÜ ») tiennent un code : IL A BESOIN D'UN CONSEIL JURIDIQUE (doublon de noms_3 82).|fǎlǜ ≈ « fa-lu » ; doublon|法律咨询 = conseil juridique|他需要法律咨询。|需要法律咨询|un code de loi
+48|精疲力尽|djing, pi, li, djine|Un GINGEMBRE (« JING ») et un PIgeon (« PI ») vident un LIT (« LI ») au JEAN usé : JE SUIS MENTALEMENT ÉPUISÉ.|jīng pí lì jìn ≈ « djing-pi-li-djine » ; la batterie vide = épuisé|累死了 = mort de fatigue|我精神上精疲力尽了。|精疲力尽|une batterie vide
+49|一大堆|i, da, douei|« I » DAuphin sous une DOUILLE de dossiers : J'AI UNE TONNE DE TRAVAIL (doublon d'adjectifs_3 66).|yí dà duī ≈ « i-da-douei » ; doublon|好多 = plein de|我有一大堆工作。|一大堆工作|une montagne de dossiers
+50|脑残|nao, tsanne|Un NAO (« NAO ») avec un TSAN (« CAN ») dans la tête : QUELLE IDÉE DÉBILE !|nǎocán ≈ « nao-tsane » ; le cerveau en panne = débile (argot)|蠢 = idiot|多脑残的主意！|多脑残的主意|un cerveau en panne
+51|慢|manne|Un MANNEQUIN (« MAN ») escargot : IL EST LENT.|màn ≈ « mane » ; l'escargot = lent|快 = rapide|他很慢。|他很慢|un escargot
+52|苍白|tsang, baï|Un TSAR (« CANG ») tout BLANC (« BAI ») : TU VAS BIEN ? TU ES TOUT PÂLE.|cāngbái ≈ « tsang-baï » ; le visage blanc = pâle|脸色不好 = mauvaise mine|你还好吗？你脸色很苍白。|脸色很苍白|un visage blanc
+53|四十|seu, chie|Un SEU (« SI ») sur une CHAISE (« SHI ») transpire sous un thermomètre à 40 : QUARANTE DEGRÉS !|sìshí ≈ « seu-chi » ; le thermomètre = quarante|四十岁 = quarante ans|四十度！|四十度|un thermomètre à 40
+54|第五|di, ou|Un DIable et un HOU ! sur la cinquième marche : LA CINQUIÈME PLACE.|dìwǔ ≈ « di-hou » ; la cinquième marche = cinquième|五号 = n° 5|第五名。|第五名|une cinquième marche
+55|熏|sune|Un SUN (« XUN ») de fumée enveloppe un jambon : DU LARD FUMÉ.|xūn ≈ « sune » ; la fumée = fumé|烤 = rôti|熏肉。|熏肉|un jambon fumé
+56|可进烤箱|keu, djine, kao, siang|Un KEU (« KE ») entre (« JIN ») dans un KAOLIN-four (« KAOXIANG ») : CE PLAT EST ALLANT AU FOUR.|kě jìn kǎoxiāng ≈ « keu-djine-kao-siang » ; le four = allant au four|耐热 = résistant à la chaleur|这个盘子可以进烤箱。|可以进烤箱|un four ouvert
+57|十六|chie, lio|Une CHAISE (« SHI ») et un LION (« LIU ») comptent seize pièces : SEIZE EUROS.|shíliù ≈ « chi-lio » ; les seize pièces = seize|十六岁 = seize ans|十六欧元。|十六欧元|seize pièces
+58|复杂|fou, dza|Le FOU et le ZA emmêlent la situation : LA SITUATION EST COMPLIQUÉE (doublon d'adjectifs_5 38).|fùzá ≈ « fou-dza » ; doublon|麻烦 = embêtant|情况很复杂。|情况很复杂|un nœud de fils
+59|难看|nanne, kanne|Un NANNE (« NAN ») grimace à la longue-vue (« KAN ») devant une jupe : CETTE JUPE EST LAIDE.|nánkàn ≈ « nane-kane » ; la grimace = laid|丑 = moche|这条裙子很难看。|这条裙子很难看|une grimace
+60|苦|kou|Un COUCOU (« KU ») grimace en buvant : LE CAFÉ EST AMER.|kǔ ≈ « kou » ; la grimace = amer|甜 = sucré|咖啡很苦。|咖啡很苦|une grimace amère
+61|默片|mo, pienne|Un MOT (« MO ») silencieux et une PIÈGE-pellicule (« PIAN ») : LA PLUS GRANDE VEDETTE DU CINÉMA MUET.|mòpiàn ≈ « mo-pienne » ; la pellicule sans son = muet (film)|哑 = muet (personne)|他是默片时代最大的明星。|默片时代最大的明星|une pellicule silencieuse
+62|一茶匙|i, tcha, tcheu|« I » CHAT (« CHA ») tient une cuillère CHE (« CHI ») de sel : AJOUTE UNE CUILLÈRE À CAFÉ DE SEL.|yì cháchí ≈ « i-tcha-tcheu » ; la petite cuillère = une cuillère à café de|一勺 = une cuillère de|加一茶匙盐。|加一茶匙盐|une petite cuillère
+63|十三|chie, sanne|Une CHAISE (« SHI ») et une SANNE (« SAN ») soufflent treize bougies : TREIZE ANS.|shísān ≈ « chi-sane » ; les treize bougies = treize|十三岁 = treize ans|十三岁。|十三岁|treize bougies
+64|窄|djaille|Un DJAILLE (« ZHAI ») se faufile dans un couloir : LE COULOIR EST ÉTROIT.|zhǎi ≈ « djaille » ; les murs serrés = étroit|宽 = large|走廊很窄。|走廊很窄|des murs serrés
+65|加冰|djia, bing|Un JIA (« JIA ») ajoute des glaçons BINGO : UN WHISKY AVEC DES GLAÇONS.|jiā bīng ≈ « djia-bing » ; les glaçons = avec des glaçons|冰块 = glaçon|一杯加冰的威士忌。|加冰的威士忌|des glaçons
+66|十四|chie, seu|Une CHAISE (« SHI ») et un SEU (« SI ») soufflent quatorze bougies : J'AI QUATORZE ANS.|shísì ≈ « chi-seu » ; les quatorze bougies = quatorze|十四岁 = quatorze ans|我十四岁。|我十四岁|quatorze bougies
+67|严|yienne|Une YIENNE (« YAN ») fronce les sourcils, règle en main : LE PROF EST SÉVÈRE.|yán ≈ « yienne » ; la règle = sévère|严格 = strict|老师很严。|老师很严|une règle levée
+68|一汤匙|i, tang, tcheu|« I » TANGO (« TANG ») avec une grande cuillère CHE (« CHI ») d'huile : UNE CUILLÈRE À SOUPE D'HUILE.|yì tāngchí ≈ « i-tang-tcheu » ; la grande cuillère = une cuillère à soupe de|一勺 = une cuillère|一汤匙油。|一汤匙油|une grande cuillère
+69|深蓝|cheune, lanne|Une CHAÎNE (« SHEN ») plonge dans un LANDAU (« LAN ») bleu nuit : IL PORTE UN PULL BLEU FONCÉ.|shēnlán ≈ « cheune-lane » ; la nuit bleue = bleu foncé|天蓝 = bleu clair|他穿着一件深蓝色毛衣。|深蓝色毛衣|un pull bleu nuit
+70|常见|tchang, djienne|Un CHAMEAU (« CHANG ») qu'on voit (« JIAN ») partout : C'EST FRÉQUENT.|chángjiàn ≈ « tchang-djienne » ; les traces partout = fréquent|少见 = rare|这很常见。|这很常见|des traces partout
+71|那么多|na, meu, dwo|Le NAIN sur sa MEULE sous un DUO de flocons : IL Y A TANT DE NEIGE ! (doublon de 17)|nàme duō ≈ « na-meu-dwo » ; doublon|好大的雪 = quelle neige|有那么多雪！|有那么多雪|des flocons
+72|这么多|djeu, meu, dwo|Le JEU et la MEULE sous une foule : JE N'AI JAMAIS VU AUTANT DE MONDE (doublon de 18).|zhème duō ≈ « jeu-meu-dwo » ; doublon|人山人海 = une marée humaine|我从没见过这么多人。|这么多人|une foule
+73|金发|djine, fa|Un JEAN d'or et un FAkir blond : IL EST BLOND (doublon d'adjectifs_6 83).|jīnfà ≈ « djine-fa » ; doublon|黄头发 = cheveux blonds|他是金发。|他是金发|des cheveux d'or
+74|圆|yuanne|La YOURTE (« YUAN ») ronde comme un ballon : LE BALLON EST ROND (doublon de 28).|yuán ≈ « yuane » ; doublon|圆形 = forme ronde|球是圆的。|球是圆的|un ballon
+75|湿|chie|La CHAISE (« SHI ») trempée : ELLE EST TOUTE MOUILLÉE (doublon de 44).|shī ≈ « chi » ; doublon|湿透 = trempé|她全身都湿了。|她全身都湿了|une chaise trempée
+76|一模一样|i, mo, i, yang|« I » MOT et « I » YANG identiques au millimètre : C'EST IDENTIQUE.|yì mú yí yàng ≈ « i-mo-i-yang » ; les jumeaux parfaits = identique|一样 = pareil|一模一样。|一模一样|des jumeaux parfaits
+77|秃头|tou, to|TOUT (« TU ») luisant sur un TOTEM (« TOU ») chauve : IL EST CHAUVE.|tūtóu ≈ « tou-to » ; le crâne brillant = chauve|光头 = crâne rasé|他是秃头。|他是秃头|un crâne brillant
+78|过敏|guo, mine|Un GOGO (« GUO ») éternue sur une MINE (« MIN ») de chat : JE SUIS ALLERGIQUE AUX CHATS.|guòmǐn ≈ « guo-mine » ; l'éternuement = allergique|敏感 = sensible|我对猫过敏。|我对猫过敏|un éternuement
+79|极小|dji, siao|Un GÉNIE (« JI ») minuscule et un SIAMOIS (« XIAO ») microscopique : C'EST MINUSCULE.|jí xiǎo ≈ « dji-siao » ; la loupe = minuscule|小小的 = tout petit|这极小。|这极小|une loupe
+80|根本|guenne, beune|Une GUENON (« GEN ») BÊNE (« BEN ») sur une racine : C'EST FONDAMENTAL.|gēnběn ≈ « guenne-beune » ; la racine = fondamental|基本 = de base|这是根本的。|这是根本的|une racine
+81|一公斤|i, gong, djine|« I » GONG et un JEAN (« JIN ») sur la balance : UN KILO DE POMMES.|yì gōngjīn ≈ « i-gong-djine » ; la balance = un kilo de|一斤 = 500 g|一公斤苹果。|一公斤苹果|une balance
+82|过敏|guo, mine|Le GOGO (« GUO ») éternue sur des noix : MA FILLE EST ALLERGIQUE AUX NOIX (doublon de 78).|guòmǐn ≈ « guo-mine » ; doublon|过敏原 = allergène|我女儿对坚果过敏。|对坚果过敏|des noix
+83|挪威|nouo, ouei|Un NOUO (« NUO ») et un OUISTITI (« WEI ») dans un fjord : JE SUIS BLOQUÉ SUR LA CÔTE NORVÉGIENNE.|Nuówēi ≈ « nouo-ouei » ; le fjord = norvégien|挪威人 = Norvégien|我被困在挪威海岸。|挪威海岸|un fjord
+84|我想的那些|wo, siang, deu, na, sié|L'oiseau penseur montre DEUx filles au NAIN et à des SIÉ : LES FILLES AUXQUELLES JE PENSE.|wǒ xiǎng de nàxiē ≈ « wo-siang-deu-na-sié » ; doublon de 05|的 = relatif|我想的那些女孩。|我想的那些女孩|une bulle de pensée
+85|严|yienne|La YIENNE (« YAN ») fronce les sourcils : MA MÈRE EST SÉVÈRE (doublon de 67).|yán ≈ « yienne » ; doublon|严厉 = sévère|我妈妈很严。|我妈妈很严|une règle levée
+86|一模一样|i, mo, i, yang|« I » MOT et « I » YANG identiques : TA VOIX EST IDENTIQUE À CELLE DE TA MÈRE (doublon de 76).|yì mú yí yàng ≈ « i-mo-i-yang » ; doublon|一样 = pareil|你的声音和你妈妈的一模一样。|一模一样|deux bouches identiques
+87|吵|tchao|Un CHAT (« CHAO ») hurle dans un bar bondé : LE BAR EST BRUYANT.|chǎo ≈ « tchao » ; le haut-parleur = bruyant|安静 = calme|酒吧很吵。|酒吧很吵|un chat qui hurle
+88|太棒了|taï, bang, leu|Le TAÏ-chi, un BANG ! et un LEURRE : C'EST GÉNIAL ! (doublon d'adjectifs_2 36)|tài bàng le ≈ « taï-bang-leu » ; doublon|了不起 = formidable|太棒了！|太棒了|une explosion de joie
+89|关着|gouanne, djeu|Un GOUAILLEUR (« GUAN ») devant une porte close (« ZHE ») : LA PORTE EST FERMÉE.|guānzhe ≈ « gouane-jeu » ; la porte close = fermée|开着 = ouvert|门关着。|门关着|une porte close
+90|第六|di, lio|Un DIable et un LION (« LIU ») lèvent six doigts : LE SIXIÈME SENS.|dìliù ≈ « di-lio » ; les six doigts = sixième|六号 = n° 6|第六感。|第六感|six doigts levés
+91|红头发|hong, to, fa|Un HONG (« HONG ») rouge sur un TOTEM chevelu de FAkir : IL EST ROUX.|hóng tóufa ≈ « hong-to-fa » ; les cheveux rouges = roux|红 = rouge|他是红头发。|他是红头发|des cheveux rouges
+92|有礼貌|yo, li, mao|« YO ! » salue poliment un LIT et un MAOri qui s'inclinent : IL EST TRÈS POLI.|yǒu lǐmào ≈ « yo-li-mao » ; la révérence = poli|客气 = courtois|他很有礼貌。|他很有礼貌|une révérence
+93|现实|sienne, chie|Une SIENNE (« XIAN ») assise sur une CHAISE (« SHI ») bien réelle : SOIS RÉALISTE.|xiànshí ≈ « sienne-chi » ; les pieds sur terre = réaliste|实际 = concret|现实一点。|现实一点|des pieds sur terre
+94|逼真|bi, djeune|Une BILLE (« BI ») et un JEUNE (« ZHEN ») dessinés plus vrais que nature : UN DESSIN TRÈS RÉALISTE.|bīzhēn ≈ « bi-jeune » ; la toile plus vraie que nature = réaliste|真实 = vrai|一幅非常逼真的画。|非常逼真的画|une toile très réaliste
+95|脑|nao|Un NAO (« NAO ») cerveau qui s'éteint : FEMELLE, 26, MORT CÉRÉBRALE.|nǎo ≈ « nao » ; le cerveau = cérébral|大脑 = cerveau|嗯？第二个空中飞人……女性，二十六岁，脑死亡。|脑死亡|un cerveau qui s'éteint
+96|烦躁|fanne, dzao|Un FAN (« FAN ») tape du pied dans un ZAO (« ZAO ») : IL EST ÉNERVÉ.|fánzào ≈ « fane-dzao » ; le pied qui tape = énervé|生气 = en colère|他很烦躁。|他很烦躁|un pied qui tape
+97|烤|kao|Un KAOLIN (« KAO ») grille une brochette : J'AIME LA VIANDE GRILLÉE.|kǎo ≈ « kao » ; le grill = grillé|炸 = frit|我喜欢烤肉。|我喜欢烤肉|une brochette au grill
+98|残酷|tsanne, kou|Un TSAN (« CAN ») cruel et un COUCOU (« KU ») amer : LA VÉRITÉ EST AMÈRE.|cánkù ≈ « tsane-kou » ; la pilule amère = amère (vérité cruelle)|苦 = amer (goût)|真相是残酷的。|真相是残酷的|une pilule amère
+99|窄|djaille|Le DJAILLE (« ZHAI ») se faufile dans la ruelle : LA RUE EST ÉTROITE (doublon de 64).|zhǎi ≈ « djaille » ; doublon|狭窄 = étroit (écrit)|这条街很窄。|这条街很窄|une ruelle étroite

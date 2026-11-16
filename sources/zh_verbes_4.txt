@@ -1,0 +1,100 @@
+00|受伤|cho, chang|Un CHAUD (« SHOU ») CHAMEAU (« SHANG ») bandé : IL EST BLESSÉ.|shòushāng ≈ « cho-chang » ; le bandage = blesser (être blessé)|伤害 = blesser (faire du mal)|他受伤了。|他受伤了|un chameau bandé
+01|攻击|gong, dji|Un GONG résonne et un GÉNIE (« JI ») charge : ILS NOUS ATTAQUENT !|gōngjī ≈ « gong-dji » ; l'épée brandie = attaquer|打 = frapper|他们在攻击我们！|在攻击我们|un génie qui charge
+02|学|sué|Un SUÉdois (« XUE ») barbote avec une bouée : J'APPRENDS À NAGER.|xué ≈ « sué » ; le cahier = apprendre|学会 = maîtriser|我在学游泳。|学游泳|un suédois à la bouée
+03|负责|fou, dzeu|Un FOU (« FU ») porte un ZEU (« ZE ») de dossiers : JE M'OCCUPE DE TOUT.|fùzé ≈ « fou-dzeu » ; le trousseau de clés = s'occuper de|管 = gérer|一切由我负责。|一切由我负责|un fou chargé de dossiers
+04|管|gouanne|Un GOUAILLEUR (« GUAN ») retrousse ses manches : JE M'EN OCCUPE.|guǎn ≈ « gouane » ; les manches retroussées = s'occuper de|我来 = je m'en charge|这事我来管。|我来管|un gouailleur aux manches retroussées
+05|过得愉快|guo, deu, yu, kouaille|Un GOGO (« GUO ») DEUx fois souriant, un YOUYOU KOUAILLE : PASSE UNE BONNE JOURNÉE.|guò de yúkuài ≈ « guo-deu-yu-kouaille » ; le soleil souriant = passer une bonne journée|玩得开心 = amuse-toi bien|祝你今天过得愉快。|过得愉快|un soleil souriant
+06|怀孕|houaille, yune|Une HOUAILLE (« HUAI ») et une YOUNE (« YUN ») caressent un ventre rond : ELLE ATTEND UN ENFANT.|huáiyùn ≈ « houaille-yune » ; le ventre rond = attendre un enfant|有了 = elle en attend un (familier)|她怀孕了。|她怀孕了|un ventre rond
+07|恶心|eu, sine|« EUH… » : un SIGNE (« XIN ») vert sur le visage : J'AI MAL AU CŒUR.|ěxin ≈ « eu-sine » ; le visage vert = mal au cœur|想吐 = avoir envie de vomir|我觉得恶心。|我觉得恶心|un visage vert
+08|失去理智|chie, tchu, li, dji|Une CHAISE (« SHI ») perd (« QU ») son LIT et son GÉNIE (« LIZHI ») : NE PERDEZ PAS LA TÊTE.|shīqù lǐzhì ≈ « chi-tchu-li-dji » ; la tête qui s'envole = perdre la tête|发疯 = devenir fou|别失去理智。|别失去理智|une tête qui s'envole
+09|等|deng|Un DENTISTE (« DENG ») attend sur une chaise : J'ATTENDS UNE RÉPONSE.|děng ≈ « deng » ; le sablier = attendre|等待 = attendre (écrit)|我在等答复。|在等答复|un dentiste qui attend
+10|原谅|yuanne, liang|Une YOURTE (« YUAN ») et un LIANG serrent la main : PARDONNE-MOI (doublon de verbes_2 37).|yuánliàng ≈ « yuane-liang » ; doublon|饶 = épargner|原谅我。|原谅我|une main tendue
+11|过|guo|Un GOGO (« GUO ») mène une vie paisible en hamac : IL MÈNE UNE VIE TRANQUILLE.|guò ≈ « guo » ; le hamac = mener (une vie)|领导 = diriger|他过着平静的生活。|过着平静的生活|un gogo en hamac
+12|喊|hanne|Un HANNETON (« HAN ») crie dans un porte-voix : CRIE PAS !|hǎn ≈ « hane » ; le porte-voix = crier|叫 = appeler|别喊！|别喊|un hanneton au porte-voix
+13|想办法|siang, banne, fa|Un SIANGE sur un BANC de FAkir (« BANFA ») : JE TROUVERAI UN MOYEN DE LE REPRENDRE !|xiǎng bànfǎ ≈ « siang-bane-fa » ; doublon de verbes_2 10|找办法 = trouver un moyen|我会想办法把它夺回来！|想办法把它夺回来|un siange sur un banc
+14|成为|tcheng, ouei|Un CHÈQUE (« CHENG ») transforme un OUISTITI (« WEI ») en star : IL DEVINT CÉLÈBRE.|chéngwéi ≈ « tcheng-ouei » ; la chrysalide = devenir|变成 = se transformer en|他成为了名人。|成为了名人|une chrysalide
+15|受苦|cho, kou|Un CHAUD (« SHOU ») COUCOU (« KU ») gémit : IL SOUFFRE BEAUCOUP.|shòukǔ ≈ « cho-kou » ; la grimace = souffrir|痛苦 = douleur|他受了很多苦。|受了很多苦|un coucou qui gémit
+16|风险|feng, sienne|Le vent FENG pousse une SIENNE (« XIAN ») au bord du vide : TU RISQUES RIEN.|fēngxiǎn ≈ « feng-sienne » ; le précipice = le risque (risquer)|冒险 = prendre un risque|你没什么风险。|没什么风险|une sienne au bord du vide
+17|找|djao|Un JAGUAR (« ZHAO ») court te retrouver : JE TE REJOINS.|zhǎo ≈ « djao » ; la course vers qn = rejoindre (aller retrouver)|去找你 = aller te retrouver|我去找你。|我去找你|un jaguar qui court
+18|应得|ingue, deu|L'INGÉ GAI reçoit DEUx médailles : TU LE MÉRITES.|yīngdé ≈ « ingue-deu » ; la médaille = mériter|配 = être digne de|这是你应得的。|你应得的|une médaille
+19|吃完|tcheu, ouanne|Un TCHEU (« CHI ») vide son bol, OUAN ! : J'AI FINI DE MANGER.|chī wán ≈ « tcheu-ouane » ; le bol vide = finir de (manger)|做完 = finir de faire|我吃完了。|我吃完了|un bol vide
+20|对待|douei, daille|Une DOUILLE (« DUI ») traite mal un DAIM (« DAI ») : ME TRAITE PAS COMME ÇA.|duìdài ≈ « douei-daille » ; le geste brusque = traiter|处理 = traiter (affaire)|别这样对待我。|别这样对待我|une douille brusque
+21|住|djou|Un JOUJOU (« ZHU ») dans sa maison : OÙ T'HABITES ?|zhù ≈ « djou » ; la maison = habiter|住在 = habiter à|你住在哪儿？|你住在哪儿|un jouet dans une maison
+22|讨论|tao, louenne|Un TAOïste (« TAO ») et un LOUP (« LUN ») débattent à table : ON EN DISCUTE ?|tǎolùn ≈ « tao-louenne » ; la table ronde = discuter|聊 = bavarder|我们讨论一下？|讨论一下|une table ronde
+23|启动|tchi, dong|Un TCHI appuie et un gong « DONG ! » lance la machine : METS EN ROUTE LA MACHINE.|qǐdòng ≈ « tchi-dong » ; le bouton ON = mettre en route|开 = allumer|启动机器。|启动机器|un bouton ON
+24|争取时间|djeng, tchu, chie, djienne|Un gong « DJENG ! », un CHOU et une CHAISE retiennent un DIEN-sablier : ON GAGNE DU TEMPS.|zhēngqǔ shíjiān ≈ « djeng-tchu-chi-djienne » ; le sablier retenu = gagner du temps|拖延 = temporiser|我们在争取时间。|争取时间|un sablier retenu
+25|渴望|keu, ouang|Un KEU (« KE ») assoiffé regarde le roi WANG (« WANG ») : JE BRÛLAIS D'ENVIE DE VOUS VOIR.|kěwàng ≈ « keu-ouang » ; la langue pendante = mourir d'envie|很想 = avoir très envie|我很渴望见到你们。|渴望见到你们|une langue pendante
+26|签字|tchienne, dzeu|Une CHIENNE (« QIAN ») trempe sa patte et signe un ZEU (« ZI ») : SIGNE ICI.|qiānzì ≈ « tchienne-dzeu » ; le stylo = signer|签名 = signature|在这儿签字。|在这儿签字|une patte qui signe
+27|证明|djeng, ming|Un gong « DJENG ! » et une lampe MING sur la preuve : PROUVE-LE !|zhèngmíng ≈ « djeng-ming » ; la lampe sur la preuve = prouver|证据 = preuve|证明给我看！|证明给我看|une lampe sur une preuve
+28|出生|tchou, cheng|Un CHOU (« CHU ») sort d'un CHÊNE (« SHENG ») : JE SUIS NÉ À PARIS.|chūshēng ≈ « tchou-cheng » ; le berceau = naître|生 = naître (court)|我出生在巴黎。|出生在巴黎|un berceau dans un chêne
+29|创立|tchouang, li|Un CHOUAN (« CHUANG ») pose la première pierre sur un LIT (« LI ») : IL A CRÉÉ SON ENTREPRISE.|chuànglì ≈ « tchouang-li » ; la première pierre = créer|创造 = créer (inventer)|他创立了自己的公司。|创立了自己的公司|une première pierre
+30|烫|tang|Un TANGO (« TANG ») sur une plaque brûlante : ATTENTION, ÇA BRÛLE ! (doublon d'adjectifs_3 25)|tàng ≈ « tang » ; doublon|烧 = brûler (feu)|小心，烫！|小心，烫|un tango sur une plaque
+31|感激|ganne, dji|Un GANT (« GAN ») serre la main d'un GÉNIE (« JI ») : J'APPRÉCIE TON AIDE.|gǎnjī ≈ « gane-dji » ; la main sur le cœur = apprécier (être reconnaissant)|欣赏 = apprécier (goût)|我很感激你的帮助。|感激你的帮助|une main sur le cœur
+32|看着…眼睛|kanne, djeu, yienne, djing|La longue-vue (« KAN ») fixe une YIENNE aux yeux de GINGEMBRE : REGARDE-MOI EN FACE.|kànzhe … yǎnjing ≈ « kane-jeu-yienne-djing » ; les yeux dans les yeux = regarder dans les yeux|盯着 = fixer|看着我的眼睛。|看着我的眼睛|des yeux dans les yeux
+33|避免|bi, mienne|Une BILLE (« BI ») évite un MIEN (« MIAN ») sur la route : ÉVITE DE DIRE ÇA.|bìmiǎn ≈ « bi-mienne » ; le slalom = éviter|别 = ne… pas|避免说那种话。|避免说那种话|une bille qui slalome
+34|拿回|na, houei|Un NAIN (« NA ») reprend son sac en boomerang (« HUI ») : JE VIENS RÉCUPÉRER MES AFFAIRES.|ná huí ≈ « na-houei » ; le sac qui revient = récupérer|取回 = reprendre|我来拿回我的东西。|拿回我的东西|un sac en boomerang
+35|前进|tchienne, djine|Une CHIENNE (« QIAN ») et un JEAN (« JIN ») piétinent : ON AVANCE PAS.|qiánjìn ≈ « tchienne-djine » ; la flèche en avant = avancer|进展 = progrès|我们没有前进。|没有前进|une flèche en avant
+36|一起吃晚饭|i, tchi, tcheu, ouanne, fanne|« I » TCHI, un TCHEU, un OUANNE et un FAN autour d'une table : NOUS DÎNERONS ENSEMBLE.|yìqǐ chī wǎnfàn ≈ « i-tchi-tcheu-ouane-fane » ; la table pour deux = dîner ensemble|共进晚餐 = dîner ensemble (écrit)|我们一起吃晚饭。|一起吃晚饭|une table pour deux
+37|溜|lio|Un LION (« LIU ») file en douce : JE DOIS FILER.|liū ≈ « lio » ; la fuite = s'échapper|逃跑 = s'enfuir|我得溜了。|我得溜了|un lion qui file
+38|炒鱿鱼|tchao, yo, yu|Un CHAT (« CHAO ») fait sauter un calamar (« YOUYU ») au wok : IL S'EST FAIT VIRER.|chǎo yóuyú ≈ « tchao-yo-yu » ; le calamar sauté = se faire virer (argot)|开除 = renvoyer|他被炒鱿鱼了。|被炒鱿鱼了|un calamar au wok
+39|给…解释|gueille, djié, chie|Un GUEILLE (« GEI ») tend un JET au tableau (« JIESHI ») : EXPLIQUE-MOI ÇA.|gěi qn jiěshì ≈ « gueille-djié-chi » ; doublon de verbes_2 83|讲讲 = raconte|给我解释一下。|给我解释一下|un jet au tableau
+40|重复|tchong, fou|Un TCHONG (« CHONG ») répète au FOU (« FU ») : TU PEUX RÉPÉTER ?|chóngfù ≈ « tchong-fou » ; le perroquet = répéter|再说一遍 = redis|你能重复一下吗？|重复一下|un perroquet
+41|帮把手|bang, ba, cho|Un BANG ! et un BAobab tendent un CHAUD (« SHOU ») bras : ET DONNE UN COUP DE MAIN.|bāng bǎ shǒu ≈ « bang-ba-cho » ; la main tendue = donner un coup de main|帮忙 = aider|过来帮把手。|帮把手|une main tendue
+42|过夜|guo, yé|Un GOGO (« GUO ») dit « YÉ ! » sous la lune : C'EST ICI QU'ELLE PASSE SES NUITS ? (doublon de verbes_2 65)|guòyè ≈ « guo-yé » ; doublon|待 = rester|她就是在这儿过夜的吗？|在这儿过夜的吗|un sac de couchage
+43|意识到|i, chie, d'ao|« I ! » : une CHAISE (« SHI ») s'éclaire quand la bulle D'AO arrive : JE ME RENDS COMPTE DE L'ERREUR.|yìshi dào ≈ « i-chi-dao » ; l'ampoule = se rendre compte|发现 = découvrir|我意识到了错误。|意识到了错误|une ampoule qui s'allume
+44|装|djouang|Un JOUANG (« ZHUANG ») empile les valises : CHARGE LA VOITURE.|zhuāng ≈ « djouang » ; le coffre plein = charger|充电 = charger (batterie)|把车装满。|把车装满|un coffre plein
+45|饿|eu|« EUH… » gargouille un ventre : J'AI FAIM (doublon de noms_3 90).|è ≈ « eu » ; doublon|饿了 = avoir faim|我饿了。|我饿了|un ventre qui gargouille
+46|闭嘴|bi, dzouei|Une BILLE (« BI ») bouche un ZOUAVE (« ZUI ») : TAIS-TOI !|bì zuǐ ≈ « bi-dzouei » ; la bouche cousue = se taire|安静 = silence|闭嘴！|闭嘴|une bouche cousue
+47|看着|kanne, djeu|Une longue-vue (« KAN ») braquée sur des enfants (« ZHE ») : SURVEILLE LES ENFANTS.|kànzhe ≈ « kane-jeu » ; l'œil vigilant = surveiller|照看 = garder|看着孩子们。|看着孩子们|un œil vigilant
+48|生气|cheng, tchi|Un CHÊNE (« SHENG ») qui fume (« QI ») : JE SUIS EN COLÈRE (doublon d'adjectifs_2 92).|shēngqì ≈ « cheng-tchi » ; doublon|发火 = s'emporter|我很生气。|我很生气|un chêne qui fume
+49|习惯|si, gouanne|Un SIGNE (« XI ») répété par un GOUAILLEUR : J'AI L'HABITUDE (doublon de noms_4 17).|xíguàn ≈ « si-gouane » ; doublon|惯了 = habitué|我习惯了。|我习惯了|une boucle
+50|觉得|djué, deu|Un JURÉ (« JUE ») DEUx fois soupçonneux : J'AI L'IMPRESSION QUE TU MENS.|juéde ≈ « djué-deu » ; doublon de verbes_3 11|感觉 = sentir|我觉得你在撒谎。|我觉得你在撒谎|un juré soupçonneux
+51|意识到|i, chie, d'ao|« I ! » : la CHAISE et la bulle D'AO vide : IL NE SE REND PAS COMPTE… (doublon de 43)|yìshi dào ≈ « i-chi-dao » ; doublon de 43|明白 = comprendre|他没意识到……|他没意识到|une ampoule éteinte
+52|在乎|dzaille, hou|Le serveur (« ZAI ») serre un HOU ! contre son cœur : JE TIENS À TOI.|zàihu ≈ « dzaille-hou » ; le cœur serré = tenir à|关心 = se soucier de|我在乎你。|我在乎你|un cœur serré
+53|祝|djou|Un JOUJOU (« ZHU ») tend un trèfle : JE TE SOUHAITE BONNE CHANCE.|zhù ≈ « djou » ; le trèfle offert = souhaiter|希望 = espérer|祝你好运。|祝你好运|un trèfle offert
+54|发|fa|Un FAkir envoie un message par pigeon : ENVOIE-MOI UN MESSAGE.|fā ≈ « fa » ; l'avion en papier = envoyer|寄 = envoyer (poste)|给我发个消息。|给我发个消息|un avion en papier
+55|要|yao|Un YAOURT tendu à toi pour que tu viennes : JE VEUX QUE TU VIENNES.|yào qn + verbe ≈ « yao » ; doublon de base|想让 = vouloir que|我要你来。|我要你来|un yaourt tendu
+56|预报|yu, bao|Un YOUYOU (« YU ») et un BAObab sous un nuage de pluie : ILS PRÉVOIENT DE LA PLUIE.|yùbào ≈ « yu-bao » ; la carte météo = prévoir|计划 = planifier|预报有雨。|预报有雨|une carte météo
+57|留言|lio, yienne|Un LION (« LIU ») laisse une YIENNE sur le répondeur : A-T-IL LAISSÉ UN MESSAGE ? (doublon de noms_3 34)|liúyán ≈ « lio-yienne » ; doublon|留话 = laisser un mot|他留言了吗？|他留言了吗|un répondeur
+58|成为朋友|tcheng, ouei, pong, yo|Un CHÈQUE (« CHENG ») réunit un OUISTITI et un PONGiste « YO ! » : VOUS ÊTES DEVENUS AMIS ?|chéngwéi péngyou ≈ « tcheng-ouei-pong-yo » ; la poignée de main = devenir amis|交朋友 = se faire des amis|你们成为朋友了吗？|成为朋友了吗|une poignée de main
+59|继续|dji, su|Le GÉNIE (« JI ») avale un SUcre et tourne la page : CONTINUE À LIRE (doublon de verbes_2 15).|jìxù ≈ « dji-su » ; doublon|接着 = poursuivre|继续读。|继续读|un génie qui tourne la page
+60|实现|chie, sienne|Une CHAISE (« SHI ») s'élève vers une SIENNE (« XIAN ») étoilée : IL A RÉALISÉ SON RÊVE.|shíxiàn ≈ « chi-sienne » ; l'étoile attrapée = réaliser|完成 = accomplir|他实现了梦想。|实现了梦想|une étoile attrapée
+61|试|chie|Une CHAISE (« SHI ») lance un dé : TENTE TA CHANCE.|shì ≈ « chi » ; le dé lancé = tenter|尝试 = essayer|试试你的运气。|试试你的运气|un dé lancé
+62|盖|gaille|Un GAI (« GAI ») drapé dans une couverture : COUVRE-TOI, IL FAIT FROID.|gài ≈ « gaille » ; la couverture = couvrir|穿暖 = s'habiller chaudement|穿暖和点，天冷。|穿暖和点|un gai drapé
+63|开玩笑|kaï, ouanne, siao|Un KAYAK (« KAI ») fait rire un OUANNE et un SIAMOIS (« WANXIAO ») : JE PLAISANTE !|kāi wánxiào ≈ « kaï-ouane-siao » ; le nez rouge = plaisanter|逗 = taquiner|我开玩笑的！|我开玩笑的|un nez rouge
+64|分享|fenne, siang|Un FENNEC (« FEN ») partage avec un SIANGE (« XIANG ») : ON PARTAGE LA PIZZA.|fēnxiǎng ≈ « fenne-siang » ; la pizza coupée = partager|分 = diviser|我们分享这个披萨。|分享这个披萨|une pizza coupée
+65|注意到|djou, i, d'ao|Un JOUJOU (« ZHU ») dit « I ! » quand la bulle D'AO apparaît : T'AS REMARQUÉ ?|zhùyì dào ≈ « djou-i-dao » ; l'œil écarquillé = remarquer|发现 = découvrir|你注意到了吗？|注意到了吗|un œil écarquillé
+66|快走|kouaille, dzo|Un KOUAILLE (« KUAI ») et un ZO filent : FILE, ON T'ATTEND !|kuài zǒu ≈ « kouaille-dzo » ; les pieds qui filent = filer|赶紧 = vite|快走，我们在等你！|快走|des pieds qui filent
+67|休息|siou, si|Un SIOUX (« XIU ») fait un SIGNE (« XI ») de pause dans un hamac : REPOSE-TOI UN PEU.|xiūxi ≈ « siou-si » ; le hamac = se reposer|歇 = se poser|休息一下。|休息一下|un sioux dans un hamac
+68|放回|fang, houei|Une FANGE (« FANG ») revient en boomerang (« HUI ») : REPOSE ÇA À SA PLACE (doublon de verbes_3 35).|fàng huí ≈ « fang-houei » ; doublon|归位 = remettre en place|把它放回原处。|放回原处|une fange en boomerang
+69|早到|dzao, d'ao|Le ZAO (« ZAO ») arrive (« DAO ») en premier : JE SUIS EN AVANCE (doublon d'adverbes_3 64).|zǎo dào ≈ « dzao-dao » ; doublon|提前到 = arriver en avance|我早到了。|我早到了|une salle vide
+70|打赌|da, dou|Un DAuphin et un DOUanier (« DU ») se tapent dans la main : JE PARIE QUE TU AS RAISON.|dǎdǔ ≈ « da-dou » ; la main tapée = parier|赌 = jouer (argent)|我打赌你是对的。|我打赌你是对的|deux mains qui se tapent
+71|忘了|ouang, leu|Le roi WANG (« WANG ») oublie la porte ouverte, un LEURRE : J'AI OUBLIÉ DE FERMER.|wàng le ≈ « ouang-leu » ; le nœud défait = oublier|忘记 = oublier (écrit)|我忘了关门。|我忘了关门|un roi distrait
+72|抽烟|tcho, yienne|Un CHAUD (« CHOU ») cigare et une YIENNE de fumée : IL FUME TROP.|chōuyān ≈ « tcho-yienne » ; la cigarette = fumer|吸烟 = fumer (écrit)|他抽烟抽得太多了。|抽烟抽得太多了|une cigarette fumante
+73|后悔|ho, houei|« HO ! » soupire un boomerang (« HUI ») qui ne revient pas : JE REGRETTE RIEN.|hòuhuǐ ≈ « ho-houei » ; le rétroviseur = regretter|遗憾 = dommage|我什么都不后悔。|什么都不后悔|un boomerang perdu
+74|站着|djanne, djeu|Un GENDARME (« ZHAN ») debout depuis l'aube (« ZHE ») : JE SUIS DEBOUT DEPUIS SIX HEURES.|zhànzhe ≈ « djane-jeu » ; le pied planté = être debout|起来 = se lever|我从六点就一直站着。|一直站着|un gendarme debout
+75|呼吸|hou, si|Un HOU ! d'inspiration et un SIGNE (« XI ») d'expiration : RESPIRE !|hūxī ≈ « hou-si » ; les poumons = respirer|吸气 = inspirer|呼吸！|呼吸|des poumons
+76|重新开始|tchong, sine, kaï, chie|Un TCHONG (« CHONG »), un SIGNE neuf, un KAYAK et une CHAISE repartent : ON RECOMMENCE TOUT.|chóngxīn kāishǐ ≈ « tchong-sine-kaï-chi » ; la flèche circulaire = recommencer|再来 = encore une fois|我们全部重新开始。|全部重新开始|une flèche circulaire
+77|靠着|kao, djeu|Un KAOLIN (« KAO ») adossé (« ZHE ») au mur : METS-TOI LE LONG DU MUR.|kàozhe ≈ « kao-jeu » ; le dos au mur = se mettre le long de|沿着 = le long de|靠着墙站。|靠着墙站|un dos au mur
+78|赶出去|ganne, tchou, tchu|Un GANT (« GAN ») pousse dehors un CHOU (« CHUQU ») : LE PATRON L'A MIS À LA PORTE DU BAR.|gǎn chūqu ≈ « gane-tchou-tchu » ; la porte claquée = mettre à la porte|轰走 = chasser|老板把他赶出了酒吧。|把他赶出了酒吧|une porte claquée
+79|开除|kaï, tchou|Un KAYAK (« KAI ») éjecte un CHOU (« CHU ») de l'école : IL S'EST FAIT VIRER DE L'ÉCOLE.|kāichú ≈ « kaï-tchou » ; le tampon « renvoyé » = virer|炒鱿鱼 = virer (argot)|他被学校开除了。|被学校开除了|un tampon « renvoyé »
+80|过|guo|Un GOGO (« GUO ») traverse sur le passage piéton : TRAVERSE LA RUE.|guò ≈ « guo » ; le passage piéton = traverser|穿过 = passer à travers|过马路。|过马路|un passage piéton
+81|猜|tsaille|Un TSAILLE (« CAI ») les yeux bandés : DEVINE QUI EST LÀ !|cāi ≈ « tsaille » ; doublon de verbes_3 26|猜猜 = devine|猜猜谁来了！|猜猜谁来了|des yeux bandés
+82|做饭|dzwo, fanne|Un ZORRO (« ZUO ») au wok avec un FAN (« FAN ») : JE FAIS LA CUISINE CE SOIR.|zuòfàn ≈ « dzwo-fane » ; le wok = faire la cuisine|烧菜 = cuisiner (plats)|今晚我做饭。|今晚我做饭|un zorro au wok
+83|受不了|cho, bou, liao|Un CHAUD (« SHOU ») BOUc se bouche les oreilles devant un LION (« LIAO ») qui rugit : JE SUPPORTE PAS LE BRUIT.|shòu bu liǎo ≈ « cho-bou-liao » ; les oreilles bouchées = ne pas supporter|忍 = endurer|我受不了噪音。|受不了噪音|des oreilles bouchées
+84|陪|peille|Un PEILLE (« PEI ») marche bras dessus bras dessous : JE T'ACCOMPAGNE.|péi ≈ « peille » ; le bras dessus = accompagner|送 = raccompagner|我陪你。|我陪你|deux bras liés
+85|偷|to|Un TOTEM (« TOU ») file avec un portable : ON M'A VOLÉ MON PORTABLE (doublon de verbes_2 40).|tōu ≈ « to » ; doublon|被偷 = se faire voler|我的手机被偷了。|手机被偷了|un totem masqué
+86|逃|tao|Un TAOïste (« TAO ») s'enfuit à toutes jambes : IL A FUI.|táo ≈ « tao » ; la fuite = fuir|跑 = courir|他逃走了。|他逃走了|un taoïste qui fuit
+87|管理|gouanne, li|Un GOUAILLEUR (« GUAN ») dirige depuis un LIT (« LI ») de bureau : IL DIRIGE L'ENTREPRISE.|guǎnlǐ ≈ « gouane-li » ; la cravate = diriger|领导 = diriger (personnes)|他管理这家公司。|管理这家公司|un gouailleur cravaté
+88|等一下|deng, i, sia|Un DENTISTE (« DENG ») lève « I » doigt : ATTENDEZ UN PEU ! (doublon de verbes_3 56)|děng yíxià ≈ « deng-i-sia » ; doublon|等等 = attends|等一下！|等一下|un doigt levé
+89|换话题|houanne, houa, ti|HOUANNE échange une fleur (« HUA ») et tire (« TI ») une autre : BIEN, CHANGEONS DE SUJET.|huàn huàtí ≈ « houane-houa-ti » ; la bulle échangée = changer de sujet|说别的 = parler d'autre chose|好吧，我们换个话题。|换个话题|une bulle échangée
+90|放下|fang, sia|Une FANGE (« FANG ») descend (« XIA ») un fusil au sol : POSE TON FUSIL !|fàngxià ≈ « fang-sia » ; la main qui dépose = poser|放 = mettre|放下你的枪！|放下你的枪|un fusil posé
+91|卖给|maille, gueille|Un MAÏS (« MAI ») vendu à un GUEILLE (« GEI ») : IL M'A VENDU SA VOITURE.|mài gěi ≈ « maille-gueille » ; la clé tendue = vendre à|卖 = vendre|他把车卖给了我。|把车卖给了我|une clé tendue
+92|放了|fang, leu|Une FANGE (« FANG ») ouvre la cage, un LEURRE s'envole : LIBÉREZ-LE !|fàng le ≈ « fang-leu » ; la cage ouverte = libérer|释放 = libérer (écrit)|把他放了！|把他放了|une cage ouverte
+93|好闻|hao, ouenne|« HAO ! » crie un OUISTITI (« WEN ») qui renifle une fleur : ÇA SENT BON !|hǎowén ≈ « hao-ouenne » ; le nez dans la fleur = sentir bon|香 = parfumé|真好闻！|真好闻|un nez dans une fleur
+94|多少钱|dwo, chao, tchienne|Un DUO, un CHAT (« SHAO ») et une CHIENNE (« QIAN ») devant l'étiquette : COMBIEN ÇA COÛTE ?|duōshao qián ≈ « dwo-chao-tchienne » ; l'étiquette = coûter|贵 = cher|这个多少钱？|多少钱|une étiquette
+95|疯|feng|Le vent FENG (« FENG ») ébouriffe un fou : JE VAIS DEVENIR FOU !|fēng ≈ « feng » ; les cheveux en bataille = devenir fou|疯了 = devenu fou|我要疯了！|我要疯了|des cheveux en bataille
+96|保护|bao, hou|Le BAObab (« BAO ») fait « HOU ! » devant son ami : IL DÉFEND SON AMI (doublon de verbes_3 23).|bǎohù ≈ « bao-hou » ; doublon|维护 = défendre (cause)|他保护他的朋友。|保护他的朋友|un baobab protecteur
+97|回到…上|houei, d'ao, chang|Un boomerang (« HUI ») ramène (« DAO ») un CHAMEAU (« SHANG ») dans la voiture : REMONTE DANS LA VOITURE.|huídào … shàng ≈ « houei-dao-chang » ; la portière = remonter|再上 = remonter|回到车上去。|回到车上去|un chameau qui remonte
+98|雇|gou|Un GOUrou (« GU ») tend un contrat : ILS M'ONT ENGAGÉ.|gù ≈ « gou » ; le contrat = engager|招聘 = recruter|他们雇了我。|他们雇了我|un gourou au contrat
+99|建|djienne|Un DIEN (« JIAN ») pose des briques : ILS CONSTRUISENT UNE MAISON.|jiàn ≈ « djienne » ; la brique = construire|盖 = bâtir (maison)|他们在建房子。|在建房子|un dien aux briques

@@ -1,0 +1,100 @@
+00|在流血|dzaille, lio, sué|Le serveur, le LION et le SUÉ rouge : ELLE SAIGNE (en saignant).|zài liúxuè ≈ « dzaille-lio-sué » ; « en saignant » = 在 + 流血|出血 = saigner|她在流血。|她在流血|une goutte rouge
+01|报告|bao, gao|Le BAOBAB et le GAUCHO tamponnent : TOUS LES RAPPORTS SE CONFIRMENT (rapporté).|bàogào ≈ « bao-gao » ; « rapporté (rapport) » = 报告|汇报 = rendre compte|所有报告都相互印证。|所有报告都相互印证|une pile de rapports
+02|旅行|lu, sing|Le LU et le SINGE en chemin : JUSQUE-LÀ, LES TROIS PRINCES ONT VOYAGÉ DE CONSERVE.|lǚxíng ≈ « lu-sing » ; « voyagé » = 旅行|出行 = se déplacer|到那时为止，三位王子一直结伴旅行。|三位王子一直结伴旅行|une valise
+03|发脾气|fa, pi, tchi|Le FARE, le PIPEAU et le TCHI explosent : DÉSOLÉ, J'AI PERDU MON CALME (hurlé).|fā píqi ≈ « fa-pi-tchi » ; « s'emporter » = 发脾气|喊 = crier|对不起，我刚才发脾气了。|我刚才发脾气了|une marmite qui déborde
+04|要是……出事|yao, cheu, tchou, cheu|Le YAOURT sur la CHAISE, le TCHOU et la CHAISE renversée : QUE FERAI-JE S'IL T'ARRIVAIT MALHEUR ?|yàoshi… chūshì ≈ « yao-chi-tchou-chi » ; « s'il arrivait (malheur) » = 要是……出事|如果 = si|要是你出事了，我怎么办？|要是你出事了|un nuage noir
+05|看看她|kanne, kanne, ta|Deux CANONS fixent un TA : REGARDE (-LA) UNE DERNIÈRE FOIS, SPARTACUS.|kànkan tā ≈ « kane-kane-ta » ; le pronom collé = 她|看她 = la regarder|最后再看看她吧，斯巴达克斯。|最后再看看她吧|un dernier regard
+06|都好笑|dou, hao, siao|Le DOUdou, le HAUT et le SIAMOIS rient : LES BLAGUES NE PEUVENT PAS TOUTES ÊTRE BONNES (venir).|dōu hǎoxiào ≈ « dou-hao-siao » ; « (pas) toutes bonnes » = 不可能都好笑|好玩 = amusant|笑话不可能都好笑。|笑话不可能都好笑|un clown triste
+07|收留|cho, lio|Une main CHAUDE et le LION accueillent : M'ACCEPTEZ-VOUS SOUS VOTRE TOIT ? (tu porteras).|shōuliú ≈ « cho-lio » ; « accueillir (sous son toit) » = 收留|接受 = accepter|您愿意收留我吗？|您愿意收留我吗|un toit
+08|不让|bou, rang|Le BOUc barre le RANG : VOUS VOULEZ DIRE QU'IL VOUS EMPÊCHE DE PARTIR ?|bú ràng ≈ « bou-rang » ; « empêcher » = 不让|阻止 = empêcher|你是说他不让你走？|你是说他不让你走|une porte verrouillée
+09|吃饭|tcheu, fanne|Le TCHEU et le FAN à table : NOUS MANGEONS À HUIT HEURES.|chīfàn ≈ « tcheu-fane » ; « manger (le repas) » = 吃饭|吃 = manger|我们八点吃饭。|我们八点吃饭|un bol de riz
+10|得先吃饭|deille, sienne, tcheu, fanne|Le DEILLE, la SIENNE, le TCHEU et le FAN : IL FAUT QUE NOUS MANGIONS AVANT DE PARTIR.|děi xiān chīfàn ≈ « deille-sienne-tcheu-fane » ; subjonctif = 得|先 = d'abord|我们走之前得先吃饭。|我们走之前得先吃饭|une horloge et un bol|děi xiān chīfàn
+11|不说话|bou, chouo, houa|Le BOUc, le CHOUchou et le HOUA muets : POURQUOI TU TE TAIS ?|bù shuōhuà ≈ « bou-chouo-houa » ; « se taire » = 不说话|沉默 = silence|你怎么不说话？|你怎么不说话|une bouche fermée
+12|闭嘴|bi, dzouei|La BILLE ferme le ZOUEI : TAIS-TOI, VIEILLE FOLLE.|bìzuǐ ≈ « bi-dzouei » ; « tais-toi ! » = 闭嘴|安静 = silence|闭嘴，你这个老疯子。|闭嘴，你这个老疯子|une fermeture éclair sur la bouche
+13|表现得|biao, sienne, deu|Le BIAO, la SIENNE et le DEU en culottes courtes : TU TE COMPORTES COMME UN ENFANT (doublon de formes_12 25).|biǎoxiàn de ≈ « biao-sienne-deu » ; doublon|像 = comme|你表现得像个孩子。|你表现得像个孩子|une sucette
+14|怎么做|dzenne, meu, dzouo|Le ZEN, le MEU et ZORRO perplexes : COMMENT VEUX-TU QUE JE ME COMPORTE ?|zěnme zuò ≈ « dzene-meu-dzouo » ; subjonctif = 你要我怎么做|表现 = se comporter|你要我怎么做？|你要我怎么做|un point d'interrogation
+15|做饭|dzouo, fanne|ZORRO et le FAN aux fourneaux : IL PRÉPARE LE DÎNER.|zuò fàn ≈ « dzouo-fane » ; « préparer (le repas) » = 做饭|准备 = préparer|他在做晚饭。|他在做晚饭|une poêle
+16|收拾|cho, cheu|Une main CHAUDE et la CHAISE plient : PRÉPARE TES VALISES !|shōushi ≈ « cho-chi » ; « préparer (ranger ses affaires) » = 收拾|整理 = ranger|收拾你的行李！|收拾你的行李|une valise ouverte
+17|开心|kaï, sine|Le CAÏD et le SIGNE soulevés : C'EST CURIEUX, MAIS JE SUIS VRAIMENT HEUREUX (élevé).|kāixīn ≈ « kaï-sine » ; « heureux (le cœur soulevé) » = 开心|高兴 = content|真奇怪，可我真的很开心。|可我真的很开心|un ballon
+18|找不到|djao, bou, dao|Le JAGUAR, le BOUc et le DAO cherchent en vain : ON NE LES TROUVE PAS (doublon de formes_7 72).|zhǎo bu dào ≈ « djao-bou-dao » ; doublon|找到 = trouver|我们找不到他们。|我们找不到他们|une loupe
+19|信得过|sine, deu, gouo|Le SIGNE, le DEU et le GUO fiables : NE PEUT-ON FAIRE CONFIANCE À PERSONNE ICI ?|xìn de guò ≈ « sine-deu-gouo » ; « (pouvoir) faire confiance » = 信得过|信任 = confiance|这里就没有一个信得过的人吗？|这里就没有一个信得过的人吗|une main tendue
+20|在创作|dzaille, tchouang, dzouo|Le serveur, le CHOUANG et ZORRO à l'atelier : J'AI BEAUCOUP À FAIRE. JE CRÉE.|zài chuàngzuò ≈ « dzaille-tchouang-dzouo » ; « en créant » = 在创作|创造 = créer|我很忙。我在创作。|我在创作|une palette
+21|懂得|dong, deu|Le gong et le DEU sages : IL FAUT SAVOIR PERDRE, PARFOIS.|dǒngde ≈ « dong-deu » ; « savoir (faire) » = 懂得|会 = savoir|有时候得懂得输。|有时候得懂得输|un drapeau blanc
+22|逃跑了|tao, pao, leu|Le TAO, le PAOn et « LE ! » filent : ILS SE SONT ÉCHAPPÉS ! (doublon de formes_6 62).|táopǎo le ≈ « tao-pao-leu » ; doublon (pluriel)|溜了 = filé|他们逃跑了！|他们逃跑了|des traces
+23|回|houei|Le boomerang revient en Italie : IL RETOURNE EN ITALIE CHAQUE ÉTÉ.|huí ≈ « houei » ; « retourner » = 回|返回 = rentrer|他每年夏天都回意大利。|他每年夏天都回意大利|un boomerang
+24|回到|houei, dao|Le boomerang revient au DAO : RETOURNE À TA PLACE ! (doublon de formes_4 95).|huídào ≈ « houei-dao » ; doublon (impératif)|回去 = retourne|回到你的位子上去！|回到你的位子上去|une chaise
+25|开枪|kaï, tsiang|Le CAÏD et la TSIANG font feu : VOUS TIREZ SUR TOUT CE QUI BOUGE (doublon de formes_8 26).|kāiqiāng ≈ « kaï-tsiang » ; doublon (vous)|射击 = tirer|你们见什么动就朝什么开枪。|你们见什么动就朝什么开枪|un revolver
+26|拉|la|Le LAMA tire la bâche : TIREZ SUR LA BÂCHE ! (doublon de noms_25 00).|lā ≈ « la » ; « tirer (vers soi) » = 拉|拽 = tirer fort|拉篷布！|拉篷布|une corde
+27|耐|naï|La NAÏADE supporte la chaleur : TU RÉSISTES BIEN À LA CHALEUR.|nài ≈ « naï » ; « résister (à) » = 耐 / 受得了|受得了 = supporter|你挺耐热的。|你挺耐热的|un soleil
+28|坚持住|djienne, tcheu, djou|Le DJINN, le TCHEU et le JOUjou s'accrochent : RÉSISTE, LES SECOURS ARRIVENT !|jiānchí zhù ≈ « djienne-tcheu-djou » ; « résiste ! » = 坚持住|挺住 = tiens bon|坚持住，救援来了！|坚持住，救援来了|une main agrippée
+29|出现|tchou, sienne|Le TCHOU et la SIENNE apparaissent : DES AFFAIRES POURRAIENT SE PRÉSENTER (doublon de formes_12 87).|chūxiàn ≈ « tchou-sienne » ; doublon|有 = y avoir|可能会出现一些生意。|可能会出现一些生意|une porte entrouverte
+30|说梦话|chouo, meng, houa|Le CHOUchou, le MONGOL et le HOUA dans le sommeil : CETTE NUIT ENCORE, TU PARLAIS EN RÊVANT.|shuō mènghuà ≈ « chouo-meng-houa » ; « parler en dormant » = 说梦话|做梦 = rêver|昨晚你又说梦话了。|昨晚你又说梦话了|une bulle de nuit
+31|还是来了|haï, cheu, laï, leu|La HAIE, la CHAISE, la LAIE et « LE ! » malgré tout : LES CLANDESTINES SONT VENUES TOUT DE MÊME.|háishi lái le ≈ « haï-chi-laï-leu » ; « venues (malgré tout) » = 还是来了|来了 = venues|那些偷渡的女人还是来了。|那些偷渡的女人还是来了|des valises
+32|在聊|dzaille, liao|Le serveur et le LIAO bavardent : NOUS PARLIONS DE LA MÈRE DE MANUELA.|zài liáo ≈ « dzaille-liao » ; l'imparfait continu = 在 + 聊|谈 = parler|我们在聊曼努埃拉的妈妈。|我们在聊曼努埃拉的妈妈|deux tasses
+33|拦不住|lanne, bou, djou|Le LANNE, le BOUc et le JOUjou impuissants : RIEN NE POURRAIT M'EN EMPÊCHER (doublon de formes_11 42).|lán bu zhù ≈ « lane-bou-djou » ; doublon|阻止 = empêcher|什么都拦不住我。|什么都拦不住我|un barrage rompu
+34|结婚|djié, houenne|Le JET et le HOUENNE après Noël : ON SE MARIE JUSTE APRÈS NOËL (doublon de formes_7 09).|jiéhūn ≈ « djié-houene » ; doublon (nous)|办婚礼 = célébrer|我们圣诞节一过就结婚。|我们圣诞节一过就结婚|un sapin et une alliance
+35|要用|yao, yong|Le YAOURT et le YONG au labo : ON VA UTILISER LE RÉFRIGÉRATEUR ET L'INCUBATEUR DU DR MILLER (doublon de noms_24 95).|yào yòng ≈ « yao-yong » ; futur proche = 要|会用 = utiliserons|我们要用米勒医生的冷藏柜和培养箱。|我们要用米勒医生的冷藏柜和培养箱|une armoire froide
+36|拦住您|lanne, djou, nine|Le LANNE et le JOUjou barrent la NINE polie : MÊME SI JE NE VOUS ARRÊTE PAS, D'AUTRES LE FERONT.|lánzhù nín ≈ « lane-djou-nine » ; le pronom collé = 您|阻止 = empêcher|就算我不拦住您，别人也会的。|就算我不拦住您|une main levée
+37|失去|cheu, tchu|La CHAISE et le TCHU au vent : OU TU VAS PERDRE FRANK ET SES FAVORIS ! (doublon de formes_3 30).|shīqù ≈ « chi-tchu » ; doublon|丢 = perdre|不然你会失去弗兰克和他的宠儿们！|不然你会失去弗兰克|une main qui lâche
+38|弄错了|nong, tsouo, leu|Le NONG, le TSO et « LE ! » barrés : VOUS VOUS TROMPEZ, TOUT EST VIDE.|nòngcuò le ≈ « nong-tsouo-leu » ; « se tromper » = 弄错|搞错 = se tromper|你们弄错了，里面全是空的。|你们弄错了|une boîte vide
+39|走错路|dzo, tsouo, lou|Le ZO, le TSO et le LOUP au mauvais embranchement : J'AI PEUR QUE VOUS VOUS TROMPIEZ DE ROUTE.|zǒucuò lù ≈ « dzo-tsouo-lou » ; « se tromper de route » = 走错路|迷路 = se perdre|我怕你们走错路。|我怕你们走错路|un panneau inversé
+40|画的是|houa, deu, cheu|Le HOUA, le DEU et la CHAISE au pinceau : CE TABLEAU REPRÉSENTE LA MER.|huà de shì ≈ « houa-deu-chi » ; « représenter (sujet d'un tableau) » = 画的是|代表 = représenter|这幅画画的是大海。|这幅画画的是大海|un tableau marin
+41|代表|daille, biao|Le DAIM et le BIAO au pupitre : REPRÉSENTE-NOUS BIEN À ROME !|dàibiǎo ≈ « daille-biao » ; « représenter (au nom de) » = 代表|作为 = en tant que|好好代表我们去罗马！|好好代表我们去罗马|un drapeau
+42|在乎|dzaille, hou|Le serveur et le HOU tiennent au cœur : NOUS TENONS BEAUCOUP À TOI.|zàihu ≈ « dzaille-hou » ; « tenir à » = 在乎|关心 = se soucier|我们很在乎你。|我们很在乎你|un cœur
+43|得撑住|deille, tcheng, djou|Le DEILLE, le TCHENG et le JOUjou tiennent bon : IL FAUT QUE NOUS TENIONS BON JUSQU'À DEMAIN.|děi chēngzhù ≈ « deille-tcheng-djou » ; subjonctif = 得|坚持 = persévérer|我们得撑住，撑到明天。|我们得撑住|un étai|děi chēngzhù
+44|等我……完|deng, ouo, ouanne|La DENGUE attend que « OUO » finisse (« WAN ») : ATTENDS QUE JE FINISSE.|děng wǒ… wán ≈ « deng-ouo-ouane » ; subjonctif = 等我……完|完成 = achever|等我做完。|等我做完|une montre
+45|吃完|tcheu, ouanne|Le TCHEU vide l'assiette jusqu'au OUANNE : IL FAUT QUE TU FINISSES TON ASSIETTE.|chīwán ≈ « tcheu-ouane » ; « finir (de manger) » = 吃完|吃光 = tout manger|你得把饭吃完。|你得把饭吃完|une assiette vide
+46|临近|line, djine|Le LINGE et le JEAN tout proches : LE GRAND MOMENT APPROCHE.|línjìn ≈ « line-djine » ; « approcher » = 临近 / 快到了|快到了 = arrive bientôt|伟大的时刻临近了。|伟大的时刻临近了|un compte à rebours
+47|过来|gouo, laï|Le GUO et la LAIE s'avancent : APPROCHE, N'AIE PAS PEUR (doublon de formes_9 32).|guòlai ≈ « gouo-laï » ; doublon (impératif)|靠近 = s'approcher|过来，别怕。|过来，别怕|une main tendue
+48|要我别|yao, ouo, bié|Le YAOURT pousse « OUO » vers le BIEN : TU VEUX QUE J'ARRÊTE DE CHANTER ?|yào wǒ bié ≈ « yao-ouo-bié » ; subjonctif = 要我别……|让我停 = me faire arrêter|你要我别唱了吗？|你要我别唱了吗|une note barrée
+49|戒烟|djié, yanne|Le JET brise le YANN de fumée : IL FAUT QUE TU ARRÊTES DE FUMER (doublon de formes_8 92).|jièyān ≈ « djié-yane » ; doublon|戒 = arrêter|你得戒烟。|你得戒烟|une cigarette cassée
+50|不一定想|bou, i, ding, siang|Le BOUc, le « I », le DINGO et la SIANNE hésitants : ON PEUT APPRÉCIER QUELQU'UN SANS VOULOIR ÊTRE AVEC.|bù yídìng xiǎng ≈ « bou-i-ding-siang » ; « (sans) vouloir » = 不一定想|想要 = vouloir|你可以欣赏一个人，但不一定想跟他在一起。|但不一定想跟他在一起|deux chaises séparées
+51|开工|kaï, gong|Le CAÏD et le GONG au travail : TRAVAILLONS (mettons-nous au travail !).|kāigōng ≈ « kaï-gong » ; « mettons-nous (au travail) ! » = 开工吧|干活 = bosser|开工吧。|开工吧|des manches retroussées
+52|被捕|beille, bou|Une BEILLE et un BOUc menottés : VOUS AVEZ DÉJÀ ÉTÉ ARRÊTÉE ?|bèibǔ ≈ « beille-bou » ; « arrêtée » = 被捕|被抓 = attrapée|您被捕过吗？|您被捕过吗|des menottes
+53|筹备|tcho, beille|Le TCHO et la BEILLE préparent : J'ORGANISE CELA DEPUIS DES MOIS (en organisant).|chóubèi ≈ « tcho-beille » ; « organiser (préparer) » = 筹备|安排 = arranger|这个我已经筹备了好几个月。|这个我已经筹备了好几个月|un planning
+54|负担得起|fou, danne, deu, tchi|Le FOU, le DANDY, le DEU et le TCHI comptent : PENSEZ-VOUS QUE NOUS POUVONS NOUS PERMETTRE UNE TELLE DÉPENSE ?|fùdān de qǐ ≈ « fou-dane-deu-tchi » ; « (se) permettre (financièrement) » = 负担得起|买得起 = pouvoir acheter|你觉得我们负担得起这么大的开销吗？|我们负担得起这么大的开销吗|une calculatrice
+55|拿钱|na, tsienne|Le NAIN prend le TSIEN : ON EST BIEN PAYÉS, TRÈS BIEN.|ná qián ≈ « na-tsiène » ; « être payé » = 拿钱 / 工资|工资 = salaire|我们拿的钱很多，非常多。|我们拿的钱很多|une enveloppe de paie
+56|卖掉|maï, diao|Le MAÏS vendu au DIABLO : JE CROYAIS M'EN ÊTRE DÉBARRASSÉ EN VENDANT MA MALLE.|màidiào ≈ « maï-diao » ; « en vendant » = 卖掉|卖 = vendre|我以为卖掉箱子就甩掉它了。|我以为卖掉箱子就甩掉它了|une malle
+57|见见他|djienne, djienne, ta|Deux DJINNS rencontrent un TA : JE LE RENCONTRERAIS BIEN AUSSI.|jiànjian tā ≈ « djienne-djienne-ta » ; le pronom collé = 他|认识他 = le connaître|我也想见见他。|我也想见见他|une poignée de main
+58|问路|ouenne, lou|Le OUENNE demande la route au LOUP : NOUS DEMANDONS LE CHEMIN À UN PASSANT.|wènlù ≈ « ouene-lou » ; 问 demander + 路 chemin|指路 = indiquer le chemin|我们向一个路人问路。|我们向一个路人问路|un panneau
+59|最好问问|dzouei, hao, ouenne, ouenne|Le ZOUEI, le HAUT et deux OUENNE : IL VAUT MIEUX QUE NOUS DEMANDIONS.|zuìhǎo wènwen ≈ « dzouei-hao-ouene-ouene » ; « il vaut mieux que » = 最好|还是 = plutôt|我们最好问问。|我们最好问问|un point d'interrogation
+60|用|yong|Le YONG au clavier : VOUS UTILISEZ QUEL LOGICIEL ? (doublon de formes_5 74).|yòng ≈ « yong » ; doublon (vous)|使用 = utiliser|你们用什么软件？|你们用什么软件|un écran
+61|用|yong|Le YONG serre la pince : UTILISEZ CETTE PINCE, HARKER ! (doublon de noms_22 56).|yòng ≈ « yong » ; doublon (impératif)|拿 = prendre|用这把钳子，哈克！|用这把钳子|une pince
+62|让它|rang, ta|Le RANG bloque un TA : J'AI LE POUVOIR DE LE RENDRE IMPOSSIBLE.|ràng tā ≈ « rang-ta » ; « le rendre (impossible) » = 让它变得|使 = rendre|我有能力让它变得不可能。|我有能力让它变得不可能|une clé
+63|就算得|djio, souanne, deille|Le JIO, le SOUANNE et le DEILLE prêts à tirer : MÊME S'IL FAUT TIRER DESSUS.|jiùsuàn děi ≈ « djio-souane-deille » ; « même si nous devions » = 就算得|即使 = même si|就算得朝它开枪也行。|就算得朝它开枪也行|une cible|jiùsuàn děi
+64|让你|rang, ni|Le RANG rend le NID heureux : C'EST POUR TE RENDRE HEUREUSE (doublon de formes_12 19).|ràng nǐ ≈ « rang-ni » ; doublon|使你 = te rendre|这是为了让你幸福。|这是为了让你幸福|un cœur
+65|登记|deng, dji|La DENGUE et le GÉNIE au registre : HELEN N'EST PAS ENREGISTRÉE.|dēngjì ≈ « deng-dji » ; « enregistrée » = 登记|注册 = inscrite|海伦没有登记。|海伦没有登记|un registre
+66|陪同|peille, tong|Le PEIGNE et le TONneau au bras : JE SERAI ACCOMPAGNÉ DE MLLE GILDA FARRELL.|péitóng ≈ « peille-tong » ; « accompagner » = 陪同 / 陪|陪 = accompagner|吉尔达·法雷尔小姐会陪同我。|吉尔达·法雷尔小姐会陪同我|un bras offert
+67|接受|djié, cho|Le JET et la main CHAUDE acceptent : IL ACCEPTE L'INVITATION.|jiēshòu ≈ « djié-cho » ; « accepter » = 接受|答应 = consentir|他接受了邀请。|他接受了邀请|un carton d'invitation
+68|答应吧|da, ying, ba|Le DAIM, le YING et le BAmbou : ACCEPTE, C'EST UNE BONNE OFFRE !|dāying ba ≈ « da-ying-ba » ; « accepte ! » = 答应吧|接受吧 = accepte|答应吧，这个条件很好！|答应吧，这个条件很好|une poignée de main
+69|用|yong|Le YONG au volant : NOUS UTILISONS TOUJOURS LA MÊME VOITURE (doublon de formes_5 74).|yòng ≈ « yong » ; doublon (nous)|开 = conduire|我们一直用同一辆车。|我们一直用同一辆车|une voiture
+70|要我们用|yao, ouo, menne, yong|Le YAOURT pousse « OUO », les MENNE et le YONG au clavier : IL VEUT QUE NOUS UTILISIONS SON ORDINATEUR.|yào wǒmen yòng ≈ « yao-ouo-mene-yong » ; « veut que nous » = 要我们|让我们 = nous faire|他要我们用他的电脑。|他要我们用他的电脑|un ordinateur
+71|压低|ya, di|Le YAK écrase jusqu'au DIDI : IL BAISSE LA VOIX.|yādī ≈ « ya-di » ; « baisser (la voix) » = 压低|降低 = abaisser|他压低了声音。|他压低了声音|un doigt sur la bouche
+72|调小|tiao, siao|Le TIAO tourne vers le SIAMOIS : BAISSE LE VOLUME !|tiáoxiǎo ≈ « tiao-siao » ; 调 régler + 小 petit|调大 = monter|把音量调小！|把音量调小|un bouton de volume
+73|我开|ouo, kaï|« OUO » et le CAÏD à la fenêtre : TU VEUX QUE J'OUVRE LA FENÊTRE ?|wǒ kāi ≈ « ouo-kaï » ; subjonctif = 要我……吗|打开 = ouvrir|要我开窗吗？|要我开窗吗|une fenêtre
+74|得开|deille, kaï|Le DEILLE et le CAÏD à la porte : IL FAUT QUE TU OUVRES LA PORTE.|děi kāi ≈ « deille-kaï » ; subjonctif = 得|打开 = ouvrir|你得开门。|你得开门|une porte|děi kāi
+75|讲|djiang|Le DJINN raconte encore : IL RACONTE TOUJOURS LA MÊME HISTOIRE.|jiǎng ≈ « djiang » ; « raconter » = 讲|说 = dire|他总是讲同一个故事。|他总是讲同一个故事|un vieux livre
+76|讲讲|djiang, djiang|Deux DJINNS racontent : RACONTE-MOI TOUT !|jiǎngjiang ≈ « djiang-djiang » ; l'impératif doux = verbe redoublé|说说 = raconte|都跟我讲讲！|都跟我讲讲|une oreille tendue
+77|设计|cheu, dji|La CHAISE et le GÉNIE au crayon : M. KENT CRÉE LUI-MÊME SES MODÈLES ?|shèjì ≈ « cheu-dji » ; « créer (concevoir) » = 设计|创造 = créer|肯特先生自己设计款式吗？|肯特先生自己设计款式吗|un croquis
+78|创造|tchouang, dzao|Le CHOUANG et le ZAO inventent : CRÉE TON PROPRE STYLE !|chuàngzào ≈ « tchouang-dzao » ; « créer » = 创造|发明 = inventer|创造你自己的风格！|创造你自己的风格|une palette
+79|走错|dzo, tsouo|Le ZO et le TSO au mauvais virage : IL SE TROMPE DE ROUTE (doublon de 39).|zǒucuò ≈ « dzo-tsouo » ; doublon|迷路 = se perdre|他走错路了。|他走错路了|un panneau inversé
+80|踢不进|ti, bou, djine|Le TI, le BOUc et le JEAN à côté du but : IL RATE TOUJOURS LE PENALTY.|tī bu jìn ≈ « ti-bou-djine » ; « rater (un tir) » = 踢不进|没进 = raté|他点球总是踢不进。|他点球总是踢不进|un ballon à côté
+81|玩个痛快|ouanne, gueu, tong, kouaille|Le OUANNE, le GUEU, le TONG et le KOUAILLE déchaînés : ON S'AMUSERA ENTRE NOUS LE PLUS LIBREMENT POSSIBLE.|wán ge tòngkuai ≈ « ouane-gueu-tong-kouaille » ; « nous amuser (à fond) » = 玩个痛快|好好玩 = bien s'amuser|我们自己人尽情玩个痛快。|我们自己人尽情玩个痛快|des cotillons
+82|扔|jeu|Un JEU lancé dans le lac : IL JETTE DES PIERRES DANS LE LAC (doublon de formes_5 51).|rēng ≈ « reng » ; doublon (présent)|丢 = jeter|他往湖里扔石头。|他往湖里扔石头|des ricochets
+83|抛锚|pao, mao|Le PAOn jette le MAO (ancre) : JETTE L'ANCRE !|pāomáo ≈ « pao-mao » ; 抛 jeter + 锚 ancre|起锚 = lever l'ancre|抛锚！|抛锚|une ancre
+84|害怕|haï, pa|La HAIE et le PAPA tremblent : LE NOIR LUI FAIT PEUR (他怕黑).|hàipà ≈ « haï-pa » ; « faire peur » = 让……害怕|吓 = effrayer|黑暗让他害怕。|黑暗让他害怕|une bougie
+85|吓跑|sia, pao|Le SIAMOIS fait détaler le PAOn : VA, FAIS PEUR AUX CORBEAUX ! (doublon de noms_24 30).|xiàpǎo ≈ « sia-pao » ; doublon (impératif)|吓唬 = effrayer|去，把乌鸦吓跑！|把乌鸦吓跑|un épouvantail
+86|浪费|lang, feille|Le LANG et la FEUILLE gaspillés : ÇA NOUS FERA PERDRE UNE DEMI-JOURNÉE !|làngfèi ≈ « lang-feille » ; « perdre (gaspiller du temps) » = 浪费|耽误 = retarder|这会浪费我们半天时间！|这会浪费我们半天时间|un sablier
+87|看得懂|kanne, deu, dong|Le CANON, le DEU et le gong éclairés : VOUS ARRIVEZ À LIRE ÇA ?|kàn de dǒng ≈ « kane-deu-dong » ; « arriver à lire » = 看得懂|看不懂 = ne pas comprendre|你们看得懂这个吗？|你们看得懂这个吗|une écriture illisible
+88|什么都能成功|cheune, meu, dou, neng, tcheng, gong|La CHAÎNE, le MEU, le DOUdou, le NENG, le TCHENG et le GONG : VOUS RÉUSSISSEZ TOUJOURS TOUT !|shénme dōu néng chénggōng ≈ « cheune-meu-dou-neng-tcheng-gong » ; « réussir » = 成功|做成 = réaliser|你们什么都能成功！|你们什么都能成功|une coupe
+89|待在|daille, dzaille|Le DAIM et le serveur cloués : NOUS RESTONS ICI (doublon de formes_12 11).|dāi zài ≈ « daille-dzaille » ; doublon (nous)|留 = rester|我们待在这儿。|我们待在这儿|des pieds collés
+90|要我们留下|yao, ouo, menne, lio, sia|Le YAOURT retient « OUO », les MENNE, le LION et le SIAMOIS : IL VEUT QUE NOUS RESTIONS POUR LE DÎNER.|yào wǒmen liúxià ≈ « yao-ouo-mene-lio-sia » ; « veut que nous » = 要我们|让我们 = nous faire|他要我们留下吃晚饭。|他要我们留下吃晚饭|une table dressée
+91|表明|biao, ming|Le BIAO et le MING éclairent : IL RÉSULTE DE L'ENQUÊTE QU'IL ÉTAIT INNOCENT.|biǎomíng ≈ « biao-ming » ; « il résulte (que) » = 表明|证明 = prouver|调查表明他是无辜的。|调查表明他是无辜的|une loupe
+92|很难|henne, nanne|La HENNE et la NANNE peinent : ÇA S'AVÈRE DIFFICILE À DÉCRIRE.|hěn nán ≈ « henne-nane » ; « s'avérer (difficile) » = 很难|结果 = au final|这很难描述。|这很难描述|une bulle vide
+93|查|tcha|Le TCHA contrôle : VOUS VÉRIFIEZ LES BILLETS ? (doublon de formes_6 41).|chá ≈ « tcha » ; doublon (vous)|检查 = contrôler|你们查票吗？|你们查票吗|une pince à billets
+94|检查|djienne, tcha|Le DJINN et le TCHA examinent les patients : VÉRIFIEZ TOUS LES PATIENTS ! (doublon de formes_6 40).|jiǎnchá ≈ « djienne-tcha » ; doublon (impératif)|查 = vérifier|检查所有病人！|检查所有病人|un stéthoscope
+95|打招呼|da, djao, hou|Le DAIM, le JAGUAR et le HOU saluent : IL DIT BONJOUR À TOUT LE MONDE.|dǎ zhāohu ≈ « da-djao-hou » ; « dire bonjour » = 打招呼|问好 = saluer|他跟每个人打招呼。|他跟每个人打招呼|une main qui salue
+96|问好|ouenne, hao|Le OUENNE et le HAUT polis : DIS BONJOUR À LA DAME !|wènhǎo ≈ « ouene-hao » ; « dis bonjour ! » = 问好|你好 = bonjour|跟阿姨问好！|跟阿姨问好|une révérence
+97|团结|touanne, djié|Le TOUANNE et le JET liés : UNE FAMILLE ENTIÈRE, UNIE.|tuánjié ≈ « touane-djié » ; « unie » = 团结|和睦 = harmonieuse|一个团结的大家庭。|一个团结的大家庭|des mains liées
+98|减速|djienne, sou|Le DJINN freine le SOU : IL RALENTIT AU FEU ROUGE.|jiǎnsù ≈ « djienne-sou » ; 减 réduire + 速 vitesse|刹车 = freiner|他在红灯前减速。|他在红灯前减速|un feu rouge
+99|慢点|manne, dianne|Le MANNEquin et le DIAMANT au ralenti : RALENTIS, TU VAS TUER QUELQU'UN !|màn diǎn ≈ « mane-diane » ; « ralentis ! » = 慢点|慢 = lent|慢点，你会撞死人的！|慢点，你会撞死人的|un escargot

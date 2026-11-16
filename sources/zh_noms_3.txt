@@ -1,0 +1,100 @@
+00|哥们儿|gueu, menr|Un GUEU (« GE ») tape dans le dos d'un MENEUR (« MENR ») : C'EST MON COPAIN.|gē-menr ≈ « gueu-menr » ; la tape dans le dos = le copain|朋友 = ami|这是我哥们儿。|我哥们儿|une tape dans le dos
+01|商人|chang, renne|Un CHAMEAU (« SHANG ») en costume sur un RENNE : L'HOMME D'AFFAIRES.|shāng-rén ≈ « chang-renne » ; la mallette = l'homme d'affaires|生意人 = commerçant|他是个花花公子，不是商人。|不是商人|un chameau à la mallette
+02|人口|renne, keou|Des RENNES sortent d'une bouche (« KOU ») géante : LA POPULATION.|rén-kǒu ≈ « renne-keou » ; la foule = la population|居民 = habitants|人口增长很快。|人口增长很快|une foule de rennes
+03|安全|anne, tchuanne|Un ÂNE (« AN ») et un CHOUAN (« QUAN ») casqués : C'EST POUR TA SÉCURITÉ.|ān-quán ≈ « ane-tchuane » ; le casque = la sécurité|保安 = agent de sécurité|这是为了你的安全。|为了你的安全|un âne casqué
+04|意义|i, i|Deux « I ! I ! » cherchent un sens : ÇA N'A AUCUN SENS.|yì-yì ≈ « i-i » ; la boussole = le sens|道理 = la logique|这毫无意义。|毫无意义|une boussole
+05|街|djié|Un JET (« JIE ») file dans la RUE.|jiē ≈ « djié » ; le pavé = la rue|马路 = la chaussée|我住在这条街上。|这条街上|un jet dans la rue
+06|报告|bao, gao|Un BAObab et un GAUCHO (« GAO ») lisent un dossier : TON RAPPORT.|bào-gào ≈ « bao-gao » ; le dossier = le rapport|关系 = rapport (relation)|我看了你的报告。|你的报告|un baobab qui lit
+07|原力|yuanne, li|Une YOURTE (« YUAN ») sur un LIT (« LI ») qui lévite : QUE LA FORCE soit avec toi.|yuán-lì ≈ « yuane-li » ; le sabre lumineux = la Force (Star Wars)|力量 = la force (physique)|愿原力与你同在。|原力与你同在|une yourte qui lévite
+08|咖啡|ka, feille|Un KAKI (« KA ») dans une FEUILLE (« FEI ») de café : TU VEUX UN CAFÉ ?|kā-fēi ≈ « ka-feille » ; la tasse fumante = le café|cl. 杯|你要咖啡吗？|要咖啡吗|une tasse fumante
+09|大问题|da, ouenne, ti|Un DAuphin porte un OUISTITI (« WEN ») qui tire (« TI ») un énorme « ? » : UN GROS PROBLÈME.|dà wèntí ≈ « da-ouenne-ti » ; le « ? » géant = un gros problème|麻烦大了 = gros ennuis|你有大问题了，嗯！|你有大问题了|un « ? » géant
+10|父母|fou, mou|Un FOU (« FU ») et un MOUton (« MU ») tiennent les mains d'un enfant : LES PARENTS.|fù-mǔ ≈ « fou-mou » ; les deux mains = les parents|家长 = parents (école)|明天，他们的养父母来接他们。|养父母|deux mains tenant un enfant
+11|姐姐|djié, djié|Deux JETS (« JIE JIE ») en tresses : MA SŒUR arrive.|jiě-jie ≈ « djié-djié » ; les tresses = la (grande) sœur|妹妹 = petite sœur|我姐姐来了。|我姐姐来了|deux jets en tresses
+12|主|djou|Un JOUJOU (« ZHU ») doré sur un trône céleste : QUE LE SEIGNEUR te protège.|zhǔ ≈ « djou » ; l'auréole = le Seigneur|上帝 = Dieu|愿主保佑你。|愿主保佑你|une auréole dorée
+13|几个星期|dji, gueu, sing, tchi|Un GÉNIE, un GUEU et un SINGE TCHI tournent les pages : DES SEMAINES.|jǐ ge xīngqī ≈ « dji-gueu-sing-tchi » ; les pages qui tournent = des semaines|好几周 = plusieurs semaines|他好几个星期都没出事故了。|好几个星期|des pages qui tournent
+14|先生们|sienne, cheng, meunne|Une SIENNE, un CHÊNE (« SHENG ») et des MENEURS en chapeau : MESSIEURS.|xiān-sheng-men ≈ « sienne-cheng-men » ; les chapeaux = messieurs|诸位 = vous tous|快，先生们，醒醒！|先生们|des chapeaux haut-de-forme
+15|总统|dzong, tong|Un ZONGzi (« ZONG ») sur un TONneau-tribune : LE PRÉSIDENT a parlé.|zǒng-tǒng ≈ « dzong-tong » ; le pupitre = le président|主席 = président (parti)|总统讲话了。|总统讲话了|un zongzi à la tribune
+16|信|sine|Un SIGNE (« XIN ») sous enveloppe : J'AI REÇU TA LETTRE.|xìn ≈ « sine » ; l'enveloppe = la lettre|字母 = lettre (alphabet)|我收到你的信了。|你的信|une enveloppe
+17|小男孩|siao, nanne, haï|Un SIAMOIS (« XIAO ») et un NANNE (« NAN ») consolent dans une HAIE un PETIT GARÇON qui pleure.|xiǎo nánhái ≈ « siao-nane-haï » ; la culotte courte = le petit garçon|男孩 = garçon|小男孩在哭。|小男孩|un garçon en culotte courte
+18|屁股|pi, gou|Un PIgeon (« PI ») picore un GOUrou sur les fesses : BOUGE TON CUL !|pì-gu ≈ « pi-gou » ; le coup de pied = le cul|屁股 est familier|挪挪你的屁股！|你的屁股|un pigeon qui picore
+19|脸|liène|Un LIEN (« LIAN ») encadre un BEAU VISAGE.|liǎn ≈ « liène » ; le miroir = le visage|面孔 = visage (écrit)|他有一张好看的脸。|好看的脸|un visage encadré
+20|一秒|i, miao|« I » MIAOU (« MIAO ») de chat : ATTENDS UNE SECONDE !|yì miǎo ≈ « i-miao » ; le chrono = la seconde|一下 = un instant|等一秒！|等一秒|un chat chronométré
+21|钥匙|yao, chie|Un YAOURT ouvre une CHAISE (« SHI ») à clé : T'AS PRIS LES CLÉS ?|yào-shi ≈ « yao-chi » ; le trousseau = la clé|锁 = serrure|你拿钥匙了吗？|拿钥匙了吗|un trousseau de clés
+22|更好的时机|gueng, hao, deu, chie, dji|Un GUENGUEN crie « HAO ! », DEUx fois, à la CHAISE du GÉNIE (« SHIJI ») : UN MEILLEUR MOMENT.|gèng hǎo de shíjī ≈ « gueng-hao-deu-chi-dji » ; l'horloge dorée = le meilleur moment|最好的时候 = le meilleur moment|你们觉得有更好的时机吗？|更好的时机|une horloge dorée
+23|话题|houa, ti|Une fleur (« HUA ») tire (« TI ») une bulle de BD : ON CHANGE DE SUJET ?|huà-tí ≈ « houa-ti » ; la bulle = le sujet|主题 = thème|换个话题？|换个话题|une fleur et une bulle
+24|医院|i, yuanne|« I ! » crie une YOURTE (« YUAN ») à croix rouge : L'HÔPITAL.|yī-yuàn ≈ « i-yuane » ; la croix rouge = l'hôpital|住院 = être hospitalisé|他在医院。|在医院|une yourte à croix rouge
+25|错误|tsuo, ou|Une CROIX (« CUO ») et un « HOU ! » : C'EST UNE ERREUR.|cuò-wù ≈ « tsuo-hou » ; la croix = l'erreur|错 = faute|这是个错误。|是个错误|une croix rouge
+26|胳膊|gueu, bo|Un GUEU (« GE ») tient un BOL (« BO ») à bout de BRAS.|gē-bo ≈ « gueu-bo » ; le bras tendu = le bras|手臂 = bras (écrit)|我胳膊疼。|胳膊疼|un bras tendu
+27|看法|kanne, fa|Une longue-vue (« KAN ») et un FAkir : C'EST QUOI TON AVIS ?|kàn-fǎ ≈ « kane-fa » ; la longue-vue = l'avis|意见 = opinion|你的看法是什么？|你的看法|un fakir à la longue-vue
+28|头发|to, fa|Un TOTEM (« TOU ») chevelu comme un FAkir : DES CHEVEUX.|tóu-fa ≈ « to-fa » ; la crinière = les cheveux|毛 = poils|它有头发。|有头发|un totem chevelu
+29|问题|ouenne, ti|Un OUISTITI (« WEN ») tire (« TI ») des « ? » : D'AUTRES QUESTIONS (doublon : pas de pluriel).|wèn-tí ≈ « ouenne-ti » ; les « ? » = les questions|疑问 = doute|你们能做到吗？还是关于我的阴道有别的问题？|别的问题|des « ? » tirés
+30|年纪|niène, dji|Un NIAIS (« NIAN ») compte les bougies d'un GÉNIE (« JI ») : T'AS QUEL ÂGE ?|nián-jì ≈ « niène-dji » ; les bougies = l'âge|几岁 = quel âge (enfant)|你多大年纪？|多大年纪|des bougies
+31|老板|lao, banne|Le vieux LAOTIEN (« LAO ») sur son BANC (« BAN ») : C'EST LE PATRON ICI.|lǎo-bǎn ≈ « lao-bane » ; la cravate = le patron|头儿 = le chef (familier)|这儿他是老板。|他是老板|un vieux à la cravate
+32|医生|i, cheng|« I ! » crie le CHÊNE (« SHENG ») stéthoscope au cou : VA VOIR UN MÉDECIN.|yī-shēng ≈ « i-cheng » ; doublon de noms_2 13 (docteur)|大夫 = docteur|去看医生。|去看医生|un chêne au stéthoscope
+33|谋杀|mo, cha|Un MOT (« MOU ») et un CHAT (« SHA ») au couteau : C'EST UN MEURTRE.|móu-shā ≈ « mo-cha » ; le couteau = le meurtre|杀人 = tuer|这是谋杀。|这是谋杀|un chat au couteau
+34|留言|lio, yienne|Un LION (« LIU ») laisse une YIENNE sur le répondeur : LAISSE UN MESSAGE.|liú-yán ≈ « lio-yienne » ; le répondeur = le message|消息 = message (texto)|请留言。|请留言|un lion au répondeur
+35|选择|suanne, dzeu|Un SOUANNE (« XUAN ») hésite entre deux ZEU (« ZE ») : J'AI PAS LE CHOIX.|xuǎn-zé ≈ « suane-dzeu » ; les deux chemins = le choix|挑 = choisir|我没有选择。|没有选择|deux chemins
+36|路上|lou, chang|Un LOUP (« LU ») sur le dos d'un CHAMEAU (« SHANG ») : ON EST EN CHEMIN.|lù-shang ≈ « lou-chang » ; le sentier = en chemin|途中 = en route (écrit)|我们在路上。|在路上|un loup sur un chameau
+37|类型|leille, sing|Une LEILLE (« LEI ») range des SINGES (« XING ») par catégorie : QUELLE SORTE DE FILM ?|lèi-xíng ≈ « leille-sing » ; les tiroirs = la sorte|种 = espèce|什么类型的电影？|什么类型的电影|des tiroirs étiquetés
+38|死刑|seu, sing|Un SEU (« SI ») et un SINGE (« XING ») sous la potence : LA PEINE DE MORT.|sǐ-xíng ≈ « seu-sing » ; la potence = la peine de mort|判死刑 = condamner à mort|死刑。|死刑|une potence
+39|证据|djeng, djiu|Un gong « DJENG ! » et un JUDOKA (« JU ») brandissent un sachet : DES PREUVES.|zhèng-jù ≈ « djeng-djiu » ; le sachet scellé = les preuves|证明 = prouver|我希望拿到我犯错的实物证据。|实物证据|un sachet scellé
+40|行|hang|Un HANGAR (« HANG ») aligné : ÉCRIS UNE LIGNE.|háng ≈ « hang » ; la règle = la ligne|规则 = règle (loi)|写一行。|写一行|une règle alignée
+41|受害者|cho, haï, djeu|Un CHAUD (« SHOU ») HAÏ, le JEU fini : LA VICTIME a parlé.|shòuhài zhě ≈ « cho-haï-jeu » ; le pansement = la victime|伤者 = blessé|受害者开口了。|受害者开口了|un pansement
+42|大厅|da, ting|Un DAuphin TINTE (« TING ») une cloche dans la SALLE pleine.|dà-tīng ≈ « da-ting » ; le lustre = la salle|房间 = pièce|大厅里坐满了人。|大厅里坐满了人|un lustre et une cloche
+43|包|bao|Un BAObab (« BAO ») en bandoulière : OÙ EST MON SAC ?|bāo ≈ « bao » ; le sac = le sac|背包 = sac à dos|我的包在哪儿？|我的包|un baobab en bandoulière
+44|子弹|dzeu, danne|Un ZEU (« ZI ») fait une DANSE (« DAN ») sous une BALLE.|zǐ-dàn ≈ « dzeu-dane » ; la balle = la balle (arme)|球 = balle (sport)|他中了一枪。|中了一枪|une balle qui siffle
+45|律师|lu, chie|Un LU-LU (« LÜ ») en robe noire sur une CHAISE (« SHI ») : JE VEUX UN AVOCAT.|lǜ-shī ≈ « lu-chi » ; la robe noire = l'avocat|牛油果 = avocat (fruit)|我要找律师。|找律师|un lulu en robe noire
+46|汽车市场|tchi, tcheu, chie, tchang|Un TCHI pousse une CHE (« CHE ») de voitures sur une CHAISE au CHANT : LE MARCHÉ DES VOITURES.|qìchē shìchǎng ≈ « tchi-tcheu-chi-tchang » ; le parking = le marché des voitures|外汇市场 = marché des changes|外汇市场关闭了。|外汇市场|un parking de voitures
+47|迟到|tchi, d'ao|Un TCHI (« CHI ») arrive (« DAO ») essoufflé : JE SUIS EN RETARD.|chí-dào ≈ « tchi-dao » ; la montre = le retard|晚 = tard|对不起，我迟到了。|我迟到了|un tchi essoufflé
+48|证据|djeng, djiu|Le gong « DJENG ! » et le JUDOKA (« JU ») montrent UNE PREUVE (doublon de 39).|zhèng-jù ≈ « djeng-djiu » ; doublon de 39|证明 = preuve écrite|你有证据吗？|你有证据吗|un judoka au sachet
+49|荣幸|rong, sing|Un RONGEUR (« RONG ») salue un SINGE (« XING ») couronné : C'EST UN HONNEUR.|róng-xìng ≈ « rong-sing » ; la médaille = l'honneur|光荣 = glorieux|这是我的荣幸。|我的荣幸|un rongeur qui salue
+50|感觉|ganne, djué|Un GANT (« GAN ») touche un JURÉ (« JUE ») : ÇA M'A FAIT UN DRÔLE D'EFFET.|gǎn-jué ≈ « gane-djué » ; le frisson = l'effet (sensation)|效果 = effet (résultat)|这让我有种奇怪的感觉。|奇怪的感觉|un gant qui touche
+51|顾客|gou, keu|Un GOUrou (« GU ») et un KEU (« KE ») couronné : LE CLIENT EST ROI.|gù-kè ≈ « gou-keu » ; le caddie = le client|客户 = client (affaires)|顾客就是上帝。|顾客就是上帝|un client couronné
+52|面|mienne|Un MIEN (« MIAN ») face à face : REGARDE-LE EN FACE.|miàn ≈ « mienne » ; le face-à-face = la face|当面 = en face|当面看着他。|当面看着他|un face-à-face
+53|枪声|tchiang, cheng|Un CHIANT (« QIANG ») tire, un CHÊNE (« SHENG ») sursaute : UN COUP DE REVOLVER.|qiāng-shēng ≈ « tchiang-cheng » ; la détonation = le coup de feu|开枪 = tirer|一声枪响。|一声枪响|une détonation
+54|咨询|dzeu, sune|Un ZEU (« ZI ») tend un SUN (« XUN ») de conseils : UN CONSEIL JURIDIQUE.|zī-xún ≈ « dzeu-sune » ; le bureau d'accueil = la consultation|建议 = conseil (avis)|他需要法律咨询。|法律咨询|un bureau d'accueil
+55|武器|ou, tchi|« HOU ! » crie le TCHI qui garde ses ARMES (doublon de noms_2 09).|wǔ-qì ≈ « hou-tchi » ; doublon : pas de pluriel|枪支 = armes à feu|我们不会交出武器！|交出武器|un tchi qui garde ses armes
+56|声音|cheng, ine|Un CHÊNE (« SHENG ») chante avec une INE (« YIN ») : J'ADORE TA VOIX.|shēng-yīn ≈ « cheng-ine » ; le micro = la voix|嗓子 = la gorge|我喜欢你的声音。|你的声音|un chêne au micro
+57|清静|tching, djing|Un CHINOIS (« QING ») dans un GINGEMBRE (« JING ») silencieux : FICHE-MOI LA PAIX !|qīng-jìng ≈ « tching-djing » ; le hamac = la paix (tranquillité)|和平 = la paix (guerre)|让我清静一下！|让我清静一下|un chinois dans un hamac
+58|大师|da, chie|Un DAuphin sur une CHAISE (« SHI ») de maître : C'EST LUI LE MAÎTRE.|dà-shī ≈ « da-chi » ; la barbe blanche = le maître|老师 = professeur|他才是大师。|他才是大师|un dauphin à barbe blanche
+59|灯|deng|Un DENTISTE (« DENG ») éteint la lampe : ÉTEINS LA LUMIÈRE.|dēng ≈ « deng » ; la lampe = la lumière|光 = lumière (rayon)|把灯关了。|把灯关了|une lampe qui s'éteint
+60|疑问|i, ouenne|« I ? » demande un OUISTITI (« WEN ») perplexe : J'AI UN DOUTE.|yí-wèn ≈ « i-ouenne » ; le sourcil levé = le doute|怀疑 = douter|我有个疑问。|有个疑问|un sourcil levé
+61|礼物|li, ou|Un LIT (« LI ») enrubanné fait « HOU ! » : JE T'AI ACHETÉ UN CADEAU.|lǐ-wù ≈ « li-hou » ; le paquet = le cadeau|送礼 = offrir|我给你买了礼物。|买了礼物|un lit enrubanné
+62|块|kouaille|Un KOUAILLE (« KUAI ») de pain : UN BOUT DE PAIN ?|kuài ≈ « kouaille » ; le morceau = le bout|一点 = un peu|来一块面包？|一块面包|un morceau de pain
+63|飞机|feille, dji|Une FEUILLE (« FEI ») et un GÉNIE (« JI ») décollent : L'AVION DÉCOLLE.|fēi-jī ≈ « feille-dji » ; les ailes = l'avion|机场 = aéroport|飞机起飞了。|飞机起飞了|une feuille qui décolle
+64|电话|dienne, houa|La DIENNE (« DIAN ») tend la fleur (« HUA ») qui sonne : T'AS EU MON APPEL ?|diàn-huà ≈ « dienne-houa » ; doublon de noms_2 63|打电话 = appeler|你接到我的电话了吗？|我的电话|une fleur qui sonne
+65|警察局长|djing, tcha, djiu, djang|Un GINGEMBRE, un CHAT, un JUDOKA et un GENDARME à képi : CHEF DE LA POLICE.|jǐngchá júzhǎng ≈ « djing-tcha-djiu-djang » ; le képi étoilé = le chef de police|警长 = commissaire|我爸是警察局长。|警察局长|un képi étoilé
+66|晚上|ouanne, chang|Un OUANNE (« WAN ») monte (« SHANG ») sous la lune : BONNE SOIRÉE !|wǎn-shang ≈ « ouane-chang » ; la lune = la soirée|晚会 = soirée (fête)|晚上愉快！|晚上愉快|une lune
+67|价格|djia, gueu|Un JIA (« JIA ») et un GUEU (« GE ») collent une étiquette : C'EST QUOI LE PRIX ?|jià-gé ≈ « djia-gueu » ; l'étiquette = le prix|多少钱 = combien|价格是多少？|价格是多少|une étiquette
+68|卫兵|ouei, bing|Un OUISTITI (« WEI ») et un BINGO casqués montent la garde : APPELLE LA GARDE !|wèi-bīng ≈ « ouei-bing » ; la lance = la garde|保安 = vigile|叫卫兵！|叫卫兵|un ouistiti casqué
+69|马|ma|Un cheval (« MA ») au galop : IL MONTE À CHEVAL.|mǎ ≈ « ma » ; la selle = le cheval|骑马 = monter à cheval|他骑马。|他骑马|un cheval au galop
+70|船|tchouanne|Un CHOUAN (« CHUAN ») rame : ON PREND LE BATEAU ?|chuán ≈ « tchouane » ; la rame = le bateau|坐船 = prendre le bateau|我们坐船吗？|坐船|un chouan qui rame
+71|台面|taï, mienne|Un TAÏ-chi sur un MIEN (« MIAN ») de cuisine : POSE ÇA SUR LE PLAN DE TRAVAIL.|tái-miàn ≈ « taï-mienne » ; le comptoir = le plan de travail|案板 = planche à découper|把这个放在台面上。|放在台面上|un comptoir de cuisine
+72|旅途|lu, tou|Un LULU (« LÜ ») TOUT (« TU ») sac au dos : BON VOYAGE !|lǚ-tú ≈ « lu-tou » ; la valise = le voyage|旅行 = voyager|旅途愉快！|旅途愉快|un lulu sac au dos
+73|叔叔|chou, chou|Deux CHOUX (« SHU SHU ») moustachus : MON ONCLE est là.|shū-shu ≈ « chou-chou » ; la moustache = l'oncle|舅舅 = oncle maternel|我叔叔来了。|我叔叔来了|deux choux moustachus
+74|一群|i, tchune|« I » CHOUN (« QUN ») de canards en file : ON PART EN GROUPE.|yì qún ≈ « i-tchune » ; la file de canards = le groupe|团 = groupe (voyage)|我们一群人一起走。|一群人|une file de canards
+75|开始|kaï, chie|Un KAYAK (« KAI ») quitte la CHAISE (« SHI ») au départ : AU DÉBUT, j'ai rien compris.|kāi-shǐ ≈ « kaï-chi » ; le drapeau de départ = le début|起初 = au commencement|开始我什么都没明白。|开始我什么都没明白|un drapeau de départ
+76|犯罪|fanne, dzouei|Un FAN (« FAN ») ZOUAVE (« ZUI ») cambriole : C'EST UN CRIME !|fàn-zuì ≈ « fane-zouei » ; la cagoule = le crime|罪 = faute grave|这是犯罪！|这是犯罪|un fan cagoulé
+77|帮助|bang, djou|Un BANG ! et un JOUJOU (« ZHU ») tendu : MERCI DE VOTRE AIDE.|bāng-zhù ≈ « bang-djou » ; doublon de noms_2 57|帮忙 = rendre service|谢谢您的帮助。|您的帮助|une bouée tendue
+78|协会|sié, houei|Un SIÉ (« XIE ») et un boomerang (« HUI ») autour d'une table ronde : UNE ASSOCIATION.|xié-huì ≈ « sié-houei » ; la table ronde = l'association|组织 = organisation|他是一个协会的成员。|协会的成员|une table ronde
+79|地图|di, tou|Un DIable (« DI ») TOUT (« TU ») penché sur une carte : REGARDE LA CARTE.|dì-tú ≈ « di-tou » ; la carte = la carte (géographique)|卡 = carte (bancaire)|看地图。|看地图|un diable penché sur une carte
+80|实验|chie, yienne|Sur une CHAISE (« SHI »), une YIENNE en blouse et une éprouvette : UNE EXPÉRIENCE SCIENTIFIQUE.|shí-yàn ≈ « chi-yienne » ; l'éprouvette = l'expérience|经验 = expérience (vécu)|一个科学实验。|科学实验|une éprouvette
+81|灵魂|ling, houenne|Un LINGOT (« LING ») et un HOUÉ (« HUN ») fantôme s'envolent : IL A VENDU SON ÂME.|líng-hún ≈ « ling-houenne » ; le fantôme = l'âme|精神 = esprit|他出卖了自己的灵魂。|出卖了自己的灵魂|un fantôme qui s'envole
+82|法律|fa, lu|Un FAkir et un LULU (« LÜ ») tiennent un code : C'EST LA LOI.|fǎ-lǜ ≈ « fa-lu » ; le marteau de juge = la loi|规定 = règlement|这是法律。|这是法律|un code de loi
+83|木头|mou, to|Un MOUton (« MU ») sculpte un TOTEM (« TOU ») : C'EST EN BOIS.|mù-tou ≈ « mou-to » ; la bûche = le bois|木 = bois (écrit)|这是木头做的。|木头做的|un mouton qui sculpte
+84|夜班|yé, banne|« YÉ ! » crie un veilleur sur un BANC (« BAN ») de nuit : L'ÉQUIPE DE NUIT ?|yè-bān ≈ « yé-bane » ; la lampe torche = le service de nuit|白班 = équipe de jour|上夜班吗？|上夜班吗|un veilleur à la torche
+85|桌子|djouo, dzeu|Un JOUEUR (« ZHUO ») pose un ZEU (« ZI ») : LA TABLE EST PRÊTE.|zhuō-zi ≈ « djouo-dzeu » ; la nappe = la table|饭桌 = table à manger|桌子准备好了。|桌子准备好了|une table mise
+86|情况|tching, kouang|Le CHINOIS (« QING ») frappe le gong KOUANG : C'EST QUOI LA SITUATION ?|qíng-kuàng ≈ « tching-kouang » ; doublon de noms_2 10|形势 = conjoncture|情况怎么样？|情况怎么样|un gong et un tableau
+87|闹|nao|Un NAO hurle et trépigne : ARRÊTE DE FAIRE UNE SCÈNE !|nào ≈ « nao » ; le trépignement = la scène|场景 = scène (théâtre)|别闹了！|别闹了|un nao qui trépigne
+88|回答|houei, da|Un boomerang (« HUI ») revient avec un DAuphin : J'ATTENDS TA RÉPONSE.|huí-dá ≈ « houei-da » ; le boomerang = la réponse|答复 = réponse (écrit)|我在等你的回答。|你的回答|un boomerang et un dauphin
+89|宾馆|bine, gouanne|Un BINIOU (« BIN ») joue devant un GOUAILLEUR (« GUAN ») portier : ON DORT À L'HÔTEL.|bīn-guǎn ≈ « bine-gouane » ; la clé à pompon = l'hôtel|旅馆 = auberge|我们住宾馆。|住宾馆|une clé à pompon
+90|饿|eu|« EUH… » gargouille le ventre vide : J'AI TROP FAIM !|è ≈ « eu » ; le ventre vide = la faim|饱 = rassasié|我太饿了！|我太饿了|un ventre qui gargouille
+91|种|djong|Un JONC (« ZHONG ») d'une drôle d'espèce : C'EST UNE ESPÈCE DE GÉNIE.|zhǒng ≈ « djong » ; le spécimen = l'espèce|物种 = espèce (biologie)|他是那种天才。|那种天才|un jonc spécimen
+92|事故|chie, gou|Une CHAISE (« SHI ») renversée sur un GOUrou : IL A EU UN ACCIDENT.|shì-gù ≈ « chi-gou » ; la voiture froissée = l'accident|车祸 = accident de voiture|他出了事故。|他出了事故|une chaise renversée
+93|电|dienne|Une DIENNE (« DIAN ») débranchée : IL N'Y A PLUS DE COURANT.|diàn ≈ « dienne » ; la prise = le courant|停电 = coupure de courant|停电了。|停电了|une prise débranchée
+94|酒店|djiou, dienne|Un JUDOKA (« JIU ») et une DIENNE (« DIAN ») devant « COMPLET » : L'HÔTEL EST COMPLET.|jiǔ-diàn ≈ « djiou-dienne » ; le panneau complet = l'hôtel|宾馆 = hôtel|酒店满了。|酒店满了|un panneau « complet »
+95|艰难时刻|djienne, nanne, chie, keu|Un DIEN et un NANNE poussent un rocher sur une CHAISE et un KEU : AU MOMENT LE PLUS DUR !|jiānnán shíkè ≈ « djienne-nane-chi-keu » ; la tempête = le moment difficile|难关 = passage difficile|在最艰难的时刻！|最艰难的时刻|un rocher dans la tempête
+96|信息|sine, si|Un SIGNE (« XIN ») et un SIGNE (« XI ») s'échangent des données : DES INFORMATIONS.|xìn-xī ≈ « sine-si » ; le dossier = les informations|消息 = nouvelles|急需获得信息……|获得信息|un dossier de données
+97|密码|mi, ma|Un MI (« MI ») et un cheval (« MA ») tapent des étoiles **** : LE MOT DE PASSE.|mì-mǎ ≈ « mi-ma » ; le cadenas = le mot de passe|改密码 = changer le mot de passe|您需要更改密码。|更改密码|un cadenas
+98|纸|dji|Un GÉNIE (« ZHI ») plie une feuille : T'AS UN BOUT DE PAPIER ?|zhǐ ≈ « dji » ; la feuille = le papier|cl. 张|你有张纸吗？|有张纸吗|une feuille pliée
+99|天空|tienne, kong|Une TIENNE (« TIAN ») et un KONG (« KONG ») flottent dans le bleu : LE CIEL EST BLEU.|tiān-kōng ≈ « tienne-kong » ; le nuage = le ciel|天 = ciel (court)|天空是蓝色的。|天空是蓝色的|un nuage dans le bleu

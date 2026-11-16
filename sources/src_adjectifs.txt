@@ -1,0 +1,101 @@
+# adjectifs blocs=[null, null, null, null, null, null, null, null, null, "couleurs (code MemoHugoDate)"]
+00|la (devant consonne)|la|La maison est grande.|La maison||articles
+01|le (devant consonne)|il|Le livre est sur la table.|Le livre||articles
+02|un|un|J'ai un frère.|un frère||adjectifs_cardinaux
+03|une (devant consonne)|una|J'habite dans une petite maison.|une petite maison||adjectifs_cardinaux
+04|mon|il mio|C'est mon livre.|mon livre||adjectifs_possessifs
+05|ce (livre-ci)|questo|Cette robe est belle.|Cette robe||adjectifs_démonstratifs
+06|ce (livre-là)|quello|Tu vois cette voiture-là ?|cette voiture-là||adjectifs_démonstratifs
+07|le (devant s+consonne, z, gn, ps…)|lo|Le zoo est fermé le lundi.|Le zoo||articles
+08|les (fém.)|le|Les maisons sont blanches.|Les maisons||articles
+09|les (masc., devant consonne)|i|Les enfants jouent.|Les enfants||articles
+10|ton|il tuo|C'est ton téléphone ?|ton téléphone||adjectifs_possessifs
+11|des (masc., devant consonne)|dei|J'ai acheté des livres.|des livres||articles
+12|le (devant voyelle)|l'|L'ami de Marco arrive.|L'ami||articles
+13|la (devant voyelle)|l'|L'eau est froide.|L'eau||articles
+14|son|il suo|C'est son sac à dos.|son sac||adjectifs_possessifs
+15|ma|la mia|C'est ma maison.|ma maison||adjectifs_qualificatifs
+16|du (devant consonne)|del|Tu veux du pain ?|du pain||articles
+17|des (fém.)|delle|J'ai des questions.|des questions||articles
+18|beaucoup de (masc. pl.)|molti|J'ai beaucoup d'amis.|beaucoup d'amis||adjectifs_qualificatifs
+19|bien des (masc. pl.)|molti|Bien des touristes visitent Rome en été.|Bien des touristes||adjectifs_qualificatifs
+20|bon|buono|C'est trop bon !|bon||adjectifs_qualificatifs
+21|de la (devant consonne)|della|J'achète de la farine.|de la farine||articles
+22|les (masc., devant voyelle, s+consonne, z…)|gli|Les amis arrivent ce soir.|Les amis||articles
+23|quelques|alcuni (qualche)|J'ai quelques amis ici.|quelques amis||adjectifs_indéfinis
+24|sa|la sua|C'est sa voiture.|sa voiture||adjectifs_qualificatifs
+25|votre (masc.)|il vostro|Votre train part à huit heures.|Votre train||adjectifs_possessifs
+26|cette (…-ci)|questa|Cette porte est fermée.|Cette porte||adjectifs_qualificatifs
+27|quel ?|quale|Quel livre tu veux ?|Quel livre||adjectifs_interrogatifs
+28|quel ! (exclamatif)|che !|Quel dommage !|Quel||adjectifs_exclamatifs
+29|ta|la tua|C'est ta clé ?|ta clé||adjectifs_qualificatifs
+30|une (devant voyelle)|un'|J'ai une idée !|une idée||adjectifs_cardinaux
+31|deux|due|Deux cafés, s'il vous plaît.|Deux||adjectifs_cardinaux
+32|un (devant s+consonne, z, gn, ps…)|uno|Il porte un sac à dos rouge.|un sac||adjectifs_cardinaux
+33|votre (fém.)|la vostra|C'est votre chambre.|votre chambre||adjectifs_possessifs
+34|mes (masc.)|i miei|Mes amis arrivent.|Mes amis||adjectifs_qualificatifs
+35|petit|piccolo|Il est petit, ton chien.|petit||adjectifs_qualificatifs
+36|ces …-là (masc., devant consonne)|quei|Ces gens-là sont fous.|Ces gens-là||adjectifs_démonstratifs
+37|sûr|sicuro|T'es sûr ?|sûr||adjectifs_qualificatifs
+38|seul|solo|Je suis tout seul.|seul||adjectifs_qualificatifs
+39|des (masc., devant voyelle, s+consonne, z…)|degli|J'ai des amis à Rome.|des amis||articles
+40|vrai|vero|C'est vrai !|vrai||adjectifs_qualificatifs
+41|juste|giusto|C'est juste.|juste||adjectifs_qualificatifs
+42|autre|altro|Un autre café ?|autre café||adjectifs_indéfinis
+43|un peu plus de qc|un po' più di qcs|Je veux un peu plus de temps.|un peu plus de temps|tpl|adjectifs_qualificatifs
+44|notre (masc.)|il nostro|Notre appartement est petit.|Notre appartement||adjectifs_possessifs
+45|ses (masc.)|i suoi|Ses parents habitent à Milan.|Ses parents||adjectifs_possessifs
+46|peu de (masc. sg.)|poco|J'ai peu de temps.|peu de temps||adjectifs_qualificatifs
+47|trop de (masc. sg.)|troppo|Il y a trop de bruit.|trop de bruit||adjectifs_qualificatifs
+48|cette …-là (devant consonne)|quella|Cette fille-là est ma sœur.|Cette fille-là||adjectifs_qualificatifs
+49|mes (fém.)|le mie|Où sont mes clés ?|mes clés||adjectifs_possessifs
+50|vos (masc.)|i vostri|Vos enfants sont gentils.|Vos enfants||adjectifs_qualificatifs
+51|pas mal de qc|un sacco di qcs|J'ai pas mal de choses à faire.|pas mal de choses|tpl|adjectifs_qualificatifs
+52|tes (masc.)|i tuoi|Tes parents sont là ?|Tes parents||adjectifs_qualificatifs
+53|notre (fém.)|la nostra|C'est notre maison.|notre maison||adjectifs_possessifs
+54|grand|grande|C'est une grande maison.|grande||adjectifs_qualificatifs
+55|tout (le, la, les)|tutto|Je travaille toute la journée.|toute||adjectifs_indéfinis
+56|beaucoup de (masc. sg.)|molto|J'ai beaucoup de travail.|beaucoup de travail||adjectifs_qualificatifs
+57|beau|bello|Il fait beau.|beau||adjectifs_qualificatifs
+58|de l' (devant voyelle)|dell'|Tu veux de l'eau ?|de l'eau||articles
+59|nos (masc.)|i nostri|Nos voisins sont sympas.|Nos voisins||adjectifs_qualificatifs
+60|ces (…-ci, masc.)|questi|Ces livres sont à moi.|Ces livres||adjectifs_qualificatifs
+61|toutes les|tutte le|Toutes les filles dansent.|Toutes les filles||adjectifs_qualificatifs
+62|toute (tutto, féminin)|tutta|J'ai eu peur toute ma vie.|toute||adjectifs_qualificatifs
+63|dernier|ultimo|C'est la dernière fois.|dernière||adjectifs_qualificatifs
+64|moins de qc|meno qcs|Mange moins de sucre.|moins de sucre|tpl|adjectifs_qualificatifs
+65|ses (fém.)|le sue|Ses idées sont bonnes.|Ses idées||adjectifs_possessifs
+66|ces (…-ci, fém.)|queste|Ces chaises sont neuves.|Ces chaises||adjectifs_qualificatifs
+67|bonne|buona|Bonne chance !|Bonne||adjectifs_qualificatifs
+68|tous les (masc., devant consonne)|tutti i|Tous les jours, je cours.|Tous les jours||adjectifs_qualificatifs
+69|belle (bello, féminin)|bella|Il ne t'aura pas, ma belle Carmen.|belle||adjectifs_qualificatifs
+70|aucun|nessuno|Aucun problème !|Aucun||adjectifs_indéfinis
+71|même|stesso|On a le même âge.|même||adjectifs_indéfinis
+72|tes (fém.)|le tue|Tes chaussures sont sales.|Tes chaussures||adjectifs_possessifs
+73|premier|primo|C'est la première fois.|première||adjectifs_ordinaux
+74|trois|tre|J'ai trois enfants.|trois||adjectifs_cardinaux
+75|de merde (nul)|del cazzo|C'est un boulot de merde.|de merde|loc|locutions_adjectivales
+76|tout seul|da solo|Je l'ai fait tout seul.|tout seul||locutions_adjectivales
+77|combien (de) ?|quanto|Combien de frères tu as ?|Combien de frères||adjectifs_interrogatifs
+78|désolé|dispiaciuto|Je suis vraiment désolé.|désolé||adjectifs_qualificatifs
+79|ce …-là (masc., devant consonne)|quel|Tu vois ce garçon-là ?|ce garçon-là||adjectifs_qualificatifs
+80|prêt|pronto|T'es prête ?|prête||adjectifs_qualificatifs
+81|vos (fém.)|le vostre|Vos valises sont prêtes ?|Vos valises||adjectifs_possessifs
+82|l’ensemble des choses|l'insieme delle cose|L'ensemble des élèves est là.|L'ensemble des élèves|tpl|adjectifs_qualificatifs
+83|une partie de qc|una parte di qcs|Une partie de l'argent est perdue.|Une partie de l'argent|tpl|adjectifs_qualificatifs
+84|même (stesso, féminin)|stessa|Ce n'est pas la même chose pour moi, okay ?|même||adjectifs_qualificatifs
+85|fou|pazzo|T'es fou !|fou||adjectifs_qualificatifs
+86|ces …-là (fém.)|quelle|Ces maisons-là sont anciennes.|Ces maisons-là||adjectifs_qualificatifs
+87|autre (fém. sg.)|altra|Je voudrais une autre bière.|autre bière||adjectifs_qualificatifs
+88|encore de (fém. sg.)|altra|Tu veux encore de l'eau ?|encore de l'eau||adjectifs_qualificatifs
+89|gros|grosso|C'est un gros problème.|gros||adjectifs_qualificatifs
+90|blanc|bianco|Le mur est blanc.|blanc||adjectifs_couleurs
+91|rouge|rosso|Le feu est rouge.|rouge||adjectifs_couleurs
+92|orange|arancione|Elle est orange.|orange||adjectifs_couleurs
+93|jaune|giallo|C'est jaune.|jaune||adjectifs_couleurs
+94|vert|verde|C'est vert.|vert||adjectifs_couleurs
+95|bleu|blu|C'est bleu.|bleu||adjectifs_couleurs
+96|violet|viola|C'est violet.|violet||adjectifs_couleurs
+97|marron|marrone|C'est marron.|marron||adjectifs_couleurs
+98|rose|rosa|C'est rose.|rose||adjectifs_couleurs
+99|gris|grigio|C'est gris.|gris||adjectifs_couleurs

@@ -1,0 +1,101 @@
+# noms blocs=null
+00|la chose|la cosa|C'est la chose la plus drôle de la soirée.|chose||
+01|l'homme|l'uomo|Cet homme, je le connais.|homme||
+02|le temps|il tempo|J'ai pas le temps, désolé.|temps||
+03|la vie|la vita|C'est la vie !|vie||
+04|le jour|il giorno|Un jour, je t'emmène à Rome.|jour||
+05|la femme|la donna|Cette femme est incroyable.|femme||
+06|les ans (anno, pluriel)|anni|Au moins deux ans.|ans||
+07|les choses (cosa, pluriel)|cose|Plus les choses changent et plus elles restent les mêmes, hein ?|choses||
+08|la fois|la volta|Je te l'ai dit cent fois !|fois||
+09|le besoin|il bisogno|J'ai besoin d'un café.|besoin||
+10|l'accord|l'accordo|On est d'accord, c'est un accord.|accord||
+11|le dieu|il dio|Mon Dieu, quelle chaleur !|Dieu||
+12|le père|il padre|Mon père m'appelle tous les soirs.|père||
+13|la fille|la ragazza|C'est une fille super gentille.|fille||
+14|le monde|il mondo|Le monde est petit !|monde||
+15|l'est|l'est|Le soleil se lève à l'est.|l'est||
+16|l'ami|l'amico|C'est mon meilleur ami.|ami||
+17|le monsieur|il signore|Le monsieur, là-bas, vous attend.|monsieur||
+18|l'enfant|il bambino|L'enfant dort enfin.|enfant||
+19|la mère|la madre|Ta mère a appelé.|mère||
+20|l'heure|l'ora|T'as l'heure, s'il te plaît ?|heure||
+21|les gens|la gente|Les gens sont sympas ici.|gens||
+22|la maison|la casa|Je rentre à la maison.|maison||
+23|l'année|l'anno|L'année prochaine, on part en Italie.|année||
+24|l'an|l'anno|Je pars deux fois par an.|an||
+25|le soir|la sera|Le soir, je suis crevé.|soir||
+26|le nom|il nome|C'est quoi ton nom ?|nom||
+27|la nuit|la notte|Bonne nuit, à demain !|nuit||
+28|le problème|il problema|Pas de problème !|problème||
+29|les personnes (persona, pluriel)|persone|Ces terroristes ont blessé au moins dix personnes. - Merci.|personnes||
+30|maman|la mamma|Maman, j'ai faim !|Maman||
+31|la peur|la paura|J'ai peur du noir.|peur||
+32|l'argent|i soldi|J'ai plus d'argent sur moi.|argent||
+33|la raison|la ragione|T'as raison !|raison||
+34|l'argent (somme, soutenu)|il denaro|Il veut seulement de l'argent.|argent||
+35|l'air|l'aria|T'as l'air fatigué.|air||
+36|la main|la mano|Lave-toi les mains !|mains||
+37|la mort|la morte|Elle a peur de la mort.|mort||
+38|le moment|il momento|C'est pas le moment, là.|moment||
+39|le fait|il fatto|C'est un fait.|fait||
+40|la place|la piazza|Une statue sur la place.|place||
+41|le fils|il figlio|Son fils a dix ans.|fils||
+42|la tête|la testa|J'ai mal à la tête.|tête||
+43|le coup|il colpo|Il a pris un coup sur la tête.|coup||
+44|la voiture|la macchina|On prend la voiture ?|voiture||
+45|la question|la domanda|J'ai une question.|question||
+46|l'affaire|l'affare|C'est une bonne affaire !|affaire||
+47|le truc|la roba|C'est quoi, ce truc ?|truc||
+48|la voiture (courant)|l'auto|On prend la voiture ?|voiture||
+49|les fois (volta, pluriel)|volte|Des fois c'est vraiment nul de faire ce qu'il faut.|fois||
+50|l'idée|l'idea|Bonne idée !|idée||
+51|la famille|la famiglia|Toute la famille est là.|famille||
+52|l'amour|l'amore|C'est l'amour de ma vie.|amour||
+53|la chance|la fortuna|T'as de la chance !|chance||
+54|la minute|il minuto|Attends une minute !|minute||
+55|le mec|il tizio|C'est qui, ce mec ?|mec||
+56|l'œil|l'occhio|J'ai un truc dans l'œil.|œil||
+57|le frère|il fratello|Mon frère est en retard, comme d'hab.|frère||
+58|l'histoire|la storia|Raconte-moi une histoire.|histoire||
+59|les hommes (uomo, pluriel)|uomini|Les hommes à la nouvelle maison vont t'adorer, Fanny.|hommes||
+60|le bon moment|il momento giusto|C'est juste au bon moment|moment|col|
+61|papa|il papà|Papa arrive dans dix minutes.|Papa||
+62|la personne|la persona|C'est une personne géniale.|personne||
+63|la porte|la porta|Ferme la porte, s'il te plaît.|porte||
+64|les amis (amico, pluriel)|amici|où sont mes amis?|amis||
+65|les jours (giorno, pluriel)|giorni|C'est pour ça que je viens tous les jours.|jours||
+66|le sang|il sangue|Il y a du sang sur ta chemise !|sang||
+67|le type|il tipo|C'est un drôle de type.|type||
+68|beaucoup de gens|molta gente|Il y a beaucoup de gens.|beaucoup de gens|loc|locutions_nominales
+69|la semaine|la settimana|On se voit la semaine prochaine.|semaine||
+70|le travail|il lavoro|J'ai trop de travail.|travail||
+71|le boulot (fam.)|il lavoro|Je vais au boulot à vélo.|boulot||
+72|le garçon|il ragazzo|C'est un garçon très drôle.|garçon||
+73|le gars (jeune homme)|il ragazzo|C'est un gars sympa.|gars||
+74|le mois|il mese|Le mois prochain, je déménage.|mois||
+75|la ville|la città|J'adore cette ville.|ville||
+76|le cas|il caso|Dans ce cas, on y va.|cas||
+77|le mal|il male|J'ai mal au dos.|mal||
+78|le site (web)|il sito|Qui a créé ce site ?|site||
+79|la place|il posto|Il reste une place à côté de moi.|place||
+80|le côté|il lato|Mets-toi de ce côté.|côté||
+81|la police|la polizia|Appelle la police !|police||
+82|les minutes (minuto, pluriel)|minuti|Je l'ai fait en cinq minutes dans l'obscurité.|minutes||
+83|les heures (ora, pluriel)|ore|Ce 16 octobre, à quatre heures et demie du matin.|heures||
+84|madame|la signora|Bonjour madame, vous désirez ?|madame||
+85|le reste du monde|il resto del mondo|Nous devons bien ça au monde, Ned.|monde|loc|locutions_nominales
+86|l'eau|l'acqua|Tu veux de l'eau ?|eau||
+87|la terre|la terra|Le téléphone est tombé par terre.|terre||
+88|le mot|la parola|J'ai pas compris un mot.|mot||
+89|les mains (mano, pluriel)|mani|Quelqu'un a des mains très douces.|mains||
+90|la chambre|la camera|Ta chambre est en bazar !|chambre||
+91|le matin|la mattina|Le matin, je bois un café.|matin||
+92|le reste de ma vie|il resto della mia vita|Peut-être pas pour le reste de ta vie.|reste|loc|locutions_nominales
+93|une bonne raison|una buona ragione|Il a ses raisons.|raisons|col|
+94|les dollars (dollaro, pluriel)|dollari|C'est pour ça qu'elle vaut 53 dollars.|dollars||
+95|la part|la parte|Tu veux ma part ?|part||
+96|la partie|la parte|Une partie du film est tournée à Rome.|partie||
+97|le train|il treno|Mon train part à huit heures.|train||
+98|le genre|il genere|C'est pas mon genre.|genre||
+99|la seule personne|l'unica persona|Le seul qui m'apprécie.|seul|col|

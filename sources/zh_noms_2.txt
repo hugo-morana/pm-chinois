@@ -1,0 +1,100 @@
+00|孩子们|haï, dzeu, meunne|Des ENFANTS sautent sur une HAIE de ZÈBRES qui MÈNENT la ronde.|hái-zi-men ≈ « haie-zeu-men » ; la ronde = les enfants|们 marque le pluriel des personnes ; souvent omis : 孩子|这对孩子们不适用。|孩子们|une ronde d'enfants sur une haie
+01|身体|cheune, ti|Un corps en CHAÎNE (« SHEN ») tire (« TI ») sur chaque membre : il a mal partout.|shēn-tǐ ≈ « chaîne-ti » ; la silhouette = le corps|身上 = sur le corps|我全身都疼。|全身|une silhouette enchaînée
+02|后续|ho, su|« HO ! » crie le spectateur ; un SUcre (« XU ») annonce la SUITE sur l'écran.|hòu-xù ≈ « ho-su » ; l'écran « à suivre » = la suite|下集 = l'épisode suivant|下集待续。|下集|un écran « à suivre »
+03|方式|fang, chie|Une FANGE carrée (« FANG ») posée sur une CHAISE (« SHI ») montre la FAÇON de faire.|fāng-shì ≈ « fange-chi » ; le mode d'emploi = la façon|方法 = la méthode ; 样子 = l'allure|反正已经太晚了。|反正|une fange sur une chaise
+04|地方|di, fang|Un DIable (« DI ») plante sa FANGE (« FANG ») dans un ENDROIT magnifique.|dì-fang ≈ « di-fang » ; la carte au trésor = l'endroit|cl. 个 ; 地点 = le lieu précis|这是个很美的地方。|很美的地方|un diable sur une carte
+05|头疼|to, teng|Un TOTEM (« TOU ») frappe un gong « TENG » sur ta tête : MAL DE TÊTE.|tóu-téng ≈ « tô-teng » ; la tête qui cogne = le mal de tête|头痛 = id. (écrit)|我头疼得厉害。|头疼得厉害|un totem qui frappe une tête
+06|眼睛|yienne, djing|Une YIENNE pleure du GINGEMBRE (« JING ») dans ses YEUX.|yǎn-jing ≈ « yienne-jing » ; les deux billes = les yeux|眼 = œil (écrit)|闭上眼睛。|闭上眼睛|une yienne aux yeux piquants
+07|丈夫|djang, fou|Un GENDARME (« ZHANG ») FOU porte une alliance : c'est le MARI.|zhàng-fu ≈ « jang-fou » ; l'alliance = le mari|老公 = mari (familier)|她丈夫是意大利人。|她丈夫|un gendarme à l'alliance
+08|宝宝|bao, bao|Deux BAObabs (« BAO BAO ») bercent un BÉBÉ qui pleure.|bǎo-bao ≈ « bao-bao » ; le berceau = le bébé|婴儿 = nourrisson (écrit)|宝宝在哭。|宝宝|deux baobabs et un bébé
+09|武器|ou, tchi|« HOU ! » crie un TCHI qui brandit une ARME.|wǔ-qì ≈ « hou-tchi » ; le sabre = l'arme|枪 = arme à feu|放下武器！|放下武器|un tchi au sabre
+10|情况|tching, kouang|Un CHINOIS (« QING ») frappe un gong KOUANG : on FAIT LE POINT.|qíng-kuàng ≈ « tching-kouang » ; le tableau de bord = le point (situation)|点 = point (graphique)|明天我们再看看情况。|看看情况|un gong et un tableau
+11|银|ine|Une INE (« YIN ») polit un bracelet en ARGENT brillant.|yín ≈ « ine » ; le bracelet blanc = l'argent (métal)|钱 = argent (monnaie)|一个银手镯。|银手镯|un bracelet d'argent
+12|塔|ta|Un TAMBOUR (« TA ») géant penche comme la TOUR de Pise.|tǎ ≈ « ta » ; la tour penchée = la tour|楼 = immeuble|你看过比萨斜塔吗？|比萨斜塔|un tambour penché
+13|医生|i, cheng|« I ! » crie un CHÊNE (« SHENG ») en blouse blanche : le DOCTEUR.|yī-shēng ≈ « i-cheng » ; le stéthoscope = le docteur|大夫 = docteur (oral)|得叫医生。|叫医生|un chêne en blouse
+14|电影|dienne, ing|Une DIENNE (« DIAN ») projette un INGÉ (« YING ») sur l'écran : un FILM.|diàn-yǐng ≈ « dienne-ing » ; la pellicule = le film|cl. 部|今晚看电影吗？|看电影|une pellicule
+15|消息|siao, si|Un SIAMOIS (« XIAO ») apporte un SIGNE (« XI ») : une NOUVELLE.|xiāo-xi ≈ « siao-si » ; le pigeon voyageur = la nouvelle|新闻 = les informations|这是个好消息！|好消息|un siamois et un pigeon
+16|卧室|wo, chie|Un oiseau (« WO ») dort sur une CHAISE (« SHI ») dans la CHAMBRE.|wò-shì ≈ « wo-chi » ; le lit = la chambre|房间 = pièce|卧室。|卧室|un oiseau qui dort
+17|问题|ouenne, ti|Un OUISTITI (« WEN ») tire (« TI ») un point d'interrogation : les PROBLÈMES.|wèn-tí ≈ « ouenne-ti » ; le « ? » = le problème|pas de pluriel en chinois ; 麻烦 = les ennuis|为什么要自找麻烦？|自找麻烦|un ouistiti au « ? »
+18|照片|djao, pienne|Un JAGUAR (« ZHAO ») PIÈGE (« PIAN ») ton sourire : une PHOTO.|zhào-piàn ≈ « jao-pienne » ; le flash = la photo|拍照 = prendre une photo|你能拍张照片吗？|拍张照片|un jaguar au flash
+19|小女孩|siao, nu, haï|Un SIAMOIS (« XIAO ») et un NU (« NÜ ») bordent dans une HAIE une PETITE FILLE qui dort.|xiǎo nǚ-hái ≈ « siao-nu-haï » ; la poupée = la petite fille|女孩 = fille|小女孩在睡觉。|小女孩|une poupée dans une haie
+20|男朋友|nanne, pong, yo|Un NANNE (« NAN ») PONGiste crie « YO ! » : c'est ton PETIT AMI.|nán-péng-you ≈ « nane-pong-yo » ; le cœur = le petit ami|男友 = abrégé|那是你男朋友吗？|你男朋友|un pongiste au cœur
+21|金子|djine, dzeu|Un JEAN (« JIN ») cousu de ZEU (« ZI ») d'OR brille.|jīn-zi ≈ « jine-zeu » ; le lingot = l'or|黄金 = or (métal)|闪光的不一定都是金子。|金子|un jean doré
+22|原因|yuanne, ine|Une YOURTE (« YUAN ») et une INE (« YIN ») cherchent la CAUSE de l'incendie.|yuán-yīn ≈ « yuanne-ine » ; la loupe = la cause|理由 = la raison|原因是什么？|原因|une yourte et une loupe
+23|对的地方|douei, deu, di, fang|Une DOUILLE (« DUI ») plantée sur la carte du DIable : le BON ENDROIT.|duì de dì-fang ≈ « douei-deu-di-fang » ; la croix verte = le bon endroit|找对地方了 = vous avez trouvé|你们来对地方了。坐吧。|来对地方了|une croix verte sur une carte
+24|女人们|nu, renne, meunne|Des NUS (« NÜ ») chevauchent des RENNES et MÈNENT la danse : LES FEMMES.|nǚ-rén-men ≈ « nu-renne-men » ; le groupe = les femmes|们 = pluriel|水手们和女人们！|女人们|des femmes sur des rennes
+25|一步棋|i, bou, tchi|« I » BOUc avance un pion et crie « TCHI ! » : quel COUP !|yí bù qí ≈ « i-bou-tchi » ; l'échiquier = le coup|招 = coup (astuce)|这步棋真漂亮！|这步棋|un bouc aux échecs
+26|动|dong|Un gong « DONG ! » : NE FAIS PAS UN GESTE !|dòng ≈ « dong » ; le gong qui fige = le geste (bouger)|别动 = ne bouge pas|站住！别动！|别动|un gong qui fige
+27|最后|dzouei, ho|Le ZOUAVE (« ZUI ») fait « HO ! » quand le rideau tombe : la FIN.|zuì-hòu ≈ « zouei-ho » ; le rideau = la fin|结尾 = le dénouement|最后，他答应了。|最后|un rideau qui tombe
+28|学校|sué, siao|Un SUÉdois (« XUE ») tire un SIAMOIS (« XIAO ») vers l'ÉCOLE.|xué-xiào ≈ « sué-siao » ; le cartable = l'école|上学 = aller à l'école|孩子们在学校。|在学校|un suédois et un cartable
+29|老板|lao, banne|Un vieux LAOTIEN (« LAO ») sur un BANC (« BAN ») : le CHEF grognon.|lǎo-bǎn ≈ « lao-banne » ; la cravate = le chef|领导 = le supérieur|老板心情不好。|老板|un vieux sur un banc
+30|火|houo|« HOUO ! » souffle un dragon : AU FEU !|huǒ ≈ « houo » ; la flamme = le feu|着火了 = ça brûle|着火了！|着火了|un dragon qui crache du feu
+31|剩下的|cheng, sia, deu|Un CHÊNE (« SHENG ») fait tomber (« XIA ») les DEUx derniers fruits : LE RESTE.|shèng-xia de ≈ « cheng-sia-deu » ; les miettes = le reste|零钱 = la monnaie|剩下的你留着吗？|剩下的|un chêne et des miettes
+32|好的一面|hao, deu, i, mienne|« HAO ! » : DEUx faces, « I » MIEN (« MIAN ») sourit : le BON CÔTÉ.|hǎo de yí miàn ≈ « hao-deu-i-mienne » ; la face souriante = le bon côté|优点 = qualité|你们也有好的一面。|好的一面|une pièce à face souriante
+33|唯一的理由|ouei, i, deu, li, yo|Un OUISTITI (« WEI ») dit « I » et montre DEUx LIts : « YO ! » la SEULE RAISON.|wéiyī de lǐyóu ≈ « ouei-i-deu-li-yo » ; le doigt levé = la seule raison|只是因为 = juste parce que|这是唯一的理由吗？|唯一的理由|un ouistiti au doigt levé
+34|姑娘们|gou, niang, meunne|Des GOUrous NIANGnian MÈNENT la danse : LES FILLES.|gū-niang-men ≈ « gou-niang-men » ; les nattes = les filles|女孩们 = les filles|我想更了解一下姑娘们。|姑娘们|des filles à nattes
+35|事|chie|Un CHIEN (« SHI ») traîne une valise louche : une SALE AFFAIRE.|shì ≈ « chi » ; la valise = l'affaire|事情 = id. ; 生意 = affaire commerciale|这是件糟糕的事。|糟糕的事|un chien et une valise louche
+36|这件事|djeu, djienne, chie|Un DIEN (« JIAN ») pointe le CHIEN (« SHI ») : je ne me mêle pas de CETTE HISTOIRE.|zhè jiàn shì ≈ « jeu-djienne-chi » ; la valise fermée = l'histoire|件 = classificateur des affaires|我不想管这件事。|这件事|un dien et un chien
+37|战争|djanne, djeng|Un GENDARME (« ZHAN ») frappe un gong « DJENG ! » : la GUERRE.|zhàn-zhēng ≈ « jane-djeng » ; le casque = la guerre|打仗 = faire la guerre|我爷爷打过仗。|打过仗|un gendarme casqué
+38|狗|go|Un GOGO (« GOU ») de chien mord le facteur.|gǒu ≈ « go » ; la gueule = le chien|cl. 只 ; 小狗 = chiot|小心，狗咬人！|狗咬人|un chien qui mord
+39|月|yué|Un YUÉ (« YUE ») de lunes défile : LES MOIS.|yuè ≈ « yué » ; la lune = le mois|个月 = mois (durée)|大概九个月。|九个月|des lunes qui défilent
+40|游戏|yo, si|Un rappeur « YO ! » joue avec un SIGNE (« XI ») : c'est qu'un JEU !|yóu-xì ≈ « yo-si » ; le dé = le jeu|比赛 = le match|只是个游戏！|游戏|un rappeur aux dés
+41|命令|ming, ling|Une lampe MING et un LINGOT : c'est un ORDRE !|mìng-lìng ≈ « ming-ling » ; le doigt pointé = l'ordre|顺序 = l'ordre (succession)|收拾你的房间，这是命令！|这是命令|une lampe et un doigt pointé
+42|真相|djeune, siang|Un JEUNE (« ZHEN ») dévoile un SIANGE (« XIANG ») : la VÉRITÉ.|zhēn-xiàng ≈ « jeune-siang » ; le voile levé = la vérité|实话 = paroles vraies|告诉我真相。|告诉我真相|un voile levé
+43|脚|djiao|Un JAGUAR (« JIAO ») marche sur ton PIED.|jiǎo ≈ « jiao » ; la trace = le pied|脚趾 = orteil|我脚疼。|我脚疼|un jaguar sur un pied
+44|想|siang|Un SIANGE (« XIANG ») bave devant une glace : l'ENVIE.|xiǎng ≈ « siang » ; la bave = l'envie|想吃 = avoir envie de manger|我想吃冰淇淋。|我想吃冰淇淋|un siange devant une glace
+45|权利|tchuanne, li|Un CHOUAN (« QUAN ») tient un LIvre de loi : T'AS PAS LE DROIT !|quán-lì ≈ « tchuanne-li » ; le marteau = le droit|不许 = interdit|你没有权利！|你没有权利|un chouan au marteau
+46|办公室|banne, gong, chie|Un BANC (« BAN »), un GONG et une CHAISE (« SHI ») : le BUREAU.|bàn-gōng-shì ≈ « bane-gong-chi » ; le classeur = le bureau|公司 = la société|我还在办公室。|在办公室|un bureau avec un gong
+47|脚|djiao|Les JAGUARS (« JIAO ») ont les PIEDS gelés (pas de pluriel).|jiǎo ≈ « jiao » ; doublon de 43 : le chinois n'a pas de pluriel|双脚 = les deux pieds|你们的脚都冻僵了！|脚都冻僵了|des pieds gelés
+48|心|sine|Un SIGNE (« XIN ») rouge bat : le CŒUR se brise.|xīn ≈ « sine » ; le cœur rouge = le cœur|心脏 = l'organe|这让我心都碎了。|心都碎了|un cœur brisé
+49|国家|go, djia|Un GOGO (« GUO ») de JIA (« JIA ») plante un drapeau : un beau PAYS.|guó-jiā ≈ « go-djia » ; le drapeau = le pays|国 = pays (court)|这是个美丽的国家。|美丽的国家|un drapeau planté
+50|书|chou|Un CHOU (« SHU ») tourne les pages d'un LIVRE.|shū ≈ « chou » ; le livre = le livre|cl. 本|你把我的书还给我了吗？|我的书|un chou qui lit
+51|一天|i, tienne|« I ! » : une TIENNE (« TIAN ») court du lever au coucher : quelle JOURNÉE !|yì tiān ≈ « i-tienne » ; le soleil qui tourne = la journée|今天 = aujourd'hui|真是疯狂的一天！|疯狂的一天|un soleil qui tourne
+52|唯一的办法|ouei, i, deu, banne, fa|Un OUISTITI (« WEI ») dit « I » et montre DEUx BANCS-FAkirs : le SEUL MOYEN.|wéiyī de bànfǎ ≈ « ouei-i-deu-bane-fa » ; la seule porte = le seul moyen|只能 = on ne peut que|但这是唯一的办法。|唯一的办法|une seule porte
+53|儿子们|eur, dzeu, meunne|Un LEURRE (« ER ») et des ZÈBRES (« ZI ») MÈNENT : LES FILS cadets.|ér-zi-men ≈ « eur-zeu-men » ; les deux garçons = les fils|们 = pluriel|两个小儿子，是好朋友。|小儿子|deux garçons
+54|忙|mang|Un MANGOUSTE (« MANG ») débordée te demande un SERVICE.|máng ≈ « mang » ; les bras pleins = le service (aide)|帮忙 = rendre service|你能帮我个忙吗？|帮我个忙|une mangouste débordée
+55|值得|dji, deu|Un GÉNIE (« ZHI ») pèse DEUx pièces : ça VAUT LA PEINE ?|zhí-de ≈ « dji-deu » ; la balance = la peine (ça vaut)|不值得 = ça ne vaut pas la peine|不值得。|不值得|un génie à la balance
+56|信任|sine, renne|Un SIGNE (« XIN ») de RENNE : la CONFIANCE.|xìn-rèn ≈ « sine-renne » ; la main tendue = la confiance|相信 = croire|我信任你。|我信任你|une main tendue à un renne
+57|帮助|bang, djou|Un BANG ! et un JOUJOU (« ZHU ») tendu : l'AIDE.|bāng-zhù ≈ « bang-djou » ; la bouée = l'aide|帮忙 = aider|你需要帮助吗？|需要帮助|une bouée tendue
+58|新生活|sine, cheng, houo|Un SIGNE (« XIN ») neuf, un CHÊNE et un HOUO : UNE NOUVELLE VIE.|xīn shēnghuó ≈ « sine-cheng-houo » ; la page blanche = la nouvelle vie|重新开始 = recommencer|新的生活。|新的生活|une page blanche
+59|整座城市|djeng, dzwo, tcheng, chie|Un gong « DJENG ! » et un ZORRO (« ZUO ») soulèvent TOUTE LA VILLE.|zhěng zuò chéngshì ≈ « djeng-dzwo-tcheng-chi » ; la ville entière = toute la ville|全城 = toute la ville|整座城市都是你们的。|整座城市|une ville soulevée
+60|一圈|i, tchuanne|« I » CHOUAN (« QUAN ») fait UN TOUR en vélo.|yì quān ≈ « i-tchuanne » ; le cercle = le tour|转转 = faire un tour|我们去转一圈？|转一圈|un chouan en vélo
+61|轮|louenne|Une LUNE (« LUN ») tourne : c'est TON TOUR.|lún ≈ « louenne » ; la roue = le tour (de rôle)|轮到你了 = à ton tour|轮到你了。|轮到你了|une lune qui tourne
+62|一会儿|i, houeur|« I » boomerang revient (« HUIR ») : UN INSTANT !|yí huìr ≈ « i-houeur » ; le doigt levé = l'instant|马上 = tout de suite|等一会儿，我马上来！|等一会儿|un doigt levé
+63|电话|dienne, houa|Une DIENNE (« DIAN ») tend une fleur (« HUA ») qui sonne : le TÉLÉPHONE.|diàn-huà ≈ « dienne-houa » ; le combiné = le téléphone|手机 = portable|你电话响了！|你电话响了|une fleur qui sonne
+64|号码|hao, ma|« HAO ! » crie le cheval (« MA ») en montrant son NUMÉRO.|hào-mǎ ≈ « hao-ma » ; le dossard = le numéro|电话号码 = numéro de téléphone|给我你的号码？|你的号码|un cheval au dossard
+65|婚礼|houenne, li|Un HOUÉ (« HUN ») et un LIT (« LI ») fleuri : le MARIAGE.|hūn-lǐ ≈ « houenne-li » ; le voile = le mariage (cérémonie)|婚姻 = le mariage (union)|婚礼在星期六。|婚礼|un lit fleuri
+66|场所|tchang, souo|Un CHANT (« CHANG ») et un SUMO (« SUO ») dans un LIEU magnifique.|chǎng-suǒ ≈ « tchang-souo » ; la scène = le lieu|地方 = l'endroit|这是个很美的场所。|很美的场所|un sumo qui chante
+67|事务|chie, ou|Un CHIEN (« SHI ») range des dossiers « HOU ! » : MES AFFAIRES.|shì-wù ≈ « chi-hou » ; les dossiers = les affaires|生意 = affaires (commerce)|请您尽量处理好我的事务。|我的事务|un chien et des dossiers
+68|派对|paï, douei|Une PAÏlotte (« PAI ») et une DOUILLE (« DUI ») font la FÊTE.|pài-duì ≈ « paï-douei » ; les ballons = la fête|聚会 = réunion ; 节日 = fête (calendrier)|今晚我们开派对。|开派对|des ballons de fête
+69|数|chou|Un CHOU (« SHU ») compte les pièces : LE COMPTE EST BON.|shù ≈ « chou » ; le boulier = le compte|账 = le compte (dette)|数对了。|数对了|un chou au boulier
+70|计划|dji, houa|Un GÉNIE (« JI ») dessine une fleur (« HUA ») : J'AI UN PLAN.|jì-huà ≈ « dji-houa » ; le plan = le plan|打算 = intention|我有个计划。|我有个计划|un génie qui dessine
+71|乐意|leu, i|Un LEURRE (« LE ») dit « I ! » : AVEC PLAISIR !|lè-yì ≈ « leu-i » ; le sourire = le plaisir|快乐 = joie|我很乐意！|很乐意|un leurre souriant
+72|好消息|hao, siao, si|« HAO ! » : le SIAMOIS apporte un SIGNE (« XIAOXI ») : BONNE NOUVELLE.|hǎo xiāoxi ≈ « hao-siao-si » ; le pigeon joyeux = la bonne nouvelle|喜讯 = heureuse nouvelle|好消息。|好消息|un pigeon joyeux
+73|世界末日|chie, djié, mo, ri|Sur une CHAISE (« SHI »), un JET (« JIE ») et un MOT (« MO ») regardent le RIDEAU (« RI ») : LA FIN DU MONDE.|shìjiè mòrì ≈ « chi-djié-mo-ri » ; le globe qui explose = la fin du monde|末日 = jour dernier|我们的世界会有末日。|末日|un globe qui explose
+74|杯|beille|Une BEILLE (« BEI ») trinque : ON BOIT UN VERRE ?|bēi ≈ « beille » ; le verre = le verre|杯子 = le verre (objet)|我们去喝一杯？|喝一杯|une beille qui trinque
+75|床|tchouang|Un CHOUAN (« CHUANG ») saute sur le LIT.|chuáng ≈ « tchouang » ; le lit = le lit|上床睡觉 = aller au lit|我去睡觉了。|睡觉|un chouan sur un lit
+76|错|tsuo|Une CROIX (« CUO ») rouge : C'EST PAS MA FAUTE !|cuò ≈ « tsuo » ; la croix = la faute|怪 = blâmer|不是我的错！|不是我的错|une croix rouge
+77|船长|tchouanne, djang|Un CHOUAN (« CHUAN ») et un GENDARME (« ZHANG ») à la barre : OUI, CAPITAINE !|chuán-zhǎng ≈ « tchouanne-djang » ; la casquette = le capitaine|队长 = capitaine (équipe)|是，船长！|船长|un gendarme à la barre
+78|最后的机会|dzouei, ho, deu, dji, houei|Le ZOUAVE (« ZUI ») fait « HO ! » et lance un dernier boomerang (« JIHUI ») : MA DERNIÈRE CHANCE ?|zuìhòu de jīhuì ≈ « zouei-ho-deu-dji-houei » ; le dernier billet = la dernière chance|最后一次 = la dernière fois|我最后的机会？|最后的机会|un dernier billet
+79|队|douei|Une DOUILLE (« DUI ») de joueurs en maillot : TON ÉQUIPE ?|duì ≈ « douei » ; le maillot = l'équipe|球队 = équipe sportive|你支持哪个队？|哪个队|des joueurs en maillot
+80|路|lou|Un LOUP (« LU ») trotte sur la ROUTE.|lù ≈ « lou » ; la route = la route|在路上 = en route|我们在路上。|在路上|un loup sur la route
+81|年轻人|niène, tching, renne|Un NIAIS (« NIAN ») CHINOIS (« QING ») salue un RENNE : le JEUNE HOMME poli.|nián-qīng-rén ≈ « niène-tching-renne » ; la casquette = le jeune|小伙子 = jeune homme (oral)|这个年轻人很有礼貌。|年轻人|un jeune poli
+82|什么样的人|cheune, meu, yang, deu, renne|Une CHAÎNE, une MEULE, un YANG et DEUx RENNES : QUEL GENRE DE PERSONNE ?|shénmeyàng de rén ≈ « cheune-meu-yang-deu-renne » ; le « ? » sur la silhouette = quel genre|哪种 = quel type|什么样的？|什么样的|une silhouette « ? »
+83|年轻女子|niène, tching, nu, dzeu|Un NIAIS CHINOIS (« NIANQING ») et un NU (« NÜ ») ZÉZAIENT : UNE JEUNE FEMME.|niánqīng nǚzǐ ≈ « niène-tching-nu-dzeu » ; le chignon = la jeune femme|姑娘 = jeune fille (oral)|她现在是个年轻女子了。|年轻女子|une jeune femme au chignon
+84|监狱|djienne, yu|Un DIEN (« JIAN ») et un YOUYOU (« YU ») derrière des barreaux : la PRISON.|jiān-yù ≈ « djienne-yu » ; les barreaux = la prison|坐牢 = être en prison|他在坐牢。|坐牢|des barreaux
+85|头脑|to, nao|Un TOTEM (« TOU ») et un NAO-cerveau vif : L'ESPRIT.|tóu-nǎo ≈ « to-nao » ; l'ampoule = l'esprit|精神 = esprit (moral)|他头脑很灵活。|头脑很灵活|un totem à l'ampoule
+86|小心|siao, sine|Un SIAMOIS (« XIAO ») fait un SIGNE (« XIN ») : FAIS ATTENTION !|xiǎo-xīn ≈ « siao-sine » ; le panneau ⚠ = l'attention|注意 = faire attention|小心！|小心|un siamois au panneau ⚠
+87|女孩|nu, haï|Un NU (« NÜ ») chante dans une HAIE (« HAI ») : la JEUNE FILLE.|nǚ-hái ≈ « nu-haï » ; les nattes = la jeune fille|姑娘 = id.|那个女孩在唱歌。|那个女孩|une fille qui chante
+88|国王|go, ouang|Un GOGO (« GUO ») couronné, roi WANG : le ROI est mort.|guó-wáng ≈ « go-ouang » ; la couronne = le roi|皇帝 = empereur|国王死了。|国王死了|un gogo couronné
+89|回来|houei, laï|Un boomerang (« HUI ») revient avec une LAIE (« LAI ») : à mon RETOUR.|huí-lai ≈ « houei-laï » ; le boomerang = le retour|回去 = repartir|等我回来见。|等我回来|un boomerang et une laie
+90|房间|fang, djienne|Une FANGE (« FANG ») et un DIEN (« JIAN ») dans une PIÈCE.|fáng-jiān ≈ « fang-djienne » ; la porte = la pièce|卧室 = chambre|回你的房间去。|你的房间|une porte de pièce
+91|音乐|ine, yué|Une INE (« YIN ») joue un YUÉ (« YUE ») : MONTE LA MUSIQUE !|yīn-yuè ≈ « ine-yué » ; la note = la musique|歌 = chanson|把音乐开大点！|音乐|une note de musique
+92|卡|ka|Un KAKI (« KA ») tend une CARTE.|kǎ ≈ « ka » ; la carte bancaire = la carte|地图 = carte (géo)|你有卡吗？|你有卡吗|une carte tendue
+93|说到|chouo, d'ao|Le CHOUchou arrive (« DAO ») : À CE PROPOS, tu viens ?|shuō-dào ≈ « chouo-dao » ; la flèche = le propos|关于 = au sujet de|说到这个，你来吗？|说到这个|un chouchou qui arrive
+94|爱情故事|aille, tching, gou, chie|AÏE ! un CHINOIS (« QING ») et un GOUrou racontent sur une CHAISE : une HISTOIRE D'AMOUR.|àiqíng gùshi ≈ « aille-tching-gou-chi » ; le cœur et le livre = l'histoire d'amour|恋爱 = être amoureux|一个爱情故事！|爱情故事|un livre au cœur
+95|话|houa|Une fleur (« HUA ») qui parle : SEULEMENT AVEC DES MOTS.|huà ≈ « houa » ; la bulle = les mots|词 = mot (vocabulaire)|只用话语。|话语|une fleur qui parle
+96|样子|yang, dzeu|Le YANG et un ZEU (« ZI ») dans un miroir : REGARDE DANS QUEL ÉTAT T'ES !|yàng-zi ≈ « yang-zeu » ; le miroir = l'état (allure)|状态 = l'état|看看你这副样子！|你这副样子|un miroir
+97|梦|meng|Un MANGOUSTE endormi fait « MENG » : C'ÉTAIT UN RÊVE.|mèng ≈ « meng » ; le nuage = le rêve|做梦 = rêver|那是个梦。|是个梦|une mangouste qui rêve
+98|课|keu|Un KEU (« KE ») au tableau : JE SUIS UN COURS D'ITALIEN.|kè ≈ « keu » ; le tableau = le cours|上课 = aller en cours|我在上意大利语课。|意大利语课|un keu au tableau
+99|特工|teu, gong|Un TEUfeur frappe un GONG en lunettes noires : un AGENT du FBI.|tè-gōng ≈ « teu-gong » ; les lunettes noires = l'agent|警察 = policier|他是联邦调查局的特工。|特工|un teufeur en lunettes noires

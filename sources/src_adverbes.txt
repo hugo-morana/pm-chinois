@@ -1,0 +1,101 @@
+# adverbes blocs=null
+00|ne… pas|non|Je sais pas.|pas||adverbes_négation
+01|pas|non|C'est pas grave.|C'est pas||adverbes
+02|qn ne fait que qc|qcn non fa altro che qcs|Je ne bois que de l'eau.|ne bois que de l'eau|tpl|locutions_adverbiales
+03|bien|bene|Ça va bien ?|bien||adverbes_manière
+04|non|no|Non, merci.|Non||adverbes_négation
+05|plus (davantage)|più|J'en veux plus.|plus||adverbes_quantité
+06|si (réponse à une négation)|sì|— Tu ne viens pas ? — Si !|Si||adverbes_affirmation
+07|il y a longtemps|molto tempo fa|Je l'ai vu il y a trois jours.|il y a trois jours|tpl|locutions_adverbiales
+08|ici|qui (qua)|Viens ici !|ici||adverbes_lieu
+09|oui|sì|Oui, je viens.|Oui||adverbes_affirmation
+10|comme ça|così|Fais comme ça.|comme ça||locutions_adverbiales
+11|là|lì (là)|Pose-le là.|là||adverbes_lieu
+12|pourquoi ?|perché ?|Pourquoi ?|Pourquoi||adverbes_interrogatifs
+13|plus… plus|più… più|Plus je travaille, plus je gagne.|Plus|tpl|adverbes_corrélation
+14|pas du tout|per niente|J'aime pas du tout.|pas du tout|loc|locutions_adverbiales
+15|au plus|al massimo|Ça coûte dix euros au plus.|au plus|loc|locutions_adverbiales
+16|qn ne fait rien|qcn non fa niente|Je ne vois rien.|ne vois rien|tpl|locutions_adverbiales
+17|tout à fait|proprio|C'est tout à fait ça.|tout à fait||locutions_adverbiales
+18|qn ne fait pas du tout|qcn non fa per niente|Je n'aime pas du tout ça.|n'aime pas du tout|tpl|locutions_adverbiales
+19|qn ne fait pas non plus qc.|qcn non fa neanche|Je ne veux pas non plus.|ne veux pas non plus|tpl|locutions_adverbiales
+20|très|molto|C'est très bon.|très||adverbes_intensité
+21|de plus en plus|sempre più|Il fait de plus en plus chaud.|de plus en plus|loc|locutions_adverbiales
+22|aussi|anche|Moi aussi.|aussi||adverbes_comparaison
+23|ne… plus|non… più|Il y en a plus.|plus|tpl|adverbes_négation
+24|jamais|mai|Je l'ai jamais vu.|jamais vu||adverbes_fréquence
+25|pas très beau|non molto bello|C'est pas très loin.|pas très loin|tpl|locutions_adverbiales
+26|à jamais|per sempre|C'est fini à jamais.|à jamais|loc|locutions_adverbiales
+27|tout au plus|tutt'al più|Il a tout au plus vingt ans.|tout au plus|loc|locutions_adverbiales
+28|de même|lo stesso|Il en va de même pour toi.|de même||locutions_adverbiales
+29|qn ne fait jamais qc|qcn non fa mai|Je ne mens jamais.|ne mens jamais|tpl|locutions_adverbiales
+30|vraiment|davvero|Vraiment ?|Vraiment||adverbes_affirmation
+31|encore|ancora|Encore un peu !|Encore||adverbes_temps
+32|maintenant|adesso (ora)|Maintenant, ça suffit.|Maintenant||adverbes_temps
+33|toujours|sempre|Je t'aimerai toujours.|toujours||adverbes_fréquence
+34|au juste|esattamente|Qu'est-ce que tu veux au juste ?|au juste||locutions_adverbiales
+35|pas encore|non ancora|Il est pas encore là.|pas encore|loc|locutions_adverbiales
+36|toujours pas|ancora non|Il est toujours pas rentré.|toujours pas|loc|locutions_adverbiales
+37|je ne sais où|chissà dove|Il est parti je ne sais où.|je ne sais où|loc|locutions_adverbiales
+38|je veux dire|voglio dire|Je veux dire, c'est bizarre.|Je veux dire|loc|locutions_adverbiales
+39|par ici|di qua|Viens par ici.|par ici|loc|locutions_adverbiales
+40|d’ici là|nel frattempo|D'ici là, repose-toi.|D'ici là|loc|locutions_adverbiales
+41|non plus|nemmeno|Lui non plus ne le sait pas.|non plus||locutions_adverbiales
+42|peut-être|forse|Peut-être demain.|Peut-être||adverbes_doute
+43|à tout jamais|per sempre|Je t'aimerai à tout jamais.|à tout jamais|loc|locutions_adverbiales
+44|qn ne fait pas toujours qc|qcn non fa sempre|Il ne vient pas toujours.|ne vient pas toujours|tpl|locutions_adverbiales
+45|comment ?|come ?|Comment ça va ?|Comment||adverbes_interrogatifs
+46|par là|di là|C'est par là.|par là|loc|locutions_adverbiales
+47|je ne sais comment|chissà come|Il a réussi je ne sais comment.|je ne sais comment|loc|locutions_adverbiales
+48|non plus|neanche|Moi non plus.|non plus||locutions_adverbiales
+49|d'accord|d'accordo (va bene)|D'accord, on fait comme ça.|D'accord||adverbes_affirmation
+50|trop|troppo|C'est trop cher.|trop cher||adverbes_intensité
+51|tout le temps|sempre|Il pleut tout le temps.|tout le temps||locutions_adverbiales
+52|pas sûr|non sicuro|Je suis pas sûr.|pas sûr|loc|locutions_adverbiales
+53|un peu plus|un po' di più|Mange un peu plus.|un peu plus|loc|locutions_adverbiales
+54|en avant|in avanti|Va en avant.|en avant|loc|locutions_adverbiales
+55|quand même|comunque|Merci quand même.|quand même||locutions_adverbiales
+56|bien sûr|certo|Bien sûr que je viens !|Bien sûr||adverbes_affirmation
+57|beaucoup|molto|Il mange beaucoup.|beaucoup||adverbes_intensité
+58|déjà|già|T'as déjà fini ?|déjà||adverbes_temps
+59|pas mal|niente male|Pas mal, ton idée !|Pas mal|loc|locutions_adverbiales
+60|de beaucoup|di gran lunga|C'est de beaucoup le meilleur.|de beaucoup|loc|locutions_adverbiales
+61|cette fois|questa volta|Cette fois, c'est la bonne.|Cette fois|loc|locutions_adverbiales
+62|mieux|meglio|C'est mieux comme ça.|mieux||adverbes_manière
+63|je veux bien moi je veux bien|volentieri|Un café ? Je veux bien.|Je veux bien||locutions_adverbiales
+64|quelque peu|alquanto|Il est quelque peu fatigué.|quelque peu fatigué||locutions_adverbiales
+65|comme tout le monde|come tutti|Je fais comme tout le monde.|comme tout le monde|loc|locutions_adverbiales
+66|de temps à autre|di tanto in tanto|Je le vois de temps à autre.|de temps à autre|loc|locutions_adverbiales
+67|à la maison|a casa|Je suis à la maison.|à la maison|loc|locutions_adverbiales
+68|peu à peu|poco a poco|Peu à peu, ça va mieux.|Peu à peu|loc|locutions_adverbiales
+69|deux fois|due volte|Je l'ai vu deux fois.|deux fois|loc|locutions_adverbiales
+70|juste|solo|Juste un café.|Juste||adverbes_spécificatifs
+71|ce soir|stasera|On se voit ce soir ?|ce soir||adverbes_temps
+72|de temps en temps|ogni tanto|Je le vois de temps en temps.|de temps en temps|loc|locutions_adverbiales
+73|en peu de temps|in poco tempo|Il a appris en peu de temps.|en peu de temps|loc|locutions_adverbiales
+74|l'autre fois|l'altra volta|L'autre fois, il pleuvait.|L'autre fois|loc|locutions_adverbiales
+75|dans peu de temps|tra poco|Il arrive dans peu de temps.|dans peu de temps|loc|locutions_adverbiales
+76|moins|meno|Moins vite !|Moins vite||adverbes_quantité
+77|mal|male|Ça va mal.|mal||adverbes_manière
+78|vite|in fretta|Viens vite !|vite|loc|locutions_adverbiales
+79|pour le moment|per il momento|Pour le moment, ça va.|Pour le moment|loc|locutions_adverbiales
+80|pour le moins|a dir poco|C'est bizarre, pour le moins.|pour le moins|loc|locutions_adverbiales
+81|au moins|almeno|Au moins, t'es là.|Au moins||adverbes_quantité
+82|en ce moment|in questo momento|Je suis occupé en ce moment.|en ce moment|loc|locutions_adverbiales
+83|assez|abbastanza|C'est assez !|assez||adverbes_intensité
+84|depuis peu|da poco|Il habite ici depuis peu.|depuis peu|loc|locutions_adverbiales
+85|cette nuit|stanotte|J'ai mal dormi cette nuit.|cette nuit||locutions_adverbiales
+86|en tête|in testa|Il est en tête.|en tête|loc|locutions_adverbiales
+87|une ou deux fois|una o due volte|Je l'ai vu une ou deux fois.|une ou deux fois|loc|locutions_adverbiales
+88|eh bien|ebbene|Eh bien, on y va ?|Eh bien||locutions_adverbiales
+89|tout au moins|almeno|Dis-lui merci, tout au moins.|tout au moins||locutions_adverbiales
+90|demain|domani|À demain !|demain||adverbes_temps
+91|aujourd'hui|oggi|Aujourd'hui, il fait beau.|Aujourd'hui||adverbes_temps
+92|tant|tanto|Il a tant changé.|tant||adverbes
+93|l'autre jour|l'altro giorno|Je l'ai vu l'autre jour.|l'autre jour|loc|locutions_adverbiales
+94|vite fait|velocemente|Je mange vite fait.|vite fait||locutions_adverbiales
+95|tard|tardi|Il est tard.|tard||adverbes_temps
+96|comme on sait|come sappiamo|Comme on sait, c'est difficile.|Comme on sait|loc|locutions_adverbiales
+97|tant que ça|così tanto|J'ai pas faim tant que ça.|tant que ça|loc|locutions_adverbiales
+98|jusqu'alors|fino ad allora|Jusqu'alors, tout allait bien.|Jusqu'alors|loc|locutions_adverbiales
+99|Avant cela, qn fait qc.|Prima di questo, qcn fa qcs|Avant cela, il vivait à Rome.|Avant cela|tpl|locutions_adverbiales

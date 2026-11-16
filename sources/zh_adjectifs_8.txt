@@ -1,0 +1,100 @@
+00|敏感|mine, ganne|Une MINE (« MIN ») délicate dans un GANT de soie se froisse : IL EST TRÈS SUSCEPTIBLE (doublon d'adjectifs_5 57).|mǐngǎn ≈ « mine-gane » ; doublon|小心眼 = rancunier|他很敏感。|他很敏感|une mine froissée
+01|我想的那些|wo, siang, deu, na, sié|L'oiseau penseur montre DEUx amis au NAIN et à des SIÉ : LES AMIS AUXQUELS JE PENSE (doublon d'adjectifs_7 84).|wǒ xiǎng de nàxiē ≈ « wo-siang-deu-na-sié » ; doublon|的 = relatif|我想的那些朋友。|我想的那些朋友|une bulle de pensée
+02|最常用|dzouei, tchang, yong|Le ZOUAVE (« ZUI »), un CHAMEAU (« CHANG ») et un couteau (« YONG ») usé : LES MOTS LES PLUS COURANTS.|zuì chángyòng ≈ « zouei-tchang-yong » ; l'outil usé = les plus courants|常见 = fréquent|最常用的词。|最常用的词|un outil usé
+03|烂醉|lanne, dzouei|Un LANDAU (« LAN ») emporte un ZOUAVE (« ZUI ») ivre mort : IL ÉTAIT COMPLÈTEMENT BOURRÉ.|lànzuì ≈ « lane-dzouei » ; la bouteille vide = bourré|喝醉 = ivre|他当时烂醉如泥。|烂醉如泥|une bouteille vide
+04|必须|bi, su|Une BILLE (« BI ») et un SUcre (« XU ») obligatoires sur le formulaire : C'EST OBLIGATOIRE.|bìxū ≈ « bi-su » ; l'astérisque rouge = obligatoire|一定要 = il faut|这是必须的。|这是必须的|un astérisque rouge
+05|前|tchienne|Une CHIENNE (« QIAN ») sur le siège avant : LE SIÈGE AVANT EST LIBRE.|qián ≈ « tchienne » ; la flèche avant = antérieur|后 = arrière|前座空着。|前座空着|une chienne sur le siège avant
+06|无所谓|ou, souo, ouei|Un HOU, un SUMO et un OUISTITI haussent les épaules : ÇA M'EST INDIFFÉRENT.|wúsuǒwèi ≈ « hou-souo-ouei » ; le haussement = indifférent|随便 = comme tu veux|我无所谓。|我无所谓|un haussement d'épaules
+07|十八|chie, ba|Une CHAISE (« SHI ») et un BAobab soufflent dix-huit bougies : DIX-HUIT ANS.|shíbā ≈ « chi-ba » ; les dix-huit bougies = dix-huit|成年 = majeur|十八岁。|十八岁|dix-huit bougies
+08|第七|di, tchi|Un DIable et un TCHI (« QI ») au septième nuage : JE SUIS AU SEPTIÈME CIEL.|dìqī ≈ « di-tchi » ; le septième nuage = septième|开心极了 = aux anges|我高兴得像上了天。|高兴得像上了天|un septième nuage
+09|极小|dji, siao|Un GÉNIE minuscule et un SIAMOIS microscopique : J'HABITE DANS UNE CHAMBRE MINUSCULE (doublon d'adjectifs_7 79).|jí xiǎo ≈ « dji-siao » ; doublon|很小 = très petit|我住在一个极小的房间里。|极小的房间|une chambre minuscule
+10|不错|bou, tsuo|Un BOUc efface la CROIX (« CUO ») : C'EST CHOUETTE !|búcuò ≈ « bou-tsuo » ; le pouce levé = chouette|挺好 = assez bien|真不错！|真不错|un pouce levé
+11|最大|dzouei, da|Le ZOUAVE (« ZUI ») sur le plus grand DAuphin : C'EST LE MAXIMUM.|zuìdà ≈ « zouei-da » ; la jauge au max = maximum|最多 = au plus|这是最大限度了。|最大限度|une jauge au max
+12|平庸|ping, yong|Un PINGOUIN (« PING ») avec un couteau (« YONG ») émoussé : C'EST MÉDIOCRE.|píngyōng ≈ « ping-yong » ; la note 10/20 = médiocre|一般 = moyen|这很平庸。|这很平庸|un 10/20
+13|慢|manne|Un MANNEQUIN escargot sur un câble : LA CONNEXION EST LENTE (doublon d'adjectifs_7 51).|màn ≈ « mane » ; doublon|网速慢 = réseau lent|网速很慢。|网速很慢|un escargot sur un câble
+14|十七|chie, tchi|Une CHAISE (« SHI ») et un TCHI (« QI ») soufflent dix-sept bougies : DIX-SEPT ANS.|shíqī ≈ « chi-tchi » ; les dix-sept bougies = dix-sept|十七岁 = dix-sept ans|十七岁。|十七岁|dix-sept bougies
+15|六十|lio, chie|Un LION (« LIU ») sur une CHAISE (« SHI ») souffle soixante bougies : SOIXANTE ANS.|liùshí ≈ « lio-chi » ; les soixante bougies = soixante|六十岁 = soixante ans|六十岁。|六十岁|soixante bougies
+16|话多|houa, dwo|Une fleur (« HUA ») qui parle en DUO sans arrêt : IL EST BAVARD.|huà duō ≈ « houa-dwo » ; la bulle infinie = bavard|话痨 = moulin à paroles|他话很多。|他话很多|une bulle infinie
+17|幸会|sing, houei|Un SINGE (« XING ») serre la main d'un boomerang (« HUI ») : ENCHANTÉ !|xìnghuì ≈ « sing-houei » ; la poignée de main = enchanté|很高兴认识你 = ravi de te connaître|幸会！|幸会|une poignée de main
+18|酸|souanne|Un SOUANNE (« SUAN ») mord un citron : C'EST ACIDE.|suān ≈ « souane » ; le citron = acide|甜 = sucré|这很酸。|这很酸|un citron mordu
+19|压力大|ya, li, da|Un YACK (« YA ») écrase un LIT (« LI ») sous un DAuphin : JE SUIS STRESSÉ.|yālì dà ≈ « ya-li-da » ; le poids sur la tête = stressé|紧张 = tendu|我压力很大。|我压力很大|un poids sur la tête
+20|很多次|henne, dwo, tseu|La déesse HENNE, un DUO et des TSE-TSE répètent : JE L'AI DIT MAINTES FOIS.|hěn duō cì ≈ « henne-dwo-tseu » ; le perroquet = maintes fois|好多遍 = de nombreuses fois|我说过很多次了。|我说过很多次了|un perroquet
+21|受人尊敬|cho, renne, dzoune, djing|Un CHAUD RENNE salué par un ZOUN et un GINGEMBRE : C'EST UN HOMME ESTIMÉ.|shòu rén zūnjìng ≈ « cho-renne-dzoune-djing » ; la révérence = estimé|有威望 = respecté|他是个受人尊敬的人。|受人尊敬的人|une révérence
+22|无情|ou, tching|« HOU ! » hurle un CHINOIS (« QING ») au cœur de pierre : ILS SERONT SANS PITIÉ.|wúqíng ≈ « hou-tching » ; le cœur de pierre = impitoyable|残忍 = cruel|如果他们发现你和我在一起，他们会毫不留情。|毫不留情|un cœur de pierre
+23|流行|lio, sing|Un LION (« LIU ») et un SINGE (« XING ») défilent à la mode : C'EST EN VOGUE.|liúxíng ≈ « lio-sing » ; le podium = en vogue|时髦 = chic|这很流行。|这很流行|un podium de mode
+24|平静|ping, djing|Un PINGOUIN (« PING ») et un GINGEMBRE (« JING ») sur un lac calme : ELLE EST SEREINE.|píngjìng ≈ « ping-djing » ; le lac lisse = serein|安静 = calme|她很平静。|她很平静|un lac lisse
+25|炸|dja|Un DJA (« ZHA ») plonge un poisson dans l'huile : J'AIME LE POISSON FRIT.|zhá ≈ « dja » ; l'huile qui grésille = frit|烤 = grillé|我喜欢炸鱼。|我喜欢炸鱼|une huile qui grésille
+26|机密|dji, mi|Un GÉNIE (« JI ») et un MI (« MI ») cachent un dossier tamponné : C'EST UN DOCUMENT CONFIDENTIEL.|jīmì ≈ « dji-mi » ; le tampon « secret » = confidentiel|保密 = secret|这是机密文件。|机密文件|un tampon « secret »
+27|爱吃|aille, tcheu|« AÏE ! » crie un TCHEU (« CHI ») devant des sucreries : IL EST TRÈS GOURMAND DE SUCRERIES.|ài chī ≈ « aille-tcheu » ; la bouche pleine = gourmand|嘴馋 = gourmand|他特别爱吃甜食。|特别爱吃甜食|une bouche pleine
+28|一升|i, cheng|« I » CHÊNE (« SHENG ») verse un litre de lait : UN LITRE DE LAIT.|yì shēng ≈ « i-cheng » ; la bouteille d'un litre = un litre de|一瓶 = une bouteille|一升牛奶。|一升牛奶|une bouteille de lait
+29|熟|chou|Un CHOU (« SHU ») mûr à point : UNE BANANE MÛRE.|shú ≈ « chou » ; le fruit doré = mûr|生 = cru, pas mûr|一根熟香蕉。|熟香蕉|une banane mûre
+30|足够|dzou, go|Un ZOULOU (« ZU ») et un GOGO (« GOU ») pleins de billets : ON VOUS A FOURNI DES FONDS ADÉQUATS ?|zúgòu ≈ « dzou-go » ; la jauge pleine = adéquat (suffisant)|合适 = adapté|给你们提供了足够的资金吗？|足够的资金|une jauge pleine
+31|刺激|tseu, dji|Un TSE-TSE pique un GÉNIE (« JI ») qui sursaute : UNE SOIRÉE AUSSI STIMULANTE.|cìjī ≈ « tseu-dji » ; l'étincelle = stimulant|有趣 = intéressant|我很少度过这么刺激的夜晚。|这么刺激的夜晚|une étincelle
+32|滑|houa|Une fleur (« HUA ») glisse sur une peau de banane : ALLEZ LENTEMENT, C'EST GLISSANT.|huá ≈ « houa » ; la peau de banane = glissant|路滑 = route glissante|慢慢走，很滑。|慢慢走，很滑|une peau de banane
+33|吵|tchao|Un CHAT (« CHAO ») hurle dans la rue : LA RUE EST BRUYANTE (doublon d'adjectifs_7 87).|chǎo ≈ « tchao » ; doublon|闹 = agité|街上很吵。|街上很吵|un chat qui hurle
+34|步行|bou, sing|Un BOUc et un SINGE (« XING ») marchent dans une rue sans voiture : UNE ZONE PIÉTONNE.|bùxíng ≈ « bou-sing » ; le pictogramme piéton = piéton|走路 = marcher|步行区。|步行区|un pictogramme piéton
+35|一致|i, dji|« I » GÉNIE (« ZHI ») aligne des dominos : C'EST COHÉRENT.|yízhì ≈ « i-dji » ; les dominos alignés = cohérent|合理 = logique|这很一致。|这很一致|des dominos alignés
+36|压力大|ya, li, da|Le YACK, le LIT et le DAuphin écrasent une femme : ELLE EST TRÈS STRESSÉE (doublon de 19).|yālì dà ≈ « ya-li-da » ; doublon|焦虑 = anxieux|她压力很大。|她压力很大|un poids sur la tête
+37|多愁善感|dwo, tcho, channe, ganne|Un DUO, un CHO, un CHANT et un GANT pleurent au cinéma : LES DIVORCES ME RENDENT SI SENTIMENTALE.|duō chóu shàn gǎn ≈ « dwo-tcho-chane-gane » ; le mouchoir = sentimental|感性 = émotif|你知道，离婚让我变得很多愁善感。|很多愁善感|un mouchoir
+38|烦躁|fanne, dzao|Un FAN tape du pied dans un ZAO : MA MÈRE EST ÉNERVÉE AUJOURD'HUI (doublon d'adjectifs_7 96).|fánzào ≈ « fane-dzao » ; doublon|不耐烦 = impatient|我妈今天很烦躁。|我妈今天很烦躁|un pied qui tape
+39|辣|la|Un LAMA (« LA ») crache du feu après un piment : C'EST TRÈS ÉPICÉ.|là ≈ « la » ; le piment = épicé|不辣 = pas piquant|很辣。|很辣|un lama qui crache du feu
+40|红头发|hong, to, fa|Un HONG rouge sur un TOTEM chevelu : ELLE EST ROUSSE (doublon d'adjectifs_7 91).|hóng tóufa ≈ « hong-to-fa » ; doublon|红发 = roux|她是红头发。|她是红头发|des cheveux rouges
+41|冰|bing|Un BINGO (« BING ») de glace autour des pieds : VOS PIEDS SONT GELÉS !|bīng ≈ « bing » ; le glaçon = gelé|冰凉 = glacé|你们的脚冰凉！|你们的脚冰凉|des pieds dans la glace
+42|罪恶|dzouei, eu|Un ZOUAVE (« ZUI ») rougit avec un « EUH… » : FRÈRE, AIDE-MOI, MES PENSÉES SONT IMPURES.|zuì'è ≈ « dzouei-eu » ; le diablotin = impur (péché)|邪恶 = maléfique|兄弟，帮帮我，我的想法很罪恶。|我的想法很罪恶|un diablotin sur l'épaule
+43|必须|bi, su|La BILLE et le SUcre à l'appel : LA PRÉSENCE EST OBLIGATOIRE (doublon de 04).|bìxū ≈ « bi-su » ; doublon|必须出席 = présence requise|必须出席。|必须出席|un astérisque rouge
+44|烤|kao|Un KAOLIN grille un poisson : J'AIME LE POISSON GRILLÉ (doublon d'adjectifs_7 97).|kǎo ≈ « kao » ; doublon|烧烤 = barbecue|我喜欢烤鱼。|我喜欢烤鱼|un poisson au grill
+45|实物|chie, ou|Une CHAISE (« SHI ») qu'on touche avec un « HOU ! » : DES PREUVES PHYSIQUES DE MES ERREURS.|shíwù ≈ « chi-hou » ; la main qui touche = tangible|具体 = concret|我希望拿到我犯错的实物证据。|实物证据|une main qui touche
+46|相对|siang, douei|SIANNE et une DOUILLE (« DUI ») sur une balançoire : C'EST RELATIF.|xiāngduì ≈ « siang-douei » ; la balançoire = relatif|绝对 = absolu|这是相对的。|这是相对的|une balançoire
+47|体面|ti, mienne|Un TIgre (« TI ») en costume propre devant un MIEN : UN TRAVAIL DÉCENT.|tǐmiàn ≈ « ti-mienne » ; la cravate propre = décent|像样 = convenable|一份体面的工作。|体面的工作|une cravate propre
+48|复杂|fou, dza|Le FOU et le ZA emmêlent des fils : C'EST UNE SITUATION COMPLEXE (doublon d'adjectifs_5 38).|fùzá ≈ « fou-dza » ; doublon|错综复杂 = inextricable|这是个复杂的情况。|复杂的情况|un nœud de fils
+49|财务|tsaille, ou|Un TSAILLE (« CAI ») compte des billets « HOU ! » : C'EST UN PROBLÈME FINANCIER.|cáiwù ≈ « tsaille-hou » ; la calculatrice = financier|金融 = finance (marchés)|这是个财务问题。|财务问题|une calculatrice
+50|十九|chie, djiou|Une CHAISE (« SHI ») et un JUDOKA (« JIU ») sous une horloge à 19 h : À DIX-NEUF HEURES.|shíjiǔ ≈ « chi-djiou » ; l'horloge = dix-neuf|十九点 = 19 h|晚上七点。|晚上七点|une horloge à 19 h
+51|三分熟|sanne, fenne, chou|Une SANNE (« SAN »), un FENNEC et un CHOU découpent un steak rouge : JE LE VEUX SAIGNANT.|sān fēn shú ≈ « sane-fenne-chou » ; le steak rouge = saignant|五分熟 = à point|我要三分熟。|我要三分熟|un steak rouge
+52|好几个|hao, dji, gueu|« HAO ! » : un GÉNIE compte des GUEUX : IL Y A PLUSIEURS PROBLÈMES (doublon d'adjectifs_3 33).|hǎo jǐ ge ≈ « hao-dji-gueu » ; doublon|一些 = quelques|有好几个问题。|有好几个问题|des doigts qui comptent
+53|有礼貌|yo, li, mao|« YO ! » salue poliment un LIT et un MAOri : TA FILLE EST TRÈS POLIE (doublon d'adjectifs_7 92).|yǒu lǐmào ≈ « yo-li-mao » ; doublon|懂事 = sage|你女儿很有礼貌。|你女儿很有礼貌|une révérence
+54|烦人|fanne, renne|Un FAN (« FAN ») agace un RENNE avec une mouche : C'EST EMBÊTANT.|fánrén ≈ « fane-renne » ; la mouche = embêtant|讨厌 = agaçant|这很烦人。|这很烦人|une mouche
+55|取消|tchu, siao|Un CHOU (« QU ») efface un SIAMOIS (« XIAO ») du tableau des vols : LE VOL EST ANNULÉ.|qǔxiāo ≈ « tchu-siao » ; le tampon « annulé » = annulé|推迟 = reporté|航班取消了。|航班取消了|un tampon « annulé »
+56|固执|gou, dji|Un GOUrou (« GU ») et un GÉNIE (« ZHI ») plantés comme des mulets : IL EST TÊTU.|gùzhi ≈ « gou-dji » ; le mulet = têtu|倔 = entêté|他很固执。|他很固执|un mulet planté
+57|好几次|hao, dji, tseu|« HAO ! » : le GÉNIE compte les TSE-TSE : JE L'AI VU PLUSIEURS FOIS (doublon d'adverbes_3 66).|hǎo jǐ cì ≈ « hao-dji-tseu » ; doublon|多次 = maintes fois|我见过他好几次。|见过他好几次|des traits de comptage
+58|惊心动魄|djing, sine, dong, po|Un GINGEMBRE, un SIGNE, un gong DONG et un POPO retiennent leur souffle : UNE SCÈNE À COUPER LE SOUFFLE.|jīng xīn dòng pò ≈ « djing-sine-dong-po » ; le souffle coupé = à couper le souffle|壮观 = spectaculaire|惊心动魄的一幕。|惊心动魄的一幕|une bouche bée
+59|第十|di, chie|Un DIable et une CHAISE (« SHI ») avec dix bougies : LE DIXIÈME ANNIVERSAIRE.|dìshí ≈ « di-chi » ; les dix bougies = dixième|十周年 = dixième anniversaire|十周年纪念。|十周年纪念|dix bougies
+60|一年一度|i, niène, i, du|« I » NIAIS (« NIAN ») et « I » DOUX (« DU ») cochent une date par an : C'EST UN RENDEZ-VOUS ANNUEL.|yì nián yí dù ≈ « i-niène-i-du » ; le calendrier annuel = annuel|每年 = chaque année|这是一年一度的聚会。|一年一度的聚会|un calendrier annuel
+61|周刊|djo, kanne|Un JO (« ZHOU ») et une longue-vue (« KAN ») lisent un magazine : C'EST UN MAGAZINE HEBDOMADAIRE.|zhōukān ≈ « djo-kane » ; le magazine = hebdomadaire|每周 = chaque semaine|这是一本周刊。|这是一本周刊|un magazine
+62|敏感|mine, ganne|La MINE délicate se froisse : NE SOIS PAS SI SUSCEPTIBLE ! (doublon d'adjectifs_5 57)|mǐngǎn ≈ « mine-gane » ; doublon|别生气 = ne te fâche pas|别那么敏感！|别那么敏感|une mine froissée
+63|话多|houa, dwo|La fleur bavarde en DUO : MA VOISINE EST TRÈS BAVARDE (doublon de 16).|huà duō ≈ « houa-dwo » ; doublon|唠叨 = radoter|我邻居话特别多。|话特别多|une bulle infinie
+64|不加冰|bou, djia, bing|Un BOUc refuse que le JIA ajoute des glaçons BINGO : UN WHISKY SANS GLAÇON.|bù jiā bīng ≈ « bou-djia-bing » ; le glaçon barré = sans glaçon|纯的 = sec|一杯不加冰的威士忌。|不加冰的威士忌|un glaçon barré
+65|有关|yo, gouanne|« YO ! » crie un GOUAILLEUR qui relie deux fils : UNE QUESTION RELATIVE AU BUDGET (doublon de verbes_3 87).|yǒuguān ≈ « yo-gouane » ; doublon|关于 = concernant|这是个有关预算的问题。|有关预算的问题|des fils reliés
+66|幸运|sing, yune|Le SINGE et la YOUNE trouvent un trèfle : VOTRE MÈRE EST TRÈS CHANCEUSE (doublon d'adjectifs_6 22).|xìngyùn ≈ « sing-yune » ; doublon|有福气 = béni|你妈妈有你真幸运。|你妈妈有你真幸运|un trèfle
+67|整洁|djeng, djié|Un gong « DJENG ! » et un JET rangent des étagères impeccables : IL EST TRÈS ORDONNÉ.|zhěngjié ≈ « djeng-djié » ; l'étagère rangée = ordonné|乱 = en désordre|他很整洁。|他很整洁|une étagère rangée
+68|电影|dienne, ing|Une DIENNE (« DIAN ») projette un INGÉ (« YING ») : UNE ŒUVRE CINÉMATOGRAPHIQUE (doublon de noms_2 14).|diànyǐng ≈ « dienne-ing » ; doublon|影视 = audiovisuel|一部电影作品。|电影作品|une pellicule
+69|沮丧|djiu, sang|Un JUDOKA (« JU ») baisse les bras devant un SANG (« SANG ») : JE SUIS FRUSTRÉ.|jǔsàng ≈ « djiu-sang » ; les épaules basses = frustré|失望 = déçu|我很沮丧。|我很沮丧|des épaules basses
+70|气炸了|tchi, dja, leu|Un TCHI qui fume explose en DJA (« ZHA »), un LEURRE vole : MON PÈRE EST FURAX.|qì zhà le ≈ « tchi-dja-leu » ; la cocotte qui explose = furax|生气 = fâché|我爸气炸了。|我爸气炸了|une cocotte qui explose
+71|吃惊|tcheu, djing|Un TCHEU (« CHI ») avale un GINGEMBRE de surprise : JE SUIS ÉTONNÉ.|chījīng ≈ « tcheu-djing » ; la bouche ronde = étonné|惊讶 = surpris|我很吃惊。|我很吃惊|une bouche ronde
+72|英勇|ing, yong|Un INGÉ (« YING ») et un couteau (« YONG ») face au dragon : UN GUERRIER VALEUREUX.|yīngyǒng ≈ « ing-yong » ; l'armure = valeureux|勇敢 = courageux|一名英勇的战士。|英勇的战士|une armure
+73|第九|di, djiou|Un DIable et un JUDOKA (« JIU ») dirigent un orchestre : LA NEUVIÈME SYMPHONIE.|dìjiǔ ≈ « di-djiou » ; les neuf doigts = neuvième|九号 = n° 9|第九交响曲。|第九交响曲|une baguette de chef
+74|金融|djine, rong|Un JEAN (« JIN ») d'or et un RONGEUR (« RONG ») à la Bourse : C'EST UNE CRISE FINANCIÈRE.|jīnróng ≈ « djine-rong » ; la courbe qui chute = financier (marché)|财务 = finances|这是一场金融危机。|金融危机|une courbe qui chute
+75|八十|ba, chie|Un BAobab sur une CHAISE (« SHI ») souffle quatre-vingts bougies : QUATRE-VINGTS ANS.|bāshí ≈ « ba-chi » ; les 80 bougies = quatre-vingts|八十岁 = 80 ans|八十岁。|八十岁|quatre-vingts bougies
+76|最高|dzouei, gao|Le ZOUAVE sur un GAUCHO (« GAO ») perché sur un panneau 50 : LA VITESSE MAXIMALE EST DE 50.|zuìgāo ≈ « zouei-gao » ; le panneau = maximale|最大 = maximum|最高时速是五十。|最高时速是五十|un panneau 50
+77|养|yang|Le YANG (« YANG ») nourrit des enfants adoptés : LEURS PARENTS ADOPTIFS VIENNENT LES CHERCHER.|yǎng ≈ « yang » ; le biberon = adoptif|领养 = adopter|明天，他们的养父母来接他们。|他们的养父母|un biberon
+78|看不清|kanne, bou, tching|Une longue-vue (« KAN »), un BOUc et un CHINOIS (« QING ») plissent les yeux : SON ÉCRITURE EST ILLISIBLE.|kàn bu qīng ≈ « kane-bou-tching » ; les gribouillis = illisible|潦草 = griffonné|他的字看不清。|他的字看不清|des gribouillis
+79|异教|i, djiao|« I ! » : un JAGUAR (« JIAO ») danse autour d'un feu de joie : UNE FÊTE PAÏENNE.|yìjiào ≈ « i-djiao » ; le feu de joie = païen|宗教 = religion|一个异教节日。|异教节日|un feu de joie
+80|就职|djiou, dji|Un JUDOKA (« JIU ») prête serment avec un GÉNIE (« ZHI ») : LE DISCOURS INAUGURAL.|jiùzhí ≈ « djiou-dji » ; la main sur le livre = inaugural|开幕 = ouverture|就职演说。|就职演说|une main sur le livre
+81|糟糕|dzao, gao|Le ZAO tombe dans la sauce du GAUCHO : C'EST AFFREUX QUAND LES CHAUSSETTES S'AFFAISSENT (doublon d'adjectifs_5 11).|zāogāo ≈ « dzao-gao » ; doublon|难看 = laid|袜子往下掉的时候真糟糕。|真糟糕|des chaussettes affaissées
+82|八分之一|ba, fenne, dji, i|Un BAobab, un FENNEC, un GÉNIE et « I » coupent un gâteau en huit : LES HUITIÈMES DE FINALE.|bā fēn zhī yī ≈ « ba-fenne-dji-i » ; le huitième de gâteau = huitième|第八 = huitième (rang)|八分之一决赛。|八分之一决赛|un gâteau en huit
+83|秃|tou|TOUT (« TU ») luisant sur un crâne : IL A LA TÊTE CHAUVE (doublon d'adjectifs_7 77).|tū ≈ « tou » ; doublon|光头 = crâne rasé|他头秃了。|他头秃了|un crâne brillant
+84|烈|lié|Un LIÉ (« LIE ») de feu dans la crinière d'un cheval : UN CHEVAL FOUGUEUX.|liè ≈ « lié » ; la crinière en feu = fougueux|野 = sauvage|一匹烈马。|一匹烈马|une crinière en feu
+85|傻瓜|cha, goua|Un CHAT (« SHA ») louche coiffé d'une GOUA (« GUA ») de courge : TU ME PRENDS POUR UN COUILLON ?|shǎguā ≈ « cha-goua » ; la courge sur la tête = couillon|笨蛋 = idiot|你把我当傻瓜吗？|把我当傻瓜吗|une courge sur la tête
+86|烂|lanne|Un LANDAU (« LAN ») pourri : C'EST UNE IDÉE NULLE.|làn ≈ « lane » ; le fruit pourri = nul|差 = mauvais|这个主意太烂了。|这个主意太烂了|un fruit pourri
+87|热情|reu, tching|Un REU (« RE ») de chaleur et un CHINOIS (« QING ») ouvre les bras : IL EST TRÈS CHALEUREUX.|rèqíng ≈ « reu-tching » ; les bras ouverts = chaleureux|冷淡 = froid|他很热情。|他很热情|des bras ouverts
+88|扣人心弦|keou, renne, sine, sienne|Un KEOU tire sur la corde (« XIAN ») du cœur (« XIN ») d'un RENNE : UNE HISTOIRE TRÈS PRENANTE.|kòu rén xīn xián ≈ « keou-renne-sine-sienne » ; la corde du cœur = prenant|好看 = captivant|一个扣人心弦的故事。|扣人心弦的故事|une corde du cœur
+89|燃烧|rane, chao|Une RAINETTE (« RAN ») et un CHAT (« SHAO ») en flammes : DES BALLES INCENDIAIRES.|ránshāo ≈ « rane-chao » ; la flamme = incendiaire|火 = feu|燃烧弹，三号美国人起火坠落！|燃烧弹|une flamme
+90|兄弟般|siong, di, banne|Un SIONG (« XIONG »), un DIable et un BANC (« BAN ») bras dessus bras dessous : UN AMI COMME UN FRÈRE.|xiōngdi bān ≈ « siong-di-bane » ; l'accolade = fraternel|亲如兄弟 = comme des frères|像兄弟一样的朋友。|像兄弟一样的朋友|une accolade
+91|七十|tchi, chie|Un TCHI (« QI ») sur une CHAISE (« SHI ») compte soixante-dix euros : SOIXANTE-DIX EUROS.|qīshí ≈ « tchi-chi » ; le billet de 70 = soixante-dix|七十岁 = 70 ans|七十欧元。|七十欧元|des billets de 70
+92|烦人|fanne, renne|Le FAN agace le RENNE avec une mouche : CETTE MOUCHE EST EMBÊTANTE ! (doublon de 54)|fánrén ≈ « fane-renne » ; doublon|讨厌 = énervant|这只苍蝇真烦人！|这只苍蝇真烦人|une mouche
+93|经典|djing, dienne|Un GINGEMBRE (« JING ») et une DIENNE (« DIAN ») encadrés au panthéon : C'EST UN FILM CULTE.|jīngdiǎn ≈ « djing-dienne » ; le cadre doré = culte|古典 = classique|这是一部经典电影。|经典电影|un cadre doré
+94|沮丧|djiu, sang|Le JUDOKA baisse les bras : ELLE SE SENT FRUSTRÉE (doublon de 69).|jǔsàng ≈ « djiu-sang » ; doublon|郁闷 = déprimé|她感到很沮丧。|感到很沮丧|des épaules basses
+95|有限|yo, sienne|« YO ! » crie un rappeur devant une petite SIENNE (« XIAN ») de pièces : AVEC NOS MODESTES MOYENS.|yǒuxiàn ≈ « yo-sienne » ; la jauge à moitié = modestes (limités)|一半 = moitié|我们用有限的资源尽力而为。|有限的资源|une jauge à moitié
+96|受人尊敬|cho, renne, dzoune, djing|Le CHAUD RENNE salué par un ZOUN et un GINGEMBRE : C'EST UNE FEMME TRÈS ESTIMÉE (doublon de 21).|shòu rén zūnjìng ≈ « cho-renne-dzoune-djing » ; doublon|德高望重 = vénérable|她是个很受人尊敬的女人。|很受人尊敬的女人|une révérence
+97|平静|ping, djing|Le PINGOUIN et le GINGEMBRE sur un lac calme : JE SUIS SEREIN (doublon de 24).|píngjìng ≈ « ping-djing » ; doublon|淡定 = zen|我很平静。|我很平静|un lac lisse
+98|乱七八糟|louanne, tchi, ba, dzao|Un LOUP, un TCHI, un BAobab et un ZAO renversent tout : LA SITUATION EST COMPLIQUÉE.|luàn qī bā zāo ≈ « louane-tchi-ba-dzao » ; le bazar = compliqué (le bordel)|复杂 = complexe|情况乱七八糟的。|情况乱七八糟的|un bazar
+99|难以理解|nanne, i, li, djié|Un NANNE, « I », un LIT et un JET devant un coffre sans serrure : UN MYSTÈRE IMPÉNÉTRABLE.|nányǐ lǐjiě ≈ « nane-i-li-djié » ; le coffre sans serrure = impénétrable|神秘 = mystérieux|一个难以理解的谜。|难以理解的谜|un coffre sans serrure

@@ -1,0 +1,101 @@
+# verbes blocs=null
+00|être|essere|Je suis prêt.|suis||
+01|avoir|avere|J'ai faim.|ai||
+02|aller|andare|On y va !|va||
+03|faire|fare|Qu'est-ce que tu fais ?|fais||
+04|dire|dire|Qu'est-ce que tu dis ?|dis||
+05|pouvoir|potere|Je peux venir ?|peux||
+06|vouloir|volere|Tu veux un café ?|veux||
+07|savoir|sapere|Je sais pas.|sais||
+08|voir|vedere|Tu vois ?|vois||
+09|devoir|dovere|Je dois y aller.|dois||
+10|venir|venire|Tu viens ce soir ?|viens||
+11|faire faire qc à qn|far fare qcs a qcn|Je lui ai fait réparer la voiture.|fait réparer la voiture|tpl|
+12|parler|parlare|On en parle plus tard.|parle||
+13|prendre|prendere|Je prends un café.|prends||
+14|penser|pensare|Je pense que oui.|pense||
+15|croire|credere|Je te crois.|crois||
+16|aimer|amare|Je t'aime.|aime||
+17|dire qc à qn|dire qcs a qcn|Dis-lui la vérité.|Dis-lui la vérité|tpl|
+18|falloir|bisognare|Il faut partir.|faut||
+19|passer|passare|Je passe te voir demain.|passe||
+20|se passer (arriver)|succedere|Qu'est-ce qui se passe ?|se passe||
+21|trouver|trovare|J'ai trouvé mes clés !|trouvé||
+22|attendre|aspettare|Attends-moi !|Attends||
+23|arriver|arrivare|J'arrive !|arrive||
+24|avoir à faire qc|dover fare qcs|J'ai à travailler.|J'ai à travailler|tpl|
+25|arriver (se produire)|accadere|Qu'est-ce qui est arrivé ?|arrivé||
+26|appeler|chiamare|Je t'appelle ce soir.|appelle||
+27|laisser|lasciare|Laisse-moi tranquille !|Laisse||
+28|donner|dare|Donne-moi ça !|Donne||
+29|regarder|guardare|Regarde ça !|Regarde||
+30|partir|partire|Je pars demain.|pars||
+31|arrêter|fermare|Arrête-toi ici !|Arrête||
+32|arrêter (police)|arrestare|Vous êtes en état d'arrestation.|arrestation||
+33|rester|restare|Reste avec moi.|Reste||
+34|mettre|mettere|Où tu mets les clés ?|mets||
+35|tuer|uccidere|Il va me tuer !|tuer||
+36|tuer (familier, buter)|ammazzare|Je vais le tuer !|tuer||
+37|connaître|conoscere|Je le connais.|connais||
+38|demander|chiedere|Je peux te demander un truc ?|demander||
+39|comprendre|capire|J'ai pas compris.|compris||
+40|sortir|uscire|On sort ce soir ?|sort||
+41|mourir|morire|Je meurs de faim !|meurs||
+42|aller bien|stare bene|Je vais bien, merci.|vais bien|loc|locutions_verbales
+43|parler de qn|parlare di qcn|On parle de toi.|parle de toi|tpl|
+44|entendre|sentire|Tu m'entends ?|entends||
+45|essayer|provare|Essaie encore !|Essaie||
+46|aller bien à qn|stare bene a qcn|Ce pull te va bien.|te va bien|tpl|
+47|aider|aiutare|Tu peux m'aider ?|aider||
+48|chercher|cercare|Je cherche mes lunettes.|cherche||
+49|revenir|tornare|Je reviens tout de suite.|reviens||
+50|avoir besoin de qc|avere bisogno di qcs|J'ai besoin d'aide.|besoin d'aide|tpl|
+51|avoir le temps de faire qc|avere il tempo di fare qcs|J'ai pas le temps de manger.|temps de manger|tpl|
+52|finir|finire|C'est fini !|fini||
+53|perdre|perdere|J'ai perdu mon téléphone.|perdu||
+54|être d'accord avec qn|essere d'accordo con qcn|Je suis d'accord avec toi.|d'accord avec toi|tpl|
+55|plaire|piacere|Ça te plaît ?|plaît||
+56|jouer|giocare|On joue aux cartes ?|joue||
+57|rentrer|rientrare|Je rentre tard ce soir.|rentre||
+58|travailler|lavorare|Je travaille demain.|travaille||
+59|savoir que qn fait qc|sapere che qcn fa qcs|Je sais que t'as raison.|sais que t'as raison|tpl|
+60|écouter|ascoltare|Écoute-moi !|Écoute||
+61|rendre|rendere|Ça me rend fou.|rend||
+62|avoir tout le temps pour faire qc|avere tutto il tempo per fare qcs|T'as tout le temps pour finir.|tout le temps pour finir|tpl|
+63|vivre|vivere|Je vis à Paris.|vis||
+64|tenir|tenere|Tiens, c'est pour toi.|Tiens||
+65|commencer|cominciare|Ça commence à huit heures.|commence||
+66|commencer (variante)|iniziare|Le film commence à huit heures.|commence||
+67|oublier|dimenticare|J'ai oublié !|oublié||
+68|avoir mal|fare male|Ça fait mal !|fait mal|col|
+69|oublier (familier)|scordare|Oublie ça !|Oublie ça||
+70|aider qn à faire qc|aiutare qcn a fare qcs|Aide-moi à porter ça.|Aide-moi à porter ça|tpl|
+71|manger|mangiare|On mange quoi ?|mange||
+72|devenir|diventare|Il est devenu fou.|devenu||
+73|changer|cambiare|J'ai changé d'avis.|changé||
+74|entrer|entrare|Entre, je t'en prie.|Entre||
+75|trouver que qn fasse qc|trovare che qcn faccia qcs|Je trouve que c'est cher.|trouve que c'est cher|tpl|
+76|avoir du mal à faire qc|fare fatica a fare qcs|J'ai du mal à dormir.|du mal à dormir|tpl|
+77|sentir (odeur, sensation)|sentire|Je sens une odeur de gaz.|sens||
+78|tomber|cadere|Attention, tu vas tomber !|tomber||
+79|aller mieux|stare meglio|Je vais mieux.|vais mieux|loc|locutions_verbales
+80|aller mal à qn|stare male a qcn|Cette robe te va mal.|te va mal|tpl|
+81|dire bonjour|salutare|Dis bonjour à la dame.|Dis bonjour||
+82|payer|pagare|C'est moi qui paie.|paie||
+83|tirer|tirare|Tire plus fort !|Tire||
+84|tirer (avec une arme)|sparare|Ne tirez pas !|tirez||
+85|s'occuper|occuparsi|Je m'en occupe.|occupe||
+86|envoyer|mandare|Envoie-moi un message.|Envoie||
+87|faire peur à qn|spaventare qcn|Tu m'as fait peur !|fait peur|tpl|
+88|ouvrir|aprire|Ouvre la fenêtre !|Ouvre||
+89|venir de qqpart|venire da qualche parte|Je viens de Paris.|viens de Paris|tpl|
+90|venir qqpart|venire da qualche parte|Tu viens à Rome ?|viens à|tpl|
+91|apprendre|imparare|J'apprends l'italien.|apprends||
+92|garder|conservare|Garde le reçu.|Garde||
+93|passer qqpart|passare da qualche parte|Je passe chez toi demain.|passe chez toi|tpl|
+94|sortir (le chien, la poubelle)|portare fuori|Sortons-les d'ici.|Sortons-les|col|
+95|marcher|camminare|J'aime marcher.|marcher||
+96|avoir l'air beau|sembrare bello|T'as l'air fatigué.|l'air fatigué|tpl|
+97|dormir|dormire|Tu dors ?|dors||
+98|espérer|sperare|J'espère que oui.|espère||
+99|avoir peur de qc|avere paura di qcs|J'ai peur des chiens.|peur des|tpl|

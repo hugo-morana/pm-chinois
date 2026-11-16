@@ -1,0 +1,100 @@
+00|年轻|niène, tching|Un NIAIS (« NIAN ») CHINOIS (« QING ») saute à la corde : il est JEUNE.|nián-qīng ≈ « niène-tching » ; la corde à sauter = jeune|小 = petit, jeune (âge)|他很年轻。|很年轻|un jeune à la corde
+01|坏|houaille|Un HOUAILLEUR (« HUAI ») mord dans un fruit pourri : MAUVAIS.|huài ≈ « houaille » ; le fruit pourri = mauvais|不好 = pas bon ; 难吃 = mauvais (goût)|还不错。|还不错|un fruit pourri
+02|一点…都没有|i, dianne, dou, mei, yo|« I » DIAMANT, DOUanier, MAIllot : « YO… » rien : AUCUNE CHOSE.|yìdiǎn … dōu méiyǒu ≈ « i-dianne-dou-mei-yo » ; la boîte vide = aucune chose|什么都不 = rien du tout|我一点主意都没有。|一点主意都没有|une boîte vide
+03|一个人|i, gueu, renne|« I » GUEU (« GE ») RENNE marche toute SEULE dans la nuit.|yí ge rén ≈ « i-gueu-renne » ; la silhouette isolée = seule|独自 = seul (écrit)|你不该一个人在外面走。|一个人在外面走|un renne seul la nuit
+04|最后一个|dzouei, ho, i, gueu|Le ZOUAVE (« ZUI ») fait « HO ! » au DERNIER de la file.|zuìhòu yí ge ≈ « zouei-ho-i-gueu » ; le dernier wagon = dernière|末 = fin|你们知道吗？我们那届实习生是最后一届好的。|最后一届好的|un dernier wagon
+05|老|lao|Un vieux LAOTIEN (« LAO ») s'appuie sur sa canne : VIEUX.|lǎo ≈ « lao » ; la canne = vieux|旧 = vieux (objet)|我太老了。|我太老了|un vieux à la canne
+06|每|meille|Un MAIllot (« MEI ») court chaque matin : CHAQUE.|měi ≈ « meille » ; le calendrier coché = chaque|每天 = chaque jour|我每天早上跑步。|每天早上|un calendrier coché
+07|不含|bou, hanne|Un BOUc HANNETON (« HAN ») barre le pourboire : NON COMPRIS.|bù hán ≈ « bou-hanne » ; la case barrée = non compris|另付 = à payer en plus|不含服务费。|不含服务费|une case barrée
+08|第一|di, i|Un DIable (« DI ») lève « I » doigt : la PREMIÈRE fois.|dì-yī ≈ « di-i » ; la médaille d'or = premier|头一次 = la première fois (oral)|这是第一次。|第一次|un diable au doigt levé
+09|开心|kaï, sine|Un KAYAK (« KAI ») fait un SIGNE (« XIN ») joyeux : HEUREUX.|kāi-xīn ≈ « kaï-sine » ; le sourire = heureux|幸福 = heureux (bonheur)|我很开心。|我很开心|un kayak souriant
+10|最好|dzouei, hao|Le ZOUAVE (« ZUI ») crie « HAO ! » sur le podium : T'ES LE MEILLEUR !|zuì-hǎo ≈ « zouei-hao » ; le podium = meilleur|更好 = mieux|你是最好的！|最好的|un zouave sur le podium
+11|五分熟|ou, fenne, chou|« HOU ! » un FENNEC (« FEN ») et un CHOU (« SHU ») découpent un steak rosé : À POINT.|wǔ fēn shú ≈ « hou-fenne-chou » ; le steak rosé = à point|七分熟 = bien cuit|我的牛排要五分熟。|五分熟|un steak rosé
+12|别的|bié, deu|Un BIÉ (« BIE ») et DEUx autres questions : AUTRES.|bié de ≈ « bié-deu » ; les deux « ? » = d'autres|其他 = autres|你们能做到吗？还是关于我的阴道有别的问题？|别的问题|deux points d'interrogation
+13|重要|djong, yao|Un JONC (« ZHONG ») lourd sur un YAOURT : IMPORTANT.|zhòng-yào ≈ « djong-yao » ; le poids = important|要紧 = urgent|这很重要。|很重要|un jonc sur un yaourt
+14|小|siao|Un petit SIAMOIS (« XIAO ») tient une bougie : PETITE veillée.|xiǎo ≈ « siao » ; la petite bougie = petite|小小的 = tout petit|小小的烛光晚会？|小小的|un petit siamois
+15|那些|na, sié|Le NAIN (« NA ») montre des SIÉ (« XIE ») au loin : CES … -LÀ.|nà-xiē ≈ « na-sié » ; le doigt vers le loin = ces …-là|这些 = ces …-ci|那些学生人很好。|那些学生|un nain qui montre au loin
+16|其他|tchi, ta|Un TCHI et un TAMBOUR (« TA ») : D'AUTRES doutes ?|qí-tā ≈ « tchi-ta » ; le tas d'à côté = d'autres|别的 = autres (oral)|你还有其他疑问吗？|其他疑问|un tchi et un tambour
+17|再来点|dzaille, laï, dianne|Un ZÈBRE (« ZAI ») et une LAIE reprennent un DIAMANT (« DIAN ») : ENCORE DES biscuits ?|zài lái diǎn ≈ « dzaille-laï-dianne » ; l'assiette resservie = encore de|还要 = encore|你还要再来点饼干吗？|再来点饼干|une assiette resservie
+18|新|sine|Un SIGNE (« XIN ») flambant neuf : C'EST NOUVEAU ?|xīn ≈ « sine » ; l'étiquette neuve = nouveau|旧 = vieux|这是新的吗？|新的|une étiquette neuve
+19|很少|henne, chao|La déesse HENNE n'a qu'un petit CHAT (« SHAO ») : PEU D'amis.|hěn shǎo ≈ « henne-chao » ; le compte-gouttes = peu de|几个 = quelques|他朋友很少。|朋友很少|un compte-gouttes
+20|满|manne|Un MANNEQUIN (« MAN ») écrasé dans le métro : PLEIN de monde.|mǎn ≈ « mane » ; le bocal plein = plein|挤 = bondé|这里挤满了人。|挤满了人|un bocal plein
+21|可能|keu, neng|Un KEU (« KE ») dit « NENG ! » : C'EST PAS POSSIBLE !|kě-néng ≈ « keu-neng » ; le pont tenu = possible|行 = faisable|这不可能！|不可能|un keu au pont
+22|我们的|wo, meunne, deu|Les oiseaux (« WOMEN ») tiennent DEUx billets : NOS vacances.|wǒmen de ≈ « wo-men-deu » ; le badge « nous » = nos|咱们的 = nos (incluant)|我们的假期明天开始。|我们的假期|des oiseaux avec des billets
+23|难|nanne|Un NANNE (« NAN ») pousse un rocher : C'EST DUR, LA VIE.|nán ≈ « nane » ; le rocher = dur (difficile)|硬 = dur (matière)|生活很难。|生活很难|un nanne qui pousse un rocher
+24|新|sine|Le SIGNE (« XIN ») neuf brille encore : C'EST NOUVEAU, ÇA (doublon de 18).|xīn ≈ « sine » ; doublon de 18 : pas de genre en chinois|新的 = nouveau|这个是新的。|是新的|une étiquette brillante
+25|细|si|Un SIGNE (« XI ») fin comme un fil : ELLE A LA TAILLE FINE.|xì ≈ « si » ; le fil = fin|瘦 = mince (corps)|她腰很细。|腰很细|un fil fin
+26|棒|bang|Un BANG ! de feu d'artifice : C'EST SUPER !|bàng ≈ « bang » ; le feu d'artifice = super|好极了 = excellent|太棒了！|太棒了|un feu d'artifice
+27|每年|meille, niène|Un MAIllot (« MEI ») et un NIAIS (« NIAN ») à la plage chaque été : TOUS LES ANS.|měi nián ≈ « meille-niène » ; le calendrier qui tourne = tous les ans|年年 = d'année en année|我们每年都去海边。|每年都去海边|un calendrier qui tourne
+28|好|hao|« HAO ! » crie un enfant qui reçoit un bonbon : T'ES GENTIL.|hǎo ≈ « hao » ; le bonbon offert = gentil|善良 = bon (moral)|你真好。|你真好|un bonbon offert
+29|干净|ganne, djing|Un GANT (« GAN ») frotte un GINGEMBRE (« JING ») brillant : PROPRE.|gān-jìng ≈ « gane-djing » ; l'éponge = propre|脏 = sale|这里很干净。|很干净|un gant qui frotte
+30|随便|souei, biène|Un SUISSE (« SUI ») BIEN (« BIAN ») détendu s'assoit n'importe où : N'IMPORTE QUELLE place.|suí-biàn ≈ « souei-biène » ; le dé lancé = n'importe quel|任何 = n'importe quel|随便坐。|随便坐|un dé lancé
+31|贵|gouei|Un GUÉ (« GUI ») d'or à franchir : C'EST TROP CHER.|guì ≈ « gouei » ; l'étiquette dorée = cher|便宜 = pas cher|太贵了。|太贵了|une étiquette dorée
+32|高兴|gao, sing|Un GAUCHO (« GAO ») danse avec un SINGE (« XING ») : CONTENT.|gāo-xìng ≈ « gao-sing » ; la danse = content|开心 = heureux|我很高兴。|我很高兴|un gaucho qui danse
+33|漂亮|piao, liang|Un PIANO (« PIAO ») et un LIANG fleuris : un JOLI appartement.|piào-liang ≈ « piao-liang » ; le bouquet = joli|好看 = beau|这套公寓很漂亮。|很漂亮|un piano fleuri
+34|下次|sia, tseu|Un SIAMOIS (« XIA ») fait un TSE-TSE (« CI ») d'au revoir : À LA PROCHAINE !|xià cì ≈ « sia-tseu » ; la flèche suivante = prochain|下个 = le prochain|下次见！|下次见|une flèche suivante
+35|进行中|djine, sing, djong|Un JEAN (« JIN ») et un SINGE (« XING ») au milieu (« ZHONG ») du chantier : EN COURS.|jìnxíng zhōng ≈ « djine-sing-djong » ; la barre de chargement = en cours|正在 = en train de|工程正在进行中。|进行中|une barre de chargement
+36|太棒了|taï, bang, leu|Un TAÏ-chi, un BANG ! et un LEURRE : C'EST GÉNIAL !|tài bàng le ≈ « taï-bang-leu » ; l'explosion de joie = génial|厉害 = trop fort|太棒了！|太棒了|une explosion de joie
+37|五|ou|« HOU ! » crient les CINQ doigts de la main.|wǔ ≈ « hou » ; la main ouverte = cinq|五点 = cinq heures|现在五点。|五点|une main ouverte
+38|容易|rong, i|Un RONGEUR (« RONG ») dit « I ! » et passe facilement : FACILE.|róng-yì ≈ « rong-i » ; le toboggan = facile|简单 = simple|这很容易。|很容易|un rongeur sur un toboggan
+39|难|nanne|Un NANNE (« NAN ») escalade un mur : DIFFICILE.|nán ≈ « nane » ; le mur = difficile|不容易 = pas facile|这很难。|很难|un nanne au mur
+40|四|seu|Un SEU-SEU (« SI ») à QUATRE pattes.|sì ≈ « seu » ; le trèfle = quatre|4e ton ≠ 死 sǐ (mourir)|我们四个人。|四个人|un trèfle à quatre feuilles
+41|奇怪|tchi, gouaille|Un TCHI GOUAILLEUR (« GUAI ») marche à l'envers : BIZARRE.|qí-guài ≈ « tchi-gouaille » ; le personnage à l'envers = bizarre|怪 = étrange|这很奇怪。|很奇怪|un tchi à l'envers
+42|长|tchang|Un CHAMEAU (« CHANG ») au cou interminable : C'EST LONG !|cháng ≈ « tchang » ; le ruban = long|短 = court|好长啊！|好长啊|un chameau au long cou
+43|下一个|sia, i, gueu|Le SIAMOIS (« XIA ») pointe « I » GUEU (« GE ») : MA PROCHAINE action ?|xià yí ge ≈ « sia-i-gueu » ; la case suivante = prochaine|接下来 = ensuite|我的下一步行动是什么？|下一步行动|une case suivante
+44|不一样|bou, i, yang|Un BOUc dit « I » YANG différent : C'EST DIFFÉRENT.|bù yíyàng ≈ « bou-i-yang » ; les deux formes = différent|不同 = différent (écrit)|这不一样。|不一样|deux formes différentes
+45|黑|heille|Un HEILLE (« HEI ») tout noir de suie : NOIR.|hēi ≈ « heille » ; la suie = noir|黑色 = couleur noire|他全身都是黑的。|都是黑的|un personnage couvert de suie
+46|可怜|keu, liène|Un KEU (« KE ») et un LIEN (« LIAN ») en haillons : LE PAUVRE garçon !|kě-lián ≈ « keu-liène » ; les haillons = pauvre (pitié)|穷 = pauvre (argent)|可怜的孩子！|可怜的孩子|un enfant en haillons
+47|一种|i, djong|« I » JONC (« ZHONG ») d'une espèce rare : UNE SORTE DE jeu.|yì zhǒng ≈ « i-djong » ; l'échantillon = une sorte de|一类 = un type de|这是一种游戏。|一种游戏|un jonc rare
+48|好笑|hao, siao|« HAO ! » rit un SIAMOIS (« XIAO ») : C'EST DRÔLE !|hǎo-xiào ≈ « hao-siao » ; l'éclat de rire = drôle|有意思 = amusant|真好笑！|真好笑|un siamois qui rit
+49|这样的|djeu, yang, deu|Le YANG (« ZHEYANG ») DEUx fois unique : UNE TELLE chose.|zhèyàng de ≈ « jeu-yang-deu » ; le spécimen unique = tel|如此 = tel (écrit)|我从没见过这样的事。|这样的事|un spécimen unique
+50|简单|djienne, danne|Un DIEN fait une DANSE (« JIANDAN ») en trois pas : C'EST SIMPLE.|jiǎn-dān ≈ « djienne-dane » ; les trois pas = simple|容易 = facile|这很简单。|很简单|une danse en trois pas
+51|一杯|i, beille|« I » BEILLE (« BEI ») d'eau : UN VERRE D'EAU, s'il vous plaît.|yì bēi ≈ « i-beille » ; le verre = un verre de|一瓶 = une bouteille de|请给我一杯水。|一杯水|un verre d'eau
+52|玻璃|bo, li|Un BOL (« BO ») et un LIT (« LI ») transparents : EN VERRE.|bō-li ≈ « bo-li » ; la vitre = en verre|玻璃的 = en verre|这张桌子是玻璃的。|是玻璃的|une table transparente
+53|亲爱的|tchine, aille, deu|Une CHINE (« QIN ») dit « AÏE » à DEUx cœurs : MA CHÈRE.|qīn'ài de ≈ « tchine-aille-deu » ; les deux cœurs = chère|宝贝 = chérie (familier)|亲爱的，别在战斗中退缩。|亲爱的|deux cœurs
+54|百万|baï, ouanne|Un BAILLEUR (« BAI ») sur une montagne de OUANNE (« WAN ») : UN MILLION.|bǎi-wàn ≈ « baï-ouanne » ; la valise de billets = million|万 = dix mille|一百万欧元。|一百万欧元|une valise de billets
+55|病|bing|Un BINGO malade (« BING ») au lit : JE SUIS MALADE.|bìng ≈ « bing » ; le thermomètre = malade|不舒服 = pas bien|我病了。|我病了|un bingo au lit
+56|脏|dzang|Un ZANG (« ZANG ») plein de boue : C'EST SALE !|zāng ≈ « dzang » ; la boue = sale|干净 = propre|好脏！|好脏|une flaque de boue
+57|严重|yienne, djong|Une YIENNE (« YAN ») porte un JONC (« ZHONG ») trop lourd : GRAVE.|yán-zhòng ≈ « yienne-djong » ; le poids = grave|要紧 = important|没那么严重。|没那么严重|une yienne et un jonc lourd
+58|错|tsuo|Une CROIX (« CUO ») rouge : C'EST FAUX !|cuò ≈ « tsuo » ; la croix = faux|假 = faux (contrefait)|错了！|错了|une croix rouge
+59|清楚|tching, tchou|Un CHINOIS (« QING ») tient une loupe CHOUette (« CHU ») : C'EST CLAIR ?|qīng-chu ≈ « tching-tchou » ; la loupe = clair|明白 = compris|清楚吗？|清楚吗|une loupe
+60|有空|yo, kong|« YO ! » crie un KONG (« KONG ») libre : T'ES LIBRE ce soir ?|yǒu kòng ≈ « yo-kong » ; l'agenda vide = libre|自由 = libre (liberté)|你今晚有空吗？|有空吗|un agenda vide
+61|确定|tchué, dingue|Tu CHUTES (« QUE ») et plantes un clou DINGUE : TU ES SÛRE ?|què-dìng ≈ « tchué-dingue » ; le clou planté = sûre|肯定 = certain|你确定吗？|你确定吗|un clou planté
+62|不可能|bou, keu, neng|Un BOUc, un KEU et un « NENG » devant un mur : C'EST IMPOSSIBLE.|bù kěnéng ≈ « bou-keu-neng » ; le mur infranchissable = impossible|没办法 = pas moyen|这不可能。|不可能|un mur infranchissable
+63|真实|djeune, chie|Un JEUNE (« ZHEN ») sur une CHAISE (« SHI ») raconte : HISTOIRE VRAIE.|zhēn-shí ≈ « jeune-chi » ; le tampon « vrai » = vraie|真的 = vrai (oral)|真实的故事。|真实的故事|un tampon « vrai »
+64|六|lio|Un LION (« LIU ») tient SIX dés.|liù ≈ « lio » ; les six dés = six|六岁 = six ans|我比你大六岁。|大六岁|un lion et six dés
+65|一样|i, yang|« I » YANG identique : C'EST PAREIL.|yí-yàng ≈ « i-yang » ; les jumeaux = pareil|相同 = identique|都一样。|一样|des jumeaux
+66|正常|djeng, tchang|Un gong « DJENG ! » et un CHANT (« CHANG ») régulier : C'EST NORMAL.|zhèng-cháng ≈ « djeng-tchang » ; le métronome = normal|很平常 = banal|这很正常。|很正常|un métronome
+67|认真|renne, djeune|Un RENNE (« REN ») JEUNE (« ZHEN ») fronce les sourcils : T'ES SÉRIEUX ?|rèn-zhēn ≈ « renne-jeune » ; les sourcils froncés = sérieux|严肃 = grave|你是认真的吗？|是认真的吗|un renne sérieux
+68|一磅|i, bang|« I » BANG ! sur la balance : UNE LIVRE DE beurre.|yí bàng ≈ « i-bang » ; la balance = une livre de|一斤 = un jin (500 g)|一磅黄油。|一磅黄油|une balance qui fait bang
+69|准备好|djouenne, beille, hao|Un JOUEUR (« ZHUN ») et une BEILLE crient « HAO ! » : que les chevaux soient PRÊTS.|zhǔnbèi hǎo ≈ « djouenne-beille-hao » ; la selle posée = prêts|好了 = c'est prêt|让马在黎明前准备好。|准备好|des chevaux sellés
+70|有些|yo, sié|« YO ! » crie un rappeur à des SIÉ (« XIE ») de jours : CERTAINS jours.|yǒu-xiē ≈ « yo-sié » ; quelques cases = certains|有的 = certains|有些日子我累坏了。|有些日子|quelques cases de calendrier
+71|准备好了|djouenne, beille, hao, leu|Le JOUEUR, la BEILLE et un LEURRE : « HAO ! » : JE SUIS PRÊTE.|zhǔnbèi hǎo le ≈ « djouenne-beille-hao-leu » ; la valise bouclée = prête|好了 = ça y est|所以，是的。我准备好了。|我准备好了|une valise bouclée
+72|可爱|keu, aille|Un KEU (« KE ») crie « AÏE » d'attendrissement : MIGNON.|kě-ài ≈ « keu-aille » ; le chaton = mignon|萌 = trop mignon (familier)|你的裙子很可爱。|很可爱|un chaton
+73|活着|houo, djeu|Un HOUO ! de flamme et une ZHE vivante : IL EST VIVANT !|huó-zhe ≈ « houo-jeu » ; le cœur qui bat = vivant|活 = vivre|他还活着！|还活着|une flamme vivante
+74|人之常情|renne, dji, tchang, tching|Un RENNE (« REN »), un GÉNIE, un CHANT et un CHINOIS : C'EST HUMAIN.|rén zhī cháng qíng ≈ « renne-dji-tchang-tching » ; la main tendue = humain (normal)|人类 = humain (espèce)|这是人之常情。|人之常情|une main tendue
+75|便宜|piène, i|Un PIANO (« PIAN ») dit « I ! » soldé : C'EST PAS CHER.|pián-yi ≈ « piène-i » ; l'étiquette soldée = pas cher|贵 = cher|很便宜。|很便宜|une étiquette soldée
+76|单点|danne, dianne|Une DANSE (« DAN ») sur un DIAMANT (« DIAN ») : À LA CARTE.|dān diǎn ≈ « dane-dianne » ; le menu = à la carte|套餐 = menu fixe|我们单点。|我们单点|un menu
+77|伟大|ouei, da|Un OUISTITI (« WEI ») DAuphin géant : LES GRANDS esprits.|wěi-dà ≈ « ouei-da » ; la statue = grand (illustre)|大 = grand (taille)|看到了吗？英雄所见略同吧？|英雄所见略同|une statue géante
+78|十|chie|Une CHAISE (« SHI ») à DIX pieds.|shí ≈ « chi » ; les deux mains = dix|十分钟 = dix minutes|十分钟后。|十分钟后|une chaise à dix pieds
+79|肯定|keune, dingue|Un KEN (« KEN ») plante un clou DINGUE : J'EN SUIS CERTAIN.|kěn-dìng ≈ « keune-dingue » ; le clou planté = certain|确定 = sûr|我很肯定。|我很肯定|un ken qui plante un clou
+80|很少|henne, chao|La déesse HENNE et un CHAT (« SHAO ») chuchotent : PEU DE personnes le savent (doublon de 19).|hěn shǎo ≈ « henne-chao » ; doublon de 19 : pas de genre|没几个 = pas beaucoup|很少有人知道。|很少有人知道|deux chuchoteurs
+81|安静|anne, djing|Un ÂNE (« AN ») en GINGEMBRE (« JING ») reste immobile : RESTE TRANQUILLE.|ān-jìng ≈ « ane-djing » ; le doigt sur la bouche = tranquille|别闹 = arrête tes bêtises|安静点。|安静点|un âne immobile
+82|正义|djeng, i|Un gong « DJENG ! » et un « I ! » sur la balance : notre cause est JUSTE.|zhèng-yì ≈ « djeng-i » ; la balance = juste (justice)|公平 = juste (équitable)|征服是我们的责任，因为我们的事业是正义的。|是正义的|une balance de justice
+83|危险|ouei, sienne|Un OUISTITI (« WEI ») sur une SIENNE (« XIAN ») au bord du vide : C'EST DANGEREUX !|wēi-xiǎn ≈ « ouei-sienne » ; le panneau ⚠ = dangereux|安全 = sûr|这很危险！|很危险|un ouistiti au bord du vide
+84|最糟糕|dzouei, dzao, gao|Le ZOUAVE (« ZUI ») tombe dans la SAUCE (« ZAO ») d'un GAUCHO : C'EST LE PIRE jour.|zuì zāogāo ≈ « zouei-dzao-gao » ; le nuage noir = pire|最坏 = le pire|这是我一生中最糟糕的一天。|最糟糕的一天|un nuage noir
+85|冷|leng|Un LANGUE (« LENG ») gelée sur un glaçon : L'EAU EST FROIDE.|lěng ≈ « leng » ; le glaçon = froid|凉 = frais|水很冷。|水很冷|une langue sur un glaçon
+86|爱上|aille, chang|« AÏE ! » : un cœur monte (« SHANG ») au ciel : IL EST AMOUREUX.|ài-shang ≈ « aille-chang » ; le cœur qui monte = amoureux|恋爱 = être en amour|他爱上了。|他爱上了|un cœur qui s'envole
+87|强壮|tchiang, djouang|Un CHIANT (« QIANG ») et un JOUANG soulèvent un haltère : IL EST FORT.|qiáng-zhuàng ≈ « tchiang-djouang » ; l'haltère = fort|厉害 = fort (doué)|他很强壮。|很强壮|un haltère soulevé
+88|技术|dji, chou|Un GÉNIE (« JI ») démonte un CHOU (« SHU ») : un terme TECHNIQUE.|jì-shù ≈ « dji-chou » ; la clé à molette = technique|专业 = professionnel|这是个技术术语。|技术术语|une clé à molette
+89|壮观|djouang, gouanne|Un JOUANG et un GOUAILLEUR (« GUAN ») devant une cascade : MAGNIFIQUE !|zhuàng-guān ≈ « djouang-gouane » ; la cascade = magnifique|太美了 = trop beau|太壮观了！|太壮观了|une cascade
+90|难过|nanne, guo|Un NANNE (« NAN ») pleure sur un GOGO (« GUO ») : JE SUIS TRISTE.|nán-guò ≈ « nane-guo » ; la larme = triste|伤心 = avoir de la peine|我很难过。|我很难过|un nanne qui pleure
+91|特别|teu, bié|Un TEUfeur en chapeau étrange (« BIE ») : C'EST SPÉCIAL.|tè-bié ≈ « teu-bié » ; le chapeau unique = spécial|特殊 = particulier|这很特别。|很特别|un chapeau unique
+92|生气|cheng, tchi|Un CHÊNE (« SHENG ») qui fume (« QI ») de rage : IL EST EN COLÈRE.|shēng-qì ≈ « cheng-tchi » ; la fumée aux oreilles = en colère|发火 = s'emporter|他生气了。|他生气了|un chêne qui fume
+93|同样的|tong, yang, deu|Un TONneau et le YANG en DEUx exemplaires : LES MÊMES symptômes.|tóngyàng de ≈ « tong-yang-deu » ; les copies = mêmes|一样的 = pareils|每个病例都有同样的症状。|同样的症状|deux copies identiques
+94|好多事|hao, dwo, chie|« HAO ! » un DUO (« DUO ») et une CHAISE couverte de post-it : PLEIN DE CHOSES à faire.|hǎo duō shì ≈ « hao-dwo-chi » ; la pile de post-it = plein de choses|很多事 = beaucoup de choses|我有好多事要做。|好多事要做|une pile de post-it
+95|好多书|hao, dwo, chou|« HAO ! » un DUO et des CHOUX empilés comme des livres : PLEIN DE LIVRES.|hǎo duō shū ≈ « hao-dwo-chou » ; la bibliothèque pleine = plein de livres|很多 = beaucoup|她有好多书。|好多书|une bibliothèque pleine
+96|没错|mei, tsuo|Un MAIllot efface la CROIX (« CUO ») : EXACT !|méi cuò ≈ « mei-tsuo » ; la croix effacée = exact|对 = juste|没错！|没错|une croix effacée
+97|人好|renne, hao|Un RENNE (« REN ») crie « HAO ! » en offrant des fleurs : IL EST SYMPA.|rén hǎo ≈ « renne-hao » ; les fleurs offertes = sympa|好相处 = facile à vivre|他这个人很好。|人很好|un renne qui offre des fleurs
+98|酷|kou|Un COUCOU (« KU ») en lunettes noires : C'EST TROP COOL !|kù ≈ « kou » ; les lunettes noires = cool|帅 = classe|太酷了！|太酷了|un coucou en lunettes noires
+99|左派|dzwo, paï|Un ZORRO (« ZUO ») à gauche sur une PAÏLLOTTE (« PAI ») : IL EST DE GAUCHE.|zuǒ-pài ≈ « dzwo-paï » ; la flèche gauche = de gauche|右派 = de droite|他是左派。|他是左派|un zorro sur la gauche

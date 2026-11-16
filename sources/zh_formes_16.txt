@@ -1,0 +1,57 @@
+00|得脱掉|deille, touo, diao|Le DEILLE, le TOTO et le DIABLO ôtent le manteau : IL FAUT QUE TU ENLÈVES CE MANTEAU MOUILLÉ.|děi tuōdiào ≈ « deille-touo-diao » ; subjonctif = 得|脱 = ôter|你得把这件湿外套脱掉。|你得把这件湿外套脱掉|un manteau mouillé|děi tuōdiào
+01|捋|lu|Le LU lisse la barbe : IL LISSE SA BARBE EN RÉFLÉCHISSANT.|lǚ ≈ « lu » ; « lisser (de la main) » = 捋|摸 = caresser|他一边想一边捋胡子。|他一边想一边捋胡子|une barbe
+02|铺平|pou, ping|Le POU étale à PLAT (« PING ») : LISSE BIEN LA NAPPE AVANT DE SERVIR.|pūpíng ≈ « pou-ping » ; « lisser (à plat) » = 铺平|弄平 = aplanir|上菜前把桌布铺平。|上菜前把桌布铺平|une nappe
+03|合并|heu, bing|Le HEU et le BING réunis : VOUS UNISSEZ LES DEUX ÉQUIPES.|hébìng ≈ « heu-bing » ; « unir (fusionner) » = 合并|联合 = allier|你们把两个队合并了。|你们把两个队合并了|deux mains jointes
+04|联合起来|lienne, heu, tchi, laï|Le LIEN, le HEU, le TCHI et la LAIE en chaîne : UNISSEZ VOS FORCES !|liánhé qǐlai ≈ « liène-heu-tchi-laï » ; « unissez ! » = 联合起来|团结 = solidarité|联合起来！|联合起来|une chaîne humaine
+05|挣钱|djeng, tsienne|Le ZHENG serre le TSIEN : IL GAGNE BIEN SA VIE.|zhèngqián ≈ « djeng-tsiène » ; « gagner (de l'argent) » = 挣钱|赚钱 = gagner de l'argent|他挣钱挣得不少。|他挣钱挣得不少|une liasse
+06|拖延时间|touo, yanne, cheu, djienne|Le TOTO, le YANN, la CHAISE et le DJINN font traîner : GAGNE DU TEMPS, J'ARRIVE !|tuōyán shíjiān ≈ « touo-yane-chi-djienne » ; « gagner du temps » = 拖延时间|争取 = gagner (obtenir)|拖延时间，我马上来！|拖延时间，我马上来|un sablier
+07|当作|dang, dzouo|Le DANG et ZORRO à la maison : IL CONSIDÈRE CET APPARTEMENT COMME SA MAISON.|dàngzuò ≈ « dang-dzouo » ; « considérer comme » = 当作|看作 = regarder comme|他把这套公寓当作自己的家。|他把这套公寓当作自己的家|une clé
+08|就当|djio, dang|Le JIO et le DANG offrent : CONSIDÈRE ÇA COMME UN CADEAU.|jiù dāng ≈ « djio-dang » ; « considère (comme) ! » = 就当|算是 = compte comme|就当是一份礼物吧。|就当是一份礼物吧|un paquet-cadeau
+09|我存在|ouo, tsounne, dzaille|« OUO », la TSOUNE et le serveur invisibles : IL NE CROIT PAS QUE J'EXISTE.|wǒ cúnzài ≈ « ouo-tsoune-dzaille » ; subjonctif = 不相信我……|存在 = exister|他不相信我存在。|他不相信我存在|une silhouette transparente
+10|只存在于|djeu, tsounne, dzaille, yu|Un GÉNIE, la TSOUNE, le serveur et le YOUYOU dans un nuage : J'AI PEUR QUE TU N'EXISTES QUE DANS MES RÊVES.|zhǐ cúnzài yú ≈ « djeu-tsoune-dzaille-yu » ; « (n')exister que dans » = 只存在于|存在 = exister|我怕你只存在于我的梦里。|我怕你只存在于我的梦里|un nuage de rêve
+11|战斗|djanne, do|Le DJANNE et le DOdo au combat : POURQUOI TU COMBATS POUR EUX ? (doublon de formes_13 67).|zhàndòu ≈ « djane-do » ; doublon (présent)|打仗 = guerroyer|你为什么为他们战斗？|你为什么为他们战斗|une épée
+12|并肩作战|bing, djienne, dzouo, djanne|Le BING, le DJINN, ZORRO et le DJANNE épaule contre épaule : COMBATS À SES CÔTÉS !|bìngjiān zuòzhàn ≈ « bing-djienne-dzouo-djane » ; « combats (aux côtés de) ! » = 并肩作战|战斗 = combattre|跟他并肩作战！|跟他并肩作战|deux boucliers
+13|开始|kaï, cheu|Le CAÏD et la CHAISE demain : VOUS COMMENCEZ DEMAIN ? (doublon de formes_5 77).|kāishǐ ≈ « kaï-chi » ; doublon (vous)|上班 = commencer le travail|你们明天开始吗？|你们明天开始吗|un calendrier
+14|你们马上开始|ni, menne, ma, chang, kaï, cheu|Le NID, les MENNE, la MAMAN, le CHAMEAU, le CAÏD et la CHAISE : JE VEUX QUE VOUS COMMENCIEZ TOUT DE SUITE.|nǐmen mǎshàng kāishǐ ≈ « ni-mene-ma-chang-kaï-chi » ; subjonctif = 要你们……|立刻 = immédiatement|我要你们马上开始。|我要你们马上开始|un chronomètre
+15|怀疑|houaille, i|Le HOUAILLE et le « I » sourcil levé : IL SUSPECTE SON VOISIN DU VOL (doublon de verbes_15 32).|huáiyí ≈ « houaille-i » ; doublon (présent)|猜疑 = soupçonner|他怀疑邻居偷了东西。|他怀疑邻居偷了东西|une loupe
+16|女嫌疑人|nu, sienne, i, renne|La NU, la SIENNE, le « I » et le RENNE sous surveillance : LA SUSPECTE EST MAINTENANT SURVEILLÉE.|nǚ xiányírén ≈ « nu-sienne-i-renne » ; doublon de formes_5 24 (féminin)|嫌疑人 = suspect|女嫌疑人现在被监视着。|女嫌疑人现在被监视着|une caméra
+17|祈祷|tchi, dao|Le TCHI et le DAO mains jointes : NOUS PRIONS POUR LA PAIX (doublon de formes_11 67).|qídǎo ≈ « tchi-dao » ; doublon (nous)|祷告 = prier|我们为和平祈祷。|我们为和平祈祷|une colombe
+18|得为……祈祷|deille, ouei, tchi, dao|Le DEILLE, le OUEI, le TCHI et le DAO : IL FAUT QUE NOUS PRIIONS POUR LUI.|děi wèi… qídǎo ≈ « deille-ouei-tchi-dao » ; subjonctif = 得|祈祷 = prier|我们得为他祈祷。|我们得为他祈祷|des mains jointes|děi wèi… qídǎo
+19|当作|dang, dzouo|Le DANG et ZORRO amis : TU LE CONSIDÈRES COMME UN AMI ? (doublon de 07).|dàngzuò ≈ « dang-dzouo » ; doublon (tu)|看成 = voir comme|你把他当作朋友吗？|你把他当作朋友吗|une poignée de main
+20|要我考虑|yao, ouo, kao, lu|Le YAOURT pousse « OUO » vers le CAO et le LU : IL VEUT QUE JE CONSIDÈRE SON OFFRE.|yào wǒ kǎolǜ ≈ « yao-ouo-kao-lu » ; subjonctif = 要我……|考虑 = envisager|他要我考虑他的提议。|他要我考虑他的提议|un contrat
+21|请|tching|Le CHINOIS désigne le document : VEUILLEZ EXAMINER LE DOCUMENT CI-JOINT (doublon de formes_4 13).|qǐng ≈ « tching » ; doublon (impératif poli)|麻烦您 = auriez-vous l'obligeance|请查看附件。|请查看附件|un trombone
+22|你们想|ni, menne, siang|Le NID, les MENNE et la SIANNE devant la porte : JE COMPRENDS QUE VOUS VOULIEZ PARTIR.|nǐmen xiǎng ≈ « ni-mene-siang » ; subjonctif = 理解你们……|要 = vouloir|我理解你们想离开。|我理解你们想离开|une valise
+23|老说|lao, chouo|Le LAO et le CHOUchou rabâchent : TU RÉPÈTES TOUJOURS LA MÊME CHOSE.|lǎo shuō ≈ « lao-chouo » ; « répéter (sans cesse) » = 老说|重复 = répéter|你老说同样的话。|你老说同样的话|un perroquet
+24|跟我念|guenne, ouo, nienne|La GUENON, « OUO » et le NIEN récitent : RÉPÈTE APRÈS MOI.|gēn wǒ niàn ≈ « guene-ouo-niène » ; « répète après moi ! » = 跟我念|重复 = répéter|跟我念。|跟我念|un tableau
+25|探索|tanne, souo|Le TANDEM et le SO explorent : NOUS DÉCOUVRONS LA VILLE À PIED.|tànsuǒ ≈ « tane-souo » ; « découvrir (explorer) » = 探索 / 逛|发现 = découvrir|我们步行探索这座城市。|我们步行探索这座城市|une carte
+26|得查明|deille, tcha, ming|Le DEILLE, le TCHA et le MING éclairent : IL FAUT QUE NOUS DÉCOUVRIONS LA VÉRITÉ.|děi chámíng ≈ « deille-tcha-ming » ; subjonctif = 得|发现 = découvrir|我们得查明真相。|我们得查明真相|une lanterne|děi chámíng
+27|绑|bang|Le BANG ! de corde : VOUS LIEZ LES SACS AVEC UNE CORDE.|bǎng ≈ « bang » ; « lier » = 绑|系 = nouer|你们用绳子把袋子绑起来。|你们用绳子把袋子绑起来|une corde
+28|绑紧|bang, djine|Le BANG ! serre le JEAN : LIEZ-LES BIEN !|bǎngjǐn ≈ « bang-djine » ; « liez (bien) ! » = 绑紧|捆好 = ficelez|把他们绑紧！|把他们绑紧|un nœud serré
+29|忘了|ouang, leu|Le OUANG efface, « LE ! » : VOUS OUBLIEZ VOS CLÉS (doublon de formes_7 70).|wàng le ≈ « ouang-leu » ; doublon (vous)|落下 = laisser|你们忘了钥匙。|你们忘了钥匙|des clés
+30|忘掉|ouang, diao|Le OUANG et le DIABLO effacent : OUBLIEZ CE QUE J'AI DIT (doublon de formes_13 32).|wàngdiào ≈ « ouang-diao » ; doublon (impératif)|别记着 = ne retenez pas|忘掉我说的话。|忘掉我说的话|une gomme
+31|应该|ying, gaï|Le YING et le GAILLard au seuil : JE PENSE QU'IL DOIVE PARTIR (doublon de formes_1 01).|yīnggāi ≈ « ying-gaï » ; doublon (subjonctif)|得 = devoir|我觉得他应该走。|我觉得他应该走|une porte
+32|转过|djouanne, gouo|Le DJOUANE et le GUO jamais : LE MOTEUR N'A JAMAIS FONCTIONNÉ.|zhuànguo ≈ « djouane-gouo » ; « fonctionné (tourné) » = 转过|运转 = fonctionner|这台发动机从来没转过。|这台发动机从来没转过|un moteur|zhuànguo
+33|吓坏了|sia, houaille, leu|Le SIAMOIS terrifié : IL EST EFFRAYÉ (doublon de formes_4 83).|xiàhuài le ≈ « sia-houaille-leu » ; doublon|害怕 = avoir peur|他吓坏了。|他吓坏了|des cheveux dressés
+34|教|djiao|Le JAGUAR au tableau : IL A ENSEIGNÉ L'ITALIEN PENDANT TRENTE ANS.|jiāo ≈ « djiao » ; « enseigner » = 教|教书 = enseigner (métier)|他教了三十年意大利语。|他教了三十年意大利语|une craie|jiāo
+35|放在|fang, dzaille|Le FANG pose chez le serveur : LES CLÉS ONT ÉTÉ LAISSÉES SUR LA TABLE.|fàng zài ≈ « fang-dzaille » ; « laissées (posées) » = 放在|留 = laisser|钥匙放在桌子上了。|钥匙放在桌子上了|des clés sur la table
+36|涉嫌|cheu, sienne|La CHAISE et la SIENNE suspectes : IL EST SOUPÇONNÉ DE VOL.|shèxián ≈ « cheu-sienne » ; « soupçonné de » = 涉嫌|被怀疑 = suspecté|他涉嫌盗窃。|他涉嫌盗窃|une loupe
+37|打中|da, djong|Le DAIM rate le ZONG : TROIS FOIS ILS M'ONT RATÉ (chopé).|dǎzhòng ≈ « da-djong » ; « choper (atteindre) » = 打中|击中 = frapper|他们三次都没打中我。|他们三次都没打中我|une cible ratée|dǎzhòng
+38|被……看过|beille, kanne, gouo|Une BEILLE, le CANON et le GUO devant l'écran : CES FILMS ONT ÉTÉ REGARDÉS PAR DES MILLIONS DE GENS.|bèi… kànguo ≈ « beille-kane-gouo » ; passif = 被|看 = regarder|这些电影被几百万人看过。|这些电影被几百万人看过|des millions d'yeux
+39|只剩|djeu, cheng|Un GÉNIE et le CHÊNE restants : ON N'EST PLUS QUE 80 (demeurés).|zhǐ shèng ≈ « djeu-cheng » ; « (ne) rester (que) » = 只剩|剩下 = rester|我们只剩八十个人了。|我们只剩八十个人了|un sablier
+40|记得|dji, deu|Le GÉNIE et le DEU se souviennent : VOUS SOUVENIR DE MOI M'HONORE (doublon de verbes_7 33).|jìde ≈ « dji-deu » ; doublon (participe)|想起 = se rappeler|您记得我，我很荣幸。|您记得我，我很荣幸|un médaillon
+41|跑了|pao, leu|Le PAOn file, « LE ! » : LE CHIEN S'EST ENFUI (doublon de formes_6 76).|pǎo le ≈ « pao-leu » ; doublon|逃了 = enfui|狗跑了。|狗跑了|une laisse vide
+42|贬低|bienne, di|Le BIEN rabaisse au DIDI : VOUS AVEZ DÉJÀ RABAISSÉ RAMONA ? (cogné).|biǎndī ≈ « bienne-di » ; « rabaisser » = 贬低|羞辱 = humilier|您贬低过拉莫娜吗？|您贬低过拉莫娜吗|une flèche vers le bas
+43|下了|sia, leu|Le SIAMOIS sous la pluie, « LE ! » : IL A PAS MAL PLU.|xià le ≈ « sia-leu » ; « plu » = 下了雨|下雨 = pleuvoir|雨下了不少。|雨下了不少|des gouttes
+44|一切都完美|i, tsié, dou, ouanne, meille|Le « I », le TCHIÉ, le DOUdou, le OUANNE et la MÉDAILLE : IL VOULAIT QUE TOUT FÛT PARFAIT.|yíqiè dōu wánměi ≈ « i-tsié-dou-ouane-meille » ; « que tout fût (parfait) » = 一切都完美|完美 = parfait|他想让一切都完美。|他想让一切都完美|une étoile
+45|找|djao|Le JAGUAR cherche la dame : JE VOUS CHERCHAIS (doublon de formes_5 91).|zhǎo ≈ « djao » ; doublon (participe)|寻找 = rechercher|我一直在找您。|我一直在找您|une loupe
+46|卸|sié|La SIESTE décharge le fusil : TU L'AS MÊME PAS DÉCHARGÉ.|xiè ≈ « sié » ; « décharger » = 卸 / 退子弹|装 = charger|你连子弹都没卸。|你连子弹都没卸|des balles retirées
+47|浪费|lang, feille|Le LANG et la FEUILLE gaspillés : C'EST UN GASPILLAGE DE BON VIN (doublon de formes_14 86).|làngfèi ≈ « lang-feille » ; doublon|糟蹋 = gâcher|这是浪费好酒。|这是浪费好酒|une bouteille renversée
+48|总算|dzong, souanne|Le ZONGzi et le SOUANNE soulagés : UN COUP DE CHANCE ! (calmée).|zǒngsuàn ≈ « dzong-souane » ; « (enfin) calmée » = 总算|终于 = enfin|总算走运！|总算走运|un trèfle
+49|骗了|pienne, leu|La PIENNE trompe, « LE ! » : JE VOUS AI EUS, CE COUP-CI.|piàn le ≈ « piène-leu » ; « arnaqué » = 骗了|耍了 = roulé|这次我把你们骗了。|这次我把你们骗了|un clin d'œil
+50|规矩点|gouei, djiu, dianne|Le GOUEI, le JUS et le DIAMANT sages : JE SUIS GENTILHOMME ET JE T'ORDONNE DE TE COMPORTER DÉCEMMENT !|guīju diǎn ≈ « gouei-dju-diane » ; « se comporter (décemment) » = 规矩点|守规矩 = être sage|我是绅士，我命令你规矩点！|我命令你规矩点|un haut-de-forme
+51|长大了|djang, da, leu|Le DJANGO, le DAIM et « LE ! » : PETITE SŒUR, COMME TU AS GRANDI ! (doublon de formes_13 37).|zhǎngdà le ≈ « djang-da-leu » ; doublon (féminin)|长高 = grandir|小妹，你长这么大了！|你长这么大了|une toise
+52|搞清楚|gao, tching, tchu|Le GAUCHO, le CHINOIS et le TCHU éclairent : FAUT TIRER ÇA AU CLAIR MAINTENANT (niquée).|gǎo qīngchu ≈ « gao-tching-tchu » ; « tirer au clair » = 搞清楚|弄清楚 = élucider|得马上把这事搞清楚。|把这事搞清楚|une lampe torche
+53|破车|pouo, tcheu|Le PO et le TCHEU en ruine : CETTE BAGNOLE N'A RIEN DANS LE VENTRE ! (niqués, registre familier).|pò chē ≈ « pouo-tcheu » ; « (bagnole) niquée » = 破车|旧车 = vieille voiture|这辆破车一点劲儿都没有！|这辆破车一点劲儿都没有|une épave
+54|喜欢吗|si, houanne, ma|Le SIFFLET, le HOUANE et la MAMAN : ÇA VOUS A PLU ? FUTÉ LE « FÛT » !|xǐhuan ma ≈ « si-houane-ma » ; « plu ? » = 喜欢吗|满意吗 = satisfait ?|您喜欢吗？这个「桶」妙吧！|您喜欢吗|un tonneau
+55|记住|dji, djou|Le GÉNIE et le JOUjou gravent : RAPPELLE-TOI, TU ES À MOI (doublon de formes_9 27).|jìzhù ≈ « dji-djou » ; doublon|别忘了 = n'oublie pas|记住，你是我的。|记住，你是我的|un anneau
+56|要我在场|yao, ouo, dzaille, tchang|Le YAOURT pousse « OUO » chez le serveur et le CHAMEAU : IL VOULAIT QUE JE FUSSE PRÉSENT.|yào wǒ zàichǎng ≈ « yao-ouo-dzaille-tchang » ; « que je fusse (présent) » = 要我在场|出席 = assister|他要我在场。|他要我在场|une chaise réservée

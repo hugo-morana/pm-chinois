@@ -1,0 +1,100 @@
+00|可能会|keu, neng, houei|Le KEU et le NENG lancent un boomerang (« HUI ») qui revient : ILS POURRAIENT REVENIR ; conditionnel = 可能会.|kěnéng huì ≈ « keu-neng-houei » ; le boomerang = pourraient|也许 = peut-être|他们可能会回来。|他们可能会回来|un boomerang
+01|会准备好|houei, djoune, beille, hao|Le boomerang, le JUNE, la BEILLE et « HAO ! » prêts au départ : NOUS SERONS PRÊTS.|huì zhǔnbèi hǎo ≈ « houei-djoune-beille-hao » ; futur = 会|准备好 = prêt|我们会准备好的。|我们会准备好的|un sac prêt
+02|不肯|bou, kenne|Le BOUc et le KENNE ferment la porte : IL N'A PAS VOULU VENIR (他不肯来 ; doublon de verbes_9 82).|bù kěn ≈ « bou-kenne » ; doublon ; vouloir (négatif) = 不肯|不想 = ne pas vouloir|他不肯来。|他不肯来|une porte fermée
+03|赢了|ing, leu|Un INGÉ (« YING ») lève la coupe et crie « LE ! » : ILS ONT GAGNÉ.|yíng le ≈ « ing-leu » ; 赢 + 了 = gagné|输了 = perdu|他们赢了。|他们赢了|une coupe
+04|在睡觉|dzaille, chouei, djiao|Le serveur (« ZAI ») et un CHOUETTE dorment sur un JAGUAR : TU DORMAIS ? ; 在 = en train de.|zài shuìjiào ≈ « dzaille-chouei-djiao » ; 在 + verbe = étais en train de|正在 = en train de|你在睡觉吗？|你在睡觉吗|un oreiller
+05|等|deng|Le DENGUE attend sur un banc : JE T'ATTENDS (我在等你 ; gérondif = 在 + verbe).|děng ≈ « deng » ; le banc d'attente = en attendant|等着 = en attendant|我在等你。|我在等你|un banc d'attente
+06|没法|meille, fa|Un MAIllot (« MEI ») et un FARE (« FA ») éteint : JE NE POUVAIS PAS DORMIR (我没法睡).|méi fǎ ≈ « meille-fa » ; « ne pouvais pas » = 没法|不能 = ne pas pouvoir|我没法睡着。|我没法睡着|des yeux ouverts la nuit
+07|做了|dzouo, leu|ZORRO a fait et crie « LE ! » regrettant : JE REGRETTE DE L'AVOIR FAIT (doublon de formes_1 01).|zuò le ≈ « dzouo-leu » ; doublon (averlo = l'avoir)|后悔 = regretter|我后悔做了这件事。|我后悔做了这件事|un ZORRO repentant
+08|要是……在|yao, cheu, dzaille|Le YAOURT sur la CHAISE imagine le serveur ici : S'ILS ÉTAIENT ICI, ILS NOUS AIDERAIENT.|yàoshi… zài ≈ « yao-chi-dzaille » ; doublon de formes_1 03 (pluriel)|如果 = si|要是他们在这儿，他们会帮我们的。|要是他们在这儿|une chaise vide
+09|存在|tsoune, dzaille|Un TSOUNAMI (« CUN ») et le serveur (« ZAI ») introuvables : ÇA N'EXISTE PAS.|cúnzài ≈ « tsoune-dzaille » ; le fantôme = exister|有 = il y a|这不存在。|这不存在|un fantôme
+10|选好了|siuanne, hao, leu|Le SIUAN choisit « HAO ! » et crie « LE ! » : TU AS DÉJÀ CHOISI ?|xuǎn hǎo le ≈ « siuane-hao-leu » ; 选好 + 了 = choisi|选择 = choisir|你已经选好了吗？|你已经选好了吗|un menu coché
+11|走了|dzo, leu|Le ZO part en criant « LE ! » : ILS SONT PARTIS (doublon de verbes_10 62).|zǒu le ≈ « dzo-leu » ; doublon (pluriel italien andati)|离开了 = partis|他们走了。|他们走了|des traces de pas
+12|等等|deng, deng|Deux DENGUES (« DENG DENG ») lèvent la main : ATTENDEZ ICI ! (在这儿等着).|děngdeng ≈ « deng-deng » ; la main levée = attendez !|等一下 = attendez un instant|等等！在这儿等着！|等等！在这儿等着|une main levée
+13|会做任何事|houei, dzouo, renne, heu, cheu|Le boomerang, ZORRO, un RENNE, un HEU et une CHAISE prêts à tout : IL FERAIT N'IMPORTE QUOI POUR ELLE.|huì zuò rènhé shì ≈ « houei-dzouo-renne-heu-chi » ; conditionnel = 会|什么都做 = tout faire|他会为她做任何事。|会为她做任何事|un cœur
+14|住|djou|Le JOUJOU vit chez eux : MADELINE VIT AVEC EUX, SA SŒUR (doublon de verbes_12 50).|zhù ≈ « djou » ; doublon (vivre)|生活 = vivre|玛德琳和他们住在一起，她妹妹。|和他们住在一起|une maison
+15|总是说|dzong, cheu, chouo|Un ZONGzi (« ZONG ») sur une CHAISE parle CHOUchou : IL DISAIT TOUJOURS LA VÉRITÉ ; 总是 = toujours (imparfait d'habitude).|zǒngshì shuō ≈ « dzong-chi-chouo » ; l'habitude passée = 总是|一直说 = disait sans cesse|他总是说真话。|他总是说真话|une bouche honnête
+16|帮你|bang, ni|Un BANG ! de main tendue vers un NID (« NI ») : JE SUIS LÀ POUR T'AIDER (aiutarti = t'aider).|bāng nǐ ≈ « bang-ni » ; le pronom collé = 帮你|帮助 = aider|我在这儿帮你。|我在这儿帮你|une main tendue
+17|得选|deille, siuanne|Le DEILLE oblige un SIUAN (« XUAN ») à choisir : TU DEVRAS CHOISIR (你得选).|děi xuǎn ≈ « deille-siuane » ; futur de devoir = 得 (contexte)|必须 = devoir|你得做选择。|你得做选择|deux portes|děi xuǎn
+18|听我说|ting, ouo, chouo|Un TING ! d'oreille vers « OUO » qui parle : ÉCOUTE-MOI BIEN (ascoltami).|tīng wǒ shuō ≈ « ting-ouo-chouo » ; l'impératif + me = 听我说|听着 = écoute|好好听我说。|好好听我说|une oreille tendue
+19|到了|dao, leu|Le DAO arrive et crie « LE ! » : NOUS SOMMES ARRIVÉS ! (doublon de formes_1 48).|dào le ≈ « dao-leu » ; doublon (pluriel)|到达 = arriver|我们到了！|我们到了|un drapeau d'arrivée
+20|能来|neng, laï|Le NENG ouvre la porte à la LAIE : IL POURRA VENIR (他能来).|néng lái ≈ « neng-laï » ; futur de pouvoir = 能|可以来 = peut venir|他能来。|他能来|une porte ouverte
+21|到|dao|Le DAO arrive en courant, trop tard : ELLE EST ARRIVÉE EN RETARD (她来晚了 ; doublon de 19).|dào ≈ « dao » ; doublon (féminin)|迟到 = être en retard|她来晚了。|她来晚了|une horloge
+22|会有时间|houei, yo, chie, djienne|Le boomerang crie « YO ! » sur une CHAISE devant le DJIENNE d'horloge : NOUS AURONS LE TEMPS.|huì yǒu shíjiān ≈ « houei-yo-chi-djienne » ; futur d'avoir = 会有|有空 = être libre|我们会有时间的。|我们会有时间的|une horloge
+23|救了|djiou, leu|Le JUDOKA sauve et crie « LE ! » : TU M'AS SAUVÉ LA VIE (你救了我的命).|jiù le ≈ « djiou-leu » ; 救 + 了 = sauvé|救命 = au secours|你救了我的命。|你救了我的命|une bouée
+24|打赌|da, dou|Un DAuphin parie avec un DOUanier : JE PARIE QU'IL MENT (doublon de noms_7 58).|dǎdǔ ≈ « da-dou » ; doublon (verbe)|赌 = parier|我打赌他在撒谎。|我打赌他在撒谎|des dés
+25|弄错了|nong, tsouo, leu|Un NON et un TSOUO barrés crient « LE ! » : JE ME SUIS TROMPÉ.|nòngcuò le ≈ « nong-tsouo-leu » ; 弄错 + 了 = trompé|错 = faux|我弄错了。|我弄错了|une croix rouge
+26|回来了|houei, laï, leu|Le boomerang et la LAIE reviennent, « LE ! » : IL EST REVENU DE VACANCES.|huílai le ≈ « houei-laï-leu » ; 回来 + 了 = revenu|回去 = rentré (là-bas)|他度假回来了。|他度假回来了|un boomerang revenu
+27|碰到了|peng, dao, leu|Le PENGOUIN croise le DAO et crie « LE ! » : J'AI RENCONTRÉ TON FRÈRE.|pèngdào le ≈ « peng-dao-leu » ; doublon de verbes_11 56 + 了|遇见 = rencontrer|我碰到你哥哥了。|我碰到你哥哥了|un coin de rue
+28|正要|djeng, yao|Le JENGA et le YAOURT sur le point de partir : NOUS ÉTIONS SUR LE POINT DE PARTIR (我们正要走).|zhèng yào ≈ « djeng-yao » ; « sur le point de » = 正要|快要 = bientôt|我们正要走。|我们正要走|une main sur la poignée
+29|会想|houei, siang|Le boomerang et la SIANNE curieuse : IL VOUDRA SAVOIR (他会想知道的).|huì xiǎng ≈ « houei-siang » ; futur de vouloir = 会想|要 = vouloir|他会想知道的。|他会想知道的|une SIANNE curieuse
+30|回来了|houei, laï, leu|Le boomerang revient avec une LAIE : ELLE EST REVENUE (doublon de 26).|huílai le ≈ « houei-laï-leu » ; doublon (féminin)|回家了 = rentrée|她回来了。|她回来了|une LAIE revenue
+31|谈这件事|tanne, djeu, djienne, cheu|Un TANDEM refuse de parler du JEU, du DJIENNE et de la CHAISE : JE NE VEUX PAS EN PARLER (parlarne).|tán zhè jiàn shì ≈ « tane-djeu-djienne-chi » ; le pronom « en » = 这件事|说 = dire|我不想谈这件事。|我不想谈这件事|une bouche fermée
+32|出去了|tchou, tchu, leu|Le CHOU sort avec un TCHOU, « LE ! » : IL EST SORTI.|chūqu le ≈ « tchou-tchu-leu » ; 出去 + 了 = sorti|出来 = sortir (vers ici)|他出去了。|他出去了|une porte qui claque
+33|得工作|deille, gong, dzouo|Le DEILLE pousse au GONG du travail : JE DEVRAI TRAVAILLER.|děi gōngzuò ≈ « deille-gong-dzouo » ; futur de devoir = 得|要工作 = devoir travailler|我得工作。|我得工作|un bureau|děi gōngzuò
+34|意识到|i, cheu, dao|« I », un CHE et un DAO allument une ampoule : IL NE SE REND PAS COMPTE… (他没意识到).|yìshi dào ≈ « i-chi-dao » ; l'ampoule éteinte = se rendre (compte)|发现 = remarquer|他没意识到……|他没意识到|une ampoule éteinte
+35|认识|renne, cheu|Un RENNE serre la main d'une CHAISE (« SHI ») : COMMENT AVEZ-VOUS CONNU MARCO ? (你们是怎么认识马可的).|rènshi ≈ « renne-chi » ; la poignée de main = connu|知道 = savoir|你们是怎么认识马可的？|怎么认识马可的|une poignée de main
+36|回来|houei, laï|Le boomerang revient avec la LAIE : REVIENS ICI ! (impératif ; 回来！).|huílai ≈ « houei-laï » ; l'impératif = verbe seul|过来 = viens ici|回来！|回来|un boomerang
+37|回来|houei, laï|Le boomerang revient demain : IL REVIENT DEMAIN (doublon de 36).|huílai ≈ « houei-laï » ; doublon (présent)|回 = revenir|他明天回来。|他明天回来|un calendrier
+38|骗了|piène, leu|Un PIEN au nez long crie « LE ! » : TU M'AS MENTI ! (你骗了我).|piàn le ≈ « piène-leu » ; 骗 + 了 = menti (trompé)|撒谎 = mentir|你骗了我！|你骗了我|un nez qui s'allonge
+39|让她|rang, ta|Le RANG pousse un TA (« TA ») dehors : IL FAUT LA FAIRE SORTIR (得让她出来 ; farla).|ràng tā ≈ « rang-ta » ; le pronom collé (farla) = 她|让 = faire (que)|得让她出来。|得让她出来|une porte ouverte
+40|找到了|djao, dao, leu|Le JAGUAR la trouve et crie « LE ! » : ILS L'ONT TROUVÉE (doublon de formes_1 42).|zhǎodào le ≈ « djao-dao-leu » ; doublon (féminin)|发现 = découvrir|他们找到她了。|他们找到她了|une lampe torche
+41|改变了|gaï, biène, leu|Le GAÏ change le BIEN et crie « LE ! » : J'AI CHANGÉ D'AVIS (我改变主意了).|gǎibiàn le ≈ « gaï-biène-leu » ; 改变 + 了 = changé|换 = échanger|我改变主意了。|我改变主意了|une girouette
+42|去剪|tchu, djienne|Le TCHOU file chez le DJIENNE (« JIAN ») aux ciseaux : FAIS-TOI COUPER LES CHEVEUX ! (去剪个头发).|qù jiǎn ≈ « tchu-djienne » ; l'impératif réfléchi = 去 + verbe|剪头发 = se faire couper les cheveux|去剪个头发！|去剪个头发|des ciseaux
+43|自制|dzeu, dji|Un ZEU (« ZI ») fait lui-même un GÉNIE (« ZHI ») de gâteau : CES GÂTEAUX SONT FAITS MAISON.|zìzhì ≈ « dzeu-dji » ; le tablier = fait (maison)|做的 = fait|这些蛋糕是自制的。|这些蛋糕是自制的|un tablier
+44|认识你|renne, cheu, ni|Le RENNE et la CHAISE serrent la main du NID : JE SUIS HEUREUX DE T'AVOIR RENCONTRÉ (averti = t'avoir).|rènshi nǐ ≈ « renne-chi-ni » ; le pronom collé = 你|见到你 = te voir|很高兴认识你。|很高兴认识你|une poignée de main
+45|杀了|cha, leu|Le CHAT au couteau crie « LE ! » : QUI L'A TUÉ ? (谁杀了他).|shā le ≈ « cha-leu » ; 杀 + 了 = tué|杀死 = tuer|谁杀了他？|谁杀了他|un couteau
+46|工作了|gong, dzouo, leu|Le GONG et ZORRO toute la nuit, « LE ! » : J'AI TRAVAILLÉ TOUTE LA NUIT.|gōngzuò le ≈ « gong-dzouo-leu » ; 工作 + 了 = travaillé|加班 = heures sup|我工作了一整夜。|我工作了一整夜|une lune
+47|付过了|fou, guo, leu|Le FOU a déjà payé (« GUO ») et crie « LE ! » : J'AI DÉJÀ PAYÉ.|fù guo le ≈ « fou-guo-leu » ; 付 + 过了 = déjà payé|买单 = payer l'addition|我已经付过了。|我已经付过了|un reçu
+48|本来应该|benne, laï, ing, gaï|Le BENNE, la LAIE, l'INGÉ et le GAÏ muets : ILS AURAIENT DÛ LE DIRE (doublon de formes_1 09).|běnlái yīnggāi ≈ « bene-laï-ing-gaï » ; doublon (pluriel)|该说 = devraient dire|他们本来应该说的。|他们本来应该说的|une bouche fermée
+49|绝不会|djué, bou, houei|Le JUGE, le BOUc et le boomerang refusent : JE NE FERAIS JAMAIS ÇA.|jué bú huì ≈ « djué-bou-houei » ; conditionnel négatif = 绝不会|永远不 = jamais|我绝不会那样做。|我绝不会那样做|une main qui refuse
+50|在看|dzaille, kanne|Le serveur et le CANARD regardent : QU'EST-CE QUE TU REGARDES ? (你在看什么 ; gérondif = 在).|zài kàn ≈ « dzaille-kane » ; 在 + verbe = en regardant|看着 = regarder (continu)|你在看什么？|你在看什么|des yeux
+51|给|gueille|Le GUEILLE doit donner une réponse : IL FAUT QU'IL ME DONNE UNE RÉPONSE (他得给我一个答复 ; doublon de verbes_11 90).|gěi ≈ « gueille » ; doublon (subjonctif)|回答 = répondre|他得给我一个答复。|他得给我一个答复|une main qui donne
+52|见他|djienne, ta|Le DJIENNE veut rejoindre un TA (« TA ») : JE VEUX LE VOIR (vederlo).|jiàn tā ≈ « djienne-ta » ; le pronom collé = 他|看他 = le regarder|我想见他。|我想见他|une porte
+53|来|laï|La LAIE et ses amis arrivent : MERCI D'ÊTRE VENUS (谢谢你们来 ; doublon de formes_1 53).|lái ≈ « laï » ; doublon (pluriel)|光临 = venue (poli)|谢谢你们来。|谢谢你们来|des invités
+54|是对的|cheu, doueille, deu|La CHAISE et la DOUILLE DEUx fois cochées : JE CROIS QU'ILS AIENT RAISON (我觉得他们是对的).|shì duì de ≈ « chi-doueille-deu » ; « avoir raison » = 是对的|没错 = pas faux|我觉得他们是对的。|他们是对的|une coche
+55|得付钱|deille, fou, tsienne|Le DEILLE pousse le FOU à payer un TSIEN : IL DEVRA PAYER.|děi fù qián ≈ « deille-fou-tsienne » ; futur de devoir = 得|要付 = devoir payer|他得付钱。|他得付钱|un billet|děi fù qián
+56|请|tching|Le CHINOIS demande poliment : JE TE DEMANDE DE M'AIDER (我请你帮我 ; doublon de verbes_5 85).|qǐng ≈ « tching » ; doublon (gérondif)|求 = supplier|我请你帮我。|我请你帮我|une main jointe
+57|应该在|ing, gaï, dzaille|L'INGÉ, le GAÏ et le serveur devant une place vide : ILS DEVRAIENT ÊTRE LÀ.|yīnggāi zài ≈ « ing-gaï-dzaille » ; conditionnel = 应该|该在 = devrait être là|他们应该在那儿。|他们应该在那儿|une place vide
+58|留下了|lio, sia, leu|Le LION reste en bas (« XIA ») et crie « LE ! » : DU COUP, JE SUIS RESTÉ.|liúxià le ≈ « lio-sia-leu » ; 留下 + 了 = resté|待 = rester|所以我留下了。|所以我留下了|un LION assis
+59|会很开心|houei, henne, kaï, sine|Le boomerang, la déesse HENNE et un KAYAK au SIGNE joyeux : ILS SERAIENT CONTENTS.|huì hěn kāixīn ≈ « houei-henne-kaï-sine » ; conditionnel = 会|高兴 = content|他们会很开心的。|他们会很开心的|des sourires
+60|会给|houei, gueille|Le boomerang et le GUEILLE tendent la réponse demain : JE TE DONNERAI LA RÉPONSE DEMAIN.|huì gěi ≈ « houei-gueille » ; futur = 会|给 = donner|我明天会给你答复。|明天会给你答复|un calendrier
+61|不行|bou, sing|Le BOUc et le SINGE secouent une machine en panne : ÇA NE MARCHE PAS (这不行).|bùxíng ≈ « bou-sing » ; le pouce baissé = ça ne marche pas|没用 = inutile|这不行。|这不行|un pouce baissé
+62|怎么用|dzenne, meu, yong|Un ZEN, un MEU et un couteau (« YONG ») en mode d'emploi : COMMENT ÇA FONCTIONNE ?|zěnme yòng ≈ « dzene-meu-yong » ; la notice = fonctionner (comment on s'en sert)|运行 = fonctionner|这个怎么用？|这个怎么用|une notice
+63|要是……能|yao, cheu, neng|Le YAOURT sur la CHAISE et le NENG : S'IL POUVAIT, IL VIENDRAIT.|yàoshi… néng ≈ « yao-chi-neng » ; hypothèse + pouvoir = 要是……能|如果能 = si possible|要是他能来，他会来的。|要是他能来|une porte entrouverte
+64|进来了|djine, laï, leu|Le JEAN entre avec la LAIE, « LE ! » : QUELQU'UN EST ENTRÉ.|jìnlai le ≈ « djine-laï-leu » ; 进来 + 了 = entré|进去 = entrer (là-bas)|有人进来了。|有人进来了|une porte poussée
+65|会去|houei, tchu|Le boomerang et le TCHOU partent pour Rome : NOUS IRONS À ROME (doublon de formes_1 97).|huì qù ≈ « houei-tchu » ; doublon (nous)|要去 = allons aller|我们会去罗马。|我们会去罗马|une valise
+66|帮我|bang, ouo|Un BANG ! de main tendue vers « OUO » : TU PEUX ME DONNER UN COUP DE MAIN ? (darmi).|bāng wǒ ≈ « bang-ouo » ; le pronom collé = 我|帮忙 = aider|你能帮我一下吗？|你能帮我一下吗|une main tendue
+67|给你|gueille, ni|Le GUEILLE tend un paquet au NID : JE VEUX TE DONNER QUELQUE CHOSE (darti).|gěi nǐ ≈ « gueille-ni » ; le pronom collé = 你|送你 = t'offrir|我想给你一样东西。|想给你一样东西|un paquet tendu
+68|说不上来|chouo, bou, chang, laï|Le CHOUchou, le BOUc, le CHAMEAU et la LAIE haussent les épaules : JE NE SAURAIS PAS DIRE.|shuō bu shànglái ≈ « chouo-bou-chang-laï » ; le haussement = ne saurais (pas) dire|不知道 = ne sais pas|我说不上来。|我说不上来|un haussement d'épaules
+69|关了|gouanne, leu|Le GOUANE baisse le rideau et crie « LE ! » : LE MAGASIN EST FERMÉ (商店关门了).|guān le ≈ « gouane-leu » ; 关 + 了 = fermé|关门 = fermer|商店关门了。|商店关门了|un rideau baissé
+70|别管|bié, gouanne|Le BIEN repousse le GOUANE : LAISSEZ-MOI TRANQUILLE ! (doublon de verbes_8 12).|bié guǎn ≈ « bié-gouane » ; doublon (impératif)|让开 = écartez-vous|别管我！|别管我|une main qui repousse
+71|要是……能|yao, cheu, neng|Le YAOURT sur la CHAISE et le NENG tendent la main : SI JE POUVAIS, JE T'AIDERAIS (doublon de 63).|yàoshi… néng ≈ « yao-chi-neng » ; doublon (je)|如果可以 = si je peux|要是我能，我就帮你。|要是我能|une main tendue
+72|回家了|houei, djia, leu|Le boomerang rentre chez JIA, « LE ! » : IL EST RENTRÉ À LA MAISON.|huíjiā le ≈ « houei-djia-leu » ; 回家 + 了 = rentré|到家 = arrivé chez soi|他回家了。|他回家了|une maison
+73|得等|deille, deng|Le DEILLE retient le DENGUE sur un banc : NOUS DEVRONS ATTENDRE.|děi děng ≈ « deille-deng » ; futur de devoir = 得|要等 = devoir attendre|我们得等。|我们得等|un banc|děi děng
+74|帮了|bang, leu|Un BANG ! d'aide et « LE ! » : TU M'AS BEAUCOUP AIDÉ (你帮了我很多).|bāng le ≈ « bang-leu » ; 帮 + 了 = aidé|帮助 = aide|你帮了我很多。|你帮了我很多|une main tendue
+75|耍|choua|Le CHOUA fait des grimaces : TU TE MOQUES DE MOI ? (你在耍我吗 ; doublon de verbes_7 39).|shuǎ ≈ « choua » ; doublon (gérondif)|开玩笑 = plaisanter|你在耍我吗？|你在耍我吗|une grimace
+76|注意到|djou, i, dao|Le JOUJOU ouvre un « I » d'œil et arrive (« DAO ») : TU AS REMARQUÉ ?|zhùyìdào ≈ « djou-i-dao » ; 注意 + 到 = remarqué|发现 = découvrir|你注意到了吗？|你注意到了吗|un œil ouvert
+77|帮我|bang, ouo|Le BANG ! de main vers « OUO » : MERCI DE M'AVOIR AIDÉ (avermi ; doublon de 66).|bāng wǒ ≈ « bang-ouo » ; doublon|谢谢 = merci|谢谢你帮我。|谢谢你帮我|une main tendue
+78|看起来|kanne, tchi, laï|Le CANARD, le TCHI et la LAIE souriants : ILS ONT L'AIR HEUREUX (doublon de formes_1 88).|kàn qilai ≈ « kane-tchi-laï » ; doublon (pluriel)|似乎 = sembler|他们看起来很幸福。|他们看起来很幸福|des sourires
+79|可以来|keu, i, laï|Le KEU dit « I » et ouvre à la LAIE : TU POURRAS VENIR DEMAIN.|kěyǐ lái ≈ « keu-i-laï » ; futur de pouvoir = 可以|能来 = pouvoir venir|你明天可以来。|你明天可以来|une porte ouverte
+80|你会看到|ni, houei, kanne, dao|Le NID, le boomerang, le CANARD et le DAO voient l'avenir : TU VERRAS, ÇA IRA.|nǐ huì kàndào ≈ « ni-houei-kane-dao » ; futur de voir = 会看到|看着吧 = tu verras|你会看到的，会好的。|你会看到的|une longue-vue
+81|明白吗|ming, bai, ma|La lampe MING, un BAILLE et une MAMAN demandent : VOUS VOYEZ ? (明白吗).|míngbai ma ≈ « ming-baille-ma » ; « vous voyez ? » = 明白吗|懂吗 = tu piges ?|你们明白吗？|你们明白吗|une ampoule
+82|帮帮我|bang, bang, ouo|Deux BANG ! et « OUO » qui appelle : AIDE-MOI, S'IL TE PLAÎT ! (aiutami).|bāngbang wǒ ≈ « bang-bang-ouo » ; l'impératif + me = 帮帮我|救命 = au secours|请帮帮我！|请帮帮我|une main tendue
+83|见到她|djienne, dao, ta|Le DJIENNE arrive auprès d'un TA (« TA ») : JE SUIS CONTENT DE L'AVOIR VUE (averla).|jiàndào tā ≈ « djienne-dao-ta » ; le pronom collé (féminin) = 她|看见她 = la voir|我很高兴见到了她。|我很高兴见到了她|une rencontre
+84|回答了|houei, da, leu|Le boomerang et le DAuphin répondent, « LE ! » : IL M'A RÉPONDU GENTIMENT.|huídá le ≈ « houei-da-leu » ; 回答 + 了 = répondu|答 = répondre|他很客气地回答了我。|很客气地回答了我|une bulle polie
+85|会开派对|houei, kaï, paille, doueille|Le boomerang, le KAYAK, la PAILLE et la DOUILLE en cotillons : ILS FERONT LA FÊTE.|huì kāi pàiduì ≈ « houei-kaï-paille-doueille » ; futur = 会|庆祝 = célébrer|他们会开派对。|他们会开派对|des cotillons
+86|见她|djienne, ta|Le DJIENNE rejoint le TA : JE VEUX LA VOIR (vederla ; doublon de 52).|jiàn tā ≈ « djienne-ta » ; doublon (féminin)|看她 = la regarder|我想见她。|我想见她|une porte
+87|本来应该|benne, laï, ing, gaï|Le BENNE, la LAIE, l'INGÉ et le GAÏ devant un téléphone muet : TU DEVAIS M'APPELER ! (doublon de formes_1 09).|běnlái yīnggāi ≈ « bene-laï-ing-gaï » ; doublon (imparfait de devoir)|应该 = devoir|你本来应该给我打电话的！|你本来应该给我打电话的|un téléphone muet
+88|受伤了|cho, chang, leu|Le CHAUD CHAMEAU bandé crie « LE ! » : IL EST BLESSÉ (doublon de verbes_4 00).|shòushāng le ≈ « cho-chang-leu » ; 受伤 + 了 = blessé|伤 = blessure|他受伤了。|他受伤了|un bandage
+89|开始了|kaï, chie, leu|Le KAYAK quitte la CHAISE et crie « LE ! » : ÇA A COMMENCÉ HIER (doublon de formes_1 82).|kāishǐ le ≈ « kaï-chi-leu » ; doublon|开头 = début|昨天开始了。|昨天开始了|un drapeau de départ
+90|看着我|kanne, djeu, ouo|Le CANARD fixe un JEU sur « OUO » : REGARDE-MOI DANS LES YEUX (guardami).|kànzhe wǒ ≈ « kane-djeu-ouo » ; l'impératif + me = 看着我|看 = regarder|看着我的眼睛。|看着我的眼睛|des yeux dans les yeux
+91|都挺好|dou, ting, hao|Le DOUanier dit TING ! « HAO ! » : TOUT ALLAIT BIEN (一切都挺好的).|dōu tǐng hǎo ≈ « dou-ting-hao » ; « allait bien » = 挺好|顺利 = sans accroc|一切都挺好的。|一切都挺好的|un pouce levé
+92|告诉她|gao, sou, ta|Le GAUCHO et le SOU parlent au TA : IL FAUT LUI DIRE LA VÉRITÉ (dirle = lui dire, à elle).|gàosu tā ≈ « gao-sou-ta » ; le pronom collé = 她|跟她说 = lui dire|得告诉她真相。|得告诉她真相|une oreille
+93|变得|biène, deu|Le BIEN se change DEUx fois en montagne : ÇA DEVIENT DIFFICILE (变得很难).|biàn de ≈ « biène-deu » ; devenir = 变得|成为 = devenir (qn)|这变得很难了。|这变得很难了|une montagne qui grandit
+94|叫|djiao|Le JAGUAR appelle « le chef » : ON L'APPELLE « LE CHEF » (大家叫他“老大” ; doublon de formes_1 65).|jiào ≈ « djiao » ; doublon (s'appeler)|称 = nommer|大家叫他“老大”。|大家叫他“老大”|un JAGUAR qui appelle
+95|不会让|bou, houei, rang|Le BOUc, le boomerang et le RANG gardent la porte : JE NE VOUS LAISSERAI PAS ÊTRE VAINCU, NI MÊME PAR MOI.|bú huì ràng ≈ « bou-houei-rang » ; futur négatif = 不会|让 = laisser|我不会让你被打败的，连我也不行。|我不会让你被打败的|une porte gardée
+96|需要|siu, yao|Le SIU tend la main vers deux euros : IL ME FAUT DEUX EUROS (我需要两欧元 ; doublon de verbes_5 99).|xūyào ≈ « siu-yao » ; doublon|要 = vouloir|我需要两欧元。|我需要两欧元|deux euros
+97|需要|siu, yao|Le SIU tend la main vers trois œufs : POUR CE GÂTEAU, ON A BESOIN DE TROIS ŒUFS (doublon de 96).|xūyào ≈ « siu-yao » ; doublon|要用 = falloir utiliser|做这个蛋糕需要三个鸡蛋。|做这个蛋糕需要三个鸡蛋|trois œufs
+98|离开|li, kaï|Le LIT part en KAYAK : TU DOIS T'EN ALLER (你得离开 ; doublon de verbes_5 30).|líkāi ≈ « li-kaï » ; doublon|走 = partir|你得离开。|你得离开|une valise
+99|喜欢吗|si, houanne, ma|Le SIFFLET et le HOUANE font un cœur à la MAMAN : ÇA T'A PLU ? (你喜欢吗).|xǐhuan ma ≈ « si-houane-ma » ; « plu » = 喜欢（吗）|好看吗 = c'était bien ?|你喜欢吗？|你喜欢吗|un cœur

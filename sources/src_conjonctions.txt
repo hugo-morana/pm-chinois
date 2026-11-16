@@ -1,0 +1,101 @@
+# conjonctions blocs=null
+00|et|e (ed)|Toi et moi.|et||conjonctions_coordination
+01|mais|ma|Oui, mais non.|mais||conjonctions_coordination
+02|que (conjonction)|che|Je pense que c'est vrai.|que||conjonctions_subordination_autres
+03|si beau que qn d'autre fait qc|così bello che qcn altro fa qcs|Il est si fatigué qu'il dort debout.|si fatigué qu'il dort debout|tpl|locutions_conjonctives
+04|tout beau que qn soit, qn d'autre fait qc|per quanto bello sia qcn, qcn altro fa qcs|Tout riche qu'il soit, il est seul.|Tout riche qu'il soit|tpl|locutions_conjonctives
+05|fait que qn fait qc|fa sì che qcn faccia qcs|Le soleil fait que je suis content.|fait que je suis content|tpl|locutions_conjonctives
+06|en plus|in più|En plus, il pleut.|En plus|loc|locutions_conjonctives
+07|pour que|affinché|Je le dis pour que tu comprennes.|pour que||conjonctions_subordination_but
+08|afin que|affinché|Je parle lentement afin que tu comprennes.|afin que||conjonctions_subordination_but
+09|en fait|in realtà|En fait, j'ai pas faim.|En fait|loc|locutions_conjonctives
+10|quoi que qn fasse|qualunque cosa qcn faccia|Quoi que tu fasses, je t'aime.|Quoi que tu fasses|tpl|locutions_conjonctives
+11|si bien que qn fait qc|cosicché qcn fa qcs|Il pleuvait, si bien qu'on est restés.|si bien qu'on est restés|tpl|locutions_conjonctives
+12|quand|quando|Quand tu veux.|Quand||conjonctions_subordination_temps
+13|où que|ovunque|Où que tu ailles, je te suis.|Où que tu ailles||locutions_conjonctives
+14|bien que|sebbene|Bien qu'il soit tard, je reste.|Bien qu'||conjonctions_subordination_concession
+15|alors|allora|Alors, on y va ?|Alors||conjonctions_coordination
+16|comme si qn faisait qc|come se qcn facesse qcs|Il parle comme s'il savait tout.|comme s'il savait tout|tpl|locutions_conjonctives
+17|qn fait qc c'est pourquoi qn d'autre fait qc.|qcn fa qcs ecco perché qcn altro fa qcs|Il pleut, c'est pourquoi je reste.|c'est pourquoi je reste|tpl|locutions_conjonctives
+18|si ce n'est que qn fait qc|se non che qcn fa qcs|C'est bien, si ce n'est que c'est cher.|si ce n'est que c'est cher|tpl|locutions_conjonctives
+19|du fait que qn fait qc|dal fatto che qcn fa qcs|Du fait qu'il est malade, il reste.|Du fait qu'il est malade|tpl|locutions_conjonctives
+20|si (condition)|se|Si tu veux, on sort.|Si||conjonctions_subordination_condition
+21|Si qn fait qc, fais qc.|Se qcn fa qcs, fai qcs|Si t'as faim, mange.|Si t'as faim|tpl|locutions_conjonctives
+22|ou|o (oppure)|Thé ou café ?|ou||conjonctions_coordination
+23|comme (comparaison)|come|Il est grand comme son père.|comme||conjonctions_subordination_comparaison
+24|maintenant que qn fait qc|adesso che qcn fa qcs|Maintenant que t'es là, on y va.|Maintenant que t'es là|tpl|locutions_conjonctives
+25|qn fait qc ou bien qn d'autre fait qc|qcn fa qcs oppure qcn altro fa qcs|On sort, ou bien on reste ?|ou bien on reste|tpl|locutions_conjonctives
+26|si jamais qn fait qc|se mai qcn fa qcs|Si jamais tu le vois, dis-le-moi.|Si jamais tu le vois|tpl|locutions_conjonctives
+27|même si|anche se|Même s'il pleut, je viens.|Même s'|loc|locutions_conjonctives
+28|encore que qn fait qc|anche se qcn fa qcs|Il est gentil, encore qu'un peu lent.|encore qu'un peu lent|tpl|locutions_conjonctives
+29|d'où le fait que qn fait qc|da qui il fatto che qcn fa qcs|Il a menti, d'où le fait que je doute.|d'où le fait que je doute|tpl|locutions_conjonctives
+30|pendant que|mentre|Pendant que tu dors, je travaille.|Pendant que||conjonctions_subordination_temps
+31|alors que (opposition)|mentre|Lui travaille, alors que moi je me repose.|alors que||conjonctions_subordination_temps
+32|pour peu que qn fasse qc|per poco che qcn faccia qcs|Pour peu qu'il pleuve, on reste.|Pour peu qu'il pleuve|tpl|locutions_conjonctives
+33|vu que qn fait qc|visto che qcn fa qcs|Vu qu'il pleut, je reste.|Vu qu'il pleut|tpl|locutions_conjonctives
+34|sans que qn fasse qc|senza che qcn faccia qcs|Il est parti sans que je le sache.|sans que je le sache|tpl|locutions_conjonctives
+35|avant que|prima che|Rentre avant qu'il pleuve.|avant qu'|loc|locutions_conjonctives
+36|sans ça, qn fait qc|senza questo, qcn fa qcs|Prends ta veste, sans ça t'auras froid.|sans ça t'auras froid|tpl|locutions_conjonctives
+37|après que|dopo che|Après qu'il est parti, on a ri.|Après qu'|loc|locutions_conjonctives
+38|même quand qn fait qc|anche quando qcn fa qcs|Il sourit, même quand il est triste.|même quand il est triste|tpl|locutions_conjonctives
+39|donc|quindi|Je pense, donc je suis.|donc||conjonctions_coordination
+40|quand bien même qn ferait qc|anche se qcn fa qcs|Quand bien même il pleuvrait, je viendrais.|Quand bien même il pleuvrait|tpl|locutions_conjonctives
+41|depuis que|da quando|Depuis qu'il est là, tout va bien.|Depuis qu'|loc|locutions_conjonctives
+42|à savoir que qn fait qc|cioè che qcn fa qcs|Une chose est sûre, à savoir qu'il ment.|à savoir qu'il ment|tpl|locutions_conjonctives
+43|si (interrogatif)|se (question indirecte)|Je sais pas s'il vient.|s'||conjonctions_subordination_autres
+44|à moins que qn fasse qc|a meno che qcn faccia qcs|Je viens, à moins qu'il pleuve.|à moins qu'il pleuve|tpl|locutions_conjonctives
+45|de peur que qn fasse qc|per paura che qcn faccia qcs|Il se tait de peur qu'on se moque.|de peur qu'on se moque|tpl|locutions_conjonctives
+46|du moment que qn fait qc|dal momento che qcn fa qcs|Du moment que t'es heureux, ça va.|Du moment que t'es heureux|tpl|locutions_conjonctives
+47|jusqu'à ce que|finché|J'attends jusqu'à ce qu'il arrive.|jusqu'à ce qu'||conjonctions_subordination_temps
+48|puis|poi|On mange, puis on sort.|puis||conjonctions_coordination
+49|à part que qn fait qc|a parte che qcn fa qcs|C'est bien, à part que c'est loin.|à part que c'est loin|tpl|locutions_conjonctives
+50|tant que qn fait qc|finché qcn fa qcs|Tant que t'es là, je suis heureux.|Tant que t'es là|tpl|locutions_conjonctives
+51|comme (cause)|siccome|Comme il pleut, on reste.|Comme||conjonctions_subordination_cause
+52|ni|né|Ni toi ni moi.|Ni||conjonctions_coordination
+53|à part le fait que qn fasse qc|a parte il fatto che qcn faccia qcs|À part le fait qu'il soit en retard, ça va.|À part le fait qu'il soit en retard|tpl|locutions_conjonctives
+54|jusqu'à temps que qn fasse qc|finché qcn non faccia qcs|Attends jusqu'à temps qu'il revienne.|jusqu'à temps qu'il revienne|tpl|locutions_conjonctives
+55|seulement si qn fait qc|solo se qcn fa qcs|Je viens seulement si tu viens.|seulement si tu viens|tpl|locutions_conjonctives
+56|si seulement qn faisait qc|se solo qcn facesse qcs|Si seulement j'avais su !|Si seulement j'avais su|tpl|locutions_conjonctives
+57|qn fait qc, au sens où qn d'autre fait qc|qcn fa qcs nel senso che qcn altro fa qcs|C'est utile, au sens où ça aide.|au sens où ça aide|tpl|locutions_conjonctives
+58|si et seulement si qn fait qc|se e solo se qcn fa qcs|Je viens si et seulement si tu viens.|si et seulement si tu viens|tpl|locutions_conjonctives
+59|au cas où|nel caso (che)|Prends-le, au cas où.|au cas où|loc|locutions_conjonctives
+60|peu importe que qn fasse qc|non importa se qcn faccia qcs|Peu importe qu'il soit riche.|Peu importe qu'il soit riche|tpl|locutions_conjonctives
+61|tellement que qn fait qc|così tanto che qcn fa qcs|Il a tellement couru qu'il est épuisé.|tellement couru qu'il est épuisé|tpl|locutions_conjonctives
+62|de façon à ce que qn fasse qc|in modo che qcn faccia qcs|Parle fort de façon à ce qu'on t'entende.|de façon à ce qu'on t'entende|tpl|locutions_conjonctives
+63|parce que|perché|Je reste, parce que je suis fatigué.|parce que||conjonctions_subordination_cause
+64|car|perché|Je reste, car il pleut.|car||conjonctions_subordination_cause
+65|au point que qn fait qc|al punto che qcn fa qcs|Il a ri au point qu'il pleurait.|au point qu'il pleurait|tpl|locutions_conjonctives
+66|juste au cas où qn ferait qc|giusto nel caso in cui qcn faccia qcs|Prends un pull, juste au cas où il ferait froid.|juste au cas où il ferait froid|tpl|locutions_conjonctives
+67|jusqu'au moment où qn fait qc|fino al momento in cui qcn fa qcs|Jusqu'au moment où il est arrivé, tout allait bien.|Jusqu'au moment où il est arrivé|tpl|locutions_conjonctives
+68|donc|dunque|Je pense, donc je suis.|donc||conjonctions_coordination
+69|eh bien (pour reprendre)|dunque|Eh bien, où en étions-nous ?|Eh bien||conjonctions_coordination
+70|jusqu'à tant que qn fasse qc|fintanto che qcn faccia qcs|Reste jusqu'à tant qu'il revienne.|jusqu'à tant qu'il revienne|tpl|locutions_conjonctives
+71|à partir du moment où qn fait qc|dal momento in cui qcn fa qcs|À partir du moment où il a dit oui, tout a changé.|À partir du moment où il a dit oui|tpl|locutions_conjonctives
+72|à quel point qn fait qc ?|fino a che punto qcn fa qcs|Tu sais à quel point je t'aime ?|à quel point je t'aime|tpl|locutions_conjonctives
+73|ainsi que|così come|Il chante, ainsi que sa sœur.|ainsi que|loc|locutions_conjonctives
+74|autant que qn fasse qc|tanto vale che qcn faccia qcs|Il pleut, autant qu'on reste.|autant qu'on reste|tpl|locutions_conjonctives
+75|d'autant que qn fait qc|dato che qcn fa qcs|Je reste, d'autant qu'il pleut.|d'autant qu'il pleut|tpl|locutions_conjonctives
+76|d'autant plus que qn fait qc|tanto più che qcn fa qcs|C'est dur, d'autant plus que je suis seul.|dur|d'autant plus que je suis seul|tpl|locutions_conjonctives
+77|sinon|altrimenti|Dépêche-toi, sinon on rate le train.|sinon||conjonctions_coordination
+78|de sorte que|in modo che|Parle fort, de sorte qu'on t'entende.|de sorte qu'|loc|locutions_conjonctives
+79|en sorte que qn fasse qc|in modo che qcn faccia qcs|Fais en sorte que tout soit prêt.|en sorte que tout soit prêt|tpl|locutions_conjonctives
+80|ensuite|dopo|Ensuite, on verra.|Ensuite||conjonctions_coordination
+81|dès que|appena|Appelle-moi dès que tu arrives.|dès que||conjonctions_subordination_temps
+82|sauf que qn fait qc|solo che qcn fa qcs|C'est beau, sauf que c'est cher.|sauf que c'est cher|tpl|locutions_conjonctives
+83|mis à part le fait que qn fait qc|a parte il fatto che qcn fa qcs|Mis à part le fait qu'il est en retard, ça va.|Mis à part le fait qu'il est en retard|tpl|locutions_conjonctives
+84|d'autant mieux que qn fait qc|tanto meglio in quanto qcn fa qcs|Il dort d'autant mieux qu'il est fatigué.|d'autant mieux qu'il est fatigué|tpl|locutions_conjonctives
+85|d'autant moins que qn fait qc|tanto meno in quanto qcn fa qcs|Il sort d'autant moins qu'il pleut.|d'autant moins qu'il pleut|tpl|locutions_conjonctives
+86|partout où|dovunque|Partout où je vais, il pleut.|Partout où||locutions_conjonctives
+87|d'ailleurs|del resto|D'ailleurs, il a raison.|D'ailleurs|loc|locutions_conjonctives
+88|pourtant|però|C'est cher, pourtant c'est bon.|pourtant||conjonctions_coordination
+89|selon que qn fasse qc|a seconda che qcn faccia qcs|Selon qu'il pleuve ou non, on sort.|Selon qu'il pleuve ou non|tpl|locutions_conjonctives
+90|selon quoi qn fait qc|secondo cui qcn fa qcs|Une rumeur selon quoi il part.|selon quoi il part|tpl|locutions_conjonctives
+91|de manière à ce que qn fasse qc|in modo che qcn faccia qcs|Range tout de manière à ce qu'on trouve.|de manière à ce qu'on trouve|tpl|locutions_conjonctives
+92|si par exemple qn fait qc|se per esempio qcn fa qcs|Si par exemple il pleut, on reste.|Si par exemple il pleut|tpl|locutions_conjonctives
+93|lorsque|quando|Lorsque je suis arrivé, il pleuvait.|Lorsque||conjonctions_subordination_temps
+94|à tel point que qn fait qc|a tal punto che qcn fa qcs|Il a crié à tel point qu'il n'a plus de voix.|à tel point qu'il n'a plus|tpl|locutions_conjonctives
+95|puisque|visto che|Puisque tu es là, aide-moi.|Puisque|loc|locutions_conjonctives
+96|quitte à ce que qn fasse qc|anche se qcn faccia qcs|Je le dis, quitte à ce qu'il se fâche.|quitte à ce qu'il se fâche|tpl|locutions_conjonctives
+97|lors même que qn fait qc|quand'anche qcn fa qcs|Il continue, lors même qu'il est épuisé.|lors même qu'il est épuisé|tpl|locutions_conjonctives
+98|en attendant que qn fasse qc|in attesa che qcn faccia qcs|Assieds-toi en attendant qu'il arrive.|en attendant qu'il arrive|tpl|locutions_conjonctives
+99|de telle façon que qn fait qc|in modo tale che qcn fa qcs|Il parle de telle façon que tout le monde comprend.|de telle façon que tout le monde comprend|tpl|locutions_conjonctives

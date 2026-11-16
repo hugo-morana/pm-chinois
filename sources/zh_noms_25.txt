@@ -1,0 +1,57 @@
+00|篷布|peng, bou|Le PENGOUIN tire le BOUc bâché : TIREZ SUR LA BÂCHE !|péngbù ≈ « peng-bou » ; 篷 toile + 布 tissu|帐篷 = tente|拉篷布！|拉篷布|une bâche
+01|乌合之众|ou, heu, dji, djong|Le « OUH », le HEU, le GÉNIE et le ZONG en cohue : LA POPULACE A ENVAHI LA PLACE.|wūhé zhī zhòng ≈ « ou-heu-dji-djong » ; « la populace » = 乌合之众 / 暴民|人群 = foule|乌合之众涌进了广场。|乌合之众涌进了广场|une cohue
+02|魔咒|mo, djo|Le MOT (« MO ») et le JO murmuré : POUR LA SAUVER, IL FAUT ROMPRE LE SORTILÈGE (doublon de formes_12 03).|mózhòu ≈ « mo-djo » ; doublon|咒语 = formule magique|要救她，就得破除魔咒。|就得破除魔咒|une baguette
+03|放射科|fang, cheu, kheu|Le FANG, la CHAISE et le KHEU aux rayons : IL FAUT L'EMMENER EN RADIOLOGIE SUR-LE-CHAMP.|fàngshèkē ≈ « fang-cheu-kheu » ; 放射 rayonnement + 科 service|拍片 = radiographie|得马上送他去放射科。|得马上送他去放射科|une radio
+04|面包屑|mienne, bao, sié|Le MIEN, le BAOBAB et la SIESTE émiettés : UNE FOURMI PORTE UNE MIETTE (doublon de noms_19 68).|miànbāoxiè ≈ « miène-bao-sié » ; doublon|碎屑 = débris|一只蚂蚁扛着一点面包屑。|一点面包屑|une miette
+05|侦探小说|djenne, tanne, siao, chouo|Le GENOU, le TANDEM, le SIAMOIS et le CHOUchou à la loupe : J'ADORE LES POLARS.|zhēntàn xiǎoshuō ≈ « djene-tane-siao-chouo » ; 侦探 détective + 小说 roman|推理片 = film policier|我超爱侦探小说。|我超爱侦探小说|une loupe
+06|小屋|siao, ou|Le SIAMOIS et le « OUH » au coin du feu : NOUS SOMMES REVENUS TARD DE LA MAISON (le cottage).|xiǎowū ≈ « siao-ou » ; 小 petit + 屋 maison|别墅 = villa|我们很晚才从小屋回来。|我们很晚才从小屋回来|une chaumière
+07|意大利面条|i, da, li, mienne, tiao|Le « I », le DAIM, le LIT, le MIEN et le TIAO enroulés : NOUS MANGEONS DES SPAGHETTIS.|Yìdàlì miàntiáo ≈ « i-da-li-miène-tiao » ; 意大利 Italie + 面条 nouilles|意大利面 = pâtes|我们吃意大利面条。|我们吃意大利面条|une fourchette enroulée
+08|药|yao|Le YAOURT en flacon : VA CHERCHER LES MÉDECINES DE MME ELLEN !|yào ≈ « yao » ; « les médicaments » = 药|药品 = médicaments|去拿埃伦太太的药！|去拿埃伦太太的药|un flacon
+09|狗杂种|go, dza, djong|Le GO (« chien »), le ZA et le ZONG hargneux : CE SALOPARD M'A EU ! (vulgaire).|gǒuzázhǒng ≈ « go-dza-djong » ; insulte = 狗杂种|混蛋 = salaud|这个狗杂种把我耍了！|这个狗杂种把我耍了|un chien grognant
+10|宝塔|bao, ta|Le BAOBAB et le TA à étages : EMMENEZ-LE DANS LA PAGODE LA PLUS HAUTE !|bǎotǎ ≈ « bao-ta » ; 宝 précieux + 塔 tour|寺庙 = temple|把他带到最高的宝塔里去！|把他带到最高的宝塔里去|une pagode
+11|首映|cho, ying|Le CHO et le YING en première : ON EST INVITÉS À L'AVANT-PREMIÈRE.|shǒuyìng ≈ « cho-ying » ; 首 premier + 映 projection|上映 = sortie|我们被邀请去看首映。|我们被邀请去看首映|un tapis rouge
+12|尖叫|djienne, djiao|Le DJINN et le JAGUAR hurlent aigu : IL A POUSSÉ UN CRI PERÇANT.|jiānjiào ≈ « djienne-djiao » ; 尖 aigu + 叫 cri|喊 = crier|他发出一声尖叫。|他发出一声尖叫|une bouche hurlante
+13|窝|ouo|« OUO » au fond du terrier : LE TIGRE A DÛ LE TRAÎNER DANS SA TANIÈRE (doublon de formes_10 84).|wō ≈ « ouo » ; doublon|洞 = trou|老虎一定是把他拖进了窝里。|拖进了窝里|une tanière
+14|铁路工人|tié, lou, gong, renne|Le TIÉ, le LOUP, le GONG et le RENNE sur les rails : LES CHEMINOTS FONT GRÈVE.|tiělù gōngrén ≈ « tié-lou-gong-renne » ; 铁路 chemin de fer + 工人 ouvrier|司机 = conducteur|铁路工人在罢工。|铁路工人在罢工|une casquette de cheminot
+15|预告片|yu, gao, pienne|Le YOUYOU, le GAUCHO et la PIENNE en avance : LA BANDE-ANNONCE EST SORTIE.|yùgàopiàn ≈ « yu-gao-piène » ; 预告 annoncer + 片 film|海报 = affiche|预告片出来了。|预告片出来了|une affiche
+16|瓣|banne|Le BANC découpé en quartiers : UNE GOUSSE D'AIL (doublon de noms_20 68).|bàn ≈ « bane » ; doublon (classificateur)|块 = morceau|一瓣大蒜。|一瓣大蒜|une gousse
+17|杂技演员|dza, dji, yanne, yuanne|Le ZA, le GÉNIE, le YANN et la YOURTE sur le fil : L'ACROBATE MARCHE SUR LE FIL.|zájì yǎnyuán ≈ « dza-dji-yane-yuane » ; 杂技 acrobatie + 演员 artiste|小丑 = clown|杂技演员在走钢丝。|杂技演员在走钢丝|un fil tendu
+18|羊腿|yang, touei|Le YANG et le TOUEI rôtis : UN GIGOT D'AGNEAU.|yángtuǐ ≈ « yang-touei » ; 羊 agneau + 腿 cuisse|羊排 = côtelette|一只羊腿。|一只羊腿|un gigot
+19|烛光守夜|tchou, gouang, cho, yé|Le CHOU, le GUANG, la main CHAUDE et le YÉTI veillent : PETITE VEILLÉE AUX CHANDELLES ? (la retraite aux flambeaux).|zhúguāng shǒuyè ≈ « tchou-gouang-cho-yé » ; 烛光 bougies + 守夜 veillée|游行 = défilé|来个小小的烛光守夜？|来个小小的烛光守夜|des bougies
+20|含羞草|hanne, sio, tsao|Le HAN !, le SIOUX et le TSAO jaune : C'EST COMME ÇA QU'IL M'A EUE, AVEC DES MIMOSAS (doublon de formes_10 65).|hánxiūcǎo ≈ « hane-sio-tsao » ; doublon|花 = fleur|他就是用含羞草把我追到手的。|他就是用含羞草把我追到手的|un mimosa
+21|莫吉托|mo, dji, touo|Le MOT, le GÉNIE et le TOTO à la menthe : UN MOJITO AU CITRON VERT (doublon de noms_20 38).|mòjítuō ≈ « mo-dji-touo » ; doublon|鸡尾酒 = cocktail|一杯青柠莫吉托。|一杯青柠莫吉托|un verre de mojito
+22|拍卖|païe, maï|La PAÏE et le MAÏS au marteau : ILS VENDENT LE TABLEAU AUX ENCHÈRES.|pāimài ≈ « paï-maï » ; 拍 frapper + 卖 vendre|旗杆 = mât|他们在拍卖那幅画。|他们在拍卖那幅画|un marteau d'enchères
+23|石膏|cheu, gao|La CHAISE et le GAUCHO plâtrés : ÇA GRATTE, CES PLÂTRES, HEIN ? (doublon de formes_12 78).|shígāo ≈ « chi-gao » ; doublon|绷带 = bandage|石膏痒吧？|石膏痒吧|un bras plâtré
+24|双桅船|chouang, ouei, tchouanne|Le CHOUANG, le OUEI et le CHOUANNE à deux mâts : J'IRAI AVEC PARKER SUR LA GOÉLETTE.|shuāngwéichuán ≈ « chouang-ouei-tchouane » ; 双桅 deux mâts + 船 bateau|帆船 = voilier|我会和帕克一起上那艘双桅船。|我会和帕克一起上那艘双桅船|deux mâts
+25|杂耍艺人|dza, choua, i, renne|Le ZA, le CHOUA, le « I » et le RENNE jonglent : LE JONGLEUR LANCE TROIS BALLES.|záshuǎ yìrén ≈ « dza-choua-i-renne » ; 杂耍 jonglage + 艺人 artiste|杂技 = acrobatie|杂耍艺人抛起三个球。|杂耍艺人抛起三个球|trois balles
+26|烟草店|yanne, tsao, dienne|Le YANN, le TSAO et le DIAMANT : J'ACHÈTE LES TIMBRES AU BUREAU DE TABAC (doublon de noms_19 00).|yāncǎodiàn ≈ « yane-tsao-diène » ; doublon|报亭 = kiosque|我在烟草店买邮票。|我在烟草店买邮票|un timbre
+27|苏打饼干|sou, da, bing, ganne|Le SOU, le DAIM, le BING et le GANT croquants : JE MANGE UN BISCUIT SALÉ.|sūdá bǐnggān ≈ « sou-da-bing-gane » ; 苏打 soda + 饼干 biscuit|饼干 = biscuit|我吃一块苏打饼干。|我吃一块苏打饼干|un cracker
+28|短片|douanne, pienne|La DOUANE courte et la PIENNE : IL A RÉALISÉ UN COURT MÉTRAGE.|duǎnpiàn ≈ « douane-piène » ; 短 court + 片 film|长片 = long métrage|他拍了一部短片。|他拍了一部短片|une bobine courte
+29|卡布奇诺|kha, bou, tchi, nouo|Le KHA, le BOUc, le TCHI et le NOUnours mousseux : UN CAPPUCCINO ET UN CROISSANT (doublon de noms_23 66).|kǎbùqínuò ≈ « kha-bou-tchi-nouo » ; doublon|拿铁 = latte|一杯卡布奇诺和一个羊角面包。|一杯卡布奇诺|une tasse mousseuse
+30|肉排|rou, païe|Le ROU aplati sur la PAÏE : UNE ESCALOPE DE VEAU.|ròupái ≈ « rou-paï » ; 肉 viande + 排 tranche|牛排 = steak|一块小牛肉排。|一块小牛肉排|une escalope
+31|长片|tchang, pienne|Le CHAMEAU long et la PIENNE : C'EST SON PREMIER LONG MÉTRAGE.|chángpiàn ≈ « tchang-piène » ; 长 long + 片 film|短片 = court métrage|这是他的第一部长片。|这是他的第一部长片|une bobine longue
+32|特技|teu, dji|Le TEU et le GÉNIE en cascade : LA DOUBLURE A FAIT LA CASCADE (doublon de noms_24 85).|tèjì ≈ « teu-dji » ; doublon|杂技 = acrobatie|替身完成了特技动作。|替身完成了特技动作|une moto qui saute
+33|玉米糊|yu, mi, hou|Le YOUYOU, le MI et le HOU dorés : J'AIME LA POLENTA FRITE.|yùmǐhú ≈ « yu-mi-hou » ; 玉米 maïs + 糊 bouillie|粥 = bouillie de riz|我喜欢炸玉米糊。|我喜欢炸玉米糊|une galette jaune
+34|吊袜带|diao, oua, daille|Le DIABLO, le OUA et le DAIM en dentelle : LA MARIÉE LANCE SA JARRETIÈRE.|diàowàdài ≈ « diao-oua-daille » ; 吊袜 tenir les bas + 带 ruban|丝袜 = bas|新娘抛出她的吊袜带。|新娘抛出她的吊袜带|une jarretière
+35|配音|peille, yinne|Le PEIGNE et le YINNE au micro : LE DOUBLAGE ITALIEN EST TRÈS BON (doublon de verbes_16 20).|pèiyīn ≈ « peille-yine » ; doublon (nom)|字幕 = sous-titres|意大利语配音很好。|意大利语配音很好|un micro
+36|抓痕|djoua, henne|Le JOUA griffe la HENNE : IL A UNE ÉGRATIGNURE AU BRAS.|zhuāhén ≈ « djoua-henne » ; 抓 griffer + 痕 trace|伤口 = blessure|他胳膊上有一道抓痕。|他胳膊上有一道抓痕|une griffure
+37|斗牛士|do, niou, cheu|Le DOdo, le NIOU et la CHAISE à la cape : LE TORERO DÉFIE LE TAUREAU.|dòuniúshì ≈ « do-niou-chi » ; 斗牛 combat de taureaux + 士 homme|公牛 = taureau|斗牛士向公牛挑战。|斗牛士向公牛挑战|une cape rouge
+38|保温箱|bao, ouenne, siang|Le BAOBAB, le OUENNE et la SIANNE tiède : LE NOUVEAU-NÉ EST DANS LA COUVEUSE.|bǎowēnxiāng ≈ « bao-ouene-siang » ; 保温 garder au chaud + 箱 boîte|培养箱 = incubateur (labo)|新生儿在保温箱里。|新生儿在保温箱里|une couveuse
+39|玛格丽特披萨|ma, gueu, li, teu, pi, sa|La MAMAN, le GUEU, le LIT, le TEU, le PIPEAU et le SA tricolores : UNE PIZZA MARGHERITA, S'IL VOUS PLAÎT.|mǎgélìtè pīsà ≈ « ma-gueu-li-teu-pi-sa » ; transcription|雏菊 = marguerite (fleur)|请来一份玛格丽特披萨。|请来一份玛格丽特披萨|une pizza
+40|无赖|ou, laï|Le « OUH » et la LAIE filoute : QUEL VAURIEN !|wúlài ≈ « ou-laï » ; « le vaurien » = 无赖|坏蛋 = méchant|真是个无赖！|真是个无赖|un masque de voyou
+41|粗人|tsou, renne|Le TSOU (« CU ») et le RENNE grossier : QUEL MALOTRU !|cūrén ≈ « tsou-renne » ; 粗 grossier + 人|没礼貌 = impoli|真是个粗人！|真是个粗人|une botte boueuse
+42|女医生|nu, i, cheng|La NU, le « I » et le CHÊNE au stéthoscope : UNE FEMME MÉDECIN M'A EXAMINÉ.|nǚ yīshēng ≈ « nu-i-cheng » ; 女 femme + 医生 médecin|护士 = infirmière|一位女医生给我做了检查。|一位女医生给我做了检查|un stéthoscope
+43|女大夫|nu, daille, fou|La NU, le DAIM et le FOU à l'ancienne : LA DOCTORESSE ARRIVE.|nǚ dàifu ≈ « nu-daille-fou » ; 大夫 médecin (vieilli)|女医生 = femme médecin|女大夫来了。|女大夫来了|une sacoche
+44|瘸子|tchué, dzeu|Le TCHUÉ et le ZEU à béquille : UN ESTROPIÉ CONNAISSAIT UN SECRET INESTIMABLE.|quézi ≈ « tchué-dzeu » ; « l'estropié » = 瘸子 / 残疾人|残疾人 = handicapé|一个瘸子知道一个无价的秘密。|一个瘸子知道一个无价的秘密|une béquille
+45|担架员|danne, djia, yuanne|Le DANDY, le JIA et la YOURTE au brancard : LES BRANCARDIERS LE TROUVERONT (doublon de formes_9 03).|dānjiàyuán ≈ « dane-djia-yuane » ; doublon|救护员 = secouriste|担架员会找到他的。|担架员会找到他的|un brancard
+46|票房|piao, fang|Le PIAO et le FANG : LE FILM CARTONNE AU BOX-OFFICE (doublon de noms_24 86).|piàofáng ≈ « piao-fang » ; doublon|收入 = recette|这部电影票房大卖。|这部电影票房大卖|un ticket doré
+47|售票处|cho, piao, tchou|La main CHAUDE, le PIAO et le TCHOU au guichet : LES BILLETS SONT EN VENTE AU GUICHET.|shòupiàochù ≈ « cho-piao-tchou » ; 售票 vendre des billets + 处 endroit|窗口 = guichet|票在售票处卖。|票在售票处卖|un guichet
+48|长戟|tchang, dji|Le CHAMEAU et le GÉNIE à la hallebarde : PORTERONS-NOUS ENCORE DES HALLEBARDES ? (doublon de formes_11 63).|chángjǐ ≈ « tchang-dji » ; doublon|长矛 = lance|我们还要拿长戟吗？|我们还要拿长戟吗|une hallebarde
+49|速记员|sou, dji, yuanne|Le SOU, le GÉNIE et la YOURTE tapent vite : JE SUIS ENTOURÉ DE STÉNOGRAPHES STUPIDES ! (doublon de formes_11 85).|sùjìyuán ≈ « sou-dji-yuane » ; doublon|秘书 = secrétaire|我被一群笨蛋速记员包围了！|笨蛋速记员|une machine à écrire
+50|羊排|yang, païe|Le YANG sur la PAÏE grillée : UNE CÔTELETTE D'AGNEAU.|yángpái ≈ « yang-paï » ; 羊 agneau + 排 côte|羊腿 = gigot|一块羊排。|一块羊排|une côtelette
+51|机灵鬼|dji, ling, gouei|Le GÉNIE, le LINGE et le GOUEI malins : QUEL PETIT MALIN, IL S'EN SORT TOUJOURS.|jīlingguǐ ≈ « dji-ling-gouei » ; 机灵 futé + 鬼 diable|聪明 = intelligent|真是个机灵鬼，总能脱身。|真是个机灵鬼|un clin d'œil
+52|老狐狸|lao, hou, li|Le LAO, le HOU et le LIT rusés : MÉFIE-TOI, C'EST UN ROUBLARD.|lǎo húli ≈ « lao-hou-li » ; « le roublard » = 老狐狸|骗子 = escroc|小心，他是只老狐狸。|他是只老狐狸|une queue de renard
+53|地震仪|di, djenne, i|Le DIDI, le GENOU et le « I » qui tremble : LE SISMOGRAPHE ENREGISTRE LA SECOUSSE (doublon de formes_6 93).|dìzhènyí ≈ « di-djene-i » ; 地震 séisme + 仪 instrument|地震 = séisme|地震仪记录到了震动。|地震仪记录到了震动|une aiguille qui oscille
+54|影迷|ying, mi|Le YING et le MI accro : C'EST UN GRAND CINÉPHILE.|yǐngmí ≈ « ying-mi » ; 影 cinéma + 迷 fan|球迷 = fan de foot|他是个超级影迷。|他是个超级影迷|un fauteuil de cinéma
+55|踢|ti|Le TI donne des coups de pied : JE LE FRAPPERAI MÊME QUAND IL SERA PAR TERRE (des coups de pied), JE ME SENS MÉCHANT.|tī ≈ « ti » ; « coups de pied » = 踢|踹 = shooter|他倒在地上我也要踢他，我觉得自己很坏。|我也要踢他|une chaussure
+56|冰柜|bing, gouei|Le BING et le GOUEI glacés : UNE FILLE PLUS FROIDE QU'UN CONGÉLATEUR.|bīngguì ≈ « bing-gouei » ; 冰 glace + 柜 armoire|冰箱 = frigo|一个比冰柜还冷的女孩|一个比冰柜还冷的女孩|un congélateur

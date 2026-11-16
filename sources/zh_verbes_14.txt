@@ -1,0 +1,100 @@
+00|分辨|fenne, bienne|La FENNE et le BIEN trient vrai et faux : JE NE DISTINGUE PAS LE VRAI DU FAUX.|fēnbiàn ≈ « fene-bienne » ; « distinguer » = 分辨|区分 = différencier|我分辨不出真假。|我分辨不出真假|une balance à deux plateaux
+01|统治|tong, djeu|Le TONneau couronné et le GÉNIE sur le trône : LE ROI RÈGNE SUR LE PAYS.|tǒngzhì ≈ « tong-djeu » ; « régner (sur) » = 统治|管理 = gérer|国王统治着这个国家。|国王统治着这个国家|un trône
+02|行使|sing, cheu|Le SINGE assis sur la CHAISE signe l'option : IL A EXERCÉ SON OPTION.|xíngshǐ ≈ « sing-chi » ; « exercer (un droit) » = 行使|使用 = utiliser|他行使了他的选择权。|他行使了他的选择权|un contrat
+03|得出结论|deu, tchou, djié, lounne|Le DEU, le TCHOU, le JET et la LUNE concluent : NOUS SOMMES PARVENUS À LA CONCLUSION QU'IL MENT.|déchū jiélùn ≈ « deu-tchou-djié-loune » ; « parvenir à la conclusion » = 得出结论|认定 = considérer comme établi|我们得出结论：他在撒谎。|我们得出结论|un marteau de juge
+04|烧开|chao, kaï|Le CHAO chauffe jusqu'au CAÏD qui bout : FAIS BOUILLIR L'EAU.|shāokāi ≈ « chao-kaï » ; « faire bouillir » = 烧开|煮 = cuire à l'eau|把水烧开。|把水烧开|une bouilloire
+05|分成|fenne, tcheng|La FENNE et le TCHENG coupent en parts : DIVISE LE GÂTEAU EN QUATRE.|fēnchéng ≈ « fene-tcheng » ; « diviser en » = 分成|切 = couper|把蛋糕分成四份。|把蛋糕分成四份|un gâteau en quatre
+06|太过分|taï, gouo, fenne|La TAÏE déborde, le GUO et la FENNE au-delà de la ligne : VOUS DÉPASSEZ LES BORNES !|tài guòfèn ≈ « taï-gouo-fene » ; « dépasser les bornes » = 太过分了|过头 = exagérer|你们太过分了！|你们太过分了|une ligne franchie
+07|闹翻|nao, fanne|Le NAO turbulent renverse le FAN : IL S'EST FÂCHÉ AVEC SON FRÈRE.|nàofān ≈ « nao-fane » ; « se fâcher (rompre) avec » = 跟……闹翻|吵架 = se disputer|他跟他哥哥闹翻了。|他跟他哥哥闹翻了|une table renversée
+08|复习|fou, si|Le FOU et le SIFFLET relisent les fiches : JE RÉVISE POUR MON EXAMEN.|fùxí ≈ « fou-si » ; « réviser » = 复习|预习 = préparer à l'avance|我在复习准备考试。|我在复习准备考试|des fiches
+09|堕胎|douo, taï|Le DODO et la TAÏE en blouse blanche : ELLE A DÉCIDÉ DE SE FAIRE AVORTER.|duòtāi ≈ « douo-taï » ; « avorter » = 堕胎 / 流产|流产 = fausse couche / IVG|她决定去堕胎。|她决定去堕胎|une blouse blanche
+10|拿枪指着|na, tsiang, djeu, djeu|Le NAIN, la TSIANG et deux GÉNIES visent : IL M'A MENACÉ D'UNE ARME (braquer).|ná qiāng zhǐzhe ≈ « na-tsiang-djeu-djeu » ; « braquer une arme » = 拿枪指着|威胁 = menacer|他拿枪指着我。|他拿枪指着我|un revolver pointé
+11|领导|ling, dao|Le LINGE et le DAO en tête : IL DIRIGE L'ENTREPRISE.|lǐngdǎo ≈ « ling-dao » ; « diriger » = 领导|管理 = gérer|他领导这家公司。|他领导这家公司|une cravate de patron
+12|追捕|djouei, bou|Le DJOUEI court après un BOUc : LA POLICE LE TRAQUE DEPUIS DES MOIS.|zhuībǔ ≈ « djouei-bou » ; « traquer » = 追捕|追 = poursuivre|警察追捕他好几个月了。|警察追捕他好几个月了|une sirène
+13|追|djouei|Le DJOUEI court après la queue rousse : LES CHIENS DONNENT LA CHASSE AU RENARD.|zhuī ≈ « djouei » ; « donner la chasse » = 追|追赶 = poursuivre|狗在追狐狸。|狗在追狐狸|une queue rousse
+14|航行|hang, sing|Le HANG (« HANG ») et le SINGE à la barre : NOUS NAVIGUONS VERS L'ÎLE.|hángxíng ≈ « hang-sing » ; « naviguer » = 航行|开船 = piloter un bateau|我们正朝那座岛航行。|我们正朝那座岛航行|une boussole
+15|应付|ying, fou|Le YING et le FOU jonglent : ON SAIT SE DÉBROUILLER.|yìngfu ≈ « ying-fou » ; « se débrouiller » = 应付得来|对付 = faire face|我们应付得来。|我们应付得来|des balles de jongleur
+16|绞死|djiao, seu|Le JAGUAR et un SEU à la corde : ON NE DEVAIT PAS VOUS PENDRE ?|jiǎosǐ ≈ « djiao-seu » ; « pendre » = 绞死 / 吊死|吊 = suspendre|不是要把你们绞死吗？|不是要把你们绞死吗|une potence
+17|生……的气|cheng, deu, tchi|Le CHÊNE, le DEU et le TCHI fumant : NE TE FÂCHE PAS CONTRE MOI.|shēng… de qì ≈ « cheng-deu-tchi » ; « se fâcher contre » = 生……的气|跟……发火 = s'emporter contre|别生我的气。|别生我的气|une marmite fumante
+18|嘟囔|dou, nang|Le DOUdou et le NANG grommellent : IL GROGNE TOUTE LA JOURNÉE.|dūnang ≈ « dou-nang » ; « grogner (marmonner) » = 嘟囔|抱怨 = se plaindre|他一整天都在嘟嘟囔囔。|他一整天都在嘟嘟囔囔|une bulle grise
+19|拼|pine|La PINE assemble lettre par lettre : PEUX-TU ÉPELER TON NOM ? (拼一下).|pīn ≈ « pine » ; « épeler » = 拼|拼写 = orthographier|你能拼一下你的名字吗？|你能拼一下你的名字吗|des lettres en bois
+20|坑|kheng|Le KHENG creuse un trou (« piège ») : IL M'A NIQUÉ DE CENT EUROS (registre familier).|kēng ≈ « kheng » ; « niquer (arnaquer) » = 坑|骗 = escroquer|他坑了我一百欧元。|他坑了我一百欧元|un trou piégé
+21|耍|choua|Le CHOUA nous fait tourner en bourrique : IL NOUS A BIEN EUS (registre familier).|shuǎ ≈ « choua » ; « avoir (rouler) » = 耍了|骗 = tromper|他把我们耍得团团转。|他把我们耍得团团转|une toupie
+22|羞辱|sio, rou|Le SIOUX et le ROU rougissent : NE TE LAISSE PAS HUMILIER.|xiūrǔ ≈ « sio-rou » ; « humilier » = 羞辱|侮辱 = insulter|别让人羞辱你。|别让人羞辱你|un bonnet d'âne
+23|扶正|fou, djeng|Le FOU redresse le ZHENG : REDRESSE LE TABLEAU.|fúzhèng ≈ « fou-djeng » ; « redresser » = 扶正|摆正 = mettre droit|把画扶正。|把画扶正|un cadre penché
+24|锁上铁链|souo, chang, tié, lienne|Le SO, le CHAMEAU, le TIÉ et le LIEN : LE PRISONNIER EST ENCHAÎNÉ.|suǒshang tiěliàn ≈ « souo-chang-tié-liène » ; « enchaîner » = 用铁链锁住|绑 = ligoter|囚犯被锁上铁链。|囚犯被锁上铁链|des chaînes
+25|泄露|sié, lo|La SIESTE fuit par le LOT : IL A DIVULGUÉ LE SECRET.|xièlù ≈ « sié-lo » ; « divulguer » = 泄露|透露 = révéler|他泄露了秘密。|他泄露了秘密|une fuite
+26|采访|tsaille, fang|La TSAILLE et le FANG tendent le micro : ELLE A INTERVIEWÉ LE MINISTRE.|cǎifǎng ≈ « tsaille-fang » ; « interviewer » = 采访|访问 = visiter|她采访了部长。|她采访了部长|un micro
+27|认成|renne, tcheng|Le RENNE prend un TCHENG pour un autre : JE L'AI CONFONDU AVEC SON FRÈRE.|rènchéng ≈ « renne-tcheng » ; « confondre avec » = 把……认成|搞混 = mélanger|我把他认成了他哥哥。|我把他认成了他哥哥|deux jumeaux
+28|滑雪|houa, sué|Le HOUA glisse sur le SUÉ blanc : TU SAIS SKIER ?|huáxuě ≈ « houa-sué » ; 滑 glisser + 雪 neige|滑冰 = patiner|你会滑雪吗？|你会滑雪吗|des skis
+29|伸展|chenne, djanne|La CHAÎNE et le DJANNE s'étirent : ÉTIRE TES JAMBES.|shēnzhǎn ≈ « chene-djane » ; « étirer » = 伸展 / 伸|拉伸 = s'étirer (sport)|伸展一下你的腿。|伸展一下你的腿|des jambes tendues
+30|产生|tchanne, cheng|Le CHANT et le CHÊNE donnent des fruits : LE PROJET GÉNÈRE DES PROFITS.|chǎnshēng ≈ « tchane-cheng » ; « générer » = 产生|带来 = apporter|这个项目产生利润。|这个项目产生利润|une pluie de pièces
+31|削皮|siao, pi|Le SIAMOIS épluche le PIPEAU : ÉPLUCHE LES POMMES DE TERRE.|xiāo pí ≈ « siao-pi » ; 削 éplucher + 皮 peau|剥 = décortiquer|给土豆削皮。|给土豆削皮|un économe
+32|用「你」称呼|yong, ni, tcheng, hou|Le YONG, le NID, le TCHENG et le HOU : ON PEUT SE TUTOYER ? (用「你」).|yòng nǐ chēnghu ≈ « yong-ni-tcheng-hou » ; « tutoyer » = 用你而不用您|称呼 = appeler|我们可以互相用「你」称呼吗？|我们可以互相用「你」称呼吗|deux mains qui se serrent
+33|割喉|gueu, ho|Le GUEU tranche le HO : LA GORGE TRANCHÉE.|gē hóu ≈ « gueu-ho » ; 割 trancher + 喉 gorge|砍 = taillader|被人割喉了。|被人割喉了|un couteau
+34|系|dji|Le GÉNIE noue la cravate : NOUE TA CRAVATE.|jì ≈ « dji » ; « nouer » = 系|打结 = faire un nœud|系好你的领带。|系好你的领带|un nœud|jì
+35|发火|fa, houo|Le FARE crache du HOUO : NE TE FOUS PAS EN ROGNE ! (doublon de formes_9 45).|fāhuǒ ≈ « fa-houo » ; doublon|生气 = se fâcher|别发火！|别发火|une marmite qui déborde
+36|打喷嚏|da, penne, ti|Le DAIM, la PENNE et le TI explosent : IL ÉTERNUE À CAUSE DU POLLEN.|dǎ pēntì ≈ « da-pene-ti » ; « éternuer » = 打喷嚏|咳嗽 = tousser|他因为花粉打喷嚏。|他因为花粉打喷嚏|un mouchoir
+37|愿意|yuanne, i|La YOURTE et le « I » d'accord : JE SUIS DISPOSÉ À T'AIDER (doublon de formes_10 25).|yuànyì ≈ « yuane-i » ; doublon|乐意 = volontiers|我愿意帮你。|我愿意帮你|une main tendue
+38|属于|chou, yu|Le CHOU et le YOUYOU étiquetés : CE LIVRE M'APPARTIENT (doublon de formes_4 91).|shǔyú ≈ « chou-yu » ; doublon|是……的 = être à|这本书属于我。|这本书属于我|un ex-libris
+39|越狱|yué, yu|Le YUÉ saute par-dessus le YU (« prison ») : LE PRISONNIER S'EST ÉVADÉ.|yuèyù ≈ « yué-yu » ; 越 franchir + 狱 prison|逃跑 = s'enfuir|囚犯越狱了。|囚犯越狱了|un mur escaladé
+40|造反|dzao, fanne|Le ZAO et le FAN brandissent les fourches : LE PEUPLE SE RÉVOLTE.|zàofǎn ≈ « dzao-fane » ; « se révolter » = 造反|反抗 = résister|人民造反了。|人民造反了|des fourches
+41|关心|gouanne, sine|Le GOUANE veille sur le SIGNE du cœur : IL SE PRÉOCCUPE DE SA SANTÉ.|guānxīn ≈ « gouane-sine » ; « se préoccuper de » = 关心|担心 = s'inquiéter|他很关心自己的健康。|他很关心自己的健康|un stéthoscope
+42|缩水|souo, chouei|Le SO rétrécit dans le CHOUETTE d'eau : MON PULL A RÉTRÉCI.|suōshuǐ ≈ « souo-chouei » ; 缩 rétrécir + 水 eau|变小 = devenir petit|我的毛衣缩水了。|我的毛衣缩水了|un pull minuscule
+43|舔|tienne|Le TIEN tire la langue : LE CHIEN LÈCHE LA GLACE.|tiǎn ≈ « tiène » ; « lécher » = 舔|吃 = manger|狗在舔冰淇淋。|狗在舔冰淇淋|une langue
+44|记|dji|Le GÉNIE grave dans sa tête : JE MÉMORISE LES MOTS.|jì ≈ « dji » ; « mémoriser » = 记 / 背|背 = apprendre par cœur|我在记单词。|我在记单词|des fiches
+45|弄皱|nong, djo|Le NONG froisse le JO (« ZHOU ») : NE FROISSE PAS TA CHEMISE.|nòngzhòu ≈ « nong-djo » ; 弄 faire + 皱 ridé|揉 = froisser (en boule)|别把衬衫弄皱了。|别把衬衫弄皱了|une chemise froissée
+46|热身|reu, chenne|Le REU (« RE ») chauffe la CHAÎNE : ÉCHAUFFE-TOI AVANT DE COURIR.|rèshēn ≈ « reu-chene » ; 热 chaud + 身 corps|准备活动 = échauffement|跑步前先热身。|跑步前先热身|des baskets
+47|织|djeu|Le GÉNIE aux aiguilles : ELLE TRICOTE UNE ÉCHARPE.|zhī ≈ « djeu » ; « tricoter » = 织|编织 = tisser|她在织一条围巾。|她在织一条围巾|des aiguilles à tricoter
+48|污染|ou, ranne|Le « OUH » et la RANNE noircissent l'air : LES VOITURES POLLUENT L'AIR.|wūrǎn ≈ « ou-rane » ; « polluer » = 污染|弄脏 = salir|汽车污染空气。|汽车污染空气|un pot d'échappement
+49|筹集|tcho, dji|Le TCHO et le GÉNIE ramassent : ILS RECUEILLENT DES FONDS.|chóují ≈ « tcho-dji » ; « recueillir (des fonds) » = 筹集|收集 = collecter|他们在筹集资金。|他们在筹集资金|une tirelire
+50|落到|louo, dao|Le LOTO tombe jusqu'au DAO : LA FAUTE RETOMBE SUR MOI.|luòdào ≈ « louo-dao » ; « retomber sur » = 落到……头上|怪 = blâmer|过错落到了我头上。|过错落到了我头上|un doigt accusateur
+51|扭伤|niou, chang|Le NIOU tord le CHAMEAU : JE ME SUIS FOULÉ LA CHEVILLE.|niǔshāng ≈ « niou-chang » ; 扭 tordre + 伤 blesser|崴 = se tordre (pied)|我扭伤了脚踝。|我扭伤了脚踝|une cheville bandée
+52|符合|fou, heu|Le FOU et le HEU s'emboîtent : ÇA CORRESPOND À CE QUE JE CHERCHE.|fúhé ≈ « fou-heu » ; « correspondre à » = 符合|相当于 = équivaloir|这符合我要找的。|这符合我要找的|des pièces de puzzle
+53|烤|kao|Le CAO rôtit à la broche : ON FAIT RÔTIR LE POULET.|kǎo ≈ « kao » ; « rôtir » = 烤|烧 = cuire au feu|我们在烤鸡。|我们在烤鸡|une broche
+54|解说|djié, chouo|Le JET et le CHOUchou au micro : IL COMMENTE LE MATCH.|jiěshuō ≈ « djié-chouo » ; « commenter (en direct) » = 解说|评论 = commenter (avis)|他在解说比赛。|他在解说比赛|un micro de stade
+55|带走|daille, dzo|Le DAIM et le ZO emmènent : EMPORTEZ-LE D'ICI !|dàizǒu ≈ « daille-dzo » ; « emporter » = 带走|拿走 = enlever|把他带走！|把他带走|une civière
+56|换台|houanne, taï|Le HOUANE change la TAÏE : ARRÊTE DE ZAPPER !|huàn tái ≈ « houane-taï » ; 换 changer + 台 chaîne|调台 = régler la chaîne|别老换台了！|别老换台了|une télécommande
+57|不一样|bou, i, yang|Le BOUc, le « I » et le YANG différents : LES PRIX VARIENT.|bù yíyàng ≈ « bou-i-yang » ; « varier » = 不一样 / 变化|变化 = changer|价格不一样。|价格不一样|une courbe en zigzag
+58|调到|diao, dao|Le DIABLO déplace au DAO : ILS L'ONT MUTÉ À MILAN (doublon de formes_6 77).|diàodào ≈ « diao-dao » ; doublon|调走 = muter|他们把他调到米兰了。|他们把他调到米兰了|une valise
+59|梳头|chou, to|Le CHOU peigne le TOTO : BROSSE-TOI LES CHEVEUX.|shū tóu ≈ « chou-to » ; 梳 peigner + 头 tête|梳子 = peigne|梳梳头。|梳梳头|un peigne
+60|逮住|daille, djou|Le DAIM attrape le JOUjou : LA POLICE L'A CHOPÉ.|dǎizhù ≈ « daille-djou » ; « choper » = 逮住|抓 = attraper|警察把他逮住了。|警察把他逮住了|des menottes|dǎizhù
+61|染|ranne|La RANNE trempe dans le roux : ELLE TEINT SES CHEVEUX EN ROUX.|rǎn ≈ « rane » ; « teindre » = 染|涂 = enduire|她把头发染成红色。|她把头发染成红色|un pinceau roux
+62|比得上|bi, deu, chang|La BILLE, le DEU et le CHAMEAU au même niveau : PERSONNE NE PEUT RIVALISER AVEC LUI.|bǐ de shàng ≈ « bi-deu-chang » ; « rivaliser » = 比得上|竞争 = concourir|没人比得上他。|没人比得上他|un podium
+63|进行|djine, sing|Le JEAN et le SINGE avancent : NOUS POUVONS PROCÉDER.|jìnxíng ≈ « djine-sing » ; « procéder » = 进行|开始 = commencer|我们可以进行了。|我们可以进行了|un feu vert
+64|降低|djiang, di|Le DJINN descend jusqu'au DIDI : ILS ONT DIMINUÉ LES PRIX DE DIX POUR CENT.|jiàngdī ≈ « djiang-di » ; « diminuer » = 降低|减少 = réduire|他们把价格降低了百分之十。|他们把价格降低了百分之十|une flèche descendante
+65|拥抱|yong, bao|Le YONG et le BAOBAB enlacés : IL L'ÉTREINT TENDREMENT.|yōngbào ≈ « yong-bao » ; « étreindre » = 拥抱|抱 = serrer dans ses bras|他温柔地拥抱她。|他温柔地拥抱她|deux bras
+66|改短|gaille, douanne|Le GAILLard raccourcit la DOUANE : IL FAUT RACCOURCIR LA JUPE.|gǎi duǎn ≈ « gaille-douane » ; 改 modifier + 短 court|剪短 = couper court|裙子得改短。|裙子得改短|des ciseaux
+67|瞎混|sia, houenne|Le SIAMOIS aveugle traîne avec le HOUENNE : ON A GLANDÉ TOUT L'APRÈS-MIDI.|xiā hùn ≈ « sia-houene » ; « glander » = 瞎混 / 混日子|闲着 = être oisif|我们瞎混了一下午。|我们瞎混了一下午|un canapé
+68|装修|djouang, sio|Le DJOUANG et le SIOUX repeignent : ILS RÉNOVENT L'APPARTEMENT.|zhuāngxiū ≈ « djouang-sio » ; « rénover » = 装修|翻新 = remettre à neuf|他们在装修公寓。|他们在装修公寓|un rouleau à peinture
+69|看到了|kanne, dao, leu|Le CANON aperçoit et crie « LE ! » : J'AI ENTREVU UNE SOLUTION.|kàndào le ≈ « kane-dao-leu » ; « entrevoir » = 看到了（一点）|隐约 = vaguement|我看到了一个解决办法。|我看到了一个解决办法|une lueur
+70|怪|gouaille|Le GOUAILLE pointe les autres : IL REJETTE TOUJOURS LA FAUTE SUR LES AUTRES.|guài ≈ « gouaille » ; « rejeter la faute sur » = 怪|推卸 = se décharger|他总是怪别人。|他总是怪别人|un doigt accusateur
+71|赖到|laï, dao|La LAIE pose tout au DAO : ILS VONT TOUT ME METTRE SUR LE DOS.|lài dào ≈ « laï-dao » ; « mettre sur le dos » = 赖到……头上|怪 = blâmer|他们会把一切都赖到我头上。|他们会把一切都赖到我头上|un sac à dos
+72|留级|lio, dji|Le LION reste au même GÉNIE de classe : IL A REDOUBLÉ SA TROISIÈME.|liújí ≈ « lio-dji » ; 留 rester + 级 niveau|重读 = refaire|他初三留级了。|他初三留级了|un cartable
+73|抽泣|tcho, tchi|Le TCHO et le TCHI hoquettent : L'ENFANT SANGLOTE DANS SON LIT.|chōuqì ≈ « tcho-tchi » ; « sangloter » = 抽泣|哭 = pleurer|孩子在床上抽泣。|孩子在床上抽泣|un oreiller mouillé
+74|考虑|kao, lu|Le CAO et le LU songeurs : JE SONGE À DÉMÉNAGER.|kǎolǜ ≈ « kao-lu » ; « songer à » = 考虑|打算 = projeter|我在考虑搬家。|我在考虑搬家|des cartons
+75|绣|sio|Le SIOUX à l'aiguille : ELLE BRODE UN MOUCHOIR.|xiù ≈ « sio » ; « broder » = 绣|织 = tricoter|她在绣一块手帕。|她在绣一块手帕|un cerceau à broder
+76|称赞|tcheng, dzanne|Le TCHENG et le ZANE applaudissent : IL A FAIT L'ÉLOGE DE SON ÉQUIPE.|chēngzàn ≈ « tcheng-dzane » ; « faire l'éloge » = 称赞|夸 = louer|他称赞了他的团队。|他称赞了他的团队|une couronne de laurier
+77|撕咬|seu, yao|Le SEU et le YAOURT aux crocs : LE LOUP DÉCHIQUETTE LA BREBIS.|sīyǎo ≈ « seu-yao » ; 撕 déchirer + 咬 mordre|吞 = avaler|狼在撕咬那只母羊。|狼在撕咬那只母羊|des crocs
+78|脱毛|touo, mao|Le TOTO arrache le MAO : ELLE S'ÉPILE LES JAMBES.|tuōmáo ≈ « touo-mao » ; 脱 ôter + 毛 poil|刮 = raser|她在给腿脱毛。|她在给腿脱毛|une bande de cire
+79|忍住|renne, djou|Le RENNE retient le JOUjou : IL A RÉPRIMÉ UN SOURIRE.|rěnzhù ≈ « renne-djou » ; « réprimer (se retenir) » = 忍住|压制 = réprimer (politique)|他忍住了笑。|他忍住了笑|une bouche pincée
+80|蒸发|djeng, fa|Le ZHENG et le FARE s'évaporent : L'EAU S'ÉVAPORE AU SOLEIL.|zhēngfā ≈ « djeng-fa » ; « s'évaporer » = 蒸发|干 = sécher|水在阳光下蒸发。|水在阳光下蒸发|de la vapeur
+81|装饰|djouang, cheu|Le DJOUANG et la CHAISE décorés : C'EST JOLIMENT DÉCORÉ.|zhuāngshì ≈ « djouang-chi » ; « décorer » = 装饰|布置 = aménager|装饰得很漂亮。|装饰得很漂亮|une guirlande
+82|压制|ya, djeu|Le YAK écrase le GÉNIE : IL A RÉPRIMÉ UN SOURIRE (réprimer, doublon de 79).|yāzhì ≈ « ya-djeu » ; « réprimer » = 压制|镇压 = réprimer (révolte)|他压制住了笑容。|他压制住了笑容|une main qui presse
+83|溢出来|i, tchou, laï|Le « I », le TCHOU et la LAIE débordent : LE VASE DÉBORDE.|yì chūlai ≈ « i-tchou-laï » ; « déborder » = 溢出来|流出 = couler dehors|花瓶里的水溢出来了。|花瓶里的水溢出来了|un vase qui déborde
+84|夺回|douo, houei|Le DODO ramène le boomerang : JE TROUVERAI UN MOYEN DE LE REPRENDRE !|duóhuí ≈ « douo-houei » ; « reconquérir » = 夺回|收复 = reconquérir (territoire)|我会想办法把它夺回来！|把它夺回来|un drapeau planté
+85|牛|niou|Le NIOU (« bœuf ») assure : CE GROUPE DÉCHIRE ! (familier).|niú ≈ « niou » ; « déchirer (être génial) » = 太牛了|厉害 = fort|这个乐队太牛了！|这个乐队太牛了|une corne de bœuf
+86|大火|da, houo|Le DAIM met le HOUO (feu) au box-office : CE FILM VA TOUT CASSER !|dàhuǒ ≈ « da-houo » ; « tout casser (succès) » = 大火|爆红 = faire un tabac|这部电影会大火！|这部电影会大火|une flamme
+87|淡化|danne, houa|Le DANDY dilue le HOUA : NE MINIMISE PAS LE PROBLÈME.|dànhuà ≈ « dane-houa » ; « minimiser » = 淡化|轻描淡写 = traiter à la légère|别淡化这个问题。|别淡化这个问题|une gomme
+88|结巴|djié, ba|Le JET et le BAmbou butent : IL BÉGAIE QUAND IL A PEUR.|jiēba ≈ « djié-ba » ; « bégayer » = 结巴|口吃 = bégaiement|他一害怕就结巴。|他一害怕就结巴|une bulle hachée
+89|欢呼|houanne, hou|Le HOUANE et le HOU hurlent de joie : LA FOULE ACCLAME LE CHAMPION.|huānhū ≈ « houane-hou » ; « acclamer » = 欢呼|鼓掌 = applaudir|人群为冠军欢呼。|人群为冠军欢呼|des bras levés
+90|弯|ouanne|Le OUANNE plie la tige : COURBE LA TIGE DOUCEMENT.|wān ≈ « ouane » ; « courber » = 弯|折 = plier|轻轻把茎弯一下。|轻轻把茎弯一下|une tige courbée
+91|审查|chenne, tcha|La CHAÎNE et le TCHA aux ciseaux : LE FILM A ÉTÉ CENSURÉ.|shěnchá ≈ « chene-tcha » ; « censurer » = 审查 / 删|禁 = interdire|这部电影被审查了。|这部电影被审查了|des ciseaux noirs
+92|取决于|tchu, djué, yu|Le TCHU, le JUGE et le YOUYOU sur la balance : ÇA DÉPEND DE TOI.|qǔjué yú ≈ « tchu-djué-yu » ; « dépendre de » = 取决于|看 = dépendre de (oral)|这取决于你。|这取决于你|une balance
+93|指定|djeu, ding|Un GÉNIE désigne le DINGO : ON L'A DÉSIGNÉ COMME CHEF.|zhǐdìng ≈ « djeu-ding » ; « désigner » = 指定|任命 = nommer|大家指定他当头儿。|大家指定他当头儿|un doigt pointé
+94|退缩|touei, souo|Le TOUEI et le SO reculent : ON NE PEUT PLUS RECULER.|tuìsuō ≈ « touei-souo » ; « reculer (renoncer) » = 退缩|后退 = reculer (pas)|我们不能再退缩了。|我们不能再退缩了|un mur dans le dos
+95|临阵退缩|line, djenne, touei, souo|Le LINGE, le GENOU, le TOUEI et le SO fuient au dernier moment : AU DERNIER MOMENT, IL S'EST DÉFILÉ.|línzhèn tuìsuō ≈ « line-djene-touei-souo » ; « se défiler » = 临阵退缩|溜 = s'éclipser|到最后关头，他临阵退缩了。|他临阵退缩了|une porte dérobée
+96|扭|niou|Le NIOU tord la cheville : JE ME SUIS TORDU LA CHEVILLE.|niǔ ≈ « niou » ; « tordre » = 扭|拧 = essorer|我扭了脚踝。|我扭了脚踝|une cheville
+97|发抖|fa, do|Le FARE tremble avec le DOdo : JE FRISSONNE DE FROID.|fādǒu ≈ « fa-do » ; « frissonner » = 发抖|颤抖 = trembler|我冷得发抖。|我冷得发抖|des dents qui claquent
+98|冷笑|leng, siao|Le LENG (« froid ») et le SIAMOIS ricanent : ILS RICANENT DERRIÈRE LUI.|lěngxiào ≈ « leng-siao » ; « ricaner » = 冷笑|偷笑 = rire sous cape|他们在他背后冷笑。|他们在他背后冷笑|un rictus
+99|加糖|djia, tang|Le JIA ajoute du TANG (« sucre ») : TU SUCRES TON CAFÉ ?|jiā táng ≈ « djia-tang » ; 加 ajouter + 糖 sucre|放糖 = mettre du sucre|你咖啡加糖吗？|你咖啡加糖吗|un morceau de sucre
