@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" fill="#2a1c1a"/>
+  <!-- sol -->
+  <rect x="0" y="430" width="512" height="82" fill="#3a2622"/>
+  <!-- drapeau chinois sur mât -->
+  <line x1="256" y1="52" x2="256" y2="150" stroke="#c9a24a" stroke-width="8" stroke-linecap="round"/>
+  <g transform="translate(260 56)">
+    <rect x="0" y="0" width="102" height="58" fill="#de2910"/>
+    <polygon fill="#ffde00" points="20,9 23.5,19.2 34.3,19.4 25.7,25.9 28.8,36.2 20,30 11.2,36.2 14.3,25.9 5.7,19.4 16.5,19.2"/>
+    <g fill="#ffde00">
+      <circle cx="40" cy="7" r="2.6"/><circle cx="46" cy="14" r="2.6"/><circle cx="46" cy="24" r="2.6"/><circle cx="40" cy="31" r="2.6"/>
+    </g>
+  </g>
+  <!-- cerveau en coupole -->
+  <g>
+    <path d="M132 232 C120 184 158 142 206 148 C220 124 252 120 256 142 C260 120 292 124 306 148 C354 142 392 184 380 232 Z" fill="#e58fb2"/>
+    <line x1="256" y1="142" x2="256" y2="232" stroke="#a9557c" stroke-width="7"/>
+    <path d="M176 208 C186 186 210 190 212 172 M158 224 C168 214 186 220 192 204 M226 224 C230 206 242 202 238 186" fill="none" stroke="#a9557c" stroke-width="7" stroke-linecap="round"/>
+    <path d="M336 208 C326 186 302 190 300 172 M354 224 C344 214 326 220 320 204 M286 224 C282 206 270 202 274 186" fill="none" stroke="#a9557c" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <!-- toit à avant-toits relevés -->
+  <path d="M70 262 Q96 266 112 240 L400 240 Q416 266 442 262 L420 280 L92 280 Z" fill="#1f5f4a"/>
+  <path d="M92 280 L420 280 L412 290 L100 290 Z" fill="#c9a24a"/>
+  <!-- poutre rouge sous le toit -->
+  <rect x="112" y="290" width="288" height="14" fill="#a8261c"/>
+  <!-- colonnes rouges -->
+  <g fill="#c7302a">
+    <rect x="124" y="304" width="28" height="104"/><rect x="192" y="304" width="28" height="104"/>
+    <rect x="292" y="304" width="28" height="104"/><rect x="360" y="304" width="28" height="104"/>
+  </g>
+  <g fill="#c9a24a">
+    <rect x="118" y="304" width="40" height="6"/><rect x="186" y="304" width="40" height="6"/><rect x="286" y="304" width="40" height="6"/><rect x="354" y="304" width="40" height="6"/>
+  </g>
+  <!-- porte (lune) -->
+  <circle cx="256" cy="360" r="34" fill="#7a1c14"/>
+  <rect x="222" y="360" width="68" height="48" fill="#7a1c14"/>
+  <circle cx="256" cy="360" r="34" fill="none" stroke="#c9a24a" stroke-width="4"/>
+  <!-- marches -->
+  <rect x="86" y="408" width="340" height="12" fill="#d9c3a4"/>
+  <rect x="72" y="420" width="368" height="12" fill="#c6ad8a"/>
+</svg>

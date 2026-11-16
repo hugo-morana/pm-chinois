@@ -62,9 +62,9 @@ if 'id="pmdata"' not in s:
     i = s.index('"use strict";')
     j = s.rfind("<script", 0, i)
     s = s[:j] + '<script type="application/json" id="pmdata">' + data.replace("</", "<\\/") + "</script>\n" + s[j:]
-# liens externes de l'appli web (manifest, icônes) inutiles dans l'artifact
-s = re.sub(r'<link rel="manifest"[^>]*>', "", s)
-s = re.sub(r'<link rel="(apple-touch-icon|icon)"[^>]*>', "", s)
+# icônes et manifest du palais chinois
+if 'rel="manifest"' not in s:
+    s = s.replace("<title>", '<link rel="apple-touch-icon" href="apple-touch-icon.png">\n<link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">\n<link rel="manifest" href="manifest.json">\n<meta name="theme-color" content="#2a1c1a">\n<title>', 1)
 open(f"{OUT}/index.html", "w", encoding="utf8").write(s)
 
 # --- sons français utilisés

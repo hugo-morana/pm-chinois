@@ -1,0 +1,12 @@
+{
+  "name": "Palais du chinois · 汉语宫",
+  "short_name": "汉语宫",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#2a1c1a",
+  "theme_color": "#2a1c1a",
+  "icons": [
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
