@@ -62,6 +62,37 @@ NEUTRAL_EXTRA = {"认识": ["rèn","shi"], "意思": ["yì","si"], "什么": ["s
     "血": ["xiě"], "得": None, "招呼": ["zhāo","hu"], "窗户": ["chuāng","hu"], "钥匙": ["yào","shi"], "衣裳": ["yī","shang"], "打扮": ["dǎ","ban"], "商量": ["shāng","liang"], "认得": ["rèn","de"], "时候儿": ["shí","hour"], "怎么样": ["zěn","me","yàng"], "为什么": ["wèi","shén","me"], "那么": ["nà","me"], "这么多": ["zhè","me","duō"], "没关系": ["méi","guān","xi"], "对不起": ["duì","bu","qǐ"], "看见": ["kàn","jiàn"], "听见": ["tīng","jiàn"], "回头": ["huí","tóu"], "姑娘们": ["gū","niang","men"], "亲戚": ["qīn","qi"], "暖和": ["nuǎn","huo"], "行李": ["xíng","li"], "篮子": ["lán","zi"], "裙子": ["qún","zi"], "鞋子": ["xié","zi"], "盘子": ["pán","zi"], "嗓子": ["sǎng","zi"], "屋子": ["wū","zi"], "一静": ["yi","jìng"], "待着": ["dāi","zhe"], "聊聊": ["liáo","liao"], "瞧瞧": ["qiáo","qiao"], "黄历": ["huáng","li"], "二选一": ["èr","xuǎn","yī"], "结为": ["jié","wéi"], "眼镜": ["yǎn","jìng"], "一下子": ["yí","xià","zi"], "老黄历": ["lǎo","huáng","li"], "擤擤": ["xǐng","xing"], "莎士比亚": ["Shā","shì","bǐ","yà"], "冒昧": ["mào","mèi"], "马马虎虎": ["mǎ","mǎ","hū","hū"], "清清楚楚": ["qīng","qīng","chǔ","chǔ"], "日记": ["rì","jì"], "盘子": ["pán","zi"], "爽歪歪": ["shuǎng","wāi","wāi"], "啥": ["shá"], "快点儿": ["kuài","diǎnr"], "学生": ["xué","sheng"], "老实": ["lǎo","shi"], "了不起": ["liǎo","bu","qǐ"], "懒得": ["lǎn","de"], "玛丽亚": ["Mǎ","lì","yà"], "好笑": ["hǎo","xiào"], "好觉": ["hǎo","jiào"], "意识": ["yì","shi"], "圣诞": ["Shèng","dàn"], "聚聚": ["jù","ju"], "好玩": ["hǎo","wánr"], "罢了": ["bà","le"], "里昂": ["Lǐ","'áng"], "喂": ["wèi"], "在乎": ["zài","hu"], "记不起来": ["jì","bu","qǐ","lai"], "听不清": ["tīng","bu","qīng"], "等着": ["děng","zhe"], "说起来": ["shuō","qi","lai"], "做起来": ["zuò","qi","lai"], "看上去": ["kàn","shang","qu"], "没事儿": ["méi","shìr"], "多长时间": ["duō","cháng","shí","jiān"], "听着": ["tīng","zhe"], "门儿": ["ménr"], "去不了": ["qù","bu","liǎo"], "哦": ["ò"], "晚安": ["wǎn'ān"], "凑合": ["còu","he"], "没门儿": ["méi","ménr"], "感觉": ["gǎn","jué"], "嗯": ["ǹg"], "天啊": ["tiān","a"], "看看": ["kàn","kan"], "待会儿": ["dāi","huìr"], "看着办": ["kàn","zhe","bàn"], "说了算": ["shuō","le","suàn"], "天哪": ["tiān","na"], "帮帮": ["bāng","bang"], "在不在": ["zài","bu","zài"], "说说": ["shuō","shuo"], "偶尔": ["ǒu","'ěr"], "和气": ["hé","qi"], "正经": ["zhèng","jing"], "星期二": ["xīng","qī","'èr"], "炸": ["zhá"], "进行曲": ["jìn","xíng","qǔ"], "兄弟": ["xiōng","di"], "兄弟般": ["xiōng","di","bān"], "罪恶": ["zuì","'è"], "固执": ["gù","zhi"], "尽力而为": ["jìn","lì","'ér","wéi"], "女儿": ["nǚ","'ér"], "海岸": ["hǎi","'àn"], "大方": ["dà","fang"], "结实": ["jiē","shi"], "正当": ["zhèng","dàng"], "十二": ["shí","'èr"], "恶心": ["ě","xin"], "心里": ["xīn","li"], "规矩": ["guī","ju"], "待在家里": ["dāi","zài","jiā","li"], "家里": ["jiā","li"], "待在": ["dāi","zài"], "本案": ["běn","'àn"], "找不到": ["zhǎo","bu","dào"], "第二": ["dì","'èr"], "骄傲": ["jiāo","'ào"], "活泼": ["huó","po"], "老婆": ["lǎo","po"], "屁股": ["pì","gu"], "挪挪": ["nuó","nuo"], "胳膊": ["gē","bo"], "头发": ["tóu","fa"], "叔叔": ["shū","shu"], "找找": ["zhǎo","zhao"], "长": ["cháng"], "长得": ["zhǎng","de"], "好长": ["hǎo","cháng"], "太长": ["tài","cháng"], "脏": ["zāng"], "好脏": ["hǎo","zāng"], "亲爱": ["qīn","'ài"], "可爱": ["kě","'ài"], "打发": ["dǎ","fa"], "味道": ["wèi","dao"], "打不开": ["dǎ","bu","kāi"], "老老实实": ["lǎo","lǎo","shí","shí"], "我个人": ["wǒ","gè","rén"], "慢慢地": ["màn","màn","de"], "还是": ["hái","shi"], "这么点儿": ["zhè","me","diǎnr"], "不得不": ["bù","dé","bù"], "会不会": ["huì","bu","huì"], "要不": ["yào","bù"], "喜不喜欢": ["xǐ","bu","xǐ","huan"], "一起来": ["yì","qǐ","lái"], "谁": ["shéi"], "想不想": ["xiǎng","bu","xiǎng"], "来不来": ["lái","bu","lái"], "下不下": ["xià","bu","xià"], "出不出": ["chū","bu","chū"], "有没有": ["yǒu","mei","yǒu"], "大不了": ["dà","bu","liǎo"], "下面": ["xià","mian"], "里面": ["lǐ","mian"], "后面": ["hòu","mian"], "前面": ["qián","mian"], "外面": ["wài","mian"], "上面": ["shàng","mian"], "对面": ["duì","miàn"], "底下": ["dǐ","xia"], "顶上": ["dǐng","shang"], "右边": ["yòu","bian"], "左边": ["zuǒ","bian"], "那边": ["nà","biān"], "这样": ["zhè","yàng"], "那样": ["nà","yàng"], "什么时候": ["shén","me","shí","hou"], "有时候": ["yǒu","shí","hou"], "看上去": ["kàn","shang","qu"], "看起来": ["kàn","qi","lai"], "已经": ["yǐ","jīng"], "觉得": ["jué","de"],
 }
 
+# Affichage paramétrique : les cases à remplir entre crochets ([某人], [动词], [句子]…), le son garde « it »
+# slots_zh.json : nature de chaque « … » (room:n -> [mot, [étiquettes]] ; null = hésitation, pas une case)
+SLOTS = json.load(open(os.path.join(HERE, "slots_zh.json")))
+LAB_PY = {"某人": "mǒurén", "某事": "mǒushì", "某物": "mǒuwù", "某处": "mǒuchù", "某地": "mǒudì", "形容词": "xíngróngcí",
+          "动词": "dòngcí", "句子": "jùzi", "名词": "míngcí", "语言": "yǔyán", "数字": "shùzì", "时间": "shíjiān", "日期": "rìqī",
+          "国家": "guójiā", "名字": "míngzi", "补语": "bǔyǔ", "副词": "fùcí"}
+SLOT_ZH = r"某人|某事|某物|某处|某地|形容词|动词|adj\./verbe|adj\.|verbe|état|résultat|(?<![A-Za-z])V(?![A-Za-z])"
+SLOT_PY = r"mǒurén|mǒushì|mǒuwù|mǒuchù|mǒudì|xíngróngcí|dòngcí|adj\./verbe|adj\.|verbe|état|résultat|(?<![A-Za-z])V(?=bù)|(?<=bù)V(?![A-Za-z])"
+def brk(it, pr, key):
+    a, b = re.findall(SLOT_ZH, it), re.findall(SLOT_PY, pr)
+    if [LAB_PY.get(t, t) for t in a] != b:
+        raise SystemExit(f"crochets : {it} / {pr}")
+    n = len(re.findall("…+", it))
+    if n != len(re.findall("…+", pr)):
+        raise SystemExit(f"… pinyin : {it} / {pr}")
+    lab = None
+    if n:
+        if key not in SLOTS or SLOTS[key][0] != it:
+            raise SystemExit(f"slots_zh.json à refaire : {key} {it}")
+        lab = SLOTS[key][1]
+    if not a and not lab:
+        return None
+    itd = re.sub(SLOT_ZH, r"[\g<0>]", it)
+    pd = re.sub(SLOT_PY, r"[\g<0>]", pr)
+    if lab:
+        g = iter(lab); itd = re.sub("…+", lambda m: "[" + next(g) + "]", itd)
+        g = iter(lab); pd = re.sub("…+", lambda m: "[" + LAB_PY[next(g)] + "]", pd)
+    pd = re.sub(r"(?<=[^\s\[(+/])\[", " [", pd)
+    pd = re.sub(r"\](?=[^\s\]),.?!？。，)+/:;])", "] ", pd)
+    return itd, pd
+
 def syllables(s):
     """syllabes (pinyin à tons) par mot jieba, avec tons neutres usuels et sandhi de 一 / 不"""
     words = []
@@ -280,6 +311,9 @@ def main():
             else:
                 y["pr"] = py_compact(z["it"])
             y["api"] = ipa_of(z["it"]) if han(z["it"]) else ""
+            bd = brk(y["it"], y["pr"], f"{rid}:{i}")
+            if bd:
+                y["itd"], y["prd"] = bd
             y["mc"], y["sc"], y["de"], y["fo"] = z["mc"], z["sc"], z["de"], z["fo"]
             y["eit"], y["eim"] = z["eit"], z["eim"]
             y["epy"] = py_of(z["eit"])
