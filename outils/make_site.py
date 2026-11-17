@@ -111,5 +111,11 @@ for k, v in DEC.items():
     s, n = re.subn(r"(\n  " + k + r":\s+)\{[^\n]*?\}(,?\n)", lambda m: m.group(1) + v + m.group(2), s, count=1)
     if not n:
         sys.exit("décor introuvable " + k)
+# pinyin paramétrique : [mǒurén]… affiché, le son garde x.it
+for a, b in [('<span class="pr">${esc(x.pr)}</span></div>', '<span class="pr">${escP(x.prd || x.pr)}</span></div>'),
+             ('<span class="pr">${esc(x.pr)}</span></span>', '<span class="pr">${escP(x.prd || x.pr)}</span></span>')]:
+    if s.count(a) != 1:
+        sys.exit("pinyin introuvable " + a)
+    s = s.replace(a, b)
 open(f"{OUT}/index.html", "w", encoding="utf8").write(s)
 print("décor chinois appliqué")
