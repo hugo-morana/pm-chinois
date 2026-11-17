@@ -1,0 +1,40 @@
+-- Table de progression : une ligne par utilisateur et par clé (srs_noms, srs_verbes…, historique)
+create table if not exists public.progress (
+  user_id uuid not null default auth.uid() references auth.users on delete cascade,
+  key text not null,
+  data jsonb not null default '{}'::jsonb,
+  updated_at timestamptz not null default now(),
+  primary key (user_id, key)
+);
+
+-- Chacun ne voit et ne modifie que ses propres lignes
+alter table public.progress enable row level security;
+
+create policy "lire sa progression" on public.progress
+  for select to authenticated using (auth.uid() = user_id);
+create policy "créer sa progression" on public.progress
+  for insert to authenticated with check (auth.uid() = user_id);
+create policy "modifier sa progression" on public.progress
+  for update to authenticated using (auth.uid() = user_id) with check (auth.uid() = user_id);
+create policy "supprimer sa progression" on public.progress
+  for delete to authenticated using (auth.uid() = user_id);
+
+-- Suppression de son propre compte depuis l'appli (Réglages → Compte → Supprimer mon compte).
+-- La suppression de l'utilisateur efface aussi ses lignes de progression (on delete cascade).
+create or replace function public.delete_my_account()
+returns void
+language plpgsql
+security definer
+set search_path = public, auth
+as $$
+begin
+  if auth.uid() is null then
+    raise exception 'non connecté';
+  end if;
+  delete from public.progress where user_id = auth.uid();
+  delete from auth.users where id = auth.uid();
+end;
+$$;
+
+revoke all on function public.delete_my_account() from public, anon;
+grant execute on function public.delete_my_account() to authenticated;

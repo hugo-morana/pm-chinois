@@ -65,6 +65,22 @@ if 'id="pmdata"' not in s:
 # icônes et manifest du palais chinois
 if 'rel="manifest"' not in s:
     s = s.replace("<title>", '<link rel="apple-touch-icon" href="apple-touch-icon.png">\n<link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">\n<link rel="manifest" href="manifest.json">\n<meta name="theme-color" content="#2a1c1a">\n<title>', 1)
+# --- section « Compte » des Réglages (Supabase : inscription, connexion, suppression…)
+def _rep(a, b, n=1):
+    global s
+    assert s.count(a) >= 1, a[:60]
+    s = s.replace(a, b, n)
+_a = s.index("/* Fenêtre « Compte » (version GitHub Pages) */")
+_b = s.index("\n", s.index("async function sbOut()")) + 1
+s = s[:_a] + open("/home/claude/zh/compte.js", encoding="utf8").read() + s[_b:]
+_rep('const SBCFG = window.PM_CONFIG || {};', 'const SBCFG = Object.assign({}, window.PM_CONFIG || {}, ls.get("sbcfg", {}));')
+_rep('.select("data").eq("key", key)', '.select("data").eq("key", SBK(key))')
+_rep('upsert({ user_id: store.uid, key, data,', 'upsert({ user_id: store.uid, key: SBK(key), data,')
+_rep('toast("Progression synchronisée avec votre compte"); }', 'toast("Progression synchronisée avec votre compte"); renderAccount(); }')
+_a = s.index('  $("#accountBtn").onclick')
+_b = s.index("\n", s.index('$("#accountSheet").addEventListener("keydown"')) + 1
+s = s[:_a] + '  $("#accountBtn").onclick = () => { setView("reglages"); setTimeout(() => $("#compteSec").scrollIntoView({ behavior: "smooth", block: "start" }), 60); };\n  wireAccount();\n' + s[_b:]
+_rep('<h1>Réglages</h1>\n  <h2 style="margin:4px 0 0">Palais</h2>', '<h1>Réglages</h1>\n  <h2 id="compteSec" style="margin:4px 0 0">Compte</h2>\n  <div id="acctSet" style="display:flex;flex-direction:column;gap:12px;margin-top:8px"></div>\n  <h2 style="margin:18px 0 0">Palais</h2>')
 open(f"{OUT}/index.html", "w", encoding="utf8").write(s)
 
 # --- sons français utilisés
